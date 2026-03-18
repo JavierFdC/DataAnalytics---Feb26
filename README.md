@@ -12,7 +12,7 @@ El curso está organizado en **8 bloques temáticos**, con un total aproximado d
 
 ---
 
-## BLOQUE 1 — Fundamentos de Data Analytics
+## BLOQUE 1 - Fundamentos de Data Analytics
 
 - Fundamentos y Ciclo de Vida del Data Analytics  
 - Variables, Dimensiones, Medidas y KPIs  
@@ -38,7 +38,9 @@ El curso está organizado en **8 bloques temáticos**, con un total aproximado d
 - Identificación de patrones y correlaciones  
 - Detección de outliers y anomalías  
 - Visualización exploratoria con Python (matplotlib, seaborn)  
-- Integración de Python con SQL para análisis  
+- Integración de Python con SQL para análisis
+- EDA avanzado: análisis multivariable y segmentación
+- Feature Engineering y preparación analítica 
 
 ---
 
