@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la /c/Users/javier.fernandezd/Documents/ 2>&1 | head -30)",
+      "Read(//c/Users/javier.fernandezd/Documents//**)"
+    ]
+  }
+}

@@ -40,12 +40,15 @@ El curso está organizado en **8 bloques temáticos**, con un total aproximado d
 - Visualización exploratoria con Python (matplotlib, seaborn)  
 - Integración de Python con SQL para análisis
 - Mini proyecto de IA sencilla en Python
-- Feature Engineering y preparación analítica 
+- El ecosistema del dato
 
 ---
 
 ## BLOQUE 4 — Excel y Dashboarding
 
+> A lo largo de este bloque se integra **Microsoft 365 Copilot** como herramienta de apoyo en cada sesión.
+
+- Introducción a Microsoft 365 Copilot en Excel: capacidades y prompting efectivo  
 - Excel: transformación y limpieza avanzada  
 - Excel: análisis de datos con tablas dinámicas  
 - Excel: gráficos básicos y gráficos avanzados  
