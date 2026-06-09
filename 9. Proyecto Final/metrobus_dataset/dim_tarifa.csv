@@ -1,0 +1,10 @@
+tarifa_id,tipo_titulo,categoria,precio_eur,es_abono,bonificado
+1,Ordinario,Adulto,1.5,False,False
+2,Bono 10 Viajes,Adulto,0.97,True,False
+3,Abono Mensual,Adulto,0.6,True,False
+4,Abono Joven,Joven,0.4,True,True
+5,Abono Jubilado,Jubilado,0.25,True,True
+6,Gratuito Social,Social,0.0,True,True
+7,Turistico 1 dia,Turista,5.0,False,False
+8,Turistico 3 dias,Turista,10.0,False,False
+9,Escolar,Escolar,0.2,True,True

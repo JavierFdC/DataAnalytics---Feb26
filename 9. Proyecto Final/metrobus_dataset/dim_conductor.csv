@@ -1,0 +1,31 @@
+conductor_id,nombre,anno_incorporacion,antiguedad_anos,turno_habitual,depot_id,formacion,licencia_tipo,activo,ausencias_2024
+1,Carlos Garcia,2009,15.0,Partido,3,Basica,D,True,14
+2,Maria Lopez,2013,11.0,Noche (22-06h),1,Basica,D,True,9
+3,Juan Martinez,2008,16.0,Manana (06-14h),2,Completa,D+E,True,6
+4,Ana Fernandez,2007,17.0,manana,1,Basica + Articulado,D,True,1
+5,Pedro Sanchez,2016,8.0,Partido,3,Basica + Articulado,D,True,10
+6,Laura Gonzalez,2005,19.0,Partido,2,Basica,D+E,True,11
+7,Miguel Rodriguez,2019,5.0,Tarde (14-22h),2,Basica + Electrico,D+E,True,15
+8,Isabel Perez,2019,5.0,Partido,3,Basica + Articulado,D+E,True,7
+9,David Jimenez,2007,17.0,Noche (22-06h),2,Basica + Electrico,D+E,True,12
+10,Carmen Ruiz,2015,,Manana (06-14h),2,Basica + Articulado,D,True,15
+11,Antonio Moreno,2011,13.0,Noche (22-06h),2,Basica + Articulado,D+E,True,8
+12,Lucia Alvarez,2022,2.0,Manana (06-14h),3,Basica + Electrico,D,True,7
+13,Francisco Torres,2018,6.0,Partido,3,Basica + Electrico,D+E,True,15
+14,Sara Romero,2019,5.0,Manana (06-14h),1,Basica + Articulado,D,True,12
+15,Jose Diaz,2012,12.0,Noche (22-06h),3,Basica + Articulado,D+E,True,11
+16,Marta Hernandez,2018,6.0,Noche (22-06h),2,Completa,D+E,True,9
+17,Manuel Vazquez,2013,11.0,Tarde (14-22h),1,Basica + Electrico,D+E,True,3
+18,Cristina Morales,2022,2.0,Tarde (14-22h),1,Basica + Electrico,D+E,True,8
+19,Jorge Alonso,2023,1.0,Noche (22-06h),1,Basica + Electrico,D+E,True,7
+20,Elena Guerrero,2016,8.0,Tarde (14-22h),2,Basica,D,True,8
+21,Alejandro Castro,2006,18.0,Manana (06-14h),3,Basica + Articulado,D,True,15
+22,Beatriz Ortega,2008,16.0,Manana (06-14h),3,Basica + Articulado,D+E,True,15
+23,Raul Ramos,2019,5.0,Noche (22-06h),1,Basica,D+E,True,15
+24,Patricia Serrano,2008,16.0,Manana (06-14h),2,Completa,D,True,1
+25,Roberto Molina,2009,15.0,Tarde (14-22h),3,Basica + Articulado,D,True,7
+26,Nuria Medina,2008,16.0,Partido,3,Basica + Electrico,D+E,True,14
+27,Victor Blanco,2019,5.0,Noche (22-06h),3,Completa,D+E,True,1
+28,Silvia Delgado,2008,16.0,Tarde (14-22h),3,Basica + Electrico,D+E,True,2
+29,Eduardo Nunez,2010,14.0,Tarde (14-22h),1,Basica,D,False,0
+30,Pilar Dominguez,2018,6.0,Partido,3,Completa,D+E,False,1

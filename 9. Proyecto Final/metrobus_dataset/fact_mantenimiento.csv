@@ -1,0 +1,877 @@
+mantenimiento_id,vehiculo_id,depot_id,fecha_entrada,fecha_salida,anno,mes,tipo_mantenimiento,categoria,es_correctivo,dias_fuera_servicio,km_en_revision,coste_eur,proveedor,garantia_meses
+1,1,1,2024-07-24,2024-07-25,2024,7,Cambio aceite,Preventivo,False,1,278454,218.7,TallerBus Norte,0
+2,1,1,2023-02-08,2023-02-09,2023,2,Cambio neumaticos,Preventivo,False,1,240059,1068.93,TallerBus Norte,0
+3,1,1,2024-10-28,2024-10-29,2024,10,Cambio neumaticos,Preventivo,False,1,493071,722.19,Taller Oficial Mercedes,0
+4,1,1,2022-08-01,2022-08-03,2022,8,Reparacion clima,Correctivo,True,2,533556,579.93,FlotaService,6
+5,1,1,2024-12-09,2024-12-10,2024,12,Revision bateria,Preventivo,False,1,307110,436.54,TallerBus Norte,0
+6,1,1,2022-08-28,2022-08-29,2022,8,ITV e Inspeccion,Legal,False,1,234170,247.72,FlotaService,0
+7,1,1,2024-11-27,2024-11-27,2024,11,ITV e Inspeccion,Legal,False,0,512844,224.84,TallerBus Norte,0
+8,1,1,2022-02-22,2022-02-25,2022,2,Reparacion frenos,Correctivo,True,3,309645,1135.82,TallerBus Norte,12
+9,2,1,2024-08-20,2024-08-22,2024,8,Sistema electrico,Correctivo,True,2,438705,1463.42,ManteAuto S.L.,3
+10,2,1,2023-07-13,2023-07-14,2023,7,Reparacion clima,Correctivo,True,1,471997,-866.9,TallerBus Norte,0
+11,2,1,2022-01-25,2022-01-29,2022,1,Reparacion motor,Correctivo,True,4,440170,803.08,FlotaService,3
+12,2,1,2022-09-10,2022-09-13,2022,9,Carroceria y pintura,Estetico,False,3,21141,619.76,ManteAuto S.L.,0
+13,2,1,2022-09-16,2022-09-17,2022,9,Sistema electrico,Correctivo,True,1,409778,1314.73,Taller Oficial MAN,12
+14,2,1,2022-12-24,2022-12-24,2022,12,Revision bateria,Preventivo,False,0,371556,507.14,Taller Oficial Mercedes,0
+15,2,1,2023-06-26,2023-06-27,2023,6,Cambio aceite,Preventivo,False,1,334323,200.05,Taller Oficial MAN,0
+16,2,1,2023-06-30,2023-07-01,2023,6,Carroceria y pintura,Estetico,False,1,48957,416.66,FlotaService,0
+17,2,1,2023-05-30,2023-06-01,2023,5,Reparacion clima,Correctivo,True,2,403802,349.43,Taller Oficial MAN,12
+18,2,1,2022-03-05,2022-03-08,2022,3,Reparacion clima,Correctivo,True,3,182260,396.42,Taller Oficial MAN,0
+19,2,1,2024-12-03,2024-12-04,2024,12,ITV e Inspeccion,Legal,False,1,541913,237.73,Taller Oficial Mercedes,0
+20,2,1,2024-10-15,2024-10-16,2024,10,ITV e Inspeccion,Legal,False,1,140655,183.87,ManteAuto S.L.,0
+21,2,1,2024-10-24,2024-10-25,2024,10,Carroceria y pintura,Estetico,False,1,197346,750.04,ManteAuto S.L.,0
+22,2,1,2022-12-11,2022-12-12,2022,12,Cambio aceite,Preventivo,False,1,78823,213.79,ManteAuto S.L.,0
+23,2,1,2023-02-12,2023-02-13,2023,2,Revision bateria,Preventivo,False,1,401445,426.17,ManteAuto S.L.,0
+24,2,1,2023-06-24,2023-06-25,2023,6,Sistema electrico,Correctivo,True,1,77869,1663.72,Taller Oficial MAN,6
+25,2,1,2024-02-12,2024-02-14,2024,2,Reparacion clima,Correctivo,True,2,159789,260.89,ManteAuto S.L.,3
+26,2,1,2023-04-30,2023-05-02,2023,4,Cambio neumaticos,Preventivo,False,2,86103,642.07,Taller Oficial Mercedes,0
+27,2,1,2022-01-13,2022-01-13,2022,1,ITV e Inspeccion,Legal,False,0,363845,248.01,TallerBus Norte,0
+28,2,1,2022-02-09,2022-02-09,2022,2,ITV e Inspeccion,,False,0,367231,213.34,ManteAuto S.L.,0
+29,2,1,2024-08-28,2024-09-02,2024,8,Sistema electrico,Correctivo,True,5,157383,1381.7,Taller Oficial Mercedes,6
+30,2,1,2024-10-23,2024-10-24,2024,10,Revision periodica,Preventivo,False,1,295906,117.18,ManteAuto S.L.,0
+31,2,1,2023-10-14,2023-10-15,2023,10,ITV e Inspeccion,Legal,False,1,358306,180.2,Taller Oficial MAN,0
+32,2,1,2024-11-23,2024-11-28,2024,11,Sistema electrico,Correctivo,True,5,96111,1658.37,TallerBus Norte,0
+33,3,2,2023-01-13,2023-01-15,2023,1,Revision bateria,Preventivo,False,2,358770,373.4,Taller Oficial Mercedes,0
+34,3,2,2024-02-11,2024-02-15,2024,2,Reparacion motor,Correctivo,True,4,24897,4569.24,Taller Oficial MAN,0
+35,3,2,2024-03-31,2024-03-31,2024,3,Cambio aceite,Preventivo,False,0,529309,158.96,Taller Oficial Mercedes,0
+36,3,2,2022-11-28,2022-11-29,2022,11,Revision bateria,Preventivo,False,1,410359,428.59,TallerBus Norte,0
+37,3,2,2024-06-01,2024-06-01,2024,6,Revision bateria,Preventivo,False,0,513253,544.6,TallerBus Norte,0
+38,3,2,2023-02-02,2023-02-03,2023,2,Reparacion clima,Correctivo,True,1,250748,434.11,TallerBus Norte,6
+39,3,2,2022-12-16,2022-12-16,2022,12,Cambio aceite,Preventivo,False,0,427088,179.16,Taller Oficial MAN,0
+40,3,2,2023-08-01,2023-08-01,2023,8,Revision periodica,Preventivo,False,0,522237,93.03,Taller Oficial MAN,0
+41,3,2,2022-09-06,2022-09-14,2022,9,Reparacion motor,Correctivo,True,8,38364,2187.44,ManteAuto S.L.,0
+42,3,2,2024-01-30,2024-01-31,2024,1,Reparacion clima,Correctivo,True,1,400160,312.5,Taller Oficial Mercedes,12
+43,3,2,2024-05-08,2024-05-17,2024,5,Reparacion motor,Correctivo,True,9,122000,4849.4,Taller Oficial MAN,0
+44,3,2,2023-12-02,2023-12-03,2023,12,Revision periodica,Preventivo,False,1,189091,165.66,Taller Oficial MAN,0
+45,3,2,2024-01-30,2024-01-31,2024,1,Revision periodica,,False,1,513003,103.64,Taller Oficial Mercedes,0
+46,3,2,2022-10-22,2022-10-23,2022,10,Reparacion clima,Correctivo,True,1,379317,967.2,Taller Oficial Mercedes,3
+47,3,2,2022-01-13,2022-01-14,2022,1,Revision periodica,Preventivo,False,1,60650,170.6,ManteAuto S.L.,0
+48,4,3,2023-03-17,2023-03-18,2023,3,Revision bateria,Preventivo,False,1,482355,423.38,FlotaService,0
+49,4,3,2024-06-13,2024-06-15,2024,6,Reparacion clima,Correctivo,True,2,504584,489.04,Taller Oficial MAN,0
+50,4,3,2023-08-24,2023-08-27,2023,8,Cambio neumaticos,Preventivo,False,3,539051,841.0,ManteAuto S.L.,0
+51,4,3,2023-07-14,2023-07-15,2023,7,Revision bateria,Preventivo,False,1,92295,425.34,TallerBus Norte,0
+52,4,3,2024-02-01,2024-02-01,2024,2,Revision periodica,Preventivo,False,0,413212,298.88,FlotaService,0
+53,4,3,2022-04-13,2022-04-16,2022,4,Reparacion frenos,Correctivo,True,3,400040,1176.79,FlotaService,0
+54,4,3,2024-08-06,2024-08-06,2024,8,Revision bateria,Preventivo,False,0,147022,490.0,FlotaService,0
+55,4,3,2022-02-19,2022-02-19,2022,2,ITV e Inspeccion,Legal,False,0,196889,270.71,FlotaService,0
+56,4,3,2022-05-13,2022-05-15,2022,5,Reparacion frenos,Correctivo,True,2,415039,1060.42,ManteAuto S.L.,3
+57,4,3,2024-07-15,2024-07-16,2024,7,Cambio neumaticos,Preventivo,False,1,103301,1716.26,ManteAuto S.L.,0
+58,4,3,2022-09-30,2022-10-10,2022,9,Reparacion motor,Correctivo,True,10,120512,2389.38,ManteAuto S.L.,0
+59,5,2,2022-12-18,2022-12-19,2022,12,Cambio aceite,Preventivo,False,1,370044,226.51,TallerBus Norte,0
+60,5,2,2022-02-06,2022-02-07,2022,2,ITV e Inspeccion,Legal,False,1,27610,181.02,Taller Oficial MAN,0
+61,5,2,2024-02-26,2024-02-27,2024,2,Carroceria y pintura,Estetico,False,1,464759,226.17,ManteAuto S.L.,0
+62,5,2,2022-06-19,2022-06-19,2022,6,Cambio aceite,Preventivo,False,0,423475,184.19,Taller Oficial MAN,0
+63,5,2,2024-03-17,2024-03-18,2024,3,Carroceria y pintura,Estetico,False,1,247415,771.51,TallerBus Norte,0
+64,5,2,2022-03-19,2022-03-22,2022,3,Carroceria y pintura,Estetico,False,3,216379,709.85,TallerBus Norte,0
+65,5,2,2023-11-07,2023-11-08,2023,11,Sistema electrico,Correctivo,True,1,145870,404.68,ManteAuto S.L.,3
+66,5,2,2024-10-14,2024-10-15,2024,10,Cambio aceite,Preventivo,False,1,359855,202.42,Taller Oficial Mercedes,0
+67,5,2,2023-06-23,2023-06-24,2023,6,Carroceria y pintura,Estetico,False,1,90389,258.13,ManteAuto S.L.,0
+68,5,2,2022-01-02,2022-01-02,2022,1,ITV e Inspeccion,Legal,False,0,500023,249.01,ManteAuto S.L.,0
+69,5,2,2022-09-24,2022-09-24,2022,9,Cambio aceite,Preventivo,False,0,351089,241.43,TallerBus Norte,0
+70,5,2,2023-09-30,2023-09-30,2023,9,Revision bateria,Preventivo,False,0,228695,236.15,TallerBus Norte,0
+71,5,2,2022-11-17,2022-11-20,2022,11,Reparacion frenos,Correctivo,True,3,52716,1091.88,ManteAuto S.L.,0
+72,5,2,2022-12-22,2022-12-25,2022,12,Reparacion frenos,Correctivo,True,3,388064,947.28,Taller Oficial MAN,6
+73,5,2,2022-06-10,2022-06-10,2022,6,Cambio aceite,Preventivo,False,0,401288,168.65,Taller Oficial MAN,0
+74,5,2,2023-04-14,2023-04-15,2023,4,Reparacion clima,Correctivo,True,1,172460,450.86,TallerBus Norte,6
+75,5,2,2022-09-13,2022-09-16,2022,9,Cambio neumaticos,Preventivo,False,3,168654,1105.17,TallerBus Norte,0
+76,5,2,2023-02-17,2023-02-18,2023,2,ITV e Inspeccion,Legal,False,1,312296,308.9,Taller Oficial MAN,0
+77,5,2,2024-03-12,2024-03-14,2024,3,Reparacion clima,Correctivo,True,2,305643,619.89,FlotaService,12
+78,5,2,2024-03-22,2024-03-25,2024,3,Carroceria y pintura,Estetico,False,3,461509,627.44,Taller Oficial Mercedes,0
+79,5,2,2024-04-20,2024-04-22,2024,4,Cambio neumaticos,Preventivo,False,2,260258,686.94,Taller Oficial MAN,0
+80,5,2,2023-08-28,2023-08-29,2023,8,Cambio aceite,Preventivo,False,1,317089,124.72,FlotaService,0
+81,5,2,2023-05-16,2023-05-19,2023,5,Sistema electrico,Correctivo,True,3,488758,306.39,Taller Oficial Mercedes,12
+82,6,3,2022-12-10,2022-12-12,2022,12,Cambio neumaticos,Preventivo,False,2,93450,762.84,Taller Oficial Mercedes,0
+83,6,3,2024-05-29,2024-05-31,2024,5,Carroceria y pintura,Estetico,False,2,116163,498.67,Taller Oficial Mercedes,0
+84,6,3,2023-11-21,2023-11-24,2023,11,Reparacion frenos,Correctivo,True,3,157072,1090.8,Taller Oficial MAN,12
+85,6,3,2024-04-17,2024-04-18,2024,4,Revision bateria,Preventivo,False,1,386979,592.54,ManteAuto S.L.,0
+86,6,3,2023-10-21,2023-10-22,2023,10,Revision bateria,Preventivo,False,1,467572,591.85,ManteAuto S.L.,0
+87,6,3,2023-07-14,2023-07-15,2023,7,Reparacion clima,Correctivo,True,1,30790,637.05,ManteAuto S.L.,12
+88,6,3,2024-01-26,2024-01-30,2024,1,Reparacion frenos,Correctivo,True,4,344703,942.32,FlotaService,12
+89,6,3,2023-11-02,2023-11-02,2023,11,Revision periodica,Preventivo,False,0,203424,147.41,Taller Oficial MAN,0
+90,6,3,2022-01-16,2022-01-18,2022,1,Cambio neumaticos,Preventivo,False,2,71256,1321.95,FlotaService,0
+91,6,3,2022-07-18,2022-07-20,2022,7,Revision bateria,Preventivo,False,2,524768,227.54,FlotaService,0
+92,6,3,2023-02-01,2023-02-06,2023,2,Sistema electrico,Correctivo,True,5,318102,583.48,TallerBus Norte,0
+93,6,3,2022-12-16,2022-12-19,2022,12,Reparacion clima,Correctivo,True,3,318853,912.46,TallerBus Norte,12
+94,6,3,2022-06-09,2022-06-12,2022,6,Reparacion clima,Correctivo,True,3,342605,753.54,Taller Oficial MAN,3
+95,6,3,2022-01-03,2022-01-06,2022,1,Carroceria y pintura,Estetico,False,3,193422,512.79,TallerBus Norte,0
+96,6,3,2022-07-23,2022-07-25,2022,7,Cambio neumaticos,Preventivo,False,2,240041,1537.03,ManteAuto S.L.,0
+97,6,3,2023-07-30,2023-07-31,2023,7,Sistema electrico,Correctivo,True,1,197293,1613.37,Taller Oficial Mercedes,3
+98,6,3,2022-10-27,2022-10-29,2022,10,Reparacion frenos,Correctivo,True,2,210454,980.2,Taller Oficial MAN,12
+99,6,3,2023-11-07,2023-11-10,2023,11,Reparacion frenos,Correctivo,True,3,309128,1056.27,FlotaService,12
+100,6,3,2023-09-21,2023-09-21,2023,9,Revision bateria,Preventivo,False,0,241199,267.32,Taller Oficial Mercedes,0
+101,6,3,2022-02-11,2022-02-13,2022,2,Reparacion clima,Correctivo,True,2,437088,967.56,Taller Oficial MAN,6
+102,6,3,2023-09-27,2023-09-29,2023,9,Cambio neumaticos,Preventivo,False,2,205772,1043.81,Taller Oficial MAN,0
+103,6,3,2022-05-13,2022-05-19,2022,5,Reparacion motor,Correctivo,True,6,186681,3467.92,ManteAuto S.L.,6
+104,6,3,2022-05-10,2022-05-19,2022,5,Reparacion motor,Correctivo,True,9,163772,818.53,FlotaService,12
+105,6,3,2023-09-26,2023-09-30,2023,9,Sistema electrico,Correctivo,True,4,474975,-1077.87,ManteAuto S.L.,12
+106,6,3,2023-06-11,2023-06-12,2023,6,Revision bateria,Preventivo,False,1,167908,530.76,Taller Oficial MAN,0
+107,6,3,2023-01-08,2023-01-08,2023,1,Revision periodica,Preventivo,False,0,428653,-193.6,ManteAuto S.L.,0
+108,6,3,2023-12-14,2023-12-14,2023,12,Revision periodica,Preventivo,False,0,70047,235.32,TallerBus Norte,0
+109,6,3,2024-03-17,2024-03-18,2024,3,Cambio neumaticos,Preventivo,False,1,231086,1413.44,ManteAuto S.L.,0
+110,6,3,2024-07-02,2024-07-03,2024,7,Sistema electrico,Correctivo,True,1,200923,1112.8,FlotaService,3
+111,7,3,2023-07-14,2023-07-16,2023,7,Sistema electrico,Correctivo,True,2,482455,738.2,Taller Oficial Mercedes,0
+112,7,3,2022-12-17,2022-12-22,2022,12,Sistema electrico,Correctivo,True,5,19556,858.49,ManteAuto S.L.,0
+113,7,3,2024-05-31,2024-05-31,2024,5,ITV e Inspeccion,Legal,False,0,91702,288.06,Taller Oficial Mercedes,0
+114,7,3,2023-01-24,2023-01-25,2023,1,Cambio aceite,Preventivo,False,1,435646,162.41,Taller Oficial MAN,0
+115,7,3,2022-03-24,2022-03-25,2022,3,Revision periodica,Preventivo,False,1,40725,-211.69,Taller Oficial MAN,0
+116,7,3,2023-01-02,2023-01-03,2023,1,ITV e Inspeccion,Legal,False,1,521912,287.83,TallerBus Norte,0
+117,7,3,2024-10-18,2024-10-20,2024,10,Cambio neumaticos,Preventivo,False,2,193851,1775.08,Taller Oficial Mercedes,0
+118,7,3,2022-03-23,2022-03-24,2022,3,Revision bateria,Preventivo,False,1,362779,539.88,ManteAuto S.L.,0
+119,7,3,2022-12-07,2022-12-09,2022,12,Cambio neumaticos,Preventivo,False,2,137820,1641.73,ManteAuto S.L.,0
+120,7,3,2023-08-03,2023-08-03,2023,8,Revision periodica,Preventivo,False,0,475514,215.8,Taller Oficial MAN,0
+121,7,3,2024-05-15,2024-05-15,2024,5,Revision periodica,Preventivo,False,0,142786,230.57,Taller Oficial Mercedes,0
+122,7,3,2024-10-19,2024-10-25,2024,10,Reparacion motor,Correctivo,True,6,58489,3312.16,Taller Oficial MAN,6
+123,7,3,2023-03-02,2023-03-04,2023,3,Sistema electrico,Correctivo,True,2,149223,1376.17,TallerBus Norte,6
+124,7,3,2023-03-14,2023-03-15,2023,3,Cambio aceite,Preventivo,False,1,339980,212.72,ManteAuto S.L.,0
+125,7,3,2024-10-22,2024-10-22,2024,10,Cambio aceite,Preventivo,False,0,348728,229.65,TallerBus Norte,0
+126,7,3,2022-03-26,2022-03-30,2022,3,Sistema electrico,Correctivo,True,4,233624,772.43,ManteAuto S.L.,0
+127,7,3,2023-07-30,2023-08-03,2023,7,Sistema electrico,Correctivo,True,4,174035,1120.27,TallerBus Norte,6
+128,7,3,2022-07-24,2022-07-27,2022,7,Reparacion clima,Correctivo,True,3,495409,340.63,ManteAuto S.L.,3
+129,7,3,2023-05-11,2023-05-13,2023,5,Carroceria y pintura,Estetico,False,2,111238,795.0,Taller Oficial Mercedes,0
+130,8,2,2024-08-10,2024-08-11,2024,8,ITV e Inspeccion,Legal,False,1,513992,346.22,FlotaService,0
+131,8,2,2024-11-14,2024-11-17,2024,11,Reparacion clima,Correctivo,True,3,446320,636.93,Taller Oficial MAN,0
+132,8,2,2024-01-31,2024-02-01,2024,1,Reparacion clima,Correctivo,True,1,484629,639.6,Taller Oficial MAN,12
+133,8,2,2024-04-11,2024-04-19,2024,4,Reparacion motor,Correctivo,True,8,415622,1233.76,TallerBus Norte,3
+134,8,2,2024-02-22,2024-02-23,2024,2,Cambio aceite,Preventivo,False,1,32043,163.02,Taller Oficial Mercedes,0
+135,8,2,2024-08-11,2024-08-12,2024,8,Revision periodica,Preventivo,False,1,208656,197.49,FlotaService,0
+136,8,2,2024-02-28,2024-03-01,2024,2,Cambio neumaticos,Preventivo,False,2,511281,1759.22,Taller Oficial Mercedes,0
+137,8,2,2024-07-23,2024-08-02,2024,7,Reparacion motor,Correctivo,True,10,351685,4631.27,Taller Oficial Mercedes,6
+138,8,2,2024-11-14,2024-11-16,2024,11,Cambio neumaticos,Preventivo,False,2,526815,1194.04,FlotaService,0
+139,8,2,2024-03-09,2024-03-11,2024,3,Reparacion clima,Correctivo,True,2,542876,902.03,TallerBus Norte,3
+140,8,2,2024-06-07,2024-06-10,2024,6,Reparacion clima,Correctivo,True,3,524309,773.85,FlotaService,0
+141,8,2,2024-12-25,2024-12-26,2024,12,ITV e Inspeccion,Legal,False,1,431064,336.66,TallerBus Norte,0
+142,8,2,2024-02-29,2024-03-01,2024,2,Carroceria y pintura,Estetico,False,1,255663,-222.12,Taller Oficial MAN,0
+143,8,2,2024-05-31,2024-06-03,2024,5,Sistema electrico,Correctivo,True,3,291775,563.69,Taller Oficial Mercedes,3
+144,8,2,2024-08-09,2024-08-10,2024,8,Reparacion frenos,Correctivo,True,1,509339,1161.13,FlotaService,6
+145,8,2,2024-03-13,2024-03-13,2024,3,Revision bateria,Preventivo,False,0,30274,490.98,Taller Oficial Mercedes,0
+146,8,2,2024-02-09,2024-02-10,2024,2,Sistema electrico,Correctivo,True,1,297268,1533.7,Taller Oficial Mercedes,0
+147,8,2,2024-03-03,2024-03-04,2024,3,Cambio aceite,Preventivo,False,1,243785,138.87,TallerBus Norte,0
+148,8,2,2024-12-27,2024-12-28,2024,12,Reparacion clima,Correctivo,True,1,493372,744.65,Taller Oficial Mercedes,0
+149,8,2,2024-11-20,2024-11-21,2024,11,Carroceria y pintura,Estetico,False,1,38631,344.88,ManteAuto S.L.,0
+150,8,2,2024-01-23,2024-02-02,2024,1,Reparacion motor,Correctivo,True,10,437880,2852.34,TallerBus Norte,6
+151,8,2,2024-12-14,2024-12-18,2024,12,Reparacion frenos,Correctivo,True,4,99553,478.61,Taller Oficial MAN,3
+152,8,2,2024-12-06,2024-12-08,2024,12,Cambio neumaticos,Preventivo,False,2,436397,1502.07,FlotaService,0
+153,8,2,2024-02-01,2024-02-04,2024,2,Reparacion clima,Correctivo,True,3,453485,836.93,Taller Oficial MAN,3
+154,9,2,2025-01-01,2025-01-03,2025,1,Reparacion clima,Correctivo,True,2,143388,902.91,Taller Oficial Mercedes,0
+155,9,2,2025-01-01,2025-01-01,2025,1,Cambio aceite,Preventivo,False,0,174154,134.89,ManteAuto S.L.,0
+156,9,2,2025-01-01,2025-01-03,2025,1,Cambio neumaticos,Preventivo,False,2,529153,989.89,TallerBus Norte,0
+157,9,2,2025-01-01,2025-01-03,2025,1,Carroceria y pintura,Estetico,False,2,491809,540.28,FlotaService,0
+158,9,2,2025-01-01,2025-01-03,2025,1,Reparacion frenos,Correctivo,True,2,515906,1149.76,Taller Oficial Mercedes,12
+159,9,2,2025-01-01,2025-01-03,2025,1,Revision bateria,Preventivo,False,2,114380,559.11,Taller Oficial Mercedes,0
+160,9,2,2025-01-01,2025-01-01,2025,1,ITV e Inspeccion,Legal,False,0,229883,226.54,Taller Oficial MAN,0
+161,9,2,2025-01-01,2025-01-02,2025,1,Revision bateria,Preventivo,False,1,139994,210.35,Taller Oficial MAN,0
+162,9,2,2025-01-01,2025-01-03,2025,1,Reparacion frenos,Correctivo,True,2,25628,825.08,TallerBus Norte,6
+163,9,2,2025-01-01,2025-01-03,2025,1,Reparacion clima,Correctivo,True,2,133692,990.69,TallerBus Norte,6
+164,9,2,2025-01-01,2025-01-04,2025,1,Reparacion clima,Correctivo,True,3,242875,443.21,Taller Oficial Mercedes,0
+165,9,2,2025-01-01,2025-01-04,2025,1,Carroceria y pintura,Estetico,False,3,516048,356.04,FlotaService,0
+166,9,2,2025-01-01,2025-01-01,2025,1,ITV e Inspeccion,Legal,False,0,92916,329.26,ManteAuto S.L.,0
+167,9,2,2025-01-01,2025-01-04,2025,1,Reparacion motor,Correctivo,True,3,428120,1787.39,ManteAuto S.L.,3
+168,9,2,2025-01-01,2025-01-02,2025,1,Cambio aceite,Preventivo,False,1,343565,203.12,TallerBus Norte,0
+169,9,2,2025-01-01,2025-01-02,2025,1,Cambio neumaticos,Preventivo,False,1,228827,1515.44,ManteAuto S.L.,0
+170,9,2,2025-01-01,2025-01-04,2025,1,Carroceria y pintura,Estetico,False,3,212644,295.62,ManteAuto S.L.,0
+171,9,2,2025-01-01,2025-01-02,2025,1,Revision bateria,Preventivo,False,1,489512,347.5,TallerBus Norte,0
+172,9,2,2025-01-01,2025-01-01,2025,1,Revision bateria,Preventivo,False,0,528972,387.77,Taller Oficial MAN,0
+173,10,2,2022-04-13,2022-04-13,2022,4,Revision bateria,Preventivo,False,0,278116,510.03,ManteAuto S.L.,0
+174,10,2,2024-07-06,2024-07-14,2024,7,Reparacion motor,Correctivo,True,8,481359,2286.48,Taller Oficial MAN,0
+175,10,2,2024-11-15,2024-11-19,2024,11,Reparacion frenos,Correctivo,True,4,285415,423.99,ManteAuto S.L.,6
+176,10,2,2022-10-16,2022-10-18,2022,10,Reparacion frenos,Correctivo,True,2,295437,777.24,TallerBus Norte,6
+177,10,2,2022-12-07,2022-12-09,2022,12,Reparacion clima,Correctivo,True,2,497068,275.16,ManteAuto S.L.,12
+178,10,2,2022-06-23,2022-06-24,2022,6,ITV e Inspeccion,Legal,False,1,191453,253.97,Taller Oficial Mercedes,0
+179,10,2,2023-03-24,2023-03-30,2023,3,Reparacion motor,Correctivo,True,6,154303,2598.16,FlotaService,0
+180,10,2,2022-08-18,2022-08-18,2022,8,Cambio aceite,Preventivo,False,0,235265,145.21,Taller Oficial MAN,0
+181,10,2,2024-11-13,2024-11-16,2024,11,Reparacion frenos,Correctivo,True,3,401144,626.02,Taller Oficial MAN,6
+182,10,2,2022-12-02,2022-12-04,2022,12,Cambio neumaticos,Preventivo,False,2,465167,-1047.04,FlotaService,0
+183,10,2,2023-06-11,2023-06-12,2023,6,Cambio aceite,Preventivo,False,1,90104,121.83,TallerBus Norte,0
+184,10,2,2024-02-16,2024-02-17,2024,2,Reparacion clima,Correctivo,True,1,538003,776.65,FlotaService,0
+185,10,2,2022-11-03,2022-11-03,2022,11,Revision bateria,Preventivo,False,0,444862,493.29,Taller Oficial Mercedes,0
+186,10,2,2022-08-23,2022-08-26,2022,8,Cambio neumaticos,Preventivo,False,3,246260,1035.35,Taller Oficial MAN,0
+187,10,2,2024-06-13,2024-06-14,2024,6,Cambio aceite,Preventivo,False,1,40212,122.25,FlotaService,0
+188,10,2,2024-10-20,2024-10-24,2024,10,Sistema electrico,Correctivo,True,4,449303,459.91,Taller Oficial MAN,6
+189,10,2,2022-07-09,2022-07-09,2022,7,Revision periodica,Preventivo,False,0,438405,238.23,Taller Oficial MAN,0
+190,10,2,2024-01-09,2024-01-11,2024,1,Carroceria y pintura,Estetico,False,2,138811,270.51,FlotaService,0
+191,10,2,2024-05-30,2024-05-31,2024,5,Reparacion frenos,Correctivo,True,1,245573,1030.31,TallerBus Norte,3
+192,10,2,2023-06-08,2023-06-11,2023,6,Reparacion motor,Correctivo,True,3,127785,923.54,Taller Oficial Mercedes,0
+193,10,2,2024-12-08,2024-12-08,2024,12,Revision bateria,Preventivo,False,0,455698,424.66,ManteAuto S.L.,0
+194,10,2,2023-01-01,2023-01-02,2023,1,Cambio aceite,Preventivo,False,1,365344,240.64,Taller Oficial MAN,0
+195,10,2,2024-02-02,2024-02-04,2024,2,Reparacion clima,Correctivo,True,2,343949,874.03,TallerBus Norte,3
+196,10,2,2022-04-15,2022-04-17,2022,4,Reparacion frenos,Correctivo,True,2,230947,-810.99,Taller Oficial MAN,0
+197,11,3,2024-02-03,2024-02-07,2024,2,Reparacion frenos,Correctivo,True,4,422528,412.62,FlotaService,0
+198,11,3,2024-06-20,2024-06-21,2024,6,Revision periodica,Preventivo,False,1,68169,142.1,Taller Oficial Mercedes,0
+199,11,3,2023-10-02,2023-10-03,2023,10,Sistema electrico,Correctivo,True,1,411379,477.98,ManteAuto S.L.,12
+200,11,3,2024-05-06,2024-05-06,2024,5,Cambio aceite,Preventivo,False,0,223859,239.27,Taller Oficial Mercedes,0
+201,11,3,2023-12-12,2023-12-16,2023,12,Reparacion motor,Correctivo,True,4,337916,3234.38,TallerBus Norte,12
+202,11,3,2022-12-18,2022-12-19,2022,12,Revision bateria,Preventivo,False,1,151665,386.94,Taller Oficial MAN,0
+203,11,3,2023-05-02,2023-05-10,2023,5,Reparacion motor,Correctivo,True,8,273262,2414.39,Taller Oficial Mercedes,6
+204,11,3,2023-09-15,2023-09-16,2023,9,Sistema electrico,Correctivo,True,1,441082,1721.93,Taller Oficial Mercedes,0
+205,11,3,2022-02-01,2022-02-01,2022,2,Revision bateria,Preventivo,False,0,312246,277.61,Taller Oficial MAN,0
+206,11,3,2023-01-17,2023-01-17,2023,1,Revision periodica,Preventivo,False,0,42455,204.72,ManteAuto S.L.,0
+207,11,3,2023-05-21,2023-05-31,2023,5,Reparacion motor,Correctivo,True,10,119255,868.2,ManteAuto S.L.,12
+208,11,3,2024-08-09,2024-08-12,2024,8,Cambio neumaticos,Preventivo,False,3,26077,1238.59,Taller Oficial Mercedes,0
+209,11,3,2022-02-04,2022-02-05,2022,2,Reparacion clima,Correctivo,True,1,109150,875.89,Taller Oficial Mercedes,6
+210,11,3,2024-03-08,2024-03-09,2024,3,Reparacion clima,Correctivo,True,1,381125,781.95,Taller Oficial Mercedes,12
+211,11,3,2024-04-08,2024-04-10,2024,4,Cambio neumaticos,Preventivo,False,2,178539,1427.54,TallerBus Norte,0
+212,11,3,2024-03-25,2024-03-26,2024,3,Carroceria y pintura,Estetico,False,1,340655,672.94,Taller Oficial Mercedes,0
+213,11,3,2024-01-21,2024-01-23,2024,1,Reparacion frenos,Correctivo,True,2,227391,1028.94,Taller Oficial MAN,12
+214,11,3,2023-09-27,2023-09-29,2023,9,Reparacion clima,Correctivo,True,2,341667,697.2,FlotaService,12
+215,11,3,2023-02-04,2023-02-05,2023,2,ITV e Inspeccion,Legal,False,1,254668,313.68,ManteAuto S.L.,0
+216,11,3,2023-10-09,2023-10-10,2023,10,Cambio aceite,Preventivo,False,1,229684,146.52,FlotaService,0
+217,11,3,2023-07-07,2023-07-08,2023,7,ITV e Inspeccion,Legal,False,1,465031,395.35,ManteAuto S.L.,0
+218,11,3,2023-01-27,2023-01-31,2023,1,Sistema electrico,Correctivo,True,4,333615,369.77,Taller Oficial MAN,6
+219,12,2,2022-09-07,2022-09-16,2022,9,Reparacion motor,Correctivo,True,9,348188,3402.59,ManteAuto S.L.,12
+220,12,2,2024-03-18,2024-03-19,2024,3,ITV e Inspeccion,Legal,False,1,223260,351.8,FlotaService,0
+221,12,2,2023-09-02,2023-09-02,2023,9,Cambio aceite,Preventivo,False,0,68178,247.95,Taller Oficial Mercedes,0
+222,12,2,2024-09-14,2024-09-15,2024,9,Cambio neumaticos,Preventivo,False,1,451668,1694.28,TallerBus Norte,0
+223,12,2,2024-09-15,2024-09-16,2024,9,Revision bateria,Preventivo,False,1,341561,430.41,TallerBus Norte,0
+224,12,2,2023-12-30,2023-12-30,2023,12,Revision bateria,Preventivo,False,0,384401,599.36,Taller Oficial MAN,0
+225,12,2,2023-04-06,2023-04-07,2023,4,Sistema electrico,Correctivo,True,1,191618,1925.4,Taller Oficial MAN,0
+226,12,2,2024-06-20,2024-06-21,2024,6,Cambio aceite,Preventivo,False,1,262825,192.71,Taller Oficial Mercedes,0
+227,13,1,2022-03-14,2022-03-15,2022,3,Revision periodica,,False,1,166144,142.11,FlotaService,0
+228,13,1,2024-01-14,2024-01-15,2024,1,Reparacion frenos,Correctivo,True,1,420906,629.1,Taller Oficial Mercedes,0
+229,13,1,2023-10-07,2023-10-07,2023,10,ITV e Inspeccion,Legal,False,0,489969,282.16,FlotaService,0
+230,13,1,2024-03-21,2024-03-22,2024,3,Sistema electrico,Correctivo,True,1,102198,1714.51,TallerBus Norte,3
+231,13,1,2023-01-19,2023-01-19,2023,1,Revision periodica,Preventivo,False,0,34920,193.92,ManteAuto S.L.,0
+232,13,1,2022-12-09,2022-12-12,2022,12,Reparacion clima,Correctivo,True,3,44869,342.28,ManteAuto S.L.,3
+233,13,1,2022-06-23,2022-06-23,2022,6,ITV e Inspeccion,Legal,False,0,445021,393.06,FlotaService,0
+234,13,1,2024-05-18,2024-05-27,2024,5,Reparacion motor,Correctivo,True,9,346934,1256.29,Taller Oficial MAN,6
+235,13,1,2023-05-04,2023-05-04,2023,5,Revision periodica,Preventivo,False,0,162105,167.9,ManteAuto S.L.,0
+236,13,1,2023-02-12,2023-02-22,2023,2,Reparacion motor,Correctivo,True,10,334526,3480.93,Taller Oficial MAN,0
+237,13,1,2022-05-04,2022-05-05,2022,5,ITV e Inspeccion,Legal,False,1,22933,177.33,Taller Oficial MAN,0
+238,13,1,2022-03-08,2022-03-12,2022,3,Reparacion frenos,Correctivo,True,4,401759,1043.36,Taller Oficial MAN,3
+239,13,1,2023-09-26,2023-09-27,2023,9,ITV e Inspeccion,Legal,False,1,211272,224.71,FlotaService,0
+240,13,1,2024-01-19,2024-01-25,2024,1,Reparacion motor,Correctivo,True,6,10242,2922.86,ManteAuto S.L.,0
+241,13,1,2024-04-05,2024-04-05,2024,4,ITV e Inspeccion,Legal,False,0,55935,380.63,ManteAuto S.L.,0
+242,13,1,2023-11-15,2023-11-15,2023,11,Revision bateria,Preventivo,False,0,61825,274.74,Taller Oficial MAN,0
+243,13,1,2023-05-29,2023-05-31,2023,5,Carroceria y pintura,Estetico,False,2,61547,794.09,TallerBus Norte,0
+244,13,1,2022-02-01,2022-02-01,2022,2,ITV e Inspeccion,Legal,False,0,427230,258.25,TallerBus Norte,0
+245,13,1,2024-08-21,2024-08-23,2024,8,Cambio neumaticos,Preventivo,False,2,178570,600.01,Taller Oficial Mercedes,0
+246,13,1,2022-04-07,2022-04-08,2022,4,Carroceria y pintura,Estetico,False,1,396879,784.53,ManteAuto S.L.,0
+247,13,1,2022-05-02,2022-05-05,2022,5,Carroceria y pintura,Estetico,False,3,58733,695.35,TallerBus Norte,0
+248,13,1,2023-06-04,2023-06-06,2023,6,Revision bateria,Preventivo,False,2,483301,267.47,FlotaService,0
+249,13,1,2023-11-08,2023-11-10,2023,11,Reparacion frenos,Correctivo,True,2,128378,953.98,Taller Oficial Mercedes,12
+250,13,1,2023-02-01,2023-02-06,2023,2,Sistema electrico,Correctivo,True,5,91084,762.8,TallerBus Norte,12
+251,13,1,2024-01-18,2024-01-19,2024,1,ITV e Inspeccion,Legal,False,1,97904,-361.3,FlotaService,0
+252,14,1,2023-11-07,2023-11-08,2023,11,Reparacion clima,Correctivo,True,1,233183,968.98,Taller Oficial MAN,3
+253,14,1,2024-04-21,2024-04-22,2024,4,Cambio aceite,Preventivo,False,1,306887,181.28,Taller Oficial MAN,0
+254,14,1,2023-09-06,2023-09-06,2023,9,Revision bateria,Preventivo,False,0,32751,564.85,FlotaService,0
+255,14,1,2023-03-08,2023-03-08,2023,3,ITV e Inspeccion,Legal,False,0,296784,181.75,FlotaService,0
+256,14,1,2024-12-27,2024-12-31,2024,12,Reparacion motor,Correctivo,True,4,519425,3651.67,FlotaService,12
+257,14,1,2023-07-08,2023-07-09,2023,7,Revision periodica,Preventivo,False,1,530960,175.66,FlotaService,0
+258,14,1,2023-03-25,2023-03-28,2023,3,Reparacion motor,Correctivo,True,3,468651,2948.64,Taller Oficial Mercedes,12
+259,14,1,2024-11-14,2024-11-20,2024,11,Reparacion motor,Correctivo,True,6,319232,4019.28,FlotaService,6
+260,14,1,2024-09-19,2024-09-20,2024,9,Carroceria y pintura,Estetico,False,1,37925,460.85,ManteAuto S.L.,0
+261,14,1,2024-07-19,2024-07-27,2024,7,Reparacion motor,Correctivo,True,8,195911,3618.09,Taller Oficial MAN,3
+262,14,1,2023-02-19,2023-02-20,2023,2,ITV e Inspeccion,Legal,False,1,301989,306.55,Taller Oficial MAN,0
+263,14,1,2023-12-09,2023-12-16,2023,12,Reparacion motor,Correctivo,True,7,255639,2894.92,Taller Oficial Mercedes,3
+264,14,1,2023-05-30,2023-05-31,2023,5,Reparacion clima,Correctivo,True,1,438155,476.46,Taller Oficial Mercedes,3
+265,14,1,2024-11-06,2024-11-09,2024,11,Carroceria y pintura,Estetico,False,3,126347,480.33,ManteAuto S.L.,0
+266,14,1,2023-09-01,2023-09-03,2023,9,Reparacion clima,Correctivo,True,2,425652,-786.21,Taller Oficial Mercedes,6
+267,14,1,2024-09-27,2024-09-27,2024,9,ITV e Inspeccion,Legal,False,0,360137,218.7,Taller Oficial MAN,0
+268,14,1,2023-01-15,2023-01-16,2023,1,Cambio neumaticos,Preventivo,False,1,274792,650.76,Taller Oficial Mercedes,0
+269,14,1,2024-09-22,2024-09-25,2024,9,Sistema electrico,Correctivo,True,3,473458,977.12,TallerBus Norte,12
+270,14,1,2024-01-11,2024-01-12,2024,1,Revision bateria,Preventivo,False,1,441095,264.4,ManteAuto S.L.,0
+271,14,1,2023-08-28,2023-08-29,2023,8,Reparacion clima,Correctivo,True,1,228546,345.91,TallerBus Norte,0
+272,14,1,2024-07-12,2024-07-19,2024,7,Reparacion motor,Correctivo,True,7,309504,3503.1,Taller Oficial MAN,3
+273,14,1,2024-09-24,2024-09-26,2024,9,Cambio neumaticos,Preventivo,False,2,240125,851.34,ManteAuto S.L.,0
+274,14,1,2024-05-29,2024-05-30,2024,5,Carroceria y pintura,Estetico,False,1,144668,516.91,Taller Oficial Mercedes,0
+275,14,1,2023-05-30,2023-05-31,2023,5,Carroceria y pintura,Estetico,False,1,399757,631.98,ManteAuto S.L.,0
+276,14,1,2024-04-26,2024-04-28,2024,4,Reparacion frenos,Correctivo,True,2,205461,1027.74,Taller Oficial Mercedes,12
+277,14,1,2023-03-01,2023-03-04,2023,3,Cambio neumaticos,Preventivo,False,3,431161,1057.34,ManteAuto S.L.,0
+278,15,3,2022-12-01,2022-12-02,2022,12,Reparacion clima,Correctivo,True,1,36880,565.43,TallerBus Norte,6
+279,15,3,2023-07-31,2023-08-01,2023,7,Reparacion clima,Correctivo,True,1,204032,350.21,Taller Oficial MAN,0
+280,15,3,2024-08-18,2024-08-19,2024,8,Carroceria y pintura,,False,1,373996,392.02,TallerBus Norte,0
+281,15,3,2022-09-29,2022-10-08,2022,9,Reparacion motor,Correctivo,True,9,198509,4395.06,Taller Oficial MAN,12
+282,15,3,2022-07-12,2022-07-20,2022,7,Reparacion motor,Correctivo,True,8,448906,2048.58,TallerBus Norte,0
+283,15,3,2024-11-29,2024-11-29,2024,11,ITV e Inspeccion,Legal,False,0,97299,215.48,Taller Oficial Mercedes,0
+284,15,3,2023-09-30,2023-10-03,2023,9,Reparacion motor,Correctivo,True,3,137846,1795.12,TallerBus Norte,6
+285,15,3,2024-10-09,2024-10-16,2024,10,Reparacion motor,Correctivo,True,7,257310,1951.2,Taller Oficial MAN,6
+286,15,3,2022-11-26,2022-11-27,2022,11,Cambio neumaticos,Preventivo,False,1,126676,909.31,FlotaService,0
+287,15,3,2024-10-21,2024-10-22,2024,10,Revision periodica,Preventivo,False,1,97426,234.29,FlotaService,0
+288,15,3,2022-03-01,2022-03-04,2022,3,Reparacion clima,Correctivo,True,3,462175,309.54,Taller Oficial MAN,12
+289,15,3,2022-11-12,2022-11-12,2022,11,Cambio aceite,Preventivo,False,0,346748,197.19,Taller Oficial MAN,0
+290,15,3,2022-02-07,2022-02-10,2022,2,Reparacion frenos,Correctivo,True,3,255416,548.47,Taller Oficial MAN,0
+291,15,3,2023-08-04,2023-08-05,2023,8,ITV e Inspeccion,Legal,False,1,82799,361.78,TallerBus Norte,0
+292,15,3,2022-10-11,2022-10-15,2022,10,Reparacion motor,Correctivo,True,4,193327,4777.67,Taller Oficial MAN,0
+293,15,3,2023-08-28,2023-09-07,2023,8,Reparacion motor,Correctivo,True,10,72718,2837.23,ManteAuto S.L.,6
+294,15,3,2024-10-17,2024-10-17,2024,10,Revision bateria,Preventivo,False,0,56352,576.32,Taller Oficial Mercedes,0
+295,15,3,2023-01-10,2023-01-10,2023,1,ITV e Inspeccion,Legal,False,0,483711,279.98,FlotaService,0
+296,15,3,2023-01-07,2023-01-08,2023,1,Reparacion clima,Correctivo,True,1,519241,773.9,Taller Oficial Mercedes,3
+297,15,3,2024-09-03,2024-09-06,2024,9,Reparacion clima,Correctivo,True,3,56537,665.9,Taller Oficial Mercedes,12
+298,16,3,2024-10-07,2024-10-08,2024,10,ITV e Inspeccion,Legal,False,1,407845,242.53,Taller Oficial Mercedes,0
+299,16,3,2022-09-18,2022-09-19,2022,9,Sistema electrico,Correctivo,True,1,147072,1339.51,TallerBus Norte,0
+300,16,3,2023-04-06,2023-04-06,2023,4,ITV e Inspeccion,Legal,False,0,29972,307.48,Taller Oficial Mercedes,0
+301,16,3,2023-10-08,2023-10-09,2023,10,Cambio aceite,Preventivo,False,1,404243,132.99,Taller Oficial Mercedes,0
+302,16,3,2024-07-08,2024-07-09,2024,7,Revision bateria,Preventivo,False,1,67985,205.0,Taller Oficial MAN,0
+303,16,3,2023-07-12,2023-07-15,2023,7,Carroceria y pintura,Estetico,False,3,25510,539.64,Taller Oficial Mercedes,0
+304,16,3,2023-11-15,2023-11-18,2023,11,Sistema electrico,Correctivo,True,3,23342,1740.53,TallerBus Norte,0
+305,16,3,2024-03-01,2024-03-04,2024,3,Carroceria y pintura,,False,3,216443,660.87,Taller Oficial Mercedes,0
+306,16,3,2023-04-24,2023-04-25,2023,4,Revision bateria,Preventivo,False,1,393411,463.01,ManteAuto S.L.,0
+307,16,3,2022-12-26,2022-12-30,2022,12,Reparacion frenos,Correctivo,True,4,241377,1006.2,ManteAuto S.L.,12
+308,16,3,2024-12-30,2024-12-31,2024,12,Revision periodica,Preventivo,False,1,158757,297.31,ManteAuto S.L.,0
+309,16,3,2022-05-25,2022-05-26,2022,5,Revision periodica,Preventivo,False,1,36708,175.03,FlotaService,0
+310,16,3,2023-01-25,2023-01-25,2023,1,Revision bateria,Preventivo,False,0,541004,258.82,FlotaService,0
+311,16,3,2023-01-22,2023-01-23,2023,1,Sistema electrico,Correctivo,True,1,202425,1133.69,FlotaService,12
+312,16,3,2023-05-28,2023-05-28,2023,5,Revision periodica,Preventivo,False,0,354152,269.51,Taller Oficial Mercedes,0
+313,16,3,2024-05-22,2024-05-24,2024,5,Cambio neumaticos,Preventivo,False,2,160349,745.87,TallerBus Norte,0
+314,16,3,2024-09-11,2024-09-11,2024,9,Revision periodica,Preventivo,False,0,367404,94.46,ManteAuto S.L.,0
+315,16,3,2023-07-15,2023-07-16,2023,7,Carroceria y pintura,Estetico,False,1,12769,404.39,Taller Oficial Mercedes,0
+316,16,3,2023-05-02,2023-05-10,2023,5,Reparacion motor,Correctivo,True,8,361022,-2942.78,TallerBus Norte,0
+317,16,3,2023-12-11,2023-12-11,2023,12,ITV e Inspeccion,,False,0,340668,356.27,FlotaService,0
+318,17,1,2022-10-22,2022-10-23,2022,10,Cambio aceite,Preventivo,False,1,537343,207.83,FlotaService,0
+319,17,1,2023-02-23,2023-02-25,2023,2,Revision bateria,Preventivo,False,2,58773,343.56,ManteAuto S.L.,0
+320,17,1,2022-08-23,2022-08-25,2022,8,Revision bateria,Preventivo,False,2,428042,255.77,FlotaService,0
+321,17,1,2023-01-13,2023-01-22,2023,1,Reparacion motor,Correctivo,True,9,529557,4492.96,FlotaService,12
+322,17,1,2023-08-29,2023-09-01,2023,8,Cambio neumaticos,Preventivo,False,3,308460,1172.18,FlotaService,0
+323,17,1,2023-01-29,2023-01-29,2023,1,Cambio aceite,Preventivo,False,0,89327,157.43,TallerBus Norte,0
+324,17,1,2024-01-29,2024-01-30,2024,1,Cambio aceite,Preventivo,False,1,186567,238.22,Taller Oficial MAN,0
+325,17,1,2023-12-05,2023-12-07,2023,12,Cambio neumaticos,Preventivo,False,2,392444,1542.52,TallerBus Norte,0
+326,17,1,2022-01-11,2022-01-17,2022,1,Reparacion motor,Correctivo,True,6,205541,4437.77,ManteAuto S.L.,6
+327,17,1,2023-10-24,2023-10-26,2023,10,Revision bateria,Preventivo,False,2,527377,245.54,Taller Oficial Mercedes,0
+328,17,1,2022-09-22,2022-09-25,2022,9,Sistema electrico,Correctivo,True,3,62082,506.96,ManteAuto S.L.,12
+329,17,1,2022-12-19,2022-12-27,2022,12,Reparacion motor,Correctivo,True,8,257176,3930.72,Taller Oficial Mercedes,0
+330,17,1,2024-02-05,2024-02-06,2024,2,Cambio neumaticos,Preventivo,False,1,205992,1184.47,Taller Oficial MAN,0
+331,17,1,2024-03-15,2024-03-18,2024,3,Reparacion clima,Correctivo,True,3,533377,363.06,FlotaService,6
+332,17,1,2024-12-03,2024-12-04,2024,12,Revision periodica,Preventivo,False,1,83810,154.34,TallerBus Norte,0
+333,17,1,2022-03-31,2022-04-04,2022,3,Reparacion frenos,Correctivo,True,4,139465,785.28,TallerBus Norte,0
+334,17,1,2024-07-04,2024-07-06,2024,7,Reparacion clima,Correctivo,True,2,272511,885.54,FlotaService,12
+335,17,1,2024-01-19,2024-01-21,2024,1,Revision bateria,Preventivo,False,2,266385,357.52,ManteAuto S.L.,0
+336,17,1,2024-01-21,2024-01-22,2024,1,ITV e Inspeccion,Legal,False,1,322944,226.26,ManteAuto S.L.,0
+337,17,1,2022-10-28,2022-10-31,2022,10,Reparacion clima,Correctivo,True,3,360153,262.9,FlotaService,6
+338,17,1,2022-10-29,2022-10-30,2022,10,Revision periodica,Preventivo,False,1,434470,292.13,TallerBus Norte,0
+339,17,1,2024-10-31,2024-10-31,2024,10,Revision periodica,Preventivo,False,0,213378,122.33,TallerBus Norte,0
+340,18,1,2023-03-09,2023-03-12,2023,3,Reparacion clima,Correctivo,True,3,422609,276.42,ManteAuto S.L.,6
+341,18,1,2024-01-06,2024-01-08,2024,1,Carroceria y pintura,Estetico,False,2,335790,722.6,ManteAuto S.L.,0
+342,18,1,2024-08-19,2024-08-19,2024,8,Revision periodica,Preventivo,False,0,409005,168.78,ManteAuto S.L.,0
+343,18,1,2022-09-06,2022-09-08,2022,9,Reparacion frenos,Correctivo,True,2,228964,405.4,ManteAuto S.L.,12
+344,18,1,2022-07-17,2022-07-19,2022,7,Revision bateria,Preventivo,False,2,51269,456.45,ManteAuto S.L.,0
+345,18,1,2022-04-13,2022-04-13,2022,4,Cambio aceite,Preventivo,False,0,262080,232.99,Taller Oficial Mercedes,0
+346,18,1,2022-12-15,2022-12-17,2022,12,Carroceria y pintura,Estetico,False,2,522531,586.72,FlotaService,0
+347,18,1,2023-04-26,2023-04-26,2023,4,Cambio aceite,Preventivo,False,0,488512,134.3,FlotaService,0
+348,18,1,2022-01-24,2022-01-25,2022,1,Revision bateria,Preventivo,False,1,252681,435.46,FlotaService,0
+349,18,1,2022-04-09,2022-04-09,2022,4,Cambio aceite,Preventivo,False,0,502258,226.78,TallerBus Norte,0
+350,18,1,2023-03-21,2023-03-23,2023,3,Reparacion frenos,Correctivo,True,2,109569,943.03,ManteAuto S.L.,3
+351,18,1,2023-11-24,2023-11-26,2023,11,Reparacion frenos,Correctivo,True,2,513750,683.62,Taller Oficial Mercedes,3
+352,18,1,2022-01-05,2022-01-05,2022,1,ITV e Inspeccion,Legal,False,0,391860,272.19,Taller Oficial MAN,0
+353,18,1,2022-07-23,2022-07-24,2022,7,Revision bateria,Preventivo,False,1,404980,-233.91,Taller Oficial MAN,0
+354,18,1,2024-06-22,2024-06-23,2024,6,Revision periodica,Preventivo,False,1,43974,251.31,ManteAuto S.L.,0
+355,18,1,2024-09-26,2024-09-26,2024,9,Revision bateria,Preventivo,False,0,290603,552.98,ManteAuto S.L.,0
+356,18,1,2024-10-30,2024-11-02,2024,10,Reparacion clima,Correctivo,True,3,129351,810.69,Taller Oficial MAN,12
+357,18,1,2022-04-13,2022-04-13,2022,4,ITV e Inspeccion,,False,0,156165,258.38,ManteAuto S.L.,0
+358,18,1,2023-07-18,2023-07-20,2023,7,Carroceria y pintura,Estetico,False,2,23412,705.75,FlotaService,0
+359,18,1,2022-11-14,2022-11-16,2022,11,Reparacion clima,Correctivo,True,2,145745,750.76,ManteAuto S.L.,0
+360,18,1,2022-05-23,2022-05-25,2022,5,Cambio neumaticos,Preventivo,False,2,418894,1592.81,TallerBus Norte,0
+361,18,1,2022-05-19,2022-05-20,2022,5,Cambio aceite,Preventivo,False,1,234788,232.86,Taller Oficial MAN,0
+362,18,1,2023-05-27,2023-05-30,2023,5,Reparacion frenos,Correctivo,True,3,366532,812.94,Taller Oficial Mercedes,0
+363,18,1,2023-09-08,2023-09-08,2023,9,Cambio aceite,Preventivo,False,0,205177,218.35,ManteAuto S.L.,0
+364,18,1,2023-11-11,2023-11-12,2023,11,Cambio neumaticos,Preventivo,False,1,444726,1731.98,Taller Oficial MAN,0
+365,18,1,2022-10-26,2022-10-29,2022,10,Reparacion clima,Correctivo,True,3,63057,822.13,Taller Oficial MAN,0
+366,18,1,2024-05-19,2024-05-22,2024,5,Cambio neumaticos,Preventivo,False,3,25320,1559.99,ManteAuto S.L.,0
+367,18,1,2023-03-12,2023-03-13,2023,3,Cambio aceite,Preventivo,False,1,387295,172.62,FlotaService,0
+368,18,1,2024-12-24,2024-12-29,2024,12,Sistema electrico,Correctivo,True,5,26242,541.66,TallerBus Norte,6
+369,18,1,2023-06-24,2023-06-27,2023,6,Reparacion frenos,Correctivo,True,3,432416,844.72,TallerBus Norte,3
+370,19,1,2024-03-21,2024-03-22,2024,3,Cambio neumaticos,Preventivo,False,1,94761,1016.19,Taller Oficial Mercedes,0
+371,19,1,2024-12-11,2024-12-12,2024,12,Sistema electrico,Correctivo,True,1,145623,348.05,Taller Oficial MAN,12
+372,19,1,2024-10-03,2024-10-07,2024,10,Sistema electrico,Correctivo,True,4,196628,1304.27,FlotaService,12
+373,19,1,2024-10-12,2024-10-14,2024,10,Revision bateria,Preventivo,False,2,162072,390.07,FlotaService,0
+374,19,1,2023-01-10,2023-01-11,2023,1,Sistema electrico,Correctivo,True,1,459094,614.88,FlotaService,0
+375,19,1,2024-09-28,2024-09-30,2024,9,Reparacion clima,Correctivo,True,2,392841,681.35,Taller Oficial MAN,3
+376,19,1,2024-09-19,2024-09-19,2024,9,ITV e Inspeccion,Legal,False,0,294784,346.0,Taller Oficial MAN,0
+377,19,1,2023-02-07,2023-02-07,2023,2,ITV e Inspeccion,Legal,False,0,493812,350.83,ManteAuto S.L.,0
+378,19,1,2023-09-26,2023-09-29,2023,9,Reparacion clima,Correctivo,True,3,51590,571.89,FlotaService,0
+379,19,1,2023-12-31,2024-01-03,2023,12,Reparacion clima,Correctivo,True,3,136655,961.61,Taller Oficial MAN,12
+380,19,1,2024-07-02,2024-07-08,2024,7,Reparacion motor,Correctivo,True,6,235075,2949.96,TallerBus Norte,6
+381,19,1,2023-08-31,2023-09-01,2023,8,Carroceria y pintura,Estetico,False,1,352003,462.08,Taller Oficial MAN,0
+382,19,1,2023-09-18,2023-09-20,2023,9,Revision bateria,Preventivo,False,2,544887,221.64,Taller Oficial MAN,0
+383,19,1,2023-04-22,2023-04-24,2023,4,Revision bateria,Preventivo,False,2,405324,216.48,TallerBus Norte,0
+384,19,1,2023-05-10,2023-05-10,2023,5,Revision periodica,Preventivo,False,0,543225,138.05,TallerBus Norte,0
+385,19,1,2023-05-29,2023-05-29,2023,5,Cambio aceite,Preventivo,False,0,118994,233.09,TallerBus Norte,0
+386,19,1,2022-06-16,2022-06-18,2022,6,Revision bateria,Preventivo,False,2,176375,360.33,Taller Oficial Mercedes,0
+387,19,1,2022-10-01,2022-10-02,2022,10,Revision periodica,Preventivo,False,1,466369,269.22,FlotaService,0
+388,19,1,2024-07-31,2024-08-05,2024,7,Reparacion motor,Correctivo,True,5,158382,1961.74,FlotaService,12
+389,19,1,2024-05-31,2024-06-02,2024,5,Cambio neumaticos,Preventivo,False,2,282675,1674.6,FlotaService,0
+390,19,1,2024-09-20,2024-09-21,2024,9,Sistema electrico,Correctivo,True,1,224982,514.07,Taller Oficial Mercedes,12
+391,19,1,2022-03-16,2022-03-16,2022,3,Revision periodica,Preventivo,False,0,530841,271.15,TallerBus Norte,0
+392,19,1,2022-02-26,2022-02-26,2022,2,Revision periodica,Preventivo,False,0,224693,139.14,Taller Oficial Mercedes,0
+393,19,1,2023-08-26,2023-08-27,2023,8,Revision periodica,Preventivo,False,1,254068,126.61,TallerBus Norte,0
+394,19,1,2023-10-07,2023-10-08,2023,10,Reparacion clima,Correctivo,True,1,255263,429.3,ManteAuto S.L.,0
+395,19,1,2022-12-21,2022-12-22,2022,12,Carroceria y pintura,Estetico,False,1,124913,657.27,ManteAuto S.L.,0
+396,19,1,2024-10-09,2024-10-13,2024,10,Sistema electrico,Correctivo,True,4,207185,378.68,FlotaService,12
+397,19,1,2024-11-17,2024-11-18,2024,11,Revision periodica,Preventivo,False,1,258808,119.19,Taller Oficial MAN,0
+398,19,1,2024-08-27,2024-08-27,2024,8,Cambio aceite,Preventivo,False,0,268184,225.3,ManteAuto S.L.,0
+399,19,1,2024-07-22,2024-07-23,2024,7,Revision periodica,Preventivo,False,1,107352,264.17,Taller Oficial MAN,0
+400,20,1,2023-08-24,2023-08-28,2023,8,Reparacion frenos,Correctivo,True,4,283161,1181.63,Taller Oficial MAN,3
+401,20,1,2024-07-15,2024-07-22,2024,7,Reparacion motor,Correctivo,True,7,150408,1606.36,Taller Oficial Mercedes,0
+402,20,1,2024-05-29,2024-05-30,2024,5,Revision periodica,Preventivo,False,1,11101,92.18,ManteAuto S.L.,0
+403,20,1,2024-05-27,2024-05-27,2024,5,Revision periodica,Preventivo,False,0,198727,234.34,Taller Oficial Mercedes,0
+404,20,1,2022-03-02,2022-03-12,2022,3,Reparacion motor,Correctivo,True,10,124945,4894.29,FlotaService,3
+405,20,1,2022-01-14,2022-01-16,2022,1,Revision bateria,Preventivo,False,2,482522,416.9,TallerBus Norte,0
+406,20,1,2023-03-07,2023-03-09,2023,3,Carroceria y pintura,Estetico,False,2,435575,341.0,TallerBus Norte,0
+407,20,1,2024-01-01,2024-01-03,2024,1,Carroceria y pintura,Estetico,False,2,89766,634.07,ManteAuto S.L.,0
+408,20,1,2023-11-12,2023-11-13,2023,11,Cambio aceite,Preventivo,False,1,161854,159.62,Taller Oficial MAN,0
+409,20,1,2024-06-07,2024-06-08,2024,6,Revision periodica,Preventivo,False,1,513281,267.05,ManteAuto S.L.,0
+410,20,1,2023-01-17,2023-01-18,2023,1,Carroceria y pintura,Estetico,False,1,168909,723.69,Taller Oficial Mercedes,0
+411,20,1,2024-08-11,2024-08-12,2024,8,Cambio aceite,Preventivo,False,1,266854,245.59,ManteAuto S.L.,0
+412,20,1,2024-01-20,2024-01-21,2024,1,Carroceria y pintura,Estetico,False,1,181471,628.06,Taller Oficial MAN,0
+413,20,1,2023-06-11,2023-06-11,2023,6,Cambio aceite,Preventivo,False,0,372026,153.67,Taller Oficial MAN,0
+414,20,1,2023-01-29,2023-01-31,2023,1,Carroceria y pintura,Estetico,False,2,519656,251.85,Taller Oficial Mercedes,0
+415,20,1,2023-02-16,2023-02-17,2023,2,Carroceria y pintura,Estetico,False,1,109922,716.42,FlotaService,0
+416,21,2,2023-02-22,2023-02-22,2023,2,Revision bateria,Preventivo,False,0,72783,548.12,Taller Oficial Mercedes,0
+417,21,2,2023-11-17,2023-11-20,2023,11,Reparacion clima,Correctivo,True,3,212494,720.88,ManteAuto S.L.,6
+418,21,2,2023-01-22,2023-01-23,2023,1,Cambio aceite,Preventivo,False,1,537090,135.09,Taller Oficial Mercedes,0
+419,21,2,2024-06-24,2024-06-27,2024,6,Reparacion clima,Correctivo,True,3,535973,599.63,Taller Oficial MAN,0
+420,21,2,2022-04-02,2022-04-05,2022,4,Reparacion motor,Correctivo,True,3,292113,3340.01,Taller Oficial Mercedes,3
+421,21,2,2024-11-02,2024-11-02,2024,11,Cambio aceite,Preventivo,False,0,278137,127.64,Taller Oficial MAN,0
+422,21,2,2023-09-09,2023-09-11,2023,9,Cambio neumaticos,Preventivo,False,2,87075,934.53,ManteAuto S.L.,0
+423,21,2,2022-06-26,2022-06-27,2022,6,Cambio aceite,Preventivo,False,1,494097,141.43,Taller Oficial MAN,0
+424,21,2,2022-11-03,2022-11-05,2022,11,Carroceria y pintura,Estetico,False,2,107661,322.54,Taller Oficial Mercedes,0
+425,21,2,2022-01-02,2022-01-04,2022,1,Reparacion frenos,,True,2,195046,999.23,Taller Oficial MAN,3
+426,21,2,2023-09-02,2023-09-04,2023,9,Revision bateria,Preventivo,False,2,404807,518.58,TallerBus Norte,0
+427,21,2,2024-05-21,2024-05-22,2024,5,Cambio neumaticos,Preventivo,False,1,156750,1326.09,ManteAuto S.L.,0
+428,21,2,2024-12-22,2024-12-23,2024,12,Carroceria y pintura,Estetico,False,1,321051,426.95,ManteAuto S.L.,0
+429,21,2,2023-01-13,2023-01-14,2023,1,Revision bateria,Preventivo,False,1,276100,395.71,FlotaService,0
+430,21,2,2024-04-21,2024-04-27,2024,4,Reparacion motor,Correctivo,True,6,411622,3585.09,TallerBus Norte,0
+431,22,2,2024-07-20,2024-07-22,2024,7,Carroceria y pintura,Estetico,False,2,250798,279.19,ManteAuto S.L.,0
+432,22,2,2023-01-24,2023-01-28,2023,1,Reparacion motor,Correctivo,True,4,286906,919.08,Taller Oficial MAN,0
+433,22,2,2023-07-23,2023-07-26,2023,7,Reparacion clima,Correctivo,True,3,52107,293.95,TallerBus Norte,6
+434,22,2,2024-06-06,2024-06-07,2024,6,ITV e Inspeccion,,False,1,317132,320.06,Taller Oficial MAN,0
+435,22,2,2023-05-10,2023-05-10,2023,5,ITV e Inspeccion,Legal,False,0,192194,351.94,Taller Oficial MAN,0
+436,22,2,2024-06-27,2024-06-28,2024,6,Reparacion clima,Correctivo,True,1,451068,447.54,TallerBus Norte,0
+437,22,2,2024-06-21,2024-06-26,2024,6,Reparacion motor,Correctivo,True,5,435525,4421.06,FlotaService,12
+438,22,2,2024-01-26,2024-01-27,2024,1,ITV e Inspeccion,,False,1,240474,252.94,Taller Oficial Mercedes,0
+439,22,2,2023-07-27,2023-08-01,2023,7,Reparacion motor,Correctivo,True,5,251734,3243.47,FlotaService,12
+440,22,2,2023-12-05,2023-12-05,2023,12,Cambio aceite,Preventivo,False,0,230566,147.06,Taller Oficial Mercedes,0
+441,22,2,2023-08-30,2023-09-01,2023,8,Revision bateria,Preventivo,False,2,410871,315.03,Taller Oficial Mercedes,0
+442,22,2,2023-05-15,2023-05-17,2023,5,Reparacion clima,Correctivo,True,2,454484,265.54,Taller Oficial Mercedes,12
+443,22,2,2024-11-14,2024-11-15,2024,11,Revision periodica,Preventivo,False,1,138091,177.99,Taller Oficial MAN,0
+444,22,2,2024-08-04,2024-08-05,2024,8,Carroceria y pintura,Estetico,False,1,45490,649.0,Taller Oficial Mercedes,0
+445,22,2,2023-08-20,2023-08-20,2023,8,ITV e Inspeccion,Legal,False,0,414368,397.89,FlotaService,0
+446,22,2,2023-08-22,2023-08-23,2023,8,Reparacion clima,Correctivo,True,1,202677,965.04,ManteAuto S.L.,12
+447,22,2,2023-03-05,2023-03-06,2023,3,Reparacion clima,Correctivo,True,1,220492,872.0,Taller Oficial MAN,0
+448,22,2,2024-04-19,2024-04-19,2024,4,Revision periodica,Preventivo,False,0,326212,133.57,Taller Oficial Mercedes,0
+449,22,2,2024-11-02,2024-11-03,2024,11,Cambio neumaticos,Preventivo,False,1,271184,1503.8,ManteAuto S.L.,0
+450,22,2,2023-10-24,2023-10-27,2023,10,Cambio neumaticos,Preventivo,False,3,354022,832.67,FlotaService,0
+451,22,2,2024-09-06,2024-09-10,2024,9,Reparacion frenos,Correctivo,True,4,495951,861.66,TallerBus Norte,6
+452,22,2,2023-11-04,2023-11-05,2023,11,Sistema electrico,Correctivo,True,1,470034,654.81,TallerBus Norte,12
+453,22,2,2024-09-03,2024-09-05,2024,9,Cambio neumaticos,Preventivo,False,2,172495,1655.94,FlotaService,0
+454,22,2,2023-04-17,2023-04-18,2023,4,Cambio neumaticos,Preventivo,False,1,51966,1748.45,Taller Oficial Mercedes,0
+455,22,2,2023-04-26,2023-04-26,2023,4,Cambio aceite,Preventivo,False,0,217111,172.6,Taller Oficial Mercedes,0
+456,22,2,2024-12-18,2024-12-22,2024,12,Sistema electrico,Correctivo,True,4,39407,1336.67,TallerBus Norte,6
+457,22,2,2023-07-05,2023-07-06,2023,7,Revision bateria,Preventivo,False,1,301389,341.73,ManteAuto S.L.,0
+458,22,2,2024-02-07,2024-02-07,2024,2,Revision periodica,Preventivo,False,0,421150,132.94,Taller Oficial Mercedes,0
+459,22,2,2023-08-07,2023-08-09,2023,8,Reparacion clima,Correctivo,True,2,131042,523.22,Taller Oficial MAN,0
+460,23,3,2024-08-27,2024-08-28,2024,8,Cambio aceite,Preventivo,False,1,506414,134.1,FlotaService,0
+461,23,3,2024-02-19,2024-02-20,2024,2,Sistema electrico,Correctivo,True,1,332282,996.3,ManteAuto S.L.,6
+462,23,3,2024-11-23,2024-11-25,2024,11,Reparacion clima,Correctivo,True,2,143550,453.94,FlotaService,3
+463,23,3,2024-02-07,2024-02-08,2024,2,ITV e Inspeccion,Legal,False,1,83984,344.5,ManteAuto S.L.,0
+464,23,3,2024-07-18,2024-07-19,2024,7,Reparacion clima,Correctivo,True,1,284332,294.19,TallerBus Norte,0
+465,23,3,2024-05-12,2024-05-13,2024,5,ITV e Inspeccion,Legal,False,1,177286,154.34,Taller Oficial Mercedes,0
+466,23,3,2024-05-27,2024-05-27,2024,5,Revision periodica,Preventivo,False,0,275110,268.81,FlotaService,0
+467,23,3,2024-10-01,2024-10-01,2024,10,ITV e Inspeccion,Legal,False,0,166173,370.2,FlotaService,0
+468,23,3,2024-02-11,2024-02-14,2024,2,Cambio neumaticos,Preventivo,False,3,46637,636.42,Taller Oficial MAN,0
+469,23,3,2024-02-22,2024-02-24,2024,2,Revision bateria,Preventivo,False,2,516658,311.18,TallerBus Norte,0
+470,23,3,2024-02-20,2024-02-21,2024,2,Cambio aceite,Preventivo,False,1,384756,168.83,ManteAuto S.L.,0
+471,23,3,2024-07-02,2024-07-04,2024,7,Carroceria y pintura,Estetico,False,2,242904,650.29,TallerBus Norte,0
+472,23,3,2024-07-13,2024-07-14,2024,7,Reparacion clima,Correctivo,True,1,169872,988.12,TallerBus Norte,3
+473,23,3,2024-04-21,2024-04-22,2024,4,Reparacion frenos,Correctivo,True,1,545987,826.53,TallerBus Norte,3
+474,23,3,2024-02-10,2024-02-13,2024,2,Carroceria y pintura,Estetico,False,3,256974,562.28,ManteAuto S.L.,0
+475,23,3,2024-08-06,2024-08-09,2024,8,Reparacion clima,Correctivo,True,3,198538,507.68,Taller Oficial Mercedes,12
+476,23,3,2024-11-29,2024-11-30,2024,11,Revision bateria,Preventivo,False,1,95506,-349.48,FlotaService,0
+477,23,3,2024-07-12,2024-07-20,2024,7,Reparacion motor,Correctivo,True,8,224169,3301.23,TallerBus Norte,12
+478,24,3,2024-01-30,2024-01-31,2024,1,Carroceria y pintura,Estetico,False,1,382505,396.13,TallerBus Norte,0
+479,24,3,2024-06-25,2024-06-27,2024,6,Sistema electrico,Correctivo,True,2,10222,672.22,TallerBus Norte,6
+480,24,3,2024-09-04,2024-09-09,2024,9,Reparacion motor,Correctivo,True,5,380270,4350.76,FlotaService,6
+481,24,3,2024-12-16,2024-12-21,2024,12,Sistema electrico,Correctivo,True,5,16582,494.31,TallerBus Norte,0
+482,24,3,2024-10-15,2024-10-15,2024,10,Cambio aceite,Preventivo,False,0,160061,205.33,Taller Oficial Mercedes,0
+483,24,3,2024-08-16,2024-08-18,2024,8,Sistema electrico,Correctivo,True,2,305842,667.9,FlotaService,6
+484,24,3,2024-12-21,2024-12-22,2024,12,ITV e Inspeccion,Legal,False,1,19929,229.87,TallerBus Norte,0
+485,24,3,2024-08-09,2024-08-10,2024,8,Cambio aceite,Preventivo,False,1,546259,223.22,FlotaService,0
+486,24,3,2024-05-22,2024-05-25,2024,5,Reparacion frenos,Correctivo,True,3,356876,423.89,ManteAuto S.L.,3
+487,24,3,2024-03-18,2024-03-21,2024,3,Cambio neumaticos,Preventivo,False,3,302713,947.56,ManteAuto S.L.,0
+488,24,3,2024-08-14,2024-08-14,2024,8,ITV e Inspeccion,Legal,False,0,66568,321.73,ManteAuto S.L.,0
+489,24,3,2024-09-06,2024-09-07,2024,9,Sistema electrico,Correctivo,True,1,222919,505.96,FlotaService,0
+490,24,3,2024-10-20,2024-10-21,2024,10,Cambio aceite,Preventivo,False,1,232929,189.69,TallerBus Norte,0
+491,24,3,2024-02-03,2024-02-04,2024,2,Reparacion frenos,Correctivo,True,1,517871,872.85,Taller Oficial Mercedes,6
+492,24,3,2024-07-31,2024-08-01,2024,7,Revision periodica,Preventivo,False,1,138959,161.28,FlotaService,0
+493,24,3,2024-02-05,2024-02-06,2024,2,Reparacion clima,Correctivo,True,1,252707,827.62,Taller Oficial Mercedes,12
+494,24,3,2024-11-11,2024-11-11,2024,11,Revision periodica,Preventivo,False,0,168094,198.14,Taller Oficial Mercedes,0
+495,25,2,2023-05-13,2023-05-15,2023,5,Carroceria y pintura,Estetico,False,2,447109,555.63,Taller Oficial MAN,0
+496,25,2,2022-09-07,2022-09-09,2022,9,Carroceria y pintura,Estetico,False,2,481191,567.87,Taller Oficial MAN,0
+497,25,2,2023-03-15,2023-03-20,2023,3,Sistema electrico,Correctivo,True,5,150951,1975.35,FlotaService,3
+498,25,2,2023-02-06,2023-02-07,2023,2,Carroceria y pintura,Estetico,False,1,542608,615.54,Taller Oficial MAN,0
+499,25,2,2024-03-24,2024-03-24,2024,3,ITV e Inspeccion,Legal,False,0,141701,235.63,TallerBus Norte,0
+500,25,2,2022-02-21,2022-02-22,2022,2,Revision periodica,Preventivo,False,1,175065,185.15,Taller Oficial Mercedes,0
+501,25,2,2024-11-24,2024-11-26,2024,11,Cambio neumaticos,Preventivo,False,2,312810,1306.48,Taller Oficial MAN,0
+502,25,2,2024-09-13,2024-09-16,2024,9,Reparacion motor,Correctivo,True,3,538789,1494.03,Taller Oficial Mercedes,3
+503,25,2,2022-07-14,2022-07-15,2022,7,Cambio aceite,Preventivo,False,1,361432,126.15,FlotaService,0
+504,25,2,2023-07-17,2023-07-17,2023,7,Cambio aceite,Preventivo,False,0,536068,179.58,FlotaService,0
+505,25,2,2024-03-26,2024-03-27,2024,3,Carroceria y pintura,Estetico,False,1,514152,678.82,Taller Oficial MAN,0
+506,25,2,2024-12-11,2024-12-12,2024,12,Reparacion clima,Correctivo,True,1,154259,294.12,Taller Oficial Mercedes,0
+507,25,2,2022-08-17,2022-08-18,2022,8,Cambio neumaticos,Preventivo,False,1,53252,1536.49,FlotaService,0
+508,25,2,2022-09-21,2022-09-22,2022,9,Cambio neumaticos,Preventivo,False,1,314641,1080.9,ManteAuto S.L.,0
+509,26,1,2024-12-06,2024-12-06,2024,12,ITV e Inspeccion,Legal,False,0,481479,297.76,Taller Oficial MAN,0
+510,26,1,2024-09-06,2024-09-08,2024,9,Carroceria y pintura,Estetico,False,2,392673,278.06,Taller Oficial MAN,0
+511,26,1,2024-05-15,2024-05-23,2024,5,Reparacion motor,Correctivo,True,8,258477,2099.03,ManteAuto S.L.,6
+512,26,1,2024-07-29,2024-07-30,2024,7,Cambio aceite,Preventivo,False,1,380253,134.92,ManteAuto S.L.,0
+513,26,1,2023-06-15,2023-06-15,2023,6,Revision periodica,Preventivo,False,0,302000,95.8,ManteAuto S.L.,0
+514,26,1,2024-03-24,2024-03-26,2024,3,Reparacion clima,Correctivo,True,2,88325,681.58,ManteAuto S.L.,0
+515,26,1,2024-03-21,2024-03-22,2024,3,Reparacion clima,Correctivo,True,1,41346,379.11,Taller Oficial MAN,12
+516,26,1,2023-12-22,2023-12-23,2023,12,Revision periodica,Preventivo,False,1,427773,286.56,TallerBus Norte,0
+517,26,1,2024-07-27,2024-07-28,2024,7,Carroceria y pintura,Estetico,False,1,459146,295.28,Taller Oficial MAN,0
+518,26,1,2024-09-12,2024-09-12,2024,9,Cambio aceite,Preventivo,False,0,467024,144.16,ManteAuto S.L.,0
+519,26,1,2024-01-17,2024-01-20,2024,1,Reparacion clima,Correctivo,True,3,521360,782.43,Taller Oficial MAN,12
+520,26,1,2023-05-31,2023-06-03,2023,5,Carroceria y pintura,Estetico,False,3,444479,479.94,TallerBus Norte,0
+521,26,1,2024-09-13,2024-09-13,2024,9,Revision periodica,Preventivo,False,0,113520,267.8,Taller Oficial MAN,0
+522,26,1,2023-02-22,2023-02-24,2023,2,Carroceria y pintura,Estetico,False,2,381414,237.66,TallerBus Norte,0
+523,26,1,2023-12-29,2023-12-29,2023,12,Cambio aceite,Preventivo,False,0,224754,208.32,TallerBus Norte,0
+524,26,1,2023-11-23,2023-11-25,2023,11,Reparacion clima,Correctivo,True,2,29302,617.71,Taller Oficial Mercedes,6
+525,26,1,2023-11-08,2023-11-11,2023,11,Reparacion clima,Correctivo,True,3,375786,333.42,ManteAuto S.L.,0
+526,26,1,2024-03-21,2024-03-22,2024,3,ITV e Inspeccion,Legal,False,1,271652,188.03,Taller Oficial Mercedes,0
+527,26,1,2024-04-29,2024-04-29,2024,4,Revision periodica,Preventivo,False,0,478988,283.43,TallerBus Norte,0
+528,26,1,2023-02-16,2023-02-16,2023,2,Revision periodica,Preventivo,False,0,375571,280.62,ManteAuto S.L.,0
+529,26,1,2023-12-04,2023-12-05,2023,12,Reparacion clima,Correctivo,True,1,247121,839.96,Taller Oficial MAN,12
+530,26,1,2024-09-05,2024-09-07,2024,9,Reparacion frenos,Correctivo,True,2,542629,881.67,Taller Oficial Mercedes,0
+531,26,1,2023-05-02,2023-05-02,2023,5,Cambio aceite,Preventivo,False,0,54849,178.01,Taller Oficial Mercedes,0
+532,26,1,2024-07-07,2024-07-08,2024,7,Revision periodica,Preventivo,False,1,52617,282.19,FlotaService,0
+533,26,1,2024-04-22,2024-04-25,2024,4,Reparacion clima,Correctivo,True,3,12536,341.92,Taller Oficial Mercedes,0
+534,26,1,2023-06-23,2023-06-25,2023,6,Revision bateria,Preventivo,False,2,429382,513.86,TallerBus Norte,0
+535,26,1,2023-02-23,2023-02-23,2023,2,Revision periodica,Preventivo,False,0,150867,111.09,FlotaService,0
+536,26,1,2023-05-23,2023-05-26,2023,5,Reparacion motor,Correctivo,True,3,18238,3205.4,FlotaService,6
+537,26,1,2023-12-19,2023-12-19,2023,12,Revision periodica,,False,0,46856,199.55,TallerBus Norte,0
+538,26,1,2024-10-05,2024-10-06,2024,10,ITV e Inspeccion,Legal,False,1,507925,155.78,TallerBus Norte,0
+539,27,2,2023-09-17,2023-09-21,2023,9,Sistema electrico,Correctivo,True,4,222765,767.54,ManteAuto S.L.,0
+540,27,2,2024-03-31,2024-04-01,2024,3,ITV e Inspeccion,Legal,False,1,286846,388.02,Taller Oficial MAN,0
+541,27,2,2022-08-09,2022-08-11,2022,8,Reparacion clima,Correctivo,True,2,184440,814.74,Taller Oficial Mercedes,6
+542,27,2,2024-11-12,2024-11-13,2024,11,Cambio aceite,Preventivo,False,1,471005,136.84,TallerBus Norte,0
+543,27,2,2024-02-22,2024-02-25,2024,2,Reparacion motor,Correctivo,True,3,390954,4351.87,Taller Oficial Mercedes,0
+544,27,2,2022-08-10,2022-08-13,2022,8,Sistema electrico,,True,3,386581,1795.39,Taller Oficial Mercedes,3
+545,27,2,2022-07-19,2022-07-23,2022,7,Reparacion frenos,Correctivo,True,4,456911,448.22,Taller Oficial MAN,6
+546,27,2,2022-12-09,2022-12-10,2022,12,Cambio neumaticos,Preventivo,False,1,95567,1288.32,Taller Oficial Mercedes,0
+547,27,2,2023-12-30,2024-01-02,2023,12,Cambio neumaticos,Preventivo,False,3,476426,1253.26,Taller Oficial Mercedes,0
+548,27,2,2023-01-16,2023-01-17,2023,1,Sistema electrico,Correctivo,True,1,251109,612.63,ManteAuto S.L.,3
+549,28,2,2023-11-19,2023-11-21,2023,11,Cambio neumaticos,Preventivo,False,2,523482,1368.18,Taller Oficial MAN,0
+550,28,2,2024-12-28,2024-12-29,2024,12,Reparacion clima,Correctivo,True,1,107078,418.33,Taller Oficial MAN,0
+551,28,2,2022-05-07,2022-05-10,2022,5,Sistema electrico,Correctivo,True,3,266137,1992.61,ManteAuto S.L.,6
+552,28,2,2024-01-05,2024-01-14,2024,1,Reparacion motor,Correctivo,True,9,173282,4968.74,TallerBus Norte,0
+553,28,2,2024-10-15,2024-10-16,2024,10,Reparacion frenos,Correctivo,True,1,60097,883.85,Taller Oficial MAN,0
+554,28,2,2023-12-23,2023-12-23,2023,12,Cambio aceite,Preventivo,False,0,385551,143.3,Taller Oficial MAN,0
+555,28,2,2023-02-15,2023-02-18,2023,2,Carroceria y pintura,Estetico,False,3,511904,288.46,Taller Oficial MAN,0
+556,28,2,2023-12-08,2023-12-09,2023,12,Sistema electrico,Correctivo,True,1,425627,1928.84,Taller Oficial MAN,12
+557,28,2,2024-07-18,2024-07-18,2024,7,ITV e Inspeccion,Legal,False,0,330873,225.62,ManteAuto S.L.,0
+558,29,1,2025-01-01,2025-01-02,2025,1,Reparacion frenos,Correctivo,True,1,106384,1122.45,FlotaService,6
+559,29,1,2025-01-01,2025-01-01,2025,1,Revision bateria,Preventivo,False,0,364716,543.2,ManteAuto S.L.,0
+560,29,1,2025-01-01,2025-01-06,2025,1,Sistema electrico,Correctivo,True,5,398046,1347.93,FlotaService,0
+561,29,1,2025-01-01,2025-01-02,2025,1,Cambio aceite,Preventivo,False,1,546981,171.13,FlotaService,0
+562,29,1,2025-01-01,2025-01-02,2025,1,Revision bateria,Preventivo,False,1,263017,458.7,Taller Oficial Mercedes,0
+563,29,1,2025-01-01,2025-01-03,2025,1,Cambio neumaticos,Preventivo,False,2,324811,898.31,ManteAuto S.L.,0
+564,29,1,2025-01-01,2025-01-02,2025,1,ITV e Inspeccion,Legal,False,1,275584,323.44,Taller Oficial MAN,0
+565,29,1,2025-01-01,2025-01-01,2025,1,ITV e Inspeccion,Legal,False,0,524091,329.89,Taller Oficial MAN,0
+566,29,1,2025-01-01,2025-01-02,2025,1,Revision bateria,Preventivo,False,1,394132,295.65,FlotaService,0
+567,29,1,2025-01-01,2025-01-11,2025,1,Reparacion motor,Correctivo,True,10,270176,1515.23,Taller Oficial MAN,6
+568,29,1,2025-01-01,2025-01-02,2025,1,Reparacion clima,Correctivo,True,1,114049,970.93,Taller Oficial Mercedes,12
+569,29,1,2025-01-01,2025-01-02,2025,1,Reparacion frenos,Correctivo,True,1,198297,908.27,ManteAuto S.L.,12
+570,29,1,2025-01-01,2025-01-04,2025,1,Carroceria y pintura,Estetico,False,3,136858,568.48,FlotaService,0
+571,29,1,2025-01-01,2025-01-03,2025,1,Reparacion clima,Correctivo,True,2,159331,937.09,FlotaService,3
+572,29,1,2025-01-01,2025-01-03,2025,1,Cambio neumaticos,Preventivo,False,2,181691,1758.8,TallerBus Norte,0
+573,29,1,2025-01-01,2025-01-02,2025,1,Cambio aceite,Preventivo,False,1,370626,125.89,Taller Oficial MAN,0
+574,29,1,2025-01-01,2025-01-02,2025,1,Cambio aceite,Preventivo,False,1,236154,-223.52,ManteAuto S.L.,0
+575,29,1,2025-01-01,2025-01-06,2025,1,Sistema electrico,Correctivo,True,5,125564,648.58,ManteAuto S.L.,6
+576,29,1,2025-01-01,2025-01-04,2025,1,Cambio neumaticos,Preventivo,False,3,23475,768.39,Taller Oficial Mercedes,0
+577,29,1,2025-01-01,2025-01-03,2025,1,Reparacion clima,Correctivo,True,2,139077,435.89,ManteAuto S.L.,6
+578,30,2,2022-01-07,2022-01-07,2022,1,ITV e Inspeccion,Legal,False,0,207817,392.4,Taller Oficial Mercedes,0
+579,30,2,2022-05-13,2022-05-13,2022,5,Revision periodica,Preventivo,False,0,80651,278.05,Taller Oficial Mercedes,0
+580,30,2,2023-03-31,2023-04-03,2023,3,Cambio neumaticos,Preventivo,False,3,18894,1768.42,Taller Oficial MAN,0
+581,30,2,2023-12-31,2024-01-01,2023,12,Revision periodica,Preventivo,False,1,314686,141.56,ManteAuto S.L.,0
+582,30,2,2023-11-04,2023-11-08,2023,11,Sistema electrico,Correctivo,True,4,206649,1203.56,ManteAuto S.L.,0
+583,30,2,2023-08-05,2023-08-09,2023,8,Reparacion frenos,Correctivo,True,4,185073,1116.44,FlotaService,12
+584,30,2,2024-03-02,2024-03-02,2024,3,ITV e Inspeccion,Legal,False,0,54371,251.84,FlotaService,0
+585,30,2,2022-05-01,2022-05-02,2022,5,Reparacion clima,Correctivo,True,1,114667,870.35,Taller Oficial Mercedes,6
+586,30,2,2024-11-11,2024-11-14,2024,11,Reparacion motor,Correctivo,True,3,533363,3461.59,FlotaService,3
+587,30,2,2022-06-22,2022-06-23,2022,6,Revision periodica,Preventivo,False,1,115022,81.92,Taller Oficial Mercedes,0
+588,30,2,2022-07-07,2022-07-08,2022,7,ITV e Inspeccion,Legal,False,1,133172,372.97,Taller Oficial Mercedes,0
+589,30,2,2024-03-05,2024-03-06,2024,3,Cambio aceite,Preventivo,False,1,31138,169.08,FlotaService,0
+590,31,3,2022-10-28,2022-10-28,2022,10,ITV e Inspeccion,Legal,False,0,354854,349.89,TallerBus Norte,0
+591,31,3,2024-04-05,2024-04-06,2024,4,ITV e Inspeccion,Legal,False,1,302175,367.71,ManteAuto S.L.,0
+592,31,3,2022-04-01,2022-04-02,2022,4,Sistema electrico,Correctivo,True,1,254789,1900.97,Taller Oficial Mercedes,6
+593,31,3,2024-10-03,2024-10-06,2024,10,Sistema electrico,Correctivo,True,3,158727,1424.19,TallerBus Norte,6
+594,31,3,2024-08-25,2024-08-27,2024,8,Sistema electrico,Correctivo,True,2,459368,517.69,FlotaService,0
+595,31,3,2022-09-20,2022-09-20,2022,9,Cambio aceite,Preventivo,False,0,421754,223.92,Taller Oficial MAN,0
+596,31,3,2023-07-29,2023-07-29,2023,7,Revision periodica,Preventivo,False,0,318694,273.52,TallerBus Norte,0
+597,31,3,2024-01-02,2024-01-10,2024,1,Reparacion motor,Correctivo,True,8,254754,1705.8,ManteAuto S.L.,12
+598,31,3,2022-09-25,2022-09-26,2022,9,Cambio aceite,Preventivo,False,1,537884,143.2,Taller Oficial Mercedes,0
+599,31,3,2022-05-17,2022-05-18,2022,5,Cambio neumaticos,Preventivo,False,1,298805,968.13,FlotaService,0
+600,31,3,2022-01-27,2022-01-28,2022,1,Revision bateria,Preventivo,False,1,431117,355.61,ManteAuto S.L.,0
+601,31,3,2024-09-07,2024-09-07,2024,9,ITV e Inspeccion,Legal,False,0,107006,231.64,ManteAuto S.L.,0
+602,31,3,2024-06-30,2024-07-02,2024,6,Reparacion frenos,Correctivo,True,2,119919,1149.84,FlotaService,12
+603,31,3,2024-03-28,2024-03-30,2024,3,Reparacion frenos,Correctivo,True,2,149959,1088.13,TallerBus Norte,12
+604,31,3,2022-06-04,2022-06-07,2022,6,Carroceria y pintura,Estetico,False,3,236169,673.31,TallerBus Norte,0
+605,31,3,2024-01-10,2024-01-12,2024,1,Revision bateria,Preventivo,False,2,473520,499.9,TallerBus Norte,0
+606,31,3,2022-08-30,2022-08-30,2022,8,Revision periodica,Preventivo,False,0,422233,275.27,Taller Oficial MAN,0
+607,31,3,2022-07-29,2022-07-30,2022,7,Revision bateria,Preventivo,False,1,463861,346.03,ManteAuto S.L.,0
+608,31,3,2023-01-09,2023-01-10,2023,1,Sistema electrico,Correctivo,True,1,391836,424.97,ManteAuto S.L.,6
+609,31,3,2023-08-07,2023-08-09,2023,8,Reparacion clima,Correctivo,True,2,44093,405.36,ManteAuto S.L.,6
+610,31,3,2024-07-19,2024-07-19,2024,7,ITV e Inspeccion,Legal,False,0,430065,189.05,TallerBus Norte,0
+611,31,3,2023-07-01,2023-07-01,2023,7,Revision periodica,Preventivo,False,0,90018,111.1,Taller Oficial MAN,0
+612,31,3,2022-11-20,2022-11-23,2022,11,Cambio neumaticos,Preventivo,False,3,85512,1555.22,Taller Oficial MAN,0
+613,31,3,2024-01-02,2024-01-03,2024,1,Reparacion clima,Correctivo,True,1,461017,634.98,Taller Oficial Mercedes,0
+614,31,3,2024-09-03,2024-09-04,2024,9,Revision periodica,Preventivo,False,1,264032,129.2,ManteAuto S.L.,0
+615,31,3,2022-06-04,2022-06-05,2022,6,Sistema electrico,Correctivo,True,1,10393,1681.12,FlotaService,6
+616,31,3,2024-04-15,2024-04-16,2024,4,Reparacion frenos,Correctivo,True,1,549625,969.35,Taller Oficial MAN,6
+617,31,3,2022-04-01,2022-04-02,2022,4,Cambio neumaticos,Preventivo,False,1,346270,1550.86,Taller Oficial MAN,0
+618,32,2,2023-07-02,2023-07-03,2023,7,Reparacion frenos,Correctivo,True,1,536547,1008.25,FlotaService,3
+619,32,2,2022-06-26,2022-06-28,2022,6,Reparacion frenos,Correctivo,True,2,15851,774.27,ManteAuto S.L.,6
+620,32,2,2023-12-06,2023-12-09,2023,12,Carroceria y pintura,Estetico,False,3,480820,620.1,Taller Oficial MAN,0
+621,32,2,2023-10-09,2023-10-10,2023,10,Reparacion clima,Correctivo,True,1,39327,729.35,ManteAuto S.L.,0
+622,32,2,2023-08-19,2023-08-20,2023,8,ITV e Inspeccion,Legal,False,1,292800,314.21,TallerBus Norte,0
+623,32,2,2023-01-14,2023-01-17,2023,1,Carroceria y pintura,Estetico,False,3,447803,213.48,ManteAuto S.L.,0
+624,32,2,2022-04-20,2022-04-21,2022,4,Revision bateria,Preventivo,False,1,429362,447.01,Taller Oficial MAN,0
+625,32,2,2022-05-08,2022-05-08,2022,5,Revision periodica,Preventivo,False,0,409240,219.28,TallerBus Norte,0
+626,32,2,2024-12-15,2024-12-16,2024,12,ITV e Inspeccion,Legal,False,1,386580,246.79,TallerBus Norte,0
+627,32,2,2024-03-21,2024-03-22,2024,3,Cambio aceite,Preventivo,False,1,56817,140.87,TallerBus Norte,0
+628,32,2,2022-10-30,2022-10-30,2022,10,Revision periodica,Preventivo,False,0,167247,298.62,Taller Oficial MAN,0
+629,32,2,2023-12-16,2023-12-17,2023,12,Cambio aceite,Preventivo,False,1,51823,219.54,FlotaService,0
+630,32,2,2022-09-23,2022-09-24,2022,9,Reparacion clima,Correctivo,True,1,135647,876.42,ManteAuto S.L.,12
+631,32,2,2022-09-08,2022-09-11,2022,9,Carroceria y pintura,Estetico,False,3,79384,432.25,TallerBus Norte,0
+632,32,2,2024-06-23,2024-06-25,2024,6,Reparacion clima,Correctivo,True,2,54890,401.64,TallerBus Norte,12
+633,32,2,2023-10-13,2023-10-13,2023,10,ITV e Inspeccion,Legal,False,0,355757,341.9,Taller Oficial Mercedes,0
+634,32,2,2022-03-15,2022-03-21,2022,3,Reparacion motor,Correctivo,True,6,153508,3404.46,ManteAuto S.L.,6
+635,32,2,2022-07-30,2022-08-02,2022,7,Carroceria y pintura,Estetico,False,3,361942,752.85,FlotaService,0
+636,32,2,2024-09-12,2024-09-12,2024,9,Revision bateria,Preventivo,False,0,143788,224.7,ManteAuto S.L.,0
+637,32,2,2024-07-13,2024-07-14,2024,7,Revision bateria,Preventivo,False,1,458988,519.32,ManteAuto S.L.,0
+638,32,2,2024-06-19,2024-06-20,2024,6,Sistema electrico,Correctivo,True,1,477582,1171.37,Taller Oficial Mercedes,12
+639,32,2,2022-09-25,2022-09-25,2022,9,Cambio aceite,Preventivo,False,0,383837,248.94,TallerBus Norte,0
+640,33,2,2024-09-18,2024-09-19,2024,9,Revision periodica,Preventivo,False,1,388654,88.8,FlotaService,0
+641,33,2,2023-12-17,2023-12-17,2023,12,ITV e Inspeccion,Legal,False,0,376703,364.54,Taller Oficial Mercedes,0
+642,33,2,2024-11-15,2024-11-16,2024,11,ITV e Inspeccion,Legal,False,1,294350,331.04,ManteAuto S.L.,0
+643,33,2,2022-05-23,2022-05-25,2022,5,Reparacion frenos,Correctivo,True,2,282243,683.84,Taller Oficial Mercedes,6
+644,33,2,2024-03-02,2024-03-06,2024,3,Sistema electrico,Correctivo,True,4,485131,-1058.18,TallerBus Norte,6
+645,33,2,2023-03-05,2023-03-06,2023,3,Cambio aceite,Preventivo,False,1,526235,249.64,TallerBus Norte,0
+646,33,2,2022-01-29,2022-02-03,2022,1,Sistema electrico,Correctivo,True,5,320613,884.56,TallerBus Norte,3
+647,33,2,2023-04-30,2023-05-01,2023,4,Carroceria y pintura,Estetico,False,1,11841,-506.81,TallerBus Norte,0
+648,33,2,2023-09-20,2023-09-20,2023,9,Revision bateria,Preventivo,False,0,293302,342.3,Taller Oficial MAN,0
+649,33,2,2024-12-16,2024-12-18,2024,12,Sistema electrico,Correctivo,True,2,108539,1721.13,Taller Oficial Mercedes,0
+650,33,2,2023-09-29,2023-09-30,2023,9,Cambio neumaticos,Preventivo,False,1,267228,1639.69,TallerBus Norte,0
+651,33,2,2023-02-06,2023-02-10,2023,2,Reparacion motor,Correctivo,True,4,299878,4987.72,FlotaService,12
+652,33,2,2023-02-27,2023-02-28,2023,2,Reparacion clima,Correctivo,True,1,490716,765.81,FlotaService,6
+653,33,2,2022-02-15,2022-02-18,2022,2,Cambio neumaticos,Preventivo,False,3,299117,771.02,TallerBus Norte,0
+654,33,2,2024-08-31,2024-08-31,2024,8,Cambio aceite,Preventivo,False,0,513284,222.93,ManteAuto S.L.,0
+655,33,2,2024-02-18,2024-02-19,2024,2,ITV e Inspeccion,Legal,False,1,314667,310.3,Taller Oficial Mercedes,0
+656,33,2,2024-11-04,2024-11-05,2024,11,ITV e Inspeccion,Legal,False,1,143476,238.06,ManteAuto S.L.,0
+657,33,2,2024-02-04,2024-02-07,2024,2,Cambio neumaticos,Preventivo,False,3,215856,1554.69,Taller Oficial MAN,0
+658,33,2,2023-10-14,2023-10-14,2023,10,Cambio aceite,Preventivo,False,0,463031,136.53,Taller Oficial Mercedes,0
+659,33,2,2023-05-21,2023-05-22,2023,5,Reparacion clima,Correctivo,True,1,242198,316.78,TallerBus Norte,0
+660,33,2,2022-03-21,2022-03-26,2022,3,Sistema electrico,Correctivo,True,5,472063,764.14,ManteAuto S.L.,12
+661,33,2,2022-01-08,2022-01-11,2022,1,Reparacion motor,Correctivo,True,3,258332,-4083.03,TallerBus Norte,12
+662,33,2,2022-09-10,2022-09-11,2022,9,Sistema electrico,Correctivo,True,1,406381,1100.22,TallerBus Norte,12
+663,34,2,2022-07-05,2022-07-08,2022,7,Reparacion frenos,Correctivo,True,3,449005,1018.96,TallerBus Norte,12
+664,34,2,2023-01-28,2023-01-28,2023,1,Cambio aceite,Preventivo,False,0,125678,190.89,Taller Oficial MAN,0
+665,34,2,2022-08-10,2022-08-11,2022,8,Revision bateria,Preventivo,False,1,463560,576.5,Taller Oficial MAN,0
+666,34,2,2023-07-23,2023-07-27,2023,7,Sistema electrico,Correctivo,True,4,417998,1970.05,ManteAuto S.L.,6
+667,34,2,2023-03-09,2023-03-10,2023,3,Carroceria y pintura,Estetico,False,1,470653,611.56,Taller Oficial MAN,0
+668,34,2,2024-09-20,2024-09-22,2024,9,Reparacion frenos,Correctivo,True,2,24375,549.55,ManteAuto S.L.,12
+669,34,2,2024-11-12,2024-11-14,2024,11,Reparacion clima,Correctivo,True,2,185206,776.62,Taller Oficial Mercedes,6
+670,34,2,2024-04-18,2024-04-18,2024,4,Revision periodica,Preventivo,False,0,530712,240.56,Taller Oficial Mercedes,0
+671,34,2,2023-11-08,2023-11-11,2023,11,Cambio neumaticos,Preventivo,False,3,540864,-1051.12,Taller Oficial MAN,0
+672,34,2,2022-08-10,2022-08-10,2022,8,Cambio aceite,Preventivo,False,0,214278,209.84,TallerBus Norte,0
+673,34,2,2022-08-14,2022-08-14,2022,8,Cambio aceite,Preventivo,False,0,105919,185.22,Taller Oficial MAN,0
+674,34,2,2022-06-05,2022-06-05,2022,6,ITV e Inspeccion,Legal,False,0,372658,208.83,ManteAuto S.L.,0
+675,35,2,2022-07-03,2022-07-06,2022,7,Cambio neumaticos,Preventivo,False,3,261368,921.62,TallerBus Norte,0
+676,35,2,2023-05-04,2023-05-05,2023,5,Cambio neumaticos,Preventivo,False,1,490096,1333.64,Taller Oficial Mercedes,0
+677,35,2,2024-06-05,2024-06-09,2024,6,Sistema electrico,Correctivo,True,4,328794,1883.44,ManteAuto S.L.,6
+678,35,2,2024-07-20,2024-07-24,2024,7,Reparacion frenos,Correctivo,True,4,205323,1111.43,Taller Oficial MAN,0
+679,35,2,2023-04-25,2023-04-28,2023,4,Carroceria y pintura,Estetico,False,3,479200,234.62,ManteAuto S.L.,0
+680,35,2,2024-01-11,2024-01-21,2024,1,Reparacion motor,Correctivo,True,10,15712,3345.4,FlotaService,3
+681,35,2,2022-01-21,2022-01-23,2022,1,Cambio neumaticos,Preventivo,False,2,206673,1555.78,FlotaService,0
+682,35,2,2023-12-09,2023-12-10,2023,12,ITV e Inspeccion,Legal,False,1,421522,182.16,ManteAuto S.L.,0
+683,35,2,2023-11-02,2023-11-03,2023,11,Reparacion frenos,Correctivo,True,1,145940,763.78,TallerBus Norte,3
+684,35,2,2022-12-10,2022-12-13,2022,12,Reparacion clima,Correctivo,True,3,350147,449.23,Taller Oficial Mercedes,12
+685,35,2,2024-04-05,2024-04-06,2024,4,Cambio aceite,Preventivo,False,1,229244,143.06,ManteAuto S.L.,0
+686,35,2,2022-07-07,2022-07-07,2022,7,ITV e Inspeccion,Legal,False,0,121855,192.51,ManteAuto S.L.,0
+687,35,2,2022-05-08,2022-05-09,2022,5,Revision periodica,Preventivo,False,1,46820,123.08,ManteAuto S.L.,0
+688,35,2,2022-08-29,2022-08-30,2022,8,Revision bateria,Preventivo,False,1,439206,480.44,FlotaService,0
+689,35,2,2024-03-14,2024-03-14,2024,3,Cambio aceite,Preventivo,False,0,125480,164.45,Taller Oficial MAN,0
+690,35,2,2022-04-18,2022-04-19,2022,4,Cambio aceite,Preventivo,False,1,331822,129.56,Taller Oficial Mercedes,0
+691,35,2,2024-02-05,2024-02-06,2024,2,Carroceria y pintura,Estetico,False,1,209832,730.66,ManteAuto S.L.,0
+692,35,2,2022-05-17,2022-05-18,2022,5,ITV e Inspeccion,Legal,False,1,36757,316.15,Taller Oficial Mercedes,0
+693,36,2,2023-08-20,2023-08-21,2023,8,Revision periodica,Preventivo,False,1,436186,169.44,TallerBus Norte,0
+694,36,2,2023-02-19,2023-02-20,2023,2,Carroceria y pintura,Estetico,False,1,506087,508.69,TallerBus Norte,0
+695,36,2,2022-04-20,2022-04-26,2022,4,Reparacion motor,Correctivo,True,6,323957,4704.44,FlotaService,0
+696,36,2,2023-03-17,2023-03-20,2023,3,Reparacion frenos,Correctivo,True,3,16872,439.86,Taller Oficial MAN,3
+697,36,2,2023-10-03,2023-10-07,2023,10,Sistema electrico,,True,4,349298,1422.65,ManteAuto S.L.,3
+698,36,2,2024-01-22,2024-01-26,2024,1,Reparacion frenos,Correctivo,True,4,280072,1036.59,FlotaService,12
+699,36,2,2024-10-07,2024-10-08,2024,10,Cambio aceite,Preventivo,False,1,396028,138.61,TallerBus Norte,0
+700,36,2,2023-12-05,2023-12-05,2023,12,Revision periodica,Preventivo,False,0,316327,-297.65,Taller Oficial Mercedes,0
+701,36,2,2024-10-26,2024-10-27,2024,10,ITV e Inspeccion,Legal,False,1,446384,347.0,Taller Oficial Mercedes,0
+702,36,2,2024-02-23,2024-02-24,2024,2,Carroceria y pintura,Estetico,False,1,497576,218.15,Taller Oficial MAN,0
+703,36,2,2022-11-26,2022-11-26,2022,11,Revision bateria,Preventivo,False,0,223173,391.22,Taller Oficial MAN,0
+704,36,2,2023-03-12,2023-03-13,2023,3,Revision bateria,Preventivo,False,1,251795,456.23,TallerBus Norte,0
+705,36,2,2023-07-12,2023-07-13,2023,7,Reparacion clima,Correctivo,True,1,484077,795.93,Taller Oficial Mercedes,6
+706,36,2,2022-06-16,2022-06-19,2022,6,Sistema electrico,Correctivo,True,3,490346,1753.76,TallerBus Norte,12
+707,36,2,2022-06-12,2022-06-13,2022,6,Carroceria y pintura,Estetico,False,1,89242,456.63,Taller Oficial MAN,0
+708,36,2,2024-03-14,2024-03-16,2024,3,Sistema electrico,Correctivo,True,2,190757,1672.11,FlotaService,6
+709,37,2,2024-09-14,2024-09-15,2024,9,Revision periodica,Preventivo,False,1,110930,121.43,FlotaService,0
+710,37,2,2022-06-28,2022-07-01,2022,6,Sistema electrico,Correctivo,True,3,114382,1782.22,FlotaService,3
+711,37,2,2023-08-08,2023-08-09,2023,8,Revision bateria,Preventivo,False,1,44577,438.24,FlotaService,0
+712,37,2,2022-04-24,2022-04-27,2022,4,Carroceria y pintura,Estetico,False,3,416047,465.36,Taller Oficial MAN,0
+713,37,2,2023-03-22,2023-03-22,2023,3,Revision bateria,Preventivo,False,0,108799,374.91,ManteAuto S.L.,0
+714,37,2,2024-11-20,2024-11-20,2024,11,Cambio aceite,Preventivo,False,0,71758,205.75,FlotaService,0
+715,37,2,2023-07-23,2023-07-25,2023,7,Revision bateria,Preventivo,False,2,391540,362.98,Taller Oficial Mercedes,0
+716,37,2,2022-12-10,2022-12-11,2022,12,ITV e Inspeccion,Legal,False,1,255927,-353.61,Taller Oficial MAN,0
+717,37,2,2024-04-22,2024-04-22,2024,4,Revision periodica,Preventivo,False,0,79808,134.35,Taller Oficial MAN,0
+718,37,2,2023-07-27,2023-07-29,2023,7,Reparacion frenos,Correctivo,True,2,461972,-1065.44,FlotaService,0
+719,37,2,2023-12-31,2023-12-31,2023,12,Revision periodica,Preventivo,False,0,180623,200.71,ManteAuto S.L.,0
+720,37,2,2024-08-14,2024-08-24,2024,8,Reparacion motor,Correctivo,True,10,189672,1116.46,ManteAuto S.L.,3
+721,37,2,2023-10-30,2023-10-31,2023,10,Cambio neumaticos,Preventivo,False,1,518207,1108.82,ManteAuto S.L.,0
+722,37,2,2023-09-16,2023-09-17,2023,9,Revision periodica,Preventivo,False,1,488185,235.37,Taller Oficial Mercedes,0
+723,37,2,2023-10-10,2023-10-11,2023,10,Cambio aceite,Preventivo,False,1,489086,221.59,TallerBus Norte,0
+724,37,2,2023-09-28,2023-09-29,2023,9,Cambio neumaticos,Preventivo,False,1,255883,970.68,FlotaService,0
+725,37,2,2022-09-27,2022-09-27,2022,9,Revision periodica,Preventivo,False,0,117021,270.4,Taller Oficial MAN,0
+726,37,2,2022-09-07,2022-09-07,2022,9,Revision periodica,Preventivo,False,0,125190,250.02,Taller Oficial MAN,0
+727,38,1,2024-04-12,2024-04-12,2024,4,Revision bateria,Preventivo,False,0,193999,359.43,ManteAuto S.L.,0
+728,38,1,2024-02-03,2024-02-06,2024,2,Reparacion frenos,Correctivo,True,3,496492,645.29,FlotaService,6
+729,38,1,2024-10-06,2024-10-06,2024,10,ITV e Inspeccion,Legal,False,0,396370,277.77,Taller Oficial Mercedes,0
+730,38,1,2024-03-22,2024-03-23,2024,3,Cambio aceite,Preventivo,False,1,371970,218.06,Taller Oficial Mercedes,0
+731,38,1,2024-12-11,2024-12-16,2024,12,Sistema electrico,Correctivo,True,5,506075,1983.06,ManteAuto S.L.,0
+732,38,1,2024-05-10,2024-05-12,2024,5,Carroceria y pintura,Estetico,False,2,280094,644.81,TallerBus Norte,0
+733,38,1,2024-05-19,2024-05-19,2024,5,Revision bateria,Preventivo,False,0,370563,229.33,ManteAuto S.L.,0
+734,38,1,2024-01-06,2024-01-06,2024,1,Revision periodica,Preventivo,False,0,477533,142.7,TallerBus Norte,0
+735,38,1,2024-10-26,2024-10-28,2024,10,Reparacion frenos,Correctivo,True,2,458980,476.08,FlotaService,6
+736,38,1,2024-01-02,2024-01-03,2024,1,Revision periodica,Preventivo,False,1,112709,140.96,TallerBus Norte,0
+737,38,1,2024-11-15,2024-11-18,2024,11,Reparacion clima,Correctivo,True,3,375784,393.87,FlotaService,3
+738,38,1,2024-10-15,2024-10-19,2024,10,Sistema electrico,Correctivo,True,4,95745,1057.76,Taller Oficial MAN,0
+739,38,1,2024-08-26,2024-08-26,2024,8,Revision bateria,Preventivo,False,0,102363,523.16,TallerBus Norte,0
+740,38,1,2024-10-10,2024-10-10,2024,10,Revision bateria,Preventivo,False,0,57998,358.23,Taller Oficial Mercedes,0
+741,38,1,2024-12-20,2024-12-20,2024,12,Revision bateria,Preventivo,False,0,350030,323.61,Taller Oficial Mercedes,0
+742,39,1,2025-01-01,2025-01-08,2025,1,Reparacion motor,Correctivo,True,7,310531,2160.3,TallerBus Norte,12
+743,39,1,2025-01-01,2025-01-06,2025,1,Reparacion motor,Correctivo,True,5,77085,3814.45,Taller Oficial Mercedes,6
+744,39,1,2025-01-01,2025-01-07,2025,1,Reparacion motor,Correctivo,True,6,115666,2084.04,ManteAuto S.L.,3
+745,39,1,2025-01-01,2025-01-02,2025,1,Reparacion frenos,Correctivo,True,1,236095,-405.2,Taller Oficial Mercedes,6
+746,39,1,2025-01-01,2025-01-04,2025,1,Reparacion clima,Correctivo,True,3,219102,326.69,TallerBus Norte,0
+747,39,1,2025-01-01,2025-01-04,2025,1,Reparacion clima,Correctivo,True,3,289662,806.68,Taller Oficial Mercedes,6
+748,39,1,2025-01-01,2025-01-04,2025,1,Reparacion clima,Correctivo,True,3,433060,405.26,ManteAuto S.L.,0
+749,39,1,2025-01-01,2025-01-03,2025,1,Cambio neumaticos,Preventivo,False,2,379672,1574.86,ManteAuto S.L.,0
+750,40,1,2023-04-02,2023-04-03,2023,4,Sistema electrico,Correctivo,True,1,363435,1462.48,Taller Oficial Mercedes,3
+751,40,1,2024-05-05,2024-05-06,2024,5,Cambio aceite,Preventivo,False,1,122288,142.82,TallerBus Norte,0
+752,40,1,2024-06-19,2024-06-20,2024,6,Revision periodica,Preventivo,False,1,81111,179.15,ManteAuto S.L.,0
+753,40,1,2022-08-19,2022-08-21,2022,8,Cambio neumaticos,Preventivo,False,2,263322,818.65,Taller Oficial MAN,0
+754,40,1,2023-08-22,2023-08-23,2023,8,Revision bateria,Preventivo,False,1,83178,464.8,FlotaService,0
+755,40,1,2023-04-08,2023-04-08,2023,4,Cambio aceite,Preventivo,False,0,469923,185.6,Taller Oficial MAN,0
+756,40,1,2024-01-10,2024-01-13,2024,1,Cambio neumaticos,Preventivo,False,3,405820,790.92,ManteAuto S.L.,0
+757,40,1,2022-11-07,2022-11-07,2022,11,Revision periodica,Preventivo,False,0,45378,173.35,TallerBus Norte,0
+758,40,1,2022-12-07,2022-12-11,2022,12,Sistema electrico,Correctivo,True,4,243906,445.91,TallerBus Norte,12
+759,40,1,2023-12-22,2023-12-23,2023,12,Carroceria y pintura,Estetico,False,1,338837,308.09,TallerBus Norte,0
+760,40,1,2024-09-03,2024-09-03,2024,9,Revision periodica,Preventivo,False,0,137755,104.57,Taller Oficial Mercedes,0
+761,40,1,2023-09-23,2023-09-26,2023,9,Cambio neumaticos,Preventivo,False,3,344300,1701.59,ManteAuto S.L.,0
+762,40,1,2024-01-20,2024-01-21,2024,1,ITV e Inspeccion,Legal,False,1,75192,239.39,Taller Oficial Mercedes,0
+763,40,1,2023-09-14,2023-09-15,2023,9,Carroceria y pintura,Estetico,False,1,225812,624.35,FlotaService,0
+764,40,1,2023-11-20,2023-11-21,2023,11,Reparacion clima,Correctivo,True,1,233312,462.2,TallerBus Norte,12
+765,40,1,2023-04-22,2023-04-24,2023,4,Revision bateria,Preventivo,False,2,508537,-347.52,Taller Oficial MAN,0
+766,40,1,2023-12-24,2023-12-25,2023,12,Revision periodica,Preventivo,False,1,494189,121.5,ManteAuto S.L.,0
+767,40,1,2022-11-18,2022-11-19,2022,11,ITV e Inspeccion,Legal,False,1,362517,196.82,ManteAuto S.L.,0
+768,40,1,2023-07-15,2023-07-15,2023,7,ITV e Inspeccion,Legal,False,0,436055,306.9,Taller Oficial Mercedes,0
+769,40,1,2022-11-28,2022-11-30,2022,11,Sistema electrico,Correctivo,True,2,354010,1810.7,Taller Oficial MAN,3
+770,41,2,2024-08-12,2024-08-13,2024,8,Revision periodica,Preventivo,False,1,79997,84.61,Taller Oficial MAN,0
+771,41,2,2023-12-24,2023-12-25,2023,12,Cambio neumaticos,Preventivo,False,1,541268,1313.59,FlotaService,0
+772,41,2,2022-09-06,2022-09-07,2022,9,ITV e Inspeccion,Legal,False,1,314880,333.43,TallerBus Norte,0
+773,41,2,2022-10-15,2022-10-16,2022,10,Sistema electrico,Correctivo,True,1,43121,488.2,Taller Oficial Mercedes,0
+774,41,2,2024-12-01,2024-12-06,2024,12,Reparacion motor,Correctivo,True,5,516213,1322.08,Taller Oficial MAN,0
+775,41,2,2022-10-30,2022-11-01,2022,10,Cambio neumaticos,Preventivo,False,2,328573,1647.55,Taller Oficial Mercedes,0
+776,41,2,2023-05-18,2023-05-22,2023,5,Reparacion frenos,Correctivo,True,4,174277,1166.45,TallerBus Norte,0
+777,41,2,2023-08-24,2023-08-25,2023,8,ITV e Inspeccion,Legal,False,1,288043,187.14,ManteAuto S.L.,0
+778,41,2,2022-06-20,2022-06-21,2022,6,Revision periodica,Preventivo,False,1,210477,173.35,Taller Oficial MAN,0
+779,41,2,2023-03-31,2023-04-01,2023,3,Reparacion frenos,Correctivo,True,1,444560,-402.29,TallerBus Norte,3
+780,42,1,2022-05-19,2022-05-21,2022,5,Carroceria y pintura,Estetico,False,2,13582,361.55,ManteAuto S.L.,0
+781,42,1,2022-10-03,2022-10-05,2022,10,Revision bateria,Preventivo,False,2,306536,448.94,ManteAuto S.L.,0
+782,42,1,2023-02-03,2023-02-12,2023,2,Reparacion motor,Correctivo,True,9,212912,4945.61,ManteAuto S.L.,12
+783,42,1,2024-02-29,2024-03-03,2024,2,Reparacion frenos,,True,3,100370,1179.94,ManteAuto S.L.,3
+784,42,1,2022-08-06,2022-08-07,2022,8,Revision periodica,Preventivo,False,1,364195,94.45,TallerBus Norte,0
+785,42,1,2024-12-14,2024-12-16,2024,12,Reparacion clima,Correctivo,True,2,34779,326.89,Taller Oficial MAN,12
+786,42,1,2023-12-30,2024-01-01,2023,12,Carroceria y pintura,Estetico,False,2,530626,569.65,TallerBus Norte,0
+787,42,1,2024-09-12,2024-09-15,2024,9,Carroceria y pintura,Estetico,False,3,295286,652.9,TallerBus Norte,0
+788,42,1,2022-08-16,2022-08-17,2022,8,Revision periodica,Preventivo,False,1,238666,184.34,ManteAuto S.L.,0
+789,42,1,2022-12-06,2022-12-08,2022,12,Carroceria y pintura,Estetico,False,2,200130,245.75,TallerBus Norte,0
+790,42,1,2023-09-12,2023-09-13,2023,9,Revision bateria,Preventivo,False,1,68646,464.01,TallerBus Norte,0
+791,42,1,2022-08-21,2022-08-22,2022,8,Revision periodica,Preventivo,False,1,82207,165.36,TallerBus Norte,0
+792,42,1,2023-05-20,2023-05-21,2023,5,Reparacion frenos,Correctivo,True,1,31534,902.9,Taller Oficial MAN,12
+793,42,1,2024-12-29,2024-12-31,2024,12,Carroceria y pintura,Estetico,False,2,369009,677.63,TallerBus Norte,0
+794,42,1,2024-11-11,2024-11-11,2024,11,Revision periodica,Preventivo,False,0,74142,121.88,Taller Oficial Mercedes,0
+795,42,1,2022-06-16,2022-06-16,2022,6,ITV e Inspeccion,,False,0,166152,211.95,Taller Oficial MAN,0
+796,42,1,2022-03-18,2022-03-18,2022,3,Revision periodica,Preventivo,False,0,294953,130.08,FlotaService,0
+797,42,1,2023-06-24,2023-06-29,2023,6,Sistema electrico,Correctivo,True,5,502376,1240.29,ManteAuto S.L.,3
+798,42,1,2022-01-08,2022-01-08,2022,1,Revision bateria,Preventivo,False,0,485986,337.4,Taller Oficial Mercedes,0
+799,42,1,2024-11-05,2024-11-10,2024,11,Sistema electrico,Correctivo,True,5,189884,696.33,TallerBus Norte,3
+800,42,1,2023-06-08,2023-06-13,2023,6,Reparacion motor,Correctivo,True,5,530134,1748.91,Taller Oficial Mercedes,12
+801,42,1,2023-11-30,2023-12-06,2023,11,Reparacion motor,Correctivo,True,6,20219,1718.57,Taller Oficial Mercedes,6
+802,42,1,2024-05-03,2024-05-03,2024,5,Revision periodica,Preventivo,False,0,479629,154.46,TallerBus Norte,0
+803,42,1,2023-04-24,2023-04-26,2023,4,Cambio neumaticos,Preventivo,False,2,491698,689.89,FlotaService,0
+804,42,1,2024-01-13,2024-01-13,2024,1,Cambio aceite,Preventivo,False,0,309379,180.28,FlotaService,0
+805,42,1,2022-05-12,2022-05-13,2022,5,Revision periodica,Preventivo,False,1,101614,144.35,ManteAuto S.L.,0
+806,42,1,2024-08-02,2024-08-04,2024,8,Reparacion clima,Correctivo,True,2,191897,469.07,Taller Oficial Mercedes,6
+807,42,1,2022-02-25,2022-03-01,2022,2,Reparacion motor,Correctivo,True,4,92715,2799.25,Taller Oficial MAN,12
+808,42,1,2022-01-11,2022-01-13,2022,1,Reparacion frenos,Correctivo,True,2,218490,970.23,Taller Oficial MAN,12
+809,43,3,2022-05-14,2022-05-15,2022,5,ITV e Inspeccion,Legal,False,1,125572,229.57,FlotaService,0
+810,43,3,2024-03-19,2024-03-20,2024,3,Revision bateria,Preventivo,False,1,385899,401.09,ManteAuto S.L.,0
+811,43,3,2022-12-15,2022-12-15,2022,12,Revision bateria,Preventivo,False,0,176089,533.89,Taller Oficial Mercedes,0
+812,43,3,2023-11-10,2023-11-15,2023,11,Reparacion motor,Correctivo,True,5,426208,1516.2,TallerBus Norte,6
+813,43,3,2022-09-14,2022-09-19,2022,9,Sistema electrico,Correctivo,True,5,320990,888.25,Taller Oficial MAN,12
+814,43,3,2022-06-05,2022-06-08,2022,6,Reparacion frenos,Correctivo,True,3,283746,738.91,Taller Oficial MAN,3
+815,43,3,2024-01-26,2024-01-31,2024,1,Reparacion motor,Correctivo,True,5,70160,4193.52,ManteAuto S.L.,0
+816,43,3,2022-04-27,2022-04-27,2022,4,ITV e Inspeccion,Legal,False,0,134997,393.23,ManteAuto S.L.,0
+817,43,3,2022-12-30,2023-01-09,2022,12,Reparacion motor,Correctivo,True,10,156810,4789.2,Taller Oficial MAN,6
+818,43,3,2023-09-22,2023-09-24,2023,9,Carroceria y pintura,Estetico,False,2,220947,256.31,Taller Oficial Mercedes,0
+819,43,3,2022-07-13,2022-07-14,2022,7,Revision periodica,Preventivo,False,1,479354,228.69,ManteAuto S.L.,0
+820,43,3,2024-06-27,2024-06-29,2024,6,Sistema electrico,Correctivo,True,2,62167,1632.28,Taller Oficial Mercedes,6
+821,43,3,2023-09-18,2023-09-19,2023,9,Cambio aceite,Preventivo,False,1,517551,141.59,ManteAuto S.L.,0
+822,43,3,2024-02-14,2024-02-16,2024,2,Reparacion frenos,Correctivo,True,2,358235,-806.4,Taller Oficial Mercedes,0
+823,43,3,2024-08-12,2024-08-14,2024,8,Revision bateria,Preventivo,False,2,166782,259.65,TallerBus Norte,0
+824,43,3,2024-04-27,2024-04-27,2024,4,Cambio aceite,Preventivo,False,0,39276,-150.88,FlotaService,0
+825,43,3,2022-05-20,2022-05-20,2022,5,Revision periodica,Preventivo,False,0,237281,144.35,Taller Oficial Mercedes,0
+826,43,3,2023-02-23,2023-02-26,2023,2,Reparacion clima,Correctivo,True,3,320126,656.42,ManteAuto S.L.,0
+827,43,3,2023-11-09,2023-11-12,2023,11,Sistema electrico,Correctivo,True,3,239158,1256.9,Taller Oficial Mercedes,0
+828,43,3,2023-06-11,2023-06-15,2023,6,Sistema electrico,Correctivo,True,4,233057,1198.53,Taller Oficial Mercedes,6
+829,43,3,2022-08-23,2022-08-26,2022,8,Carroceria y pintura,Estetico,False,3,179431,497.72,ManteAuto S.L.,0
+830,43,3,2023-09-11,2023-09-12,2023,9,Cambio aceite,Preventivo,False,1,127920,211.99,TallerBus Norte,0
+831,43,3,2022-12-26,2022-12-27,2022,12,Revision bateria,Preventivo,False,1,465330,391.71,FlotaService,0
+832,43,3,2024-01-31,2024-02-04,2024,1,Sistema electrico,Correctivo,True,4,371604,1660.72,ManteAuto S.L.,3
+833,43,3,2023-08-16,2023-08-17,2023,8,Revision periodica,Preventivo,False,1,472440,103.99,FlotaService,0
+834,43,3,2023-02-23,2023-02-26,2023,2,Sistema electrico,Correctivo,True,3,87613,1551.84,Taller Oficial MAN,12
+835,43,3,2023-06-11,2023-06-12,2023,6,Revision bateria,Preventivo,False,1,128798,530.5,TallerBus Norte,0
+836,43,3,2022-04-24,2022-04-27,2022,4,Sistema electrico,Correctivo,True,3,148159,1370.91,ManteAuto S.L.,6
+837,44,1,2024-02-02,2024-02-03,2024,2,Revision periodica,Preventivo,False,1,261929,233.0,TallerBus Norte,0
+838,44,1,2024-02-05,2024-02-08,2024,2,Carroceria y pintura,Estetico,False,3,358298,425.44,Taller Oficial MAN,0
+839,44,1,2023-04-13,2023-04-17,2023,4,Sistema electrico,Correctivo,True,4,342956,314.55,FlotaService,12
+840,44,1,2023-12-02,2023-12-05,2023,12,Carroceria y pintura,Estetico,False,3,356926,508.52,Taller Oficial Mercedes,0
+841,44,1,2024-10-19,2024-10-21,2024,10,Reparacion clima,Correctivo,True,2,530748,341.1,Taller Oficial Mercedes,3
+842,44,1,2023-12-12,2023-12-12,2023,12,Revision bateria,Preventivo,False,0,512525,335.69,TallerBus Norte,0
+843,44,1,2024-01-18,2024-01-19,2024,1,Sistema electrico,Correctivo,True,1,208604,982.6,FlotaService,0
+844,44,1,2024-08-29,2024-08-31,2024,8,Reparacion frenos,Correctivo,True,2,482833,738.89,TallerBus Norte,0
+845,44,1,2024-02-10,2024-02-10,2024,2,Revision periodica,Preventivo,False,0,90698,124.9,TallerBus Norte,0
+846,44,1,2023-09-09,2023-09-10,2023,9,Carroceria y pintura,Estetico,False,1,514260,660.74,TallerBus Norte,0
+847,44,1,2024-02-01,2024-02-01,2024,2,Revision periodica,Preventivo,False,0,276313,237.17,Taller Oficial MAN,0
+848,44,1,2023-11-10,2023-11-13,2023,11,Reparacion clima,Correctivo,True,3,356307,715.62,TallerBus Norte,6
+849,44,1,2023-09-21,2023-09-24,2023,9,Reparacion clima,Correctivo,True,3,151205,639.12,FlotaService,12
+850,44,1,2024-07-08,2024-07-10,2024,7,Cambio neumaticos,Preventivo,False,2,143108,1152.41,ManteAuto S.L.,0
+851,44,1,2023-07-21,2023-07-28,2023,7,Reparacion motor,Correctivo,True,7,87052,4702.65,ManteAuto S.L.,3
+852,44,1,2023-03-14,2023-03-14,2023,3,Revision bateria,Preventivo,False,0,81096,275.7,FlotaService,0
+853,44,1,2024-12-20,2024-12-22,2024,12,Reparacion clima,Correctivo,True,2,509564,485.56,TallerBus Norte,12
+854,44,1,2024-07-09,2024-07-09,2024,7,Revision periodica,Preventivo,False,0,352896,206.41,ManteAuto S.L.,0
+855,44,1,2023-05-14,2023-05-17,2023,5,Carroceria y pintura,Estetico,False,3,443464,799.15,Taller Oficial Mercedes,0
+856,44,1,2023-08-16,2023-08-18,2023,8,Sistema electrico,Correctivo,True,2,262144,577.37,ManteAuto S.L.,3
+857,44,1,2023-09-13,2023-09-14,2023,9,Sistema electrico,Correctivo,True,1,422242,346.72,FlotaService,0
+858,45,1,2024-06-09,2024-06-12,2024,6,Reparacion frenos,Correctivo,True,3,317022,784.67,FlotaService,12
+859,45,1,2024-09-01,2024-09-01,2024,9,Cambio aceite,Preventivo,False,0,158006,183.89,FlotaService,0
+860,45,1,2024-10-13,2024-10-14,2024,10,Carroceria y pintura,Estetico,False,1,405884,307.22,Taller Oficial MAN,0
+861,45,1,2022-07-16,2022-07-16,2022,7,ITV e Inspeccion,Legal,False,0,222703,397.28,Taller Oficial Mercedes,0
+862,45,1,2023-04-19,2023-04-19,2023,4,Revision bateria,Preventivo,False,0,472762,230.46,Taller Oficial Mercedes,0
+863,45,1,2022-05-28,2022-05-29,2022,5,Revision bateria,Preventivo,False,1,21889,500.63,FlotaService,0
+864,45,1,2024-01-28,2024-01-29,2024,1,ITV e Inspeccion,Legal,False,1,103473,381.91,FlotaService,0
+865,45,1,2024-09-15,2024-09-15,2024,9,Revision periodica,Preventivo,False,0,232238,196.41,Taller Oficial Mercedes,0
+866,45,1,2023-02-15,2023-02-18,2023,2,Cambio neumaticos,Preventivo,False,3,350929,1484.65,Taller Oficial Mercedes,0
+867,45,1,2024-06-28,2024-06-30,2024,6,Carroceria y pintura,Estetico,False,2,307717,669.68,Taller Oficial MAN,0
+868,45,1,2022-12-21,2022-12-29,2022,12,Reparacion motor,Correctivo,True,8,420149,4722.02,FlotaService,12
+869,45,1,2023-09-21,2023-09-22,2023,9,ITV e Inspeccion,Legal,False,1,172009,358.33,Taller Oficial MAN,0
+870,45,1,2024-08-04,2024-08-06,2024,8,Cambio neumaticos,Preventivo,False,2,324795,1067.64,FlotaService,0
+871,45,1,2023-05-13,2023-05-14,2023,5,Cambio neumaticos,Preventivo,False,1,189765,661.9,ManteAuto S.L.,0
+872,45,1,2024-12-09,2024-12-11,2024,12,Sistema electrico,Correctivo,True,2,195234,1254.46,Taller Oficial Mercedes,3
+873,45,1,2024-08-20,2024-08-22,2024,8,Reparacion clima,Correctivo,True,2,167257,281.09,Taller Oficial Mercedes,3
+874,45,1,2023-05-18,2023-05-21,2023,5,Carroceria y pintura,Estetico,False,3,128343,657.26,FlotaService,0
+875,45,1,2024-06-14,2024-06-14,2024,6,Revision periodica,Preventivo,False,0,187443,162.09,Taller Oficial Mercedes,0
+876,45,1,2023-06-10,2023-06-12,2023,6,Revision bateria,Preventivo,False,2,219159,397.34,FlotaService,0

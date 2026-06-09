@@ -1,0 +1,4 @@
+depot_id,nombre,barrio,latitud,longitud,capacidad_vehiculos
+1,Cochera Norte,Barrio Norte,40.44,-3.72,20
+2,Cochera Central,Centro,40.418,-3.7,15
+3,Cochera Sur,Barrio Sur,40.395,-3.695,12

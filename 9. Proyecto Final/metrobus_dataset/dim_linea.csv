@@ -1,0 +1,11 @@
+linea_id,codigo,nombre,tipo,km_recorrido,n_paradas,frecuencia_min
+1,L1,Centro - Aeropuerto,Urbana,18.4,32,12
+2,L2,Universidad - Hospital,Urbana,11.2,21,8
+3,L3,Barrio Norte - Estacion,Urbana,9.7,18,10
+4,L4,Poligono Industrial - Centro,Urbana,14.1,24,15
+5,L5,Circular Centro,Urbana,7.3,14,6
+6,L6,Centro - Pueblo Oeste,Interurbana,23.5,12,30
+7,L7,Estacion - Zona Comercial,Urbana,8.9,16,10
+8,L8,Barrio Sur - Universidad,Urbana,12.6,22,8
+9,L9,Centro - Pueblo Este,Interurbana,19.8,10,45
+10,N1,Nocturno Centro,Nocturna,15.0,20,30
