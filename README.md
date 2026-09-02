@@ -55,70 +55,84 @@ El curso está organizado en **8 bloques temáticos**, con un total aproximado d
 
 ---
 
-## BLOQUE 5 — Tableau
-
-- Introducción a Tableau y entorno de trabajo  
-- Conexión de datos: Excel, CSV, bases de datos  
-- Preparación y limpieza de datos en Tableau  
-- Creación de visualizaciones: gráficos de barra, línea, dispersión  
-- Creación de dashboards interactivos  
-- Storytelling con dashboards  
-- Visualizaciones avanzadas: mapas, tablas dinámicas, parámetros  
-- Proyecto Tableau: análisis completo y presentación  
+## BLOQUE 5 - Cloud, IA y Data Science (opcional)
+- Plataformas Cloud y conceptos básicos
+- AWS, Google Cloud y Azure – comparación práctica
+- Creación y gestión de bases de datos en la nube
+- Introducción a la Inteligencia Artificial y Machine Learning
+- Tipos de aprendizaje y algoritmos
+- Herramientas y librerías de IA (scikit-learn, etc.)
+- Mini proyecto: diseño de IA sencilla en Python
+- Ética y buenas prácticas en IA
 
 ---
 
-## BLOQUE 6 — Qlik Sense
-
-- Introducción a Qlik Sense y ecosistema  
-- Conexión de datos y carga de datasets  
-- Preparación y limpieza de datos  
-- Modelado de datos: tablas, relaciones y jerarquías  
-- Creación de visualizaciones básicas  
-- Dashboards interactivos y filtros  
-- Visualizaciones avanzadas y storytelling  
-- Proyecto Qlik Sense: análisis completo y presentación  
+## BLOQUE 6 - Gobierno del Dato y Estrategia (opcional)
+- Arquitectura de datos: visión general y tipos
+- Data Hub, integración y gobierno del dato
+- Marco de trabajo del gobierno del dato (objetivos y roles)
+- Calidad, metadatos y privacidad de datos
+- Reto guiado: creación de un plan de gobierno del dato
 
 ---
 
 ## BLOQUE 7 — Power BI
-
-- Introducción a Power BI y entorno de trabajo  
-- Conexión de datos y Power Query  
-- Modelado dimensional: tablas de hechos y dimensiones  
-- Creación de medidas con DAX básicas  
-- Medidas avanzadas y funciones CALCULATE  
-- Visualización de datos: gráficos, segmentadores, KPIs  
-- Seguridad a nivel de fila y publicación en Power BI Service  
-- Proyecto Power BI: dashboard completo y storytelling  
-
----
-
-## BLOQUE 8 — Proyecto Integrador de BI
-
-Durante este bloque final se desarrollará un **proyecto completo de análisis de datos**, aplicando las herramientas y técnicas aprendidas durante el curso.
-
-Sesiones del proyecto:
-
-- Definición de objetivos y KPIs del proyecto  
-- Preparación de datasets  
-- Limpieza y transformación de datos  
-- Exploración y análisis con Python  
-- Dashboarding en Excel  
-- Dashboarding en Tableau  
-- Dashboarding en Qlik Sense  
-- Dashboarding en Power BI  
-- Presentación final del proyecto y storytelling  
-- Retroalimentación y mejora del análisis  
+- Instalación, entorno y conceptos básicos
+- Carga y transformación de datos (Power Query)
+- Modelado de datos (dimensiones, relaciones y medidas)
+- DAX básico: medidas, funciones y casos prácticos
+- Modelado estrella y copo de nieve
+- Tablas de fechas y calendario
+- Medidas avanzadas y funciones CALCULATE
+- Visualización de datos y diseño de dashboards
+- DAX intermedio (CALCULATE, FILTER, ALL)
+- Time intelligence (DATEADD, YTD, YoY)
+- Power BI Service (publicación, compartición y actualización programada)
+- Seguridad a nivel de fila (RLS)
+- Slicers y filtros (tres niveles de alcance)
+- Field Parameters (dimensiones y medidas intercambiables)
+- Bookmarks, botones y navegación avanzada
 
 ---
 
+## BLOQUE 8 — Tableau
+- Instalación, configuración e interfaz de trabajo
+- Conexión de datos (Excel, CSV, bases de datos)
+- Creación de visualizaciones: gráficos fundamentales
+- Dashboards interactivos: gráficos avanzados
+- Publicación y buenas prácticas de diseño
+- Preparación de datos y joins con Tableau Prep
+- Cálculos rápidos y de tabla
+- LOD Expressions (FIXED, INCLUDE, EXCLUDE)
+- Parámetros, acciones, navegación y seguridad
+- Mapas geoespaciales, rendimiento y extractos (.hyper)
+- Proyecto práctico: dashboard interactivo  
+
+---
+
+## BLOQUE 9 - Qlik
+- Instalación y entorno de trabajo
+- Carga de datos, modelado y calidad del dato
+- Creación de visualizaciones y uso de elementos maestros
+- Integración con Python y caso práctico final
+- Script de carga: joins, concatenate y resident
+- Modelo asociativo, claves sintéticas y bucles
+- Set Analysis: sintaxis y casos
+- QVDs y cargas incrementales
+- Seguridad: Section Access (RLS)
+- Qlik Cloud: publicación y espacios
+- Proyecto: app analítica de negocio
+
+---
+## BLOQUE 10 - Proyecto Final
+- MetroBus Analytics
+
+---
 # Herramientas utilizadas
-
 Durante el curso se utilizarán diferentes herramientas de análisis y visualización de datos:
 
 - Python (Pandas, Matplotlib, Seaborn)
-- SQL
+- SQL (PostgreSQL y PgAdmin4)
 - Excel
 - Tableau
 - Qlik Sense
@@ -127,11 +141,9 @@ Durante el curso se utilizarán diferentes herramientas de análisis y visualiza
 ---
 
 # Contenido del repositorio
-
 El repositorio incluye:
 
 - Apuntes de cada sesión
-- Notebooks de Python
 - Datasets para ejercicios
 - Material de práctica
 - Proyectos
