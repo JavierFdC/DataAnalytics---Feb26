@@ -1,0 +1,5 @@
+modelo,fabricante,familia,plazas_estandar,alcance_km,velocidad_crucero_kmh,longitud_m,envergadura_m,motorizacion,generacion,anio_incorporacion_flota
+Airbus A320,Airbus,Familia A320,180,6100,828,37.57,35.80,CFM56-5B,CEO,2014
+Airbus A321,Airbus,Familia A320,220,5930,828,44.51,35.80,CFM56-5B,CEO,2017
+Desconocido,n/d,n/d,0,0,0,0,0,n/d,n/d,0
+Sin identificar,n/d,n/d,0,0,0,0,0,n/d,n/d,0

@@ -1,0 +1,4 @@
+status,estado_norm,es_operado,es_cancelado,cuenta_puntualidad,genera_ingreso,descripcion
+Completado,Completado,Si,No,Si,Si,Vuelo operado y finalizado en el aeropuerto de destino previsto
+Cancelado,Cancelado,No,Si,No,No,Vuelo cancelado antes de la salida no operado
+Desviado,Desviado,Si,No,Si,Si,Vuelo operado pero finalizado en un aeropuerto alternativo

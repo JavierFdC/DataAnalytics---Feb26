@@ -1,0 +1,7 @@
+pais_iso,pais,region,moneda,zona_schengen,ue
+ES,Espana,Europa del Sur,EUR,Si,Si
+PT,Portugal,Europa del Sur,EUR,Si,Si
+IT,Italia,Europa del Sur,EUR,Si,Si
+FR,Francia,Europa Occidental,EUR,Si,Si
+DE,Alemania,Europa Central,EUR,Si,Si
+GB,Reino Unido,Europa Occidental,GBP,No,No

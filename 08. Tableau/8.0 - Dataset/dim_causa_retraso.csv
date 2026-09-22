@@ -1,0 +1,17 @@
+valor_original,causa,causa_en,categoria,imputable_aerolinea,prioridad_gestion,descripcion
+Sin retraso,Sin retraso,On time,Ninguna,No,3,Vuelo sin retraso significativo (menos de 15 minutos)
+Meteorologia,Meteorologia,Weather,Meteorologica,No,2,Condiciones meteorologicas adversas en origen destino o ruta
+METEOROLOGIA,Meteorologia,Weather,Meteorologica,No,2,Condiciones meteorologicas adversas en origen destino o ruta
+meteorologia,Meteorologia,Weather,Meteorologica,No,2,Condiciones meteorologicas adversas en origen destino o ruta
+Weather,Meteorologia,Weather,Meteorologica,No,2,Condiciones meteorologicas adversas en origen destino o ruta
+Operativa,Operativa,Operational,Operativa,Si,1,Rotacion de aeronave tripulaciones handling o carga
+OPERATIVA,Operativa,Operational,Operativa,Si,1,Rotacion de aeronave tripulaciones handling o carga
+operativa,Operativa,Operational,Operativa,Si,1,Rotacion de aeronave tripulaciones handling o carga
+Tecnica,Tecnica,Technical,Tecnica,Si,1,Incidencia tecnica o mantenimiento no programado
+TECNICA,Tecnica,Technical,Tecnica,Si,1,Incidencia tecnica o mantenimiento no programado
+tecnica,Tecnica,Technical,Tecnica,Si,1,Incidencia tecnica o mantenimiento no programado
+Technical,Tecnica,Technical,Tecnica,Si,1,Incidencia tecnica o mantenimiento no programado
+Trafico Aereo,Trafico Aereo,Air Traffic Control,Externa,No,2,Restricciones de control aereo o gestion de slots (ATFM)
+TRAFICO AEREO,Trafico Aereo,Air Traffic Control,Externa,No,2,Restricciones de control aereo o gestion de slots (ATFM)
+trafico aereo,Trafico Aereo,Air Traffic Control,Externa,No,2,Restricciones de control aereo o gestion de slots (ATFM)
+ATC,Trafico Aereo,Air Traffic Control,Externa,No,2,Restricciones de control aereo o gestion de slots (ATFM)

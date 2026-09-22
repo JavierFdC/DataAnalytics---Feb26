@@ -1,0 +1,17 @@
+iata_code,nombre_aeropuerto,ciudad,pais,pais_iso,zona_horaria,latitud,longitud,es_hub,tipo_base,num_pistas,anio_apertura
+AGP,Aeropuerto de Malaga-Costa del Sol,Malaga,Espana,ES,Europe/Madrid,36.6749,-4.4991,No,Base,2,1948
+BCN,Aeropuerto Josep Tarradellas Barcelona-El Prat,Barcelona,Espana,ES,Europe/Madrid,41.2974,2.0833,Si,Hub secundario,3,1918
+BER,Aeropuerto de Berlin-Brandeburgo,Berlin,Alemania,DE,Europe/Berlin,52.3667,13.5033,No,Destino,2,2020
+FCO,Aeropuerto de Roma-Fiumicino,Roma,Italia,IT,Europe/Rome,41.8003,12.2389,No,Destino,4,1961
+LGW,Aeropuerto de Londres-Gatwick,Londres,Reino Unido,GB,Europe/London,51.1537,-0.1821,No,Destino,2,1930
+LIS,Aeropuerto Humberto Delgado de Lisboa,Lisboa,Portugal,PT,Europe/Lisbon,38.7813,-9.1359,No,Destino,2,1942
+LYS,Aeropuerto de Lyon-Saint-Exupery,Lyon,Francia,FR,Europe/Paris,45.7256,5.0811,No,Destino,2,1975
+MAD,Aeropuerto Adolfo Suarez Madrid-Barajas,Madrid,Espana,ES,Europe/Madrid,40.4983,-3.5676,Si,Hub principal,4,1931
+MUC,Aeropuerto de Munich-Franz Josef Strauss,Munich,Alemania,DE,Europe/Berlin,48.3538,11.7861,No,Destino,2,1992
+MXP,Aeropuerto de Milan-Malpensa,Milan,Italia,IT,Europe/Rome,45.6306,8.7281,No,Destino,2,1948
+NAP,Aeropuerto de Napoles-Capodichino,Napoles,Italia,IT,Europe/Rome,40.8860,14.2908,No,Destino,1,1950
+NCE,Aeropuerto de Niza-Costa Azul,Niza,Francia,FR,Europe/Paris,43.6584,7.2159,No,Destino,2,1944
+OPO,Aeropuerto Francisco Sa Carneiro,Oporto,Portugal,PT,Europe/Lisbon,41.2481,-8.6814,No,Destino,1,1945
+ORY,Aeropuerto de Paris-Orly,Paris,Francia,FR,Europe/Paris,48.7233,2.3794,No,Destino,3,1932
+PMI,Aeropuerto de Palma de Mallorca,Palma,Espana,ES,Europe/Madrid,39.5517,2.7388,Si,Base,2,1960
+SVQ,Aeropuerto de Sevilla-San Pablo,Sevilla,Espana,ES,Europe/Madrid,37.4180,-5.8931,No,Base,1,1919
