@@ -128,6 +128,10 @@ El curso está organizado en **8 bloques temáticos**, con un total aproximado d
 - MetroBus Analytics
 
 ---
+## BLOQUE 11 - Certificaciones
+- Certificaciones profesionales asociadas al temario del curso (SQL, Python, Cloud, Power BI, Tableau, Qlik)
+
+---
 # Herramientas utilizadas
 Durante el curso se utilizarán diferentes herramientas de análisis y visualización de datos:
 
