@@ -1,0 +1,154 @@
+id_producto,producto,categoria,subcategoria,marca,marca_propia,precio_tarifa,coste_unitario
+P0001,Atun en aceite pack 3 Mercadia,Alimentacion,Conservas,Mercadia,Si,2.72,1.60
+P0002,Atun en aceite pack 3 Casa Lumbre,Alimentacion,Conservas,Casa Lumbre,No,3.40,2.37
+P0003,Atun en aceite pack 3 Gourmet Ibera,Alimentacion,Conservas,Gourmet Ibera,No,3.59,2.62
+P0004,Tomate triturado 800 g Mercadia,Alimentacion,Conservas,Mercadia,Si,0.94,0.54
+P0005,Tomate triturado 800 g Casa Lumbre,Alimentacion,Conservas,Casa Lumbre,No,1.19,0.88
+P0006,Tomate triturado 800 g Gourmet Ibera,Alimentacion,Conservas,Gourmet Ibera,No,1.14,0.83
+P0007,Garbanzos cocidos 570 g Mercadia,Alimentacion,Conservas,Mercadia,Si,0.81,0.51
+P0008,Garbanzos cocidos 570 g Gourmet Ibera,Alimentacion,Conservas,Gourmet Ibera,No,1.01,0.73
+P0009,Espaguetis 500 g Mercadia,Alimentacion,Pasta y arroz,Mercadia,Si,0.76,0.45
+P0010,Espaguetis 500 g Casa Lumbre,Alimentacion,Pasta y arroz,Casa Lumbre,No,0.92,0.67
+P0011,Espaguetis 500 g Gourmet Ibera,Alimentacion,Pasta y arroz,Gourmet Ibera,No,0.98,0.74
+P0012,Macarrones 500 g Mercadia,Alimentacion,Pasta y arroz,Mercadia,Si,0.76,0.45
+P0013,Macarrones 500 g Casa Lumbre,Alimentacion,Pasta y arroz,Casa Lumbre,No,0.95,0.66
+P0014,Macarrones 500 g Gourmet Ibera,Alimentacion,Pasta y arroz,Gourmet Ibera,No,1.03,0.76
+P0015,Arroz redondo 1 kg Mercadia,Alimentacion,Pasta y arroz,Mercadia,Si,1.23,0.76
+P0016,Arroz redondo 1 kg Casa Lumbre,Alimentacion,Pasta y arroz,Casa Lumbre,No,1.52,1.06
+P0017,Arroz redondo 1 kg Gourmet Ibera,Alimentacion,Pasta y arroz,Gourmet Ibera,No,1.54,1.15
+P0018,Aceite de oliva virgen extra 1 L Mercadia,Alimentacion,Aceites,Mercadia,Si,7.22,4.36
+P0019,Aceite de oliva virgen extra 1 L Gourmet Ibera,Alimentacion,Aceites,Gourmet Ibera,No,9.39,6.85
+P0020,Aceite de girasol 1 L Mercadia,Alimentacion,Aceites,Mercadia,Si,1.62,0.93
+P0021,Aceite de girasol 1 L Casa Lumbre,Alimentacion,Aceites,Casa Lumbre,No,2.13,1.53
+P0022,Aceite de girasol 1 L Gourmet Ibera,Alimentacion,Aceites,Gourmet Ibera,No,2.07,1.46
+P0023,Cafe molido 250 g Mercadia,Alimentacion,Desayuno,Mercadia,Si,2.64,1.58
+P0024,Cafe molido 250 g Casa Lumbre,Alimentacion,Desayuno,Casa Lumbre,No,3.26,2.38
+P0025,Cafe molido 250 g Gourmet Ibera,Alimentacion,Desayuno,Gourmet Ibera,No,3.51,2.60
+P0026,Galletas maria 800 g Mercadia,Alimentacion,Desayuno,Mercadia,Si,1.53,0.92
+P0027,Galletas maria 800 g Casa Lumbre,Alimentacion,Desayuno,Casa Lumbre,No,1.91,1.45
+P0028,Galletas maria 800 g Gourmet Ibera,Alimentacion,Desayuno,Gourmet Ibera,No,1.91,1.40
+P0029,Copos de avena 500 g Mercadia,Alimentacion,Desayuno,Mercadia,Si,2.04,1.22
+P0030,Copos de avena 500 g Casa Lumbre,Alimentacion,Desayuno,Casa Lumbre,No,2.56,1.90
+P0031,Copos de avena 500 g Gourmet Ibera,Alimentacion,Desayuno,Gourmet Ibera,No,2.61,1.94
+P0032,Platanos 1 kg Mercadia,Frescos,Fruta,Mercadia,Si,1.57,0.98
+P0033,Platanos 1 kg Origen Huerta,Frescos,Fruta,Origen Huerta,No,1.97,1.49
+P0034,Platanos 1 kg Granja del Valle,Frescos,Fruta,Granja del Valle,No,1.90,1.42
+P0035,Manzanas 1 kg Mercadia,Frescos,Fruta,Mercadia,Si,1.78,1.10
+P0036,Manzanas 1 kg Origen Huerta,Frescos,Fruta,Origen Huerta,No,2.12,1.60
+P0037,Manzanas 1 kg Granja del Valle,Frescos,Fruta,Granja del Valle,No,2.34,1.69
+P0038,Naranjas malla 2 kg Mercadia,Frescos,Fruta,Mercadia,Si,2.46,1.48
+P0039,Naranjas malla 2 kg Origen Huerta,Frescos,Fruta,Origen Huerta,No,3.02,2.15
+P0040,Naranjas malla 2 kg Granja del Valle,Frescos,Fruta,Granja del Valle,No,3.23,2.38
+P0041,Tomates 1 kg Mercadia,Frescos,Verdura,Mercadia,Si,2.04,1.17
+P0042,Tomates 1 kg Origen Huerta,Frescos,Verdura,Origen Huerta,No,2.75,1.94
+P0043,Tomates 1 kg Granja del Valle,Frescos,Verdura,Granja del Valle,No,2.72,1.98
+P0044,Lechuga iceberg Mercadia,Frescos,Verdura,Mercadia,Si,0.84,0.52
+P0045,Lechuga iceberg Origen Huerta,Frescos,Verdura,Origen Huerta,No,1.11,0.80
+P0046,Lechuga iceberg Granja del Valle,Frescos,Verdura,Granja del Valle,No,1.13,0.80
+P0047,Patatas malla 3 kg Mercadia,Frescos,Verdura,Mercadia,Si,2.98,1.78
+P0048,Patatas malla 3 kg Granja del Valle,Frescos,Verdura,Granja del Valle,No,3.58,2.62
+P0049,Pechuga de pollo 500 g Mercadia,Frescos,Carne,Mercadia,Si,3.57,2.19
+P0050,Pechuga de pollo 500 g Origen Huerta,Frescos,Carne,Origen Huerta,No,4.64,3.32
+P0051,Pechuga de pollo 500 g Granja del Valle,Frescos,Carne,Granja del Valle,No,4.56,3.49
+P0052,Carne picada mixta 500 g Mercadia,Frescos,Carne,Mercadia,Si,3.32,2.01
+P0053,Carne picada mixta 500 g Granja del Valle,Frescos,Carne,Granja del Valle,No,4.34,3.33
+P0054,Lomo de cerdo 1 kg Mercadia,Frescos,Carne,Mercadia,Si,5.78,3.38
+P0055,Lomo de cerdo 1 kg Granja del Valle,Frescos,Carne,Granja del Valle,No,7.17,5.33
+P0056,Salmon fresco 400 g Mercadia,Frescos,Pescado,Mercadia,Si,5.86,3.36
+P0057,Salmon fresco 400 g Origen Huerta,Frescos,Pescado,Origen Huerta,No,7.40,5.50
+P0058,Salmon fresco 400 g Granja del Valle,Frescos,Pescado,Granja del Valle,No,7.61,5.28
+P0059,Merluza 1 kg Mercadia,Frescos,Pescado,Mercadia,Si,8.07,5.04
+P0060,Merluza 1 kg Origen Huerta,Frescos,Pescado,Origen Huerta,No,9.97,7.64
+P0061,Merluza 1 kg Granja del Valle,Frescos,Pescado,Granja del Valle,No,9.73,7.38
+P0062,Leche entera 1 L Mercadia,Lacteos,Leche,Mercadia,Si,0.81,0.50
+P0063,Leche entera 1 L Prado Verde,Lacteos,Leche,Prado Verde,No,0.95,0.72
+P0064,Leche entera 1 L Valle Lacteo,Lacteos,Leche,Valle Lacteo,No,1.04,0.72
+P0065,Leche semidesnatada 1 L Mercadia,Lacteos,Leche,Mercadia,Si,0.78,0.47
+P0066,Leche semidesnatada 1 L Prado Verde,Lacteos,Leche,Prado Verde,No,0.93,0.66
+P0067,Leche semidesnatada 1 L Valle Lacteo,Lacteos,Leche,Valle Lacteo,No,0.92,0.65
+P0068,Bebida de avena 1 L Mercadia,Lacteos,Leche,Mercadia,Si,1.36,0.82
+P0069,Bebida de avena 1 L Prado Verde,Lacteos,Leche,Prado Verde,No,1.67,1.25
+P0070,Bebida de avena 1 L Valle Lacteo,Lacteos,Leche,Valle Lacteo,No,1.84,1.37
+P0071,Yogur natural pack 4 Mercadia,Lacteos,Yogures,Mercadia,Si,1.02,0.59
+P0072,Yogur natural pack 4 Prado Verde,Lacteos,Yogures,Prado Verde,No,1.30,0.96
+P0073,Yogur natural pack 4 Valle Lacteo,Lacteos,Yogures,Valle Lacteo,No,1.24,0.92
+P0074,Yogur griego pack 4 Mercadia,Lacteos,Yogures,Mercadia,Si,1.78,1.06
+P0075,Yogur griego pack 4 Prado Verde,Lacteos,Yogures,Prado Verde,No,2.36,1.75
+P0076,Yogur griego pack 4 Valle Lacteo,Lacteos,Yogures,Valle Lacteo,No,2.35,1.77
+P0077,Queso tierno 400 g Mercadia,Lacteos,Quesos,Mercadia,Si,3.66,2.21
+P0078,Queso tierno 400 g Prado Verde,Lacteos,Quesos,Prado Verde,No,4.83,3.41
+P0079,Queso tierno 400 g Valle Lacteo,Lacteos,Quesos,Valle Lacteo,No,4.79,3.62
+P0080,Queso rallado 200 g Mercadia,Lacteos,Quesos,Mercadia,Si,1.87,1.07
+P0081,Queso rallado 200 g Prado Verde,Lacteos,Quesos,Prado Verde,No,2.37,1.79
+P0082,Queso rallado 200 g Valle Lacteo,Lacteos,Quesos,Valle Lacteo,No,2.42,1.82
+P0083,Agua mineral 1.5 L pack 6 Mercadia,Bebidas,Agua,Mercadia,Si,1.78,1.07
+P0084,Agua mineral 1.5 L pack 6 Fuente Clara,Bebidas,Agua,Fuente Clara,No,2.11,1.52
+P0085,Agua mineral 1.5 L pack 6 Bodegas Altamar,Bebidas,Agua,Bodegas Altamar,No,2.34,1.64
+P0086,Refresco de cola 2 L Mercadia,Bebidas,Refrescos,Mercadia,Si,1.44,0.84
+P0087,Refresco de cola 2 L Fuente Clara,Bebidas,Refrescos,Fuente Clara,No,1.93,1.42
+P0088,Refresco de cola 2 L Bodegas Altamar,Bebidas,Refrescos,Bodegas Altamar,No,1.72,1.20
+P0089,Refresco de naranja 2 L Mercadia,Bebidas,Refrescos,Mercadia,Si,1.27,0.77
+P0090,Refresco de naranja 2 L Fuente Clara,Bebidas,Refrescos,Fuente Clara,No,1.58,1.21
+P0091,Cerveza lata pack 6 Mercadia,Bebidas,Cerveza,Mercadia,Si,3.32,2.08
+P0092,Cerveza lata pack 6 Fuente Clara,Bebidas,Cerveza,Fuente Clara,No,4.34,3.09
+P0093,Cerveza sin alcohol pack 6 Mercadia,Bebidas,Cerveza,Mercadia,Si,3.06,1.80
+P0094,Cerveza sin alcohol pack 6 Fuente Clara,Bebidas,Cerveza,Fuente Clara,No,4.01,3.03
+P0095,Vino tinto crianza 75 cl Mercadia,Bebidas,Vino,Mercadia,Si,4.68,2.67
+P0096,Vino tinto crianza 75 cl Fuente Clara,Bebidas,Vino,Fuente Clara,No,6.27,4.44
+P0097,Vino tinto crianza 75 cl Bodegas Altamar,Bebidas,Vino,Bodegas Altamar,No,5.53,4.01
+P0098,Vino blanco verdejo 75 cl Mercadia,Bebidas,Vino,Mercadia,Si,4.08,2.56
+P0099,Vino blanco verdejo 75 cl Fuente Clara,Bebidas,Vino,Fuente Clara,No,5.28,3.92
+P0100,Vino blanco verdejo 75 cl Bodegas Altamar,Bebidas,Vino,Bodegas Altamar,No,5.23,3.90
+P0101,Barra de pan Mercadia,Panaderia,Pan,Mercadia,Si,0.55,0.34
+P0102,Barra de pan Dulces Aurora,Panaderia,Pan,Dulces Aurora,No,0.74,0.55
+P0103,Pan de molde Mercadia,Panaderia,Pan,Mercadia,Si,1.36,0.85
+P0104,Pan de molde Dulces Aurora,Panaderia,Pan,Dulces Aurora,No,1.69,1.23
+P0105,Croissants pack 6 Mercadia,Panaderia,Bolleria,Mercadia,Si,1.95,1.20
+P0106,Croissants pack 6 Dulces Aurora,Panaderia,Bolleria,Dulces Aurora,No,2.59,1.89
+P0107,Magdalenas 12 u Mercadia,Panaderia,Bolleria,Mercadia,Si,1.62,0.95
+P0108,Magdalenas 12 u Dulces Aurora,Panaderia,Bolleria,Dulces Aurora,No,2.01,1.41
+P0109,Guisantes congelados 1 kg Mercadia,Congelados,Verduras congeladas,Mercadia,Si,1.53,0.93
+P0110,Guisantes congelados 1 kg Polar,Congelados,Verduras congeladas,Polar,No,2.00,1.40
+P0111,Guisantes congelados 1 kg Frio Norte,Congelados,Verduras congeladas,Frio Norte,No,1.90,1.35
+P0112,Menestra de verduras 1 kg Mercadia,Congelados,Verduras congeladas,Mercadia,Si,1.87,1.08
+P0113,Menestra de verduras 1 kg Polar,Congelados,Verduras congeladas,Polar,No,2.20,1.57
+P0114,Menestra de verduras 1 kg Frio Norte,Congelados,Verduras congeladas,Frio Norte,No,2.29,1.62
+P0115,Pizza barbacoa Mercadia,Congelados,Pizzas,Mercadia,Si,2.72,1.62
+P0116,Pizza barbacoa Polar,Congelados,Pizzas,Polar,No,3.23,2.39
+P0117,Pizza barbacoa Frio Norte,Congelados,Pizzas,Frio Norte,No,3.46,2.47
+P0118,Pizza cuatro quesos Mercadia,Congelados,Pizzas,Mercadia,Si,2.72,1.66
+P0119,Pizza cuatro quesos Polar,Congelados,Pizzas,Polar,No,3.37,2.44
+P0120,Pizza cuatro quesos Frio Norte,Congelados,Pizzas,Frio Norte,No,3.42,2.61
+P0121,Helado de vainilla 1 L Mercadia,Congelados,Helados,Mercadia,Si,2.89,1.82
+P0122,Helado de vainilla 1 L Polar,Congelados,Helados,Polar,No,3.89,2.85
+P0123,Bombones helados pack 4 Mercadia,Congelados,Helados,Mercadia,Si,2.46,1.45
+P0124,Bombones helados pack 4 Polar,Congelados,Helados,Polar,No,2.98,2.20
+P0125,Bombones helados pack 4 Frio Norte,Congelados,Helados,Frio Norte,No,3.26,2.45
+P0126,Detergente liquido 40 lavados Mercadia,Drogueria,Limpieza hogar,Mercadia,Si,6.72,4.12
+P0127,Detergente liquido 40 lavados Brillo,Drogueria,Limpieza hogar,Brillo,No,8.72,6.43
+P0128,Detergente liquido 40 lavados Suave Hogar,Drogueria,Limpieza hogar,Suave Hogar,No,8.42,5.89
+P0129,Lavavajillas a mano 1 L Mercadia,Drogueria,Limpieza hogar,Mercadia,Si,1.53,0.94
+P0130,Lavavajillas a mano 1 L Brillo,Drogueria,Limpieza hogar,Brillo,No,1.93,1.44
+P0131,Lavavajillas a mano 1 L Suave Hogar,Drogueria,Limpieza hogar,Suave Hogar,No,1.91,1.45
+P0132,Lejia 2 L Mercadia,Drogueria,Limpieza hogar,Mercadia,Si,0.94,0.56
+P0133,Lejia 2 L Brillo,Drogueria,Limpieza hogar,Brillo,No,1.12,0.80
+P0134,Lejia 2 L Suave Hogar,Drogueria,Limpieza hogar,Suave Hogar,No,1.14,0.82
+P0135,Papel higienico 12 rollos Mercadia,Drogueria,Papel,Mercadia,Si,3.57,2.20
+P0136,Papel higienico 12 rollos Brillo,Drogueria,Papel,Brillo,No,4.80,3.40
+P0137,Papel higienico 12 rollos Suave Hogar,Drogueria,Papel,Suave Hogar,No,4.68,3.56
+P0138,Papel de cocina 3 rollos Mercadia,Drogueria,Papel,Mercadia,Si,1.95,1.14
+P0139,Papel de cocina 3 rollos Brillo,Drogueria,Papel,Brillo,No,2.51,1.84
+P0140,Papel de cocina 3 rollos Suave Hogar,Drogueria,Papel,Suave Hogar,No,2.34,1.78
+P0141,Gel de ducha 750 ml Mercadia,Higiene,Higiene personal,Mercadia,Si,1.87,1.08
+P0142,Gel de ducha 750 ml Bebedulce,Higiene,Higiene personal,Bebedulce,No,2.40,1.79
+P0143,Champu 400 ml Mercadia,Higiene,Higiene personal,Mercadia,Si,2.21,1.37
+P0144,Champu 400 ml Aqua Natura,Higiene,Higiene personal,Aqua Natura,No,2.87,2.09
+P0145,Champu 400 ml Bebedulce,Higiene,Higiene personal,Bebedulce,No,2.83,2.13
+P0146,Pasta de dientes 75 ml Mercadia,Higiene,Higiene personal,Mercadia,Si,1.44,0.91
+P0147,Pasta de dientes 75 ml Aqua Natura,Higiene,Higiene personal,Aqua Natura,No,1.77,1.33
+P0148,Pasta de dientes 75 ml Bebedulce,Higiene,Higiene personal,Bebedulce,No,1.82,1.27
+P0149,Panales talla 4 Mercadia,Higiene,Cuidado bebe,Mercadia,Si,8.42,5.02
+P0150,Panales talla 4 Aqua Natura,Higiene,Cuidado bebe,Aqua Natura,No,10.78,7.54
+P0151,Panales talla 4 Bebedulce,Higiene,Cuidado bebe,Bebedulce,No,11.11,8.41
+P0152,Toallitas bebe pack 3 Mercadia,Higiene,Cuidado bebe,Mercadia,Si,2.72,1.58
+P0153,Toallitas bebe pack 3 Bebedulce,Higiene,Cuidado bebe,Bebedulce,No,3.65,2.74

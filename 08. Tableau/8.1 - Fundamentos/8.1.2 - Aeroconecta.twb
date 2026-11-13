@@ -1,0 +1,784 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20262.26.0819.2015                               -->
+<workbook _.fcp.WorkbookFingerprinting.true...author-id='1c67c39223d222680671c4f7d2e21e3335b41cad47f2adc3b92342cef8838d0a' _.fcp.WorkbookFingerprinting.true...creator-author-id='1c67c39223d222680671c4f7d2e21e3335b41cad47f2adc3b92342cef8838d0a' _.fcp.WorkbookFingerprinting.true...creator-license-type='free' _.fcp.WorkbookFingerprinting.true...creator-machine-id='36fa42800d5b6271f6dad037a34cd6395ed0eed2e64ccf16f7e0ba59a6b80ff2' _.fcp.WorkbookFingerprinting.true...license-type='free' _.fcp.WorkbookFingerprinting.true...machine-id='36fa42800d5b6271f6dad037a34cd6395ed0eed2e64ccf16f7e0ba59a6b80ff2' original-version='18.1' source-build='2026.2.2 (20262.26.0819.2015)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AnimationOnByDefault />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+    <_.fcp.WorkbookFingerprinting.true...WorkbookFingerprinting />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='AeroConecta' inline='true' name='federated.0mp6dll1tu83pl1d7t05x11roeyr' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='vuelos_aeroconecta' name='textscan.0a8xn1512f4xml1g5pq6k1xucz55'>
+            <connection class='textscan' directory='G:/Mi unidad/GIT Repositorios/DataAnalytics - Sep25/8. Tableau/8.0 - Dataset' filename='vuelos_aeroconecta.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.0a8xn1512f4xml1g5pq6k1xucz55' name='vuelos_aeroconecta.csv' table='[vuelos_aeroconecta#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='es_ES'>
+            <column datatype='string' name='flight_id' ordinal='0' />
+            <column datatype='string' name='flight_number' ordinal='1' />
+            <column datatype='string' name='aircraft_type' ordinal='2' />
+            <column datatype='string' name='origin_airport' ordinal='3' />
+            <column datatype='string' name='origin_city' ordinal='4' />
+            <column datatype='string' name='origin_lat' ordinal='5' />
+            <column datatype='string' name='origin_lon' ordinal='6' />
+            <column datatype='string' name='destination_airport' ordinal='7' />
+            <column datatype='string' name='destination_city' ordinal='8' />
+            <column datatype='string' name='destination_lat' ordinal='9' />
+            <column datatype='string' name='destination_lon' ordinal='10' />
+            <column datatype='string' name='flight_date' ordinal='11' />
+            <column datatype='integer' name='seats_total' ordinal='12' />
+            <column datatype='integer' name='seats_sold' ordinal='13' />
+            <column datatype='string' name='fare_avg' ordinal='14' />
+            <column datatype='string' name='ingreso_vuelo' ordinal='15' />
+            <column datatype='integer' name='delay_minutes' ordinal='16' />
+            <column datatype='string' name='delay_cause' ordinal='17' />
+            <column datatype='string' name='status' ordinal='18' />
+            <column datatype='boolean' name='is_cancelled' ordinal='19' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;es&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;es_ES&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot;.&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>flight_id</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[flight_id]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>flight_id</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>flight_number</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[flight_number]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>flight_number</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>aircraft_type</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[aircraft_type]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>aircraft_type</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>origin_airport</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[origin_airport]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>origin_airport</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>origin_city</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[origin_city]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>origin_city</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>origin_lat</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[origin_lat]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>origin_lat</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>origin_lon</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[origin_lon]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>origin_lon</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>destination_airport</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[destination_airport]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>destination_airport</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>destination_city</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[destination_city]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>destination_city</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>destination_lat</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[destination_lat]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>destination_lat</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>destination_lon</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[destination_lon]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>destination_lon</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>flight_date</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[flight_date]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>flight_date</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>seats_total</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[seats_total]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>seats_total</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>seats_sold</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[seats_sold]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>seats_sold</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>fare_avg</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[fare_avg]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>fare_avg</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ingreso_vuelo</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[ingreso_vuelo]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>ingreso_vuelo</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>delay_minutes</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[delay_minutes]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>delay_minutes</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>delay_cause</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[delay_cause]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>delay_cause</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>status</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[status]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>status</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>is_cancelled</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[is_cancelled]</local-name>
+            <parent-name>[vuelos_aeroconecta.csv]</parent-name>
+            <remote-alias>is_cancelled</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Causa' datatype='string' name='[Calculation_1656455544377345]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='UPPER(TRIM([delay_cause]))' />
+      </column>
+      <column datatype='string' name='[Causa Retraso]' role='dimension' type='nominal'>
+        <calculation class='categorical-bin' column='[delay_cause]' new-bin='true'>
+          <bin default-name='true' value='&quot;ATC&quot;'>
+            <value>&quot;ATC&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Meteorología&quot;'>
+            <value>&quot;meteorologia&quot;</value>
+            <value>&quot;Meteorologia&quot;</value>
+            <value>&quot;METEOROLOGIA&quot;</value>
+            <value>&quot;Weather&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Operativa&quot;'>
+            <value>&quot;operativa&quot;</value>
+            <value>&quot;Operativa&quot;</value>
+            <value>&quot;OPERATIVA&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Sin Retraso&quot;'>
+            <value>&quot;Sin retraso&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Técnico&quot;'>
+            <value>&quot;Technical&quot;</value>
+            <value>&quot;tecnica&quot;</value>
+            <value>&quot;Tecnica&quot;</value>
+            <value>&quot;TECNICA&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Tráfico Aereo&quot;'>
+            <value>&quot;trafico aereo&quot;</value>
+            <value>&quot;Trafico Aereo&quot;</value>
+            <value>&quot;TRAFICO AEREO&quot;</value>
+          </bin>
+        </calculation>
+      </column>
+      <column datatype='string' name='[Ciudad Destino]' role='dimension' semantic-role='[City].[Name]' type='nominal'>
+        <calculation class='categorical-bin' column='[destination_city]' new-bin='true'>
+          <bin default-name='false' value='&quot;Barcelona&quot;'>
+            <value>&quot;barcelona&quot;</value>
+            <value>&quot;Barcelona&quot;</value>
+            <value>&quot;BARCELONA&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Berlin&quot;'>
+            <value>&quot;berlin&quot;</value>
+            <value>&quot;Berlin&quot;</value>
+            <value>&quot;BERLIN&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Lisboa&quot;'>
+            <value>&quot;lisboa&quot;</value>
+            <value>&quot;Lisboa&quot;</value>
+            <value>&quot;LISBOA&quot;</value>
+            <value>&quot;Lisbon&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Londres&quot;'>
+            <value>&quot;London&quot;</value>
+            <value>&quot;londres&quot;</value>
+            <value>&quot;Londres&quot;</value>
+            <value>&quot;LONDRES&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Lyon&quot;'>
+            <value>&quot;lyon&quot;</value>
+            <value>&quot;Lyon&quot;</value>
+            <value>&quot;LYON&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Madrid&quot;'>
+            <value>&quot;madrid&quot;</value>
+            <value>&quot;Madrid&quot;</value>
+            <value>&quot;MADRID&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Málaga&quot;'>
+            <value>&quot;malaga&quot;</value>
+            <value>&quot;Malaga&quot;</value>
+            <value>&quot;MALAGA&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Milan&quot;'>
+            <value>&quot;milan&quot;</value>
+            <value>&quot;Milan&quot;</value>
+            <value>&quot;MILAN&quot;</value>
+            <value>&quot;Milano&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Munich&quot;'>
+            <value>&quot;Muenchen&quot;</value>
+            <value>&quot;munich&quot;</value>
+            <value>&quot;Munich&quot;</value>
+            <value>&quot;MUNICH&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Nápoles&quot;'>
+            <value>&quot;Naples&quot;</value>
+            <value>&quot;napoles&quot;</value>
+            <value>&quot;Napoles&quot;</value>
+            <value>&quot;NAPOLES&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Niza&quot;'>
+            <value>&quot;Nice&quot;</value>
+            <value>&quot;niza&quot;</value>
+            <value>&quot;Niza&quot;</value>
+            <value>&quot;NIZA&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Oporto&quot;'>
+            <value>&quot;oporto&quot;</value>
+            <value>&quot;Oporto&quot;</value>
+            <value>&quot;OPORTO&quot;</value>
+            <value>&quot;Porto&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Palma&quot;'>
+            <value>&quot;palma&quot;</value>
+            <value>&quot;Palma&quot;</value>
+            <value>&quot;PALMA&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Paris&quot;'>
+            <value>&quot;paris&quot;</value>
+            <value>&quot;Paris&quot;</value>
+            <value>&quot;PARIS&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Roma&quot;'>
+            <value>&quot;roma&quot;</value>
+            <value>&quot;Roma&quot;</value>
+            <value>&quot;ROMA&quot;</value>
+            <value>&quot;Rome&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Sevilla&quot;'>
+            <value>&quot;sevilla&quot;</value>
+            <value>&quot;Sevilla&quot;</value>
+            <value>&quot;SEVILLA&quot;</value>
+          </bin>
+        </calculation>
+      </column>
+      <column caption='Ciudad Origen' datatype='string' name='[Origin City (grupo)]' role='dimension' semantic-role='[City].[Name]' type='nominal'>
+        <calculation class='categorical-bin' column='[origin_city]' new-bin='true'>
+          <bin default-name='false' value='&quot;Barcelona&quot;'>
+            <value>&quot;barcelona&quot;</value>
+            <value>&quot;Barcelona&quot;</value>
+            <value>&quot;BARCELONA&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Lisboa&quot;'>
+            <value>&quot;lisboa&quot;</value>
+            <value>&quot;Lisboa&quot;</value>
+            <value>&quot;LISBOA&quot;</value>
+            <value>&quot;Lisbon&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Madrid&quot;'>
+            <value>&quot;madrid&quot;</value>
+            <value>&quot;Madrid&quot;</value>
+            <value>&quot;MADRID&quot;</value>
+          </bin>
+        </calculation>
+      </column>
+      <column caption='Vuelos_aeroconecta' datatype='table' name='[__tableau_internal_object_id__].[vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628]' role='measure' type='quantitative' />
+      <column caption='Aircraft Type' datatype='string' name='[aircraft_type]' role='dimension' type='nominal' />
+      <column caption='Delay Cause' datatype='string' name='[delay_cause]' role='dimension' type='nominal' />
+      <column caption='Delay Minutes' datatype='integer' name='[delay_minutes]' role='measure' type='quantitative' />
+      <column caption='Destination Airport' datatype='string' name='[destination_airport]' role='dimension' type='nominal' />
+      <column caption='Destination City' datatype='string' hidden='true' name='[destination_city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <column caption='Destination Lat' datatype='string' name='[destination_lat]' role='dimension' type='nominal' />
+      <column caption='Destination Lon' datatype='string' name='[destination_lon]' role='dimension' type='nominal' />
+      <column caption='Fare Avg' datatype='string' name='[fare_avg]' role='dimension' type='nominal' />
+      <column caption='Flight Date' datatype='string' name='[flight_date]' role='dimension' type='nominal' />
+      <column caption='Flight Id' datatype='string' name='[flight_id]' role='dimension' type='nominal' />
+      <column caption='Flight Number' datatype='string' name='[flight_number]' role='dimension' type='nominal' />
+      <column caption='Ingreso Vuelo' datatype='string' name='[ingreso_vuelo]' role='dimension' type='nominal' />
+      <column caption='Is Cancelled' datatype='boolean' name='[is_cancelled]' role='dimension' type='nominal' />
+      <column caption='Origin Airport' datatype='string' name='[origin_airport]' role='dimension' type='nominal' />
+      <column caption='Origin City' datatype='string' hidden='true' name='[origin_city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <column caption='Origin Lat' datatype='string' name='[origin_lat]' role='dimension' type='nominal' />
+      <column caption='Origin Lon' datatype='string' name='[origin_lon]' role='dimension' type='nominal' />
+      <column caption='Seats Sold' datatype='integer' name='[seats_sold]' role='measure' type='quantitative' />
+      <column caption='Seats Total' datatype='integer' name='[seats_total]' role='measure' type='quantitative' />
+      <column caption='Status' datatype='string' name='[status]' role='dimension' type='nominal' />
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' rowDisplayCount='1000' show-hidden-fields='true' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;España&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <field-sort-info field-sort-order-type='custom-order'>
+        <field-sort-custom-order field='flight_id' />
+        <field-sort-custom-order field='flight_number' />
+        <field-sort-custom-order field='aircraft_type' />
+        <field-sort-custom-order field='origin_airport' />
+        <field-sort-custom-order field='origin_city' />
+        <field-sort-custom-order field='origin_lat' />
+        <field-sort-custom-order field='origin_lon' />
+        <field-sort-custom-order field='destination_airport' />
+        <field-sort-custom-order field='destination_city' />
+        <field-sort-custom-order field='destination_lat' />
+        <field-sort-custom-order field='destination_lon' />
+        <field-sort-custom-order field='flight_date' />
+        <field-sort-custom-order field='seats_total' />
+        <field-sort-custom-order field='seats_sold' />
+        <field-sort-custom-order field='fare_avg' />
+        <field-sort-custom-order field='ingreso_vuelo' />
+        <field-sort-custom-order field='delay_minutes' />
+        <field-sort-custom-order field='delay_cause' />
+        <field-sort-custom-order field='Calculation_1656455544377345' />
+        <field-sort-custom-order field='status' />
+        <field-sort-custom-order field='is_cancelled' />
+        <field-sort-custom-order field='Geometry (generated)' />
+        <field-sort-custom-order field='Latitude (generated)' />
+        <field-sort-custom-order field='Longitude (generated)' />
+        <field-sort-custom-order field='Origin City (grupo)' />
+        <field-sort-custom-order field='Ciudad Destino' />
+        <field-sort-custom-order field='Causa Retraso' />
+        <field-sort-custom-order field=':Measure Names' />
+        <field-sort-custom-order field='Multiple Values' />
+      </field-sort-info>
+      <object-graph>
+        <objects>
+          <object caption='Vuelos_aeroconecta' id='vuelos_aeroconecta.csv_BC5DB01CF9B9454AB5F8F9B60466D628'>
+            <properties context=''>
+              <relation connection='textscan.0a8xn1512f4xml1g5pq6k1xucz55' name='vuelos_aeroconecta.csv' table='[vuelos_aeroconecta#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='es_ES'>
+                  <column datatype='string' name='flight_id' ordinal='0' />
+                  <column datatype='string' name='flight_number' ordinal='1' />
+                  <column datatype='string' name='aircraft_type' ordinal='2' />
+                  <column datatype='string' name='origin_airport' ordinal='3' />
+                  <column datatype='string' name='origin_city' ordinal='4' />
+                  <column datatype='string' name='origin_lat' ordinal='5' />
+                  <column datatype='string' name='origin_lon' ordinal='6' />
+                  <column datatype='string' name='destination_airport' ordinal='7' />
+                  <column datatype='string' name='destination_city' ordinal='8' />
+                  <column datatype='string' name='destination_lat' ordinal='9' />
+                  <column datatype='string' name='destination_lon' ordinal='10' />
+                  <column datatype='string' name='flight_date' ordinal='11' />
+                  <column datatype='integer' name='seats_total' ordinal='12' />
+                  <column datatype='integer' name='seats_sold' ordinal='13' />
+                  <column datatype='string' name='fare_avg' ordinal='14' />
+                  <column datatype='string' name='ingreso_vuelo' ordinal='15' />
+                  <column datatype='integer' name='delay_minutes' ordinal='16' />
+                  <column datatype='string' name='delay_cause' ordinal='17' />
+                  <column datatype='string' name='status' ordinal='18' />
+                  <column datatype='boolean' name='is_cancelled' ordinal='19' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Vuelos por causa retraso(sucio)'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='AeroConecta' name='federated.0mp6dll1tu83pl1d7t05x11roeyr' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0mp6dll1tu83pl1d7t05x11roeyr'>
+            <column datatype='string' name='[Causa Retraso]' role='dimension' type='nominal'>
+              <calculation class='categorical-bin' column='[delay_cause]' new-bin='true'>
+                <bin default-name='true' value='&quot;ATC&quot;'>
+                  <value>&quot;ATC&quot;</value>
+                </bin>
+                <bin default-name='false' value='&quot;Meteorología&quot;'>
+                  <value>&quot;meteorologia&quot;</value>
+                  <value>&quot;Meteorologia&quot;</value>
+                  <value>&quot;METEOROLOGIA&quot;</value>
+                  <value>&quot;Weather&quot;</value>
+                </bin>
+                <bin default-name='false' value='&quot;Operativa&quot;'>
+                  <value>&quot;operativa&quot;</value>
+                  <value>&quot;Operativa&quot;</value>
+                  <value>&quot;OPERATIVA&quot;</value>
+                </bin>
+                <bin default-name='false' value='&quot;Sin Retraso&quot;'>
+                  <value>&quot;Sin retraso&quot;</value>
+                </bin>
+                <bin default-name='false' value='&quot;Técnico&quot;'>
+                  <value>&quot;Technical&quot;</value>
+                  <value>&quot;tecnica&quot;</value>
+                  <value>&quot;Tecnica&quot;</value>
+                  <value>&quot;TECNICA&quot;</value>
+                </bin>
+                <bin default-name='false' value='&quot;Tráfico Aereo&quot;'>
+                  <value>&quot;trafico aereo&quot;</value>
+                  <value>&quot;Trafico Aereo&quot;</value>
+                  <value>&quot;TRAFICO AEREO&quot;</value>
+                </bin>
+              </calculation>
+            </column>
+            <column-instance column='[flight_id]' derivation='CountD' name='[ctd:flight_id:qk]' pivot='key' type='quantitative' />
+            <column caption='Delay Cause' datatype='string' name='[delay_cause]' role='dimension' type='nominal' />
+            <column caption='Flight Id' datatype='string' name='[flight_id]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='0.60000002384185791' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0mp6dll1tu83pl1d7t05x11roeyr].[ctd:flight_id:qk]</rows>
+        <cols>[federated.0mp6dll1tu83pl1d7t05x11roeyr].[Causa Retraso]</cols>
+      </table>
+      <simple-id uuid='{43A083C0-04BA-4075-BD05-69D2975C06D4}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Vuelos por causa retraso(sucio)'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0mp6dll1tu83pl1d7t05x11roeyr].[Causa Retraso]</field>
+            <field>[federated.0mp6dll1tu83pl1d7t05x11roeyr].[none:delay_cause:nk]</field>
+            <field>[federated.0mp6dll1tu83pl1d7t05x11roeyr].[none:flight_id:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{2EB385A9-AEB8-4966-9334-0BDE017D464E}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Vuelos por causa retraso(sucio)' width='192'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>

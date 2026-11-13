@@ -112,16 +112,16 @@ El curso está organizado en **8 bloques temáticos**, con un total aproximado d
 
 ## BLOQUE 9 - Qlik
 - Instalación y entorno de trabajo
-- Carga de datos, modelado y calidad del dato
+- Script básico: leer y tipar los datos
+- Transformar en el script: limpieza y campos calculados
+- Varias tablas: maestros, modelo asociativo y calidad
 - Creación de visualizaciones y uso de elementos maestros
-- Integración con Python y caso práctico final
-- Script de carga: joins, concatenate y resident
-- Modelo asociativo, claves sintéticas y bucles
+- Script avanzado: joins, concatenate y resident
+- Variables, estructuras de control y calendario maestro
+- Modelo asociativo avanzado: claves sintéticas, referencias circulares y tablas de enlace
 - Set Analysis: sintaxis y casos
-- QVDs y cargas incrementales
+- QVDs y buenas prácticas de script
 - Seguridad: Section Access (RLS)
-- Qlik Cloud: publicación y espacios
-- Proyecto: app analítica de negocio
 
 ---
 ## BLOQUE 10 - Proyecto Final

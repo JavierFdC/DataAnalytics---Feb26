@@ -1,0 +1,4032 @@
+id_cliente,fecha_alta,genero,tramo_edad,provincia,canal_alta,acepta_comunicaciones
+C00001,29/11/2023,Mujer,45-59,Murcia,Tienda,Si
+C00002,28/05/2024,Hombre,30-44,Alicante,Tienda,Si
+C00003,12/04/2024,Mujer,18-29,Granada,App,No
+C00004,29/07/2026,Hombre,60+,Madrid,Tienda,No
+C00005,12/03/2025,Mujer,45-59,Madrid,App,Si
+C00006,22/12/2020,Hombre,45-59,Murcia,Tienda,Si
+C00007,31/03/2023,Hombre,45-59,Granada,App,Si
+C00008,14/08/2026,Mujer,45-59,Madrid,Tienda,Si
+C00009,08/05/2022,Mujer,18-29,Malaga,Tienda,Si
+C00010,15/03/2024,Mujer,30-44,Sevilla,App,Si
+C00011,18/01/2025,Mujer,60+,Castellon,Tienda,Si
+C00012,07/03/2026,Mujer,45-59,Alicante,Web,Si
+C00013,01/09/2026,Mujer,30-44,Alicante,Tienda,Si
+C00014,06/07/2019,Hombre,60+,Castellon,Tienda,No
+C00015,19/01/2022,Hombre,30-44,Alicante,Tienda,No
+C00016,30/11/2023,Mujer,45-59,Sevilla,App,Si
+C00017,05/03/2022,Mujer,45-59,Valencia,Web,No
+C00018,04/02/2024,Hombre,45-59,Murcia,Tienda,No
+C00019,02/03/2024,Mujer,45-59,Malaga,Tienda,Si
+C00020,27/06/2025,Mujer,30-44,Sevilla,Tienda,Si
+C00021,10/04/2023,Hombre,45-59,Toledo,Tienda,No
+C00022,11/06/2021,Hombre,30-44,Valencia,Tienda,Si
+C00023,21/11/2019,Mujer,30-44,Murcia,Tienda,No
+C00024,05/10/2024,No indica,30-44,Madrid,App,Si
+C00025,01/07/2023,Mujer,30-44,Toledo,Web,Si
+C00026,03/10/2022,No indica,,Valencia,Web,No
+C00027,07/02/2026,No indica,30-44,Murcia,Tienda,No
+C00028,25/11/2019,Mujer,30-44,Valencia,Web,Si
+C00029,17/12/2024,Mujer,30-44,Granada,App,No
+C00030,20/05/2026,Mujer,60+,Madrid,Tienda,No
+C00031,09/11/2021,Hombre,30-44,Madrid,Tienda,Si
+C00032,12/05/2022,No indica,45-59,Madrid,Tienda,No
+C00033,19/12/2024,Hombre,45-59,Malaga,App,Si
+C00034,18/11/2024,No indica,30-44,Murcia,Tienda,Si
+C00035,25/07/2023,No indica,45-59,Sevilla,Tienda,Si
+C00036,17/05/2021,Mujer,18-29,Madrid,Web,No
+C00037,10/11/2024,No indica,45-59,Valencia,Web,Si
+C00038,16/10/2022,Mujer,,Toledo,Tienda,No
+C00039,14/03/2022,Hombre,60+,Valencia,Tienda,No
+C00040,07/12/2022,Mujer,30-44,Valencia,Tienda,Si
+C00041,29/05/2020,No indica,30-44,Toledo,App,No
+C00042,18/04/2024,Mujer,45-59,Murcia,Tienda,No
+C00043,29/11/2023,Hombre,30-44,Valencia,Tienda,Si
+C00044,20/02/2025,Mujer,,Toledo,Tienda,No
+C00045,07/01/2019,No indica,60+,Murcia,Tienda,Si
+C00046,29/12/2025,No indica,18-29,Murcia,Tienda,Si
+C00047,19/03/2026,Mujer,18-29,Cadiz,Tienda,No
+C00048,02/04/2019,Mujer,30-44,Madrid,App,No
+C00049,05/10/2022,Mujer,45-59,Murcia,Tienda,Si
+C00050,07/01/2026,Hombre,60+,Madrid,Tienda,No
+C00051,11/07/2025,Hombre,45-59,Malaga,Tienda,Si
+C00052,26/06/2021,No indica,30-44,Madrid,Web,No
+C00053,05/08/2025,Hombre,,Madrid,Tienda,No
+C00054,18/01/2023,Hombre,,Granada,Tienda,Si
+C00055,26/03/2021,Mujer,18-29,Murcia,Tienda,No
+C00056,05/06/2024,Mujer,45-59,Valencia,Web,No
+C00057,20/08/2022,Hombre,18-29,Murcia,App,No
+C00058,29/11/2019,Hombre,45-59,Castellon,Tienda,Si
+C00059,24/06/2026,Mujer,60+,Alicante,Web,Si
+C00060,13/04/2024,Mujer,45-59,Toledo,Tienda,Si
+C00061,30/01/2024,Hombre,30-44,Madrid,Tienda,Si
+C00062,12/07/2023,Hombre,45-59,Valencia,Tienda,Si
+C00063,10/05/2020,Mujer,45-59,Madrid,Tienda,No
+C00064,26/07/2022,Mujer,45-59,Madrid,Tienda,No
+C00065,25/12/2021,Mujer,45-59,Alicante,Tienda,Si
+C00066,17/12/2022,Mujer,45-59,Alicante,Tienda,Si
+C00067,25/06/2023,Mujer,18-29,Toledo,App,Si
+C00068,30/11/2023,Mujer,60+,Murcia,Tienda,Si
+C00069,18/02/2023,Mujer,,Valencia,App,Si
+C00070,04/07/2023,Mujer,18-29,Sevilla,Tienda,Si
+C00071,07/12/2019,Hombre,18-29,Murcia,Tienda,Si
+C00072,16/03/2026,No indica,18-29,Malaga,App,Si
+C00073,22/03/2026,Hombre,60+,Granada,Tienda,Si
+C00074,03/12/2024,Mujer,45-59,Murcia,Tienda,Si
+C00075,13/03/2022,Mujer,45-59,Malaga,App,No
+C00076,31/10/2023,No indica,18-29,Malaga,Tienda,No
+C00077,19/06/2021,Mujer,60+,Malaga,Tienda,Si
+C00078,12/11/2023,Hombre,30-44,Castellon,Tienda,No
+C00079,22/11/2022,No indica,45-59,Alicante,Tienda,Si
+C00080,12/11/2024,Mujer,60+,Murcia,Tienda,Si
+C00081,05/07/2022,Hombre,60+,Alicante,Tienda,Si
+C00082,01/04/2021,No indica,18-29,Malaga,App,Si
+C00083,15/06/2023,Mujer,45-59,Murcia,Tienda,Si
+C00084,31/12/2024,Hombre,18-29,Granada,Tienda,No
+C00085,30/03/2022,Mujer,60+,Murcia,App,Si
+C00086,08/05/2021,Mujer,30-44,Toledo,App,Si
+C00087,30/03/2020,Mujer,45-59,Madrid,Tienda,No
+C00088,25/12/2023,No indica,30-44,Murcia,Tienda,Si
+C00089,19/01/2023,Mujer,30-44,Alicante,Web,Si
+C00090,24/12/2023,Hombre,,Alicante,Tienda,No
+C00091,27/10/2023,Hombre,30-44,Granada,Tienda,Si
+C00092,12/09/2019,No indica,30-44,Murcia,Tienda,Si
+C00093,26/09/2024,Mujer,45-59,Valencia,Web,Si
+C00094,28/04/2021,Hombre,30-44,Cadiz,Tienda,No
+C00095,13/03/2024,Mujer,45-59,Alicante,Tienda,No
+C00096,28/01/2022,Hombre,18-29,Alicante,Tienda,Si
+C00097,12/10/2025,Mujer,45-59,Madrid,Tienda,No
+C00098,04/07/2024,No indica,30-44,Sevilla,Tienda,Si
+C00099,06/11/2019,Mujer,45-59,Sevilla,Tienda,Si
+C00100,14/02/2025,Hombre,45-59,Valencia,Tienda,Si
+C00101,20/11/2025,Mujer,60+,Valencia,Tienda,No
+C00102,06/06/2026,Mujer,60+,Madrid,App,Si
+C00103,05/03/2022,Mujer,45-59,Valencia,Tienda,Si
+C00104,12/03/2020,Mujer,30-44,Alicante,Tienda,No
+C00104,12/03/2020,Mujer,30-44,Alicante,Tienda,No
+C00105,10/09/2024,Hombre,30-44,Murcia,Tienda,Si
+C00106,01/03/2022,Hombre,30-44,Toledo,Tienda,No
+C00107,30/07/2021,Mujer,18-29,Alicante,Tienda,Si
+C00108,11/05/2019,Hombre,30-44,Almeria,Tienda,Si
+C00109,29/01/2024,No indica,45-59,Valencia,Tienda,No
+C00110,12/01/2019,Mujer,60+,Malaga,Tienda,Si
+C00111,09/04/2023,Mujer,45-59,Murcia,Tienda,Si
+C00112,21/09/2021,Mujer,30-44,Valencia,Tienda,No
+C00113,13/02/2026,Mujer,30-44,Malaga,Tienda,Si
+C00114,29/04/2022,Mujer,60+,Toledo,Web,No
+C00115,06/07/2019,Mujer,60+,Toledo,Tienda,Si
+C00116,25/04/2019,Hombre,60+,Malaga,App,No
+C00117,23/06/2023,Mujer,30-44,Valencia,Web,Si
+C00118,05/07/2024,No indica,45-59,Murcia,App,No
+C00119,26/04/2019,Mujer,30-44,Malaga,Tienda,No
+C00120,16/03/2024,Mujer,30-44,Sevilla,Tienda,Si
+C00121,29/10/2021,Mujer,45-59,Murcia,Tienda,Si
+C00122,22/12/2020,Mujer,45-59,Madrid,Tienda,Si
+C00123,25/08/2021,Hombre,18-29,Madrid,Tienda,Si
+C00124,29/05/2025,No indica,30-44,Malaga,Web,No
+C00125,17/03/2021,Hombre,60+,Granada,Tienda,Si
+C00126,14/07/2025,Mujer,30-44,Murcia,Web,No
+C00127,31/03/2024,Mujer,45-59,Murcia,Tienda,Si
+C00128,13/05/2021,Mujer,18-29,Alicante,Tienda,No
+C00129,02/04/2023,Hombre,45-59,Murcia,Tienda,No
+C00130,13/07/2023,Mujer,,Madrid,App,No
+C00131,28/08/2024,Mujer,45-59,Castellon,App,Si
+C00132,01/02/2019,Mujer,18-29,Valencia,Tienda,Si
+C00133,13/09/2020,No indica,,Madrid,Tienda,No
+C00134,26/01/2024,Hombre,30-44,Murcia,Tienda,Si
+C00135,10/05/2019,Hombre,18-29,Toledo,Tienda,Si
+C00136,04/03/2025,Mujer,45-59,Madrid,Web,No
+C00137,15/07/2026,Hombre,60+,Madrid,Tienda,Si
+C00138,22/07/2021,Mujer,30-44,Madrid,Tienda,Si
+C00139,04/09/2025,Mujer,45-59,Cadiz,Tienda,Si
+C00140,06/06/2021,No indica,45-59,Murcia,Tienda,Si
+C00141,23/06/2022,Mujer,45-59,Murcia,Web,Si
+C00142,01/06/2024,Mujer,30-44,Malaga,Tienda,Si
+C00143,15/11/2025,Mujer,18-29,Madrid,Tienda,Si
+C00144,01/11/2019,Mujer,60+,Madrid,Tienda,Si
+C00145,18/05/2024,Mujer,60+,Madrid,App,Si
+C00146,29/05/2025,Mujer,18-29,Alicante,Tienda,Si
+C00147,19/09/2019,Hombre,30-44,Murcia,Tienda,No
+C00148,20/03/2022,No indica,30-44,Sevilla,Tienda,Si
+C00149,21/12/2024,Mujer,,Valencia,App,No
+C00150,21/07/2019,Mujer,30-44,Alicante,Tienda,Si
+C00151,14/02/2026,Mujer,30-44,Cadiz,Web,No
+C00152,01/05/2025,Mujer,60+,Toledo,Web,No
+C00153,17/06/2025,Mujer,30-44,Madrid,Tienda,Si
+C00154,22/04/2025,Mujer,60+,Valencia,Tienda,Si
+C00155,13/03/2024,No indica,45-59,Madrid,Tienda,No
+C00156,25/03/2024,Hombre,45-59,Madrid,Tienda,No
+C00157,01/01/2025,Mujer,30-44,Toledo,Tienda,No
+C00158,12/09/2025,Hombre,45-59,Castellon,Tienda,Si
+C00159,02/02/2025,No indica,30-44,Granada,App,No
+C00160,19/08/2025,Hombre,30-44,Madrid,Tienda,Si
+C00161,21/04/2024,Hombre,18-29,Alicante,Web,No
+C00162,18/12/2020,No indica,18-29,Madrid,Tienda,Si
+C00163,03/08/2022,Mujer,30-44,Murcia,App,No
+C00164,04/03/2025,Hombre,30-44,Alicante,Tienda,No
+C00165,25/05/2020,No indica,60+,Alicante,Tienda,No
+C00166,25/12/2019,Mujer,,Sevilla,Tienda,Si
+C00167,18/05/2026,No indica,,Alicante,Tienda,Si
+C00168,09/01/2022,No indica,30-44,Cadiz,App,Si
+C00169,02/01/2021,Hombre,60+,Malaga,App,No
+C00170,09/08/2019,Mujer,45-59,Madrid,Tienda,No
+C00171,22/08/2021,Hombre,30-44,Malaga,Tienda,No
+C00172,31/07/2024,Mujer,45-59,Malaga,Tienda,Si
+C00173,18/11/2024,Mujer,18-29,Alicante,Tienda,Si
+C00174,22/11/2024,Mujer,60+,Madrid,Tienda,Si
+C00175,02/01/2024,Mujer,60+,Sevilla,Tienda,No
+C00176,21/01/2025,Mujer,18-29,Alicante,Tienda,Si
+C00177,25/11/2025,Hombre,30-44,Malaga,Tienda,Si
+C00178,04/02/2021,Hombre,30-44,Valencia,Tienda,No
+C00179,08/01/2020,Mujer,30-44,Madrid,Tienda,No
+C00180,06/06/2025,Mujer,60+,Murcia,App,No
+C00181,05/01/2025,Mujer,60+,Murcia,App,No
+C00182,17/03/2023,Hombre,18-29,Toledo,Tienda,Si
+C00183,08/09/2019,Mujer,30-44,Toledo,Tienda,Si
+C00184,24/10/2022,Mujer,30-44,Alicante,Tienda,No
+C00185,09/01/2026,Mujer,45-59,Toledo,Tienda,Si
+C00186,30/05/2024,Hombre,18-29,Madrid,Web,Si
+C00187,03/08/2021,Mujer,18-29,Madrid,Tienda,Si
+C00188,19/06/2022,Hombre,60+,Murcia,Web,No
+C00189,06/04/2026,No indica,45-59,Toledo,Tienda,No
+C00190,22/02/2026,No indica,60+,Toledo,Tienda,Si
+C00191,26/05/2025,No indica,45-59,Madrid,Tienda,Si
+C00192,13/10/2024,Mujer,45-59,Madrid,Web,Si
+C00193,10/01/2022,Mujer,60+,Sevilla,Web,Si
+C00194,07/01/2023,Mujer,60+,Madrid,Tienda,Si
+C00195,07/02/2022,No indica,45-59,Sevilla,Tienda,No
+C00196,17/06/2025,Mujer,60+,Alicante,Tienda,Si
+C00197,11/09/2019,Hombre,60+,Sevilla,App,No
+C00198,28/01/2020,Mujer,30-44,Malaga,Tienda,Si
+C00199,11/04/2022,Hombre,45-59,Madrid,Tienda,Si
+C00200,07/10/2021,Mujer,,Sevilla,Tienda,No
+C00201,21/04/2025,Mujer,45-59,Malaga,Tienda,No
+C00202,10/04/2023,Hombre,60+,Castellon,Tienda,Si
+C00203,08/06/2023,Mujer,60+,Valencia,Tienda,No
+C00204,08/06/2023,Mujer,18-29,Madrid,Tienda,Si
+C00205,19/12/2022,Hombre,30-44,Alicante,Tienda,Si
+C00206,20/04/2024,Hombre,60+,Sevilla,Tienda,Si
+C00207,08/02/2022,Mujer,60+,Madrid,Tienda,Si
+C00208,29/06/2020,Mujer,30-44,Alicante,Tienda,Si
+C00209,21/07/2020,Mujer,30-44,Malaga,App,No
+C00210,09/01/2023,Mujer,45-59,Sevilla,Web,Si
+C00211,10/07/2026,Mujer,45-59,Murcia,Web,No
+C00212,05/02/2020,Hombre,45-59,Valencia,App,Si
+C00213,05/10/2021,Hombre,60+,Murcia,Web,Si
+C00214,28/12/2025,Mujer,,Malaga,Tienda,Si
+C00215,14/11/2021,Hombre,18-29,Malaga,Tienda,Si
+C00216,25/02/2022,Hombre,45-59,Madrid,App,No
+C00217,13/07/2026,No indica,30-44,Granada,Tienda,Si
+C00218,01/10/2025,Mujer,30-44,Madrid,App,Si
+C00219,23/09/2025,Hombre,30-44,Malaga,Tienda,Si
+C00220,07/11/2023,Hombre,45-59,Alicante,Tienda,Si
+C00221,12/06/2026,Hombre,30-44,Alicante,App,Si
+C00222,17/07/2025,No indica,60+,Murcia,App,Si
+C00223,11/04/2021,No indica,18-29,Madrid,Tienda,No
+C00223,11/04/2021,No indica,18-29,Madrid,Tienda,No
+C00224,19/02/2025,Mujer,18-29,Alicante,Tienda,Si
+C00225,22/03/2019,Mujer,45-59,Valencia,App,No
+C00226,16/10/2025,Hombre,,Malaga,Tienda,Si
+C00227,03/11/2021,Hombre,18-29,Granada,Tienda,No
+C00228,12/02/2022,Hombre,30-44,Sevilla,Tienda,No
+C00229,31/05/2025,Mujer,30-44,Murcia,Tienda,No
+C00230,11/07/2019,Mujer,,Valencia,Tienda,No
+C00231,11/10/2022,Mujer,45-59,Madrid,Tienda,Si
+C00232,31/05/2019,Mujer,30-44,Alicante,Tienda,Si
+C00232,31/05/2019,Mujer,30-44,Alicante,Tienda,Si
+C00233,16/04/2024,Mujer,45-59,Granada,Tienda,No
+C00234,24/02/2025,Hombre,30-44,Murcia,Tienda,No
+C00235,24/08/2023,Hombre,30-44,Granada,Tienda,Si
+C00236,29/04/2023,Mujer,45-59,Madrid,Tienda,Si
+C00237,04/07/2025,Mujer,60+,Madrid,Tienda,No
+C00238,03/03/2020,Hombre,30-44,Granada,Tienda,No
+C00239,20/10/2024,Mujer,45-59,Cadiz,Tienda,Si
+C00240,16/10/2024,Mujer,18-29,Malaga,Web,Si
+C00241,27/02/2025,Mujer,45-59,Castellon,Tienda,Si
+C00242,19/05/2026,Hombre,45-59,Madrid,Tienda,No
+C00243,03/07/2025,Hombre,18-29,Malaga,Tienda,Si
+C00244,22/11/2024,Mujer,45-59,Valencia,Web,Si
+C00245,30/01/2022,Hombre,18-29,Madrid,Tienda,Si
+C00246,25/03/2026,Mujer,45-59,Sevilla,Tienda,Si
+C00247,18/07/2025,Hombre,60+,Cadiz,Tienda,Si
+C00248,24/07/2026,Mujer,45-59,Murcia,Tienda,No
+C00249,13/12/2025,Hombre,,Malaga,Tienda,No
+C00250,29/04/2023,Mujer,18-29,Cadiz,Tienda,No
+C00251,26/05/2019,No indica,45-59,Madrid,Tienda,No
+C00252,04/02/2024,Mujer,45-59,Alicante,App,No
+C00253,08/02/2022,Mujer,30-44,Cadiz,Web,No
+C00254,05/05/2022,Hombre,30-44,Granada,App,Si
+C00255,20/01/2021,Mujer,18-29,Alicante,Web,Si
+C00256,05/01/2019,Hombre,45-59,Madrid,Tienda,No
+C00257,21/12/2021,Mujer,45-59,Sevilla,Tienda,Si
+C00258,13/06/2022,No indica,45-59,Granada,App,Si
+C00259,20/06/2025,Mujer,,Granada,Tienda,Si
+C00260,11/03/2026,Mujer,45-59,Murcia,Tienda,Si
+C00261,09/03/2026,Mujer,18-29,Madrid,Tienda,Si
+C00262,14/10/2025,Mujer,60+,Alicante,Tienda,No
+C00263,08/03/2025,Mujer,30-44,Alicante,Tienda,Si
+C00264,08/08/2024,No indica,60+,Murcia,Tienda,Si
+C00265,18/04/2023,Hombre,60+,Murcia,App,Si
+C00266,06/04/2019,Mujer,18-29,Alicante,Tienda,No
+C00267,01/03/2024,Mujer,45-59,Madrid,Web,Si
+C00268,23/09/2020,Mujer,30-44,Murcia,Tienda,Si
+C00269,29/09/2021,Hombre,60+,Madrid,Tienda,No
+C00270,06/04/2020,Hombre,30-44,Madrid,App,Si
+C00271,31/08/2019,Mujer,45-59,Granada,Tienda,Si
+C00272,06/12/2020,Hombre,30-44,Alicante,Tienda,Si
+C00273,06/08/2020,Hombre,60+,Madrid,Tienda,Si
+C00274,28/02/2020,Mujer,30-44,Madrid,Tienda,No
+C00275,05/01/2026,No indica,60+,Murcia,Web,No
+C00276,10/08/2021,Mujer,30-44,Madrid,Tienda,No
+C00277,03/06/2026,No indica,30-44,Valencia,Tienda,No
+C00278,04/09/2021,Mujer,45-59,Madrid,Tienda,No
+C00279,25/06/2025,No indica,18-29,Madrid,Tienda,Si
+C00280,05/02/2021,Mujer,18-29,Almeria,Tienda,No
+C00281,28/03/2025,Hombre,30-44,Sevilla,Tienda,No
+C00282,26/08/2019,No indica,30-44,Sevilla,App,No
+C00283,07/10/2021,Mujer,45-59,Valencia,Tienda,Si
+C00284,19/03/2025,Mujer,45-59,Malaga,Web,Si
+C00285,06/12/2025,Mujer,,Alicante,Tienda,Si
+C00286,15/02/2024,Mujer,45-59,Toledo,Tienda,Si
+C00287,15/05/2021,Hombre,,Castellon,Tienda,Si
+C00288,24/10/2025,Hombre,30-44,Valencia,Tienda,No
+C00289,29/11/2020,Hombre,30-44,Madrid,Tienda,No
+C00290,19/07/2021,Hombre,45-59,Sevilla,Web,Si
+C00291,14/08/2026,Mujer,30-44,Madrid,App,Si
+C00292,19/06/2021,Mujer,18-29,Madrid,Tienda,Si
+C00293,27/08/2020,Hombre,30-44,Sevilla,App,Si
+C00294,03/02/2024,Mujer,30-44,Alicante,Tienda,Si
+C00295,26/08/2025,Mujer,30-44,Granada,Tienda,No
+C00296,28/07/2020,Hombre,30-44,Cadiz,Web,No
+C00297,28/01/2024,Mujer,30-44,Madrid,Web,Si
+C00298,26/03/2024,No indica,30-44,Valencia,Tienda,No
+C00299,13/04/2021,No indica,45-59,Madrid,Tienda,Si
+C00300,09/02/2026,No indica,18-29,Valencia,App,Si
+C00301,30/08/2025,Hombre,30-44,Granada,Web,Si
+C00302,08/11/2021,Mujer,45-59,Malaga,Web,Si
+C00303,27/04/2020,Hombre,30-44,Malaga,Tienda,Si
+C00304,24/05/2021,Hombre,45-59,Alicante,Tienda,No
+C00305,28/02/2025,No indica,18-29,Murcia,Tienda,Si
+C00306,20/07/2024,Mujer,30-44,Madrid,App,No
+C00307,07/07/2026,No indica,30-44,Malaga,Tienda,No
+C00308,26/01/2025,Mujer,30-44,Toledo,App,Si
+C00309,14/03/2026,Mujer,60+,Sevilla,Tienda,Si
+C00310,01/07/2026,Mujer,60+,Toledo,Web,Si
+C00311,27/07/2020,Hombre,45-59,Madrid,Tienda,Si
+C00312,23/11/2024,Mujer,60+,Malaga,Tienda,Si
+C00313,21/01/2019,Mujer,45-59,Sevilla,Tienda,Si
+C00314,15/10/2025,Hombre,60+,Malaga,Tienda,Si
+C00315,16/04/2026,Mujer,30-44,Castellon,Tienda,No
+C00316,21/07/2026,No indica,45-59,Sevilla,Tienda,No
+C00317,16/01/2020,No indica,,Valencia,Web,No
+C00318,03/10/2025,Mujer,60+,Malaga,Tienda,Si
+C00319,28/10/2023,Hombre,60+,Alicante,Tienda,No
+C00320,13/05/2023,No indica,60+,Madrid,App,Si
+C00321,21/06/2024,No indica,45-59,Valencia,Tienda,Si
+C00322,14/10/2025,Hombre,60+,Malaga,App,Si
+C00323,05/10/2022,Mujer,45-59,Sevilla,Web,Si
+C00324,12/07/2026,Hombre,30-44,Almeria,Tienda,No
+C00325,24/04/2026,No indica,30-44,Sevilla,Web,Si
+C00326,27/08/2020,Hombre,60+,Madrid,Tienda,Si
+C00327,17/02/2019,No indica,30-44,Madrid,Web,No
+C00328,21/11/2019,No indica,30-44,Alicante,Web,Si
+C00329,19/06/2023,Hombre,30-44,Alicante,Web,No
+C00330,30/09/2022,Mujer,45-59,Sevilla,Tienda,Si
+C00331,27/02/2020,No indica,18-29,Sevilla,Tienda,No
+C00332,15/08/2020,No indica,45-59,Sevilla,Tienda,No
+C00333,30/05/2023,Mujer,30-44,Malaga,App,Si
+C00334,17/10/2019,Mujer,45-59,Granada,Tienda,Si
+C00335,30/03/2021,Hombre,30-44,Granada,Tienda,Si
+C00336,28/03/2023,No indica,30-44,Madrid,Tienda,Si
+C00337,05/02/2019,Mujer,18-29,Sevilla,Tienda,Si
+C00338,05/03/2024,Hombre,45-59,Valencia,Tienda,Si
+C00339,09/02/2024,Mujer,45-59,Valencia,Tienda,Si
+C00339,09/02/2024,Mujer,45-59,Valencia,Tienda,Si
+C00340,10/01/2023,Mujer,45-59,Malaga,Tienda,Si
+C00341,06/05/2021,Mujer,45-59,Alicante,Tienda,No
+C00342,31/05/2020,Mujer,45-59,Sevilla,Web,Si
+C00343,27/03/2024,Mujer,18-29,Toledo,Tienda,Si
+C00344,16/10/2024,Mujer,18-29,Murcia,Tienda,No
+C00345,10/08/2023,Hombre,60+,Madrid,Tienda,Si
+C00346,04/12/2022,Mujer,30-44,Madrid,Tienda,Si
+C00347,13/03/2025,Mujer,30-44,Valencia,Tienda,No
+C00348,06/01/2026,Mujer,30-44,Malaga,Tienda,No
+C00349,17/05/2021,Mujer,30-44,Malaga,Tienda,No
+C00350,12/01/2019,No indica,30-44,Madrid,Tienda,Si
+C00351,26/10/2019,Mujer,45-59,Cadiz,App,Si
+C00352,08/12/2024,Mujer,18-29,Sevilla,App,Si
+C00353,30/07/2026,Hombre,30-44,Murcia,Tienda,Si
+C00354,11/11/2023,Mujer,60+,Alicante,Tienda,No
+C00355,17/12/2022,Mujer,45-59,Malaga,Tienda,Si
+C00356,14/04/2021,Hombre,18-29,Alicante,Tienda,Si
+C00357,22/01/2020,Hombre,30-44,Cadiz,Tienda,Si
+C00358,20/09/2022,Mujer,30-44,Malaga,Tienda,No
+C00359,03/03/2019,Hombre,60+,Toledo,Tienda,Si
+C00360,08/02/2025,Hombre,45-59,Malaga,Tienda,No
+C00361,04/01/2022,No indica,45-59,Madrid,Tienda,Si
+C00362,10/07/2019,Mujer,60+,Murcia,Tienda,Si
+C00363,04/11/2025,Mujer,45-59,Madrid,Web,Si
+C00364,22/10/2023,Hombre,45-59,Madrid,Web,Si
+C00365,03/03/2022,No indica,30-44,Madrid,Tienda,Si
+C00366,14/07/2023,Mujer,45-59,Madrid,Tienda,Si
+C00366,14/07/2023,Mujer,45-59,Madrid,Tienda,Si
+C00367,10/11/2022,Mujer,18-29,Murcia,Tienda,Si
+C00368,06/09/2023,Hombre,60+,Madrid,Web,Si
+C00369,17/11/2025,Mujer,30-44,Valencia,Tienda,No
+C00370,02/11/2022,Hombre,60+,Granada,Tienda,No
+C00371,18/10/2021,Hombre,30-44,Granada,Tienda,Si
+C00372,29/04/2021,No indica,45-59,Malaga,Tienda,Si
+C00373,22/05/2025,No indica,30-44,Malaga,Tienda,No
+C00374,27/04/2025,No indica,18-29,Toledo,Tienda,Si
+C00375,09/01/2021,Hombre,45-59,Granada,App,No
+C00376,25/07/2024,Hombre,45-59,Madrid,Web,Si
+C00377,12/09/2019,Hombre,60+,Castellon,Tienda,Si
+C00378,03/05/2025,Mujer,30-44,Cadiz,Tienda,No
+C00379,14/01/2025,Hombre,30-44,Malaga,Tienda,Si
+C00380,22/03/2026,Hombre,45-59,Castellon,App,Si
+C00381,21/01/2026,Mujer,30-44,Valencia,Tienda,Si
+C00382,31/05/2025,Mujer,45-59,Madrid,App,Si
+C00383,05/11/2019,Mujer,45-59,Valencia,Tienda,Si
+C00384,30/05/2021,Mujer,18-29,Madrid,Tienda,No
+C00385,13/08/2024,Mujer,45-59,Murcia,Tienda,No
+C00386,25/04/2019,Mujer,30-44,Malaga,App,No
+C00387,11/02/2023,No indica,45-59,Cadiz,Tienda,Si
+C00388,03/05/2023,Mujer,60+,Granada,Tienda,No
+C00389,12/10/2025,Mujer,30-44,Toledo,Tienda,No
+C00390,07/08/2023,Mujer,30-44,Castellon,Tienda,Si
+C00391,25/11/2019,Hombre,60+,Murcia,Web,Si
+C00392,09/03/2022,Mujer,30-44,Murcia,Tienda,No
+C00393,01/08/2026,Mujer,45-59,Toledo,Web,Si
+C00394,28/09/2024,Hombre,60+,Toledo,Tienda,Si
+C00395,24/02/2024,Hombre,30-44,Malaga,App,Si
+C00396,21/11/2025,Mujer,45-59,Alicante,App,Si
+C00397,25/01/2025,Hombre,30-44,Malaga,Tienda,No
+C00398,25/09/2025,Mujer,18-29,Madrid,Tienda,No
+C00399,21/11/2020,Mujer,18-29,Madrid,Tienda,No
+C00400,01/05/2019,Hombre,18-29,Castellon,Tienda,Si
+C00401,02/07/2021,Hombre,30-44,Malaga,Tienda,Si
+C00402,09/09/2024,Mujer,18-29,Castellon,Tienda,Si
+C00403,08/03/2024,Mujer,30-44,Granada,Web,Si
+C00404,30/01/2026,Mujer,45-59,Murcia,Tienda,Si
+C00405,03/03/2024,Mujer,30-44,Valencia,Tienda,No
+C00406,08/10/2025,No indica,30-44,Madrid,Tienda,Si
+C00407,26/01/2024,No indica,,Madrid,App,Si
+C00408,18/01/2021,Mujer,45-59,Sevilla,Tienda,Si
+C00409,14/12/2024,Mujer,30-44,Murcia,Tienda,Si
+C00410,15/04/2025,Hombre,60+,Toledo,Tienda,No
+C00411,21/03/2019,Mujer,60+,Sevilla,Tienda,Si
+C00412,22/08/2023,No indica,60+,Madrid,Tienda,No
+C00413,30/03/2023,Mujer,45-59,Alicante,Tienda,No
+C00414,08/07/2025,No indica,30-44,Valencia,App,Si
+C00415,10/08/2022,Mujer,30-44,Madrid,Tienda,No
+C00416,25/01/2024,Hombre,45-59,Alicante,Tienda,No
+C00417,07/12/2020,Mujer,18-29,Cadiz,App,Si
+C00418,25/09/2019,Hombre,30-44,Sevilla,App,No
+C00419,30/12/2022,Hombre,30-44,Alicante,App,No
+C00420,25/01/2021,Hombre,18-29,Granada,Tienda,Si
+C00421,01/12/2019,No indica,30-44,Toledo,App,No
+C00422,15/07/2024,No indica,60+,Toledo,Tienda,No
+C00423,26/03/2024,Hombre,45-59,Sevilla,Web,Si
+C00424,25/05/2019,Mujer,,Madrid,Web,No
+C00425,21/03/2023,Mujer,18-29,Malaga,Tienda,Si
+C00426,06/01/2025,Hombre,45-59,Granada,Web,No
+C00427,04/08/2025,Mujer,45-59,Toledo,Tienda,Si
+C00428,11/01/2024,No indica,60+,Sevilla,App,Si
+C00429,13/07/2019,Mujer,45-59,Murcia,Tienda,Si
+C00430,14/01/2019,Hombre,45-59,Valencia,Tienda,No
+C00431,11/08/2022,No indica,60+,Granada,Tienda,No
+C00432,10/11/2023,No indica,30-44,Toledo,Web,No
+C00433,28/09/2024,Hombre,,Madrid,Tienda,Si
+C00434,22/03/2019,Mujer,18-29,Alicante,Tienda,Si
+C00435,27/05/2026,Hombre,45-59,Madrid,Tienda,Si
+C00436,24/02/2020,No indica,30-44,Madrid,App,Si
+C00437,23/06/2023,Mujer,,Malaga,Tienda,Si
+C00438,16/12/2020,Mujer,30-44,Madrid,Tienda,Si
+C00439,06/06/2020,Mujer,30-44,Toledo,Tienda,Si
+C00440,10/04/2020,Hombre,30-44,Malaga,Tienda,No
+C00441,20/08/2021,Hombre,45-59,Malaga,Tienda,Si
+C00442,02/02/2024,Hombre,45-59,Granada,Tienda,Si
+C00443,17/01/2024,Mujer,30-44,Cadiz,Tienda,No
+C00444,24/05/2025,Mujer,30-44,Madrid,App,No
+C00445,03/09/2019,Hombre,30-44,Alicante,Web,Si
+C00446,18/08/2026,Mujer,30-44,Almeria,Web,No
+C00447,07/08/2026,Hombre,45-59,Murcia,Tienda,Si
+C00448,15/02/2025,Mujer,18-29,Madrid,Tienda,No
+C00449,07/05/2023,Mujer,,Alicante,Tienda,Si
+C00450,10/08/2021,Hombre,60+,Sevilla,App,Si
+C00451,04/03/2019,Hombre,45-59,Murcia,Tienda,Si
+C00452,02/01/2026,Mujer,45-59,Castellon,Tienda,No
+C00453,15/09/2024,Hombre,60+,Madrid,Tienda,Si
+C00454,31/12/2020,Mujer,60+,Murcia,Tienda,Si
+C00455,19/11/2019,No indica,30-44,Toledo,Tienda,Si
+C00456,10/04/2026,No indica,45-59,Granada,Tienda,No
+C00457,13/09/2022,Hombre,30-44,Murcia,Tienda,Si
+C00458,03/09/2026,Mujer,18-29,Valencia,App,Si
+C00459,16/02/2019,Hombre,45-59,Cadiz,Web,Si
+C00460,24/09/2022,Hombre,45-59,Madrid,Tienda,Si
+C00461,18/12/2022,No indica,45-59,Cadiz,Tienda,Si
+C00462,23/03/2025,Mujer,45-59,Alicante,Tienda,Si
+C00463,18/01/2026,Hombre,30-44,Valencia,Tienda,Si
+C00464,24/03/2021,Hombre,30-44,Toledo,Tienda,Si
+C00465,09/08/2026,Mujer,30-44,Granada,Tienda,No
+C00466,20/11/2020,Mujer,30-44,Madrid,Tienda,No
+C00466,20/11/2020,Mujer,30-44,Madrid,Tienda,No
+C00467,05/08/2024,Hombre,30-44,Madrid,App,No
+C00468,08/07/2019,Mujer,18-29,Murcia,App,No
+C00469,27/01/2026,No indica,45-59,Malaga,Tienda,No
+C00470,19/03/2026,Mujer,60+,Alicante,Web,No
+C00471,22/03/2024,Hombre,18-29,Madrid,Tienda,Si
+C00472,11/01/2021,Mujer,18-29,Alicante,Tienda,Si
+C00473,03/08/2023,Mujer,45-59,Sevilla,Tienda,Si
+C00474,25/05/2026,No indica,30-44,Madrid,Tienda,No
+C00475,12/05/2026,Mujer,45-59,Alicante,Tienda,Si
+C00476,06/04/2021,No indica,45-59,Madrid,Tienda,Si
+C00477,18/08/2026,Hombre,45-59,Alicante,App,Si
+C00478,03/12/2019,No indica,45-59,Madrid,Tienda,Si
+C00479,23/07/2022,Hombre,45-59,Madrid,App,Si
+C00480,27/06/2026,No indica,,Sevilla,Tienda,Si
+C00481,24/05/2023,Mujer,30-44,Malaga,Tienda,Si
+C00482,24/11/2023,Hombre,18-29,Valencia,Tienda,No
+C00483,12/08/2026,Mujer,45-59,Madrid,Tienda,No
+C00484,14/07/2020,Hombre,30-44,Malaga,Tienda,Si
+C00485,03/01/2024,Mujer,45-59,Madrid,App,No
+C00486,13/07/2024,Mujer,18-29,Sevilla,Tienda,Si
+C00487,13/12/2024,Mujer,45-59,Murcia,Tienda,No
+C00488,02/07/2022,Mujer,45-59,Madrid,App,Si
+C00489,05/04/2020,Hombre,30-44,Sevilla,Tienda,Si
+C00490,19/02/2025,Mujer,60+,Malaga,Tienda,Si
+C00491,04/08/2021,Hombre,60+,Cadiz,Tienda,No
+C00492,14/08/2025,Hombre,45-59,Almeria,App,Si
+C00493,05/04/2023,Hombre,,Madrid,Tienda,Si
+C00494,19/07/2025,Mujer,45-59,Madrid,Tienda,No
+C00495,22/09/2022,No indica,45-59,Alicante,Tienda,No
+C00496,20/07/2024,Hombre,45-59,Alicante,Tienda,Si
+C00497,11/07/2023,Mujer,,Malaga,Tienda,Si
+C00498,25/03/2026,Mujer,45-59,Madrid,Tienda,Si
+C00499,13/11/2024,Mujer,30-44,Cadiz,Tienda,No
+C00500,29/11/2020,No indica,30-44,Madrid,Tienda,Si
+C00501,17/01/2026,Hombre,30-44,Castellon,Tienda,Si
+C00502,04/02/2019,Mujer,60+,Sevilla,App,No
+C00503,21/08/2025,Mujer,30-44,Sevilla,Tienda,Si
+C00504,19/06/2026,Hombre,45-59,Malaga,Tienda,Si
+C00505,29/08/2025,No indica,45-59,Almeria,Tienda,No
+C00506,11/09/2021,Hombre,30-44,Cadiz,Tienda,No
+C00507,24/11/2023,Mujer,60+,Almeria,Web,Si
+C00508,09/02/2019,Mujer,,Alicante,Tienda,Si
+C00509,31/08/2021,Mujer,45-59,Almeria,Tienda,Si
+C00510,27/02/2025,No indica,30-44,Alicante,Tienda,No
+C00511,25/07/2025,Mujer,,Madrid,Tienda,Si
+C00512,19/03/2026,Hombre,60+,Murcia,Tienda,Si
+C00513,24/09/2024,Mujer,45-59,Madrid,Tienda,Si
+C00514,04/06/2022,Mujer,45-59,Valencia,Web,No
+C00515,07/08/2024,Hombre,45-59,Murcia,Tienda,Si
+C00516,02/09/2019,Hombre,45-59,Madrid,Tienda,Si
+C00517,26/02/2019,Hombre,30-44,Sevilla,Tienda,No
+C00518,09/07/2021,Mujer,45-59,Malaga,App,Si
+C00519,17/10/2024,Hombre,30-44,Alicante,Tienda,Si
+C00520,08/03/2021,Mujer,30-44,Alicante,App,Si
+C00521,23/08/2021,Mujer,45-59,Malaga,App,Si
+C00522,11/02/2022,No indica,,Granada,Tienda,Si
+C00523,24/09/2024,Mujer,18-29,Madrid,Tienda,No
+C00524,08/06/2024,Hombre,60+,Granada,App,No
+C00525,27/02/2025,Mujer,30-44,Malaga,Tienda,Si
+C00526,15/07/2024,Hombre,45-59,Sevilla,App,Si
+C00526,15/07/2024,Hombre,45-59,Sevilla,App,Si
+C00527,29/03/2024,Hombre,18-29,Sevilla,Tienda,Si
+C00528,18/11/2020,Mujer,18-29,Madrid,Tienda,Si
+C00529,16/01/2026,No indica,30-44,Granada,App,Si
+C00530,23/01/2019,Mujer,,Murcia,Tienda,Si
+C00531,30/07/2021,No indica,30-44,Malaga,Tienda,No
+C00532,25/09/2025,Mujer,18-29,Madrid,Tienda,No
+C00533,01/02/2022,Mujer,60+,Valencia,Tienda,Si
+C00534,26/01/2019,Mujer,45-59,Alicante,Tienda,Si
+C00535,28/08/2020,Mujer,45-59,Granada,Tienda,Si
+C00536,11/06/2022,Hombre,45-59,Madrid,Tienda,Si
+C00537,19/01/2020,No indica,45-59,Madrid,Tienda,Si
+C00538,04/02/2026,Hombre,30-44,Alicante,App,Si
+C00539,03/01/2020,No indica,30-44,Alicante,Tienda,Si
+C00540,22/08/2023,Mujer,45-59,Malaga,Tienda,Si
+C00541,07/03/2026,Mujer,45-59,Madrid,App,Si
+C00542,04/05/2026,Hombre,45-59,Sevilla,Tienda,No
+C00543,01/06/2025,Mujer,60+,Madrid,Tienda,Si
+C00544,05/01/2026,Mujer,60+,Murcia,Web,No
+C00545,08/11/2019,Mujer,60+,Murcia,App,No
+C00546,13/12/2019,No indica,45-59,Valencia,Tienda,Si
+C00547,01/01/2024,Mujer,30-44,Toledo,Web,No
+C00548,29/09/2023,No indica,30-44,Murcia,Tienda,Si
+C00549,15/01/2026,Mujer,30-44,Malaga,Tienda,Si
+C00550,31/10/2019,Hombre,30-44,Murcia,Tienda,Si
+C00551,27/10/2019,Mujer,45-59,Madrid,App,Si
+C00552,09/09/2022,Mujer,30-44,Murcia,Web,Si
+C00553,07/03/2025,Hombre,60+,Cadiz,App,No
+C00554,18/11/2022,Hombre,45-59,Madrid,Tienda,Si
+C00555,13/12/2022,Hombre,45-59,Madrid,App,Si
+C00556,19/06/2024,Hombre,30-44,Sevilla,Tienda,No
+C00557,10/12/2024,Mujer,45-59,Alicante,Web,Si
+C00558,01/09/2025,Mujer,45-59,Valencia,Tienda,Si
+C00559,23/06/2024,Mujer,18-29,Malaga,Tienda,No
+C00560,25/06/2025,Hombre,18-29,Granada,Tienda,Si
+C00561,17/02/2022,Mujer,,Murcia,App,No
+C00562,16/08/2021,Hombre,45-59,Madrid,Tienda,Si
+C00563,30/04/2024,Mujer,45-59,Sevilla,Tienda,No
+C00564,23/01/2019,Mujer,45-59,Madrid,Tienda,Si
+C00565,13/03/2025,Mujer,60+,Murcia,Web,Si
+C00566,25/06/2023,Hombre,45-59,Malaga,Tienda,Si
+C00567,06/04/2020,Mujer,18-29,Madrid,Tienda,Si
+C00568,21/04/2022,Mujer,30-44,Malaga,Tienda,No
+C00569,25/06/2026,No indica,30-44,Sevilla,Tienda,Si
+C00570,21/09/2024,Hombre,18-29,Murcia,Tienda,Si
+C00571,30/11/2024,Mujer,30-44,Madrid,Tienda,No
+C00572,14/02/2025,Hombre,30-44,Murcia,App,No
+C00573,04/05/2024,Hombre,30-44,Malaga,App,No
+C00573,04/05/2024,Hombre,30-44,Malaga,App,No
+C00574,23/12/2020,Hombre,,Sevilla,App,Si
+C00575,22/02/2026,Hombre,18-29,Madrid,Tienda,Si
+C00576,05/07/2020,Mujer,18-29,Granada,Tienda,No
+C00577,13/11/2022,Hombre,45-59,Sevilla,Web,No
+C00578,08/05/2024,No indica,,Valencia,Tienda,Si
+C00579,07/07/2019,Hombre,30-44,Madrid,Tienda,No
+C00580,23/07/2021,Hombre,18-29,Madrid,Tienda,Si
+C00581,21/03/2025,Hombre,45-59,Murcia,Tienda,Si
+C00582,05/01/2023,Hombre,60+,Alicante,App,No
+C00583,15/12/2021,Mujer,30-44,Malaga,Tienda,Si
+C00584,26/06/2019,Mujer,45-59,Sevilla,Web,Si
+C00585,12/03/2020,Mujer,45-59,Alicante,Tienda,Si
+C00586,04/07/2026,Hombre,60+,Granada,Tienda,No
+C00587,25/10/2022,Mujer,45-59,Sevilla,App,No
+C00588,24/09/2019,No indica,45-59,Granada,Web,Si
+C00589,07/09/2026,No indica,30-44,Sevilla,Tienda,Si
+C00590,26/09/2022,Mujer,45-59,Sevilla,Tienda,Si
+C00591,27/04/2021,Hombre,45-59,Malaga,App,Si
+C00592,28/04/2024,Hombre,18-29,Granada,Tienda,Si
+C00593,09/09/2021,No indica,45-59,Sevilla,App,No
+C00594,24/05/2024,Mujer,30-44,Alicante,Tienda,Si
+C00595,05/07/2025,Mujer,45-59,Granada,Tienda,Si
+C00596,28/10/2022,No indica,18-29,Granada,Tienda,Si
+C00597,13/02/2021,Hombre,30-44,Toledo,Tienda,Si
+C00598,21/06/2025,Hombre,30-44,Malaga,Tienda,Si
+C00599,05/09/2026,Mujer,45-59,Malaga,Tienda,No
+C00600,10/05/2019,Mujer,,Valencia,Tienda,Si
+C00601,25/08/2023,Mujer,30-44,Madrid,Tienda,Si
+C00602,28/06/2026,Mujer,45-59,Madrid,Tienda,Si
+C00603,02/07/2023,No indica,45-59,Valencia,Tienda,No
+C00603,02/07/2023,No indica,45-59,Valencia,Tienda,No
+C00604,03/04/2019,Mujer,45-59,Alicante,Tienda,No
+C00605,04/02/2022,Hombre,18-29,Madrid,Tienda,No
+C00606,22/02/2024,Hombre,60+,Madrid,Tienda,No
+C00607,07/06/2019,Hombre,60+,Madrid,App,No
+C00608,19/05/2020,No indica,45-59,Madrid,App,Si
+C00609,11/01/2026,No indica,30-44,Sevilla,App,Si
+C00610,27/01/2024,Mujer,30-44,Toledo,Tienda,No
+C00611,23/02/2025,Hombre,30-44,Alicante,Tienda,No
+C00612,14/03/2025,No indica,18-29,Alicante,Web,No
+C00613,11/12/2025,Mujer,30-44,Madrid,Web,Si
+C00614,17/01/2023,No indica,45-59,Madrid,Tienda,Si
+C00615,18/02/2025,No indica,45-59,Malaga,Tienda,Si
+C00616,12/10/2025,Mujer,45-59,Madrid,Tienda,No
+C00617,22/11/2024,Mujer,30-44,Valencia,Web,Si
+C00618,16/08/2021,Mujer,45-59,Malaga,Tienda,Si
+C00619,21/06/2022,Hombre,60+,Castellon,App,Si
+C00620,21/03/2025,Hombre,30-44,Murcia,Tienda,Si
+C00621,03/01/2019,No indica,45-59,Castellon,Tienda,No
+C00622,26/04/2025,Hombre,30-44,Malaga,Web,Si
+C00623,11/08/2024,Hombre,60+,Malaga,Tienda,No
+C00624,17/09/2022,Hombre,60+,Valencia,App,Si
+C00625,13/06/2019,No indica,45-59,Sevilla,Tienda,Si
+C00626,02/03/2022,No indica,18-29,Malaga,Tienda,Si
+C00627,03/11/2023,Mujer,30-44,Valencia,Tienda,No
+C00628,08/08/2024,Hombre,45-59,Murcia,Tienda,No
+C00629,11/02/2026,Mujer,60+,Valencia,Tienda,Si
+C00630,19/04/2022,Mujer,45-59,Alicante,App,Si
+C00631,09/01/2026,Mujer,60+,Madrid,Tienda,Si
+C00632,06/12/2025,Hombre,45-59,Toledo,Tienda,Si
+C00633,30/04/2026,Mujer,18-29,Valencia,Tienda,Si
+C00634,28/05/2026,Mujer,30-44,Sevilla,Tienda,Si
+C00635,24/02/2022,Hombre,45-59,Alicante,Tienda,No
+C00636,22/12/2020,Hombre,30-44,Murcia,Tienda,No
+C00637,17/09/2019,Hombre,45-59,Murcia,Tienda,No
+C00638,09/07/2024,Mujer,18-29,Toledo,Tienda,Si
+C00639,22/02/2019,Hombre,30-44,Valencia,Tienda,Si
+C00640,22/02/2026,Mujer,60+,Malaga,Tienda,Si
+C00641,17/02/2019,Hombre,45-59,Madrid,Tienda,No
+C00642,24/09/2019,Mujer,,Valencia,Tienda,Si
+C00643,27/06/2021,Mujer,60+,Sevilla,Tienda,Si
+C00644,20/10/2024,Hombre,45-59,Madrid,Tienda,No
+C00645,06/07/2022,Mujer,18-29,Valencia,Tienda,Si
+C00646,14/01/2025,Mujer,30-44,Castellon,App,Si
+C00647,21/06/2021,Mujer,60+,Alicante,Tienda,Si
+C00648,17/06/2020,No indica,45-59,Granada,Tienda,Si
+C00649,07/04/2021,Mujer,45-59,Granada,Tienda,Si
+C00650,29/04/2025,Hombre,45-59,Malaga,Tienda,No
+C00651,07/09/2021,Mujer,45-59,Alicante,Tienda,No
+C00652,30/07/2022,Mujer,30-44,Murcia,Tienda,No
+C00653,20/01/2025,Mujer,60+,Sevilla,Web,No
+C00654,01/11/2024,Mujer,45-59,Malaga,Tienda,No
+C00655,03/11/2023,Hombre,18-29,Sevilla,Web,Si
+C00656,23/12/2024,Mujer,45-59,Alicante,Web,Si
+C00657,07/09/2024,Hombre,30-44,Madrid,Web,Si
+C00658,28/01/2026,Mujer,30-44,Alicante,Tienda,Si
+C00659,16/04/2019,Mujer,18-29,Malaga,Tienda,Si
+C00660,28/09/2019,Hombre,18-29,Toledo,App,No
+C00661,16/03/2021,Mujer,18-29,Valencia,Tienda,Si
+C00662,03/01/2024,Mujer,45-59,Granada,Tienda,Si
+C00663,15/12/2022,Mujer,60+,Madrid,App,Si
+C00664,23/02/2023,Mujer,45-59,Alicante,App,Si
+C00665,21/06/2022,Hombre,30-44,Valencia,Tienda,Si
+C00666,10/04/2026,Hombre,45-59,Murcia,Tienda,Si
+C00667,24/10/2020,Hombre,30-44,Almeria,App,Si
+C00668,06/10/2024,Hombre,45-59,Murcia,Tienda,No
+C00669,16/05/2024,Mujer,18-29,Granada,Web,No
+C00670,24/02/2026,Hombre,45-59,Madrid,Tienda,No
+C00671,27/11/2025,Mujer,30-44,Cadiz,Tienda,Si
+C00672,01/01/2022,Mujer,30-44,Madrid,Tienda,No
+C00673,12/06/2025,No indica,30-44,Alicante,Tienda,No
+C00674,22/10/2023,Mujer,45-59,Malaga,Tienda,No
+C00675,31/12/2021,Hombre,30-44,Murcia,Web,Si
+C00676,02/08/2026,Hombre,30-44,Toledo,Tienda,Si
+C00677,09/04/2026,No indica,45-59,Alicante,Web,Si
+C00678,15/08/2025,Mujer,30-44,Madrid,Tienda,Si
+C00679,07/03/2025,Mujer,60+,Toledo,App,Si
+C00680,22/02/2025,Hombre,45-59,Sevilla,Tienda,No
+C00681,14/05/2021,Hombre,45-59,Valencia,Tienda,Si
+C00682,08/05/2019,Mujer,18-29,Valencia,App,Si
+C00683,07/02/2023,Mujer,30-44,Valencia,Tienda,Si
+C00684,14/06/2026,Hombre,45-59,Madrid,App,No
+C00685,11/11/2025,Hombre,30-44,Malaga,Tienda,Si
+C00686,10/03/2025,No indica,45-59,Malaga,Tienda,Si
+C00687,26/03/2022,Mujer,60+,Alicante,Tienda,No
+C00688,16/10/2019,No indica,45-59,Alicante,Tienda,No
+C00689,30/04/2024,Mujer,60+,Sevilla,Web,No
+C00690,10/11/2019,Hombre,60+,Madrid,Tienda,Si
+C00690,10/11/2019,Hombre,60+,Madrid,Tienda,Si
+C00691,15/08/2023,Hombre,45-59,Madrid,App,Si
+C00692,19/03/2025,Hombre,30-44,Cadiz,App,Si
+C00693,30/12/2021,Mujer,18-29,Castellon,Tienda,Si
+C00694,31/07/2025,Mujer,30-44,Valencia,App,No
+C00695,28/01/2024,Mujer,60+,Alicante,App,Si
+C00696,20/04/2024,Mujer,30-44,Alicante,Tienda,No
+C00697,24/12/2024,No indica,30-44,Madrid,Tienda,No
+C00698,03/12/2023,No indica,18-29,Castellon,Tienda,No
+C00699,05/11/2022,Hombre,45-59,Malaga,Tienda,Si
+C00700,08/11/2024,Mujer,60+,Madrid,Tienda,No
+C00701,02/05/2019,Mujer,,Malaga,Tienda,Si
+C00702,07/10/2024,No indica,30-44,Malaga,Tienda,No
+C00703,14/12/2022,Mujer,60+,Toledo,Tienda,Si
+C00704,11/07/2023,Mujer,18-29,Murcia,Tienda,Si
+C00704,11/07/2023,Mujer,18-29,Murcia,Tienda,Si
+C00705,16/04/2023,Mujer,45-59,Granada,App,No
+C00706,13/05/2021,Hombre,18-29,Sevilla,Tienda,Si
+C00707,19/07/2026,Mujer,45-59,Castellon,App,Si
+C00708,14/12/2019,Mujer,30-44,Madrid,Tienda,No
+C00709,02/06/2020,Hombre,18-29,Sevilla,Tienda,Si
+C00710,14/09/2023,Mujer,30-44,Valencia,Tienda,Si
+C00711,12/10/2022,Hombre,60+,Murcia,App,No
+C00712,25/08/2023,No indica,45-59,Malaga,Tienda,No
+C00713,20/04/2026,Mujer,60+,Alicante,Tienda,Si
+C00714,20/12/2021,Hombre,60+,Valencia,Tienda,No
+C00715,03/09/2024,Hombre,45-59,Castellon,Tienda,Si
+C00716,07/06/2025,Mujer,45-59,Alicante,App,Si
+C00717,22/07/2022,Mujer,45-59,Madrid,App,Si
+C00718,13/06/2022,Mujer,45-59,Murcia,App,Si
+C00719,15/10/2024,Hombre,30-44,Malaga,Tienda,No
+C00720,18/01/2020,Hombre,45-59,Valencia,Tienda,Si
+C00721,05/06/2019,Mujer,,Madrid,Tienda,No
+C00722,27/09/2019,Mujer,45-59,Malaga,Tienda,No
+C00723,01/03/2024,Mujer,30-44,Madrid,Tienda,No
+C00724,18/05/2025,Mujer,30-44,Toledo,Tienda,Si
+C00725,16/05/2022,Mujer,60+,Alicante,Tienda,No
+C00726,24/06/2019,Mujer,30-44,Almeria,Tienda,No
+C00727,28/05/2022,Hombre,,Castellon,Tienda,No
+C00728,13/06/2020,Mujer,45-59,Valencia,App,Si
+C00729,05/08/2024,No indica,,Castellon,Tienda,Si
+C00730,04/05/2020,Mujer,30-44,Cadiz,Tienda,Si
+C00731,11/09/2020,Mujer,60+,Valencia,Tienda,No
+C00732,01/05/2019,Mujer,30-44,Granada,App,No
+C00733,07/12/2025,Hombre,45-59,Madrid,Tienda,Si
+C00734,21/07/2026,Mujer,60+,Alicante,App,Si
+C00735,08/09/2020,Hombre,45-59,Madrid,Tienda,No
+C00736,25/08/2024,Mujer,18-29,Malaga,Tienda,No
+C00737,10/10/2021,Hombre,30-44,Madrid,Tienda,Si
+C00738,29/09/2023,No indica,45-59,Sevilla,Tienda,Si
+C00739,11/05/2025,Mujer,30-44,Madrid,Tienda,Si
+C00740,02/06/2025,Hombre,60+,Castellon,Tienda,No
+C00741,27/10/2025,No indica,45-59,Madrid,Tienda,No
+C00742,23/08/2024,Mujer,30-44,Madrid,Tienda,Si
+C00743,24/12/2019,Mujer,,Castellon,Tienda,Si
+C00744,18/11/2019,Mujer,18-29,Murcia,Tienda,No
+C00745,20/04/2025,No indica,18-29,Castellon,Tienda,No
+C00746,04/01/2025,Mujer,45-59,Malaga,Tienda,Si
+C00747,07/01/2025,No indica,30-44,Madrid,App,Si
+C00748,06/04/2026,Hombre,30-44,Cadiz,App,No
+C00749,28/03/2019,Hombre,18-29,Alicante,Web,Si
+C00750,21/07/2025,Hombre,30-44,Madrid,Tienda,No
+C00751,13/03/2022,Mujer,60+,Malaga,Tienda,No
+C00752,01/10/2024,Hombre,30-44,Madrid,Tienda,Si
+C00753,31/07/2019,Mujer,60+,Valencia,Web,No
+C00754,19/03/2025,Mujer,30-44,Madrid,Tienda,Si
+C00755,22/05/2024,No indica,45-59,Malaga,Tienda,No
+C00756,27/09/2022,Hombre,,Malaga,Tienda,Si
+C00757,04/09/2026,Mujer,,Madrid,Tienda,No
+C00758,04/04/2020,Mujer,30-44,Madrid,Web,Si
+C00759,23/10/2021,Mujer,45-59,Alicante,Tienda,Si
+C00760,29/03/2020,No indica,60+,Valencia,Tienda,Si
+C00761,24/05/2026,Hombre,60+,Madrid,Tienda,Si
+C00762,29/06/2022,Mujer,45-59,Murcia,Tienda,No
+C00763,25/03/2026,Hombre,18-29,Sevilla,Tienda,Si
+C00764,21/09/2025,Hombre,60+,Castellon,Tienda,Si
+C00765,17/08/2023,Hombre,45-59,Madrid,Tienda,Si
+C00766,04/11/2020,Mujer,18-29,Murcia,Tienda,Si
+C00767,30/03/2025,Hombre,45-59,Madrid,Tienda,Si
+C00768,21/08/2021,Mujer,,Cadiz,Web,No
+C00769,14/06/2024,Mujer,30-44,Granada,Tienda,Si
+C00770,12/09/2021,Hombre,60+,Malaga,App,Si
+C00771,25/08/2023,Mujer,45-59,Murcia,Tienda,No
+C00772,11/12/2021,Hombre,45-59,Almeria,Tienda,Si
+C00773,14/09/2019,No indica,45-59,Sevilla,Web,No
+C00774,10/05/2025,Hombre,45-59,Murcia,Tienda,Si
+C00775,02/11/2025,Hombre,45-59,Alicante,Tienda,No
+C00776,05/08/2023,Mujer,30-44,Alicante,Web,Si
+C00777,23/07/2025,Hombre,30-44,Murcia,Web,Si
+C00778,29/05/2019,No indica,,Murcia,Tienda,Si
+C00779,02/11/2023,Mujer,60+,Granada,Tienda,Si
+C00780,18/01/2021,Mujer,45-59,Valencia,Tienda,Si
+C00781,28/03/2025,Hombre,45-59,Valencia,Web,Si
+C00782,22/03/2026,Hombre,18-29,Alicante,Tienda,Si
+C00783,25/02/2026,Hombre,45-59,Madrid,Tienda,No
+C00784,10/12/2022,Hombre,30-44,Murcia,Tienda,No
+C00785,11/05/2022,Mujer,18-29,Murcia,Tienda,Si
+C00786,10/02/2021,Hombre,45-59,Madrid,App,Si
+C00787,24/10/2021,Mujer,30-44,Madrid,Tienda,No
+C00788,01/12/2024,Mujer,,Madrid,Tienda,Si
+C00789,10/09/2025,Hombre,30-44,Granada,App,No
+C00790,18/08/2022,No indica,45-59,Madrid,Tienda,Si
+C00791,25/03/2026,Hombre,30-44,Valencia,Tienda,Si
+C00792,04/08/2021,Hombre,,Malaga,Tienda,Si
+C00793,13/10/2020,Mujer,30-44,Alicante,Tienda,No
+C00794,01/04/2025,Hombre,30-44,Madrid,App,Si
+C00795,08/01/2022,Hombre,30-44,Malaga,Tienda,Si
+C00796,02/12/2022,Mujer,45-59,Valencia,Tienda,No
+C00797,08/08/2025,Mujer,60+,Murcia,Tienda,No
+C00798,17/09/2025,Mujer,30-44,Murcia,Tienda,Si
+C00799,04/08/2026,Hombre,60+,Alicante,Tienda,Si
+C00800,05/09/2024,Mujer,60+,Murcia,Tienda,Si
+C00801,03/04/2024,Mujer,18-29,Toledo,App,Si
+C00802,12/09/2020,Mujer,30-44,Alicante,Tienda,Si
+C00803,29/12/2022,Mujer,60+,Madrid,Tienda,Si
+C00804,16/05/2024,Hombre,45-59,Murcia,Tienda,Si
+C00805,07/05/2023,Mujer,60+,Madrid,Tienda,Si
+C00806,04/05/2020,Mujer,18-29,Malaga,Tienda,No
+C00807,13/08/2025,Hombre,,Sevilla,Tienda,No
+C00808,03/09/2026,Hombre,45-59,Alicante,Tienda,No
+C00809,26/08/2024,Hombre,60+,Madrid,Tienda,No
+C00810,26/05/2025,Mujer,45-59,Murcia,Tienda,Si
+C00811,12/03/2024,Hombre,,Malaga,App,No
+C00812,10/09/2023,Mujer,,Granada,Web,Si
+C00813,14/03/2020,Mujer,45-59,Malaga,Tienda,No
+C00814,20/05/2025,No indica,30-44,Madrid,Tienda,No
+C00815,09/03/2020,Mujer,45-59,Valencia,Tienda,No
+C00816,12/03/2025,Hombre,30-44,Malaga,Tienda,Si
+C00817,19/12/2022,Mujer,60+,Madrid,Web,Si
+C00818,03/09/2025,Hombre,45-59,Madrid,Tienda,No
+C00819,14/02/2021,Mujer,30-44,Valencia,App,Si
+C00820,21/11/2025,Mujer,18-29,Murcia,Tienda,No
+C00821,09/08/2024,Mujer,30-44,Murcia,Tienda,No
+C00822,20/01/2019,Mujer,45-59,Castellon,Tienda,Si
+C00823,16/08/2020,Mujer,45-59,Murcia,Web,Si
+C00824,13/06/2026,Mujer,30-44,Toledo,Web,Si
+C00825,27/04/2023,Mujer,60+,Granada,App,No
+C00826,21/03/2025,Mujer,30-44,Alicante,App,No
+C00827,29/05/2022,Mujer,30-44,Sevilla,Tienda,Si
+C00828,26/05/2019,No indica,30-44,Malaga,Tienda,Si
+C00829,10/11/2022,No indica,18-29,Madrid,Tienda,Si
+C00830,23/10/2022,Mujer,60+,Malaga,Tienda,No
+C00831,06/02/2021,Hombre,30-44,Madrid,Web,No
+C00832,27/01/2019,Mujer,18-29,Malaga,Tienda,Si
+C00833,19/11/2020,Mujer,60+,Valencia,Tienda,Si
+C00834,27/03/2020,Hombre,18-29,Madrid,App,No
+C00835,21/11/2022,No indica,45-59,Sevilla,Web,Si
+C00836,17/10/2025,Mujer,45-59,Valencia,App,Si
+C00837,26/02/2026,Mujer,60+,Madrid,Web,Si
+C00838,06/02/2025,Hombre,30-44,Granada,Web,No
+C00839,14/09/2025,No indica,18-29,Alicante,Tienda,No
+C00840,19/10/2023,Hombre,30-44,Valencia,Tienda,No
+C00841,07/12/2021,Hombre,18-29,Granada,Tienda,No
+C00842,25/02/2020,Mujer,30-44,Valencia,Tienda,Si
+C00843,22/08/2019,Mujer,60+,Castellon,Tienda,Si
+C00844,03/02/2022,Hombre,45-59,Valencia,Tienda,No
+C00845,29/07/2023,No indica,30-44,Castellon,Tienda,Si
+C00846,30/06/2026,No indica,45-59,Valencia,Web,Si
+C00847,07/01/2022,Hombre,18-29,Madrid,Tienda,Si
+C00848,30/09/2025,Mujer,30-44,Cadiz,Tienda,Si
+C00849,23/09/2021,Hombre,45-59,Malaga,App,No
+C00850,21/01/2024,Mujer,60+,Murcia,Tienda,No
+C00851,24/12/2025,Hombre,45-59,Madrid,Tienda,Si
+C00852,26/10/2023,Mujer,45-59,Alicante,Tienda,No
+C00853,22/08/2024,Hombre,60+,Alicante,Tienda,Si
+C00854,26/06/2024,Hombre,30-44,Alicante,Tienda,No
+C00855,11/06/2024,Mujer,45-59,Toledo,Web,Si
+C00856,09/09/2024,Mujer,18-29,Castellon,Tienda,Si
+C00857,18/10/2019,Hombre,30-44,Madrid,Web,Si
+C00858,27/03/2024,Hombre,45-59,Granada,Web,Si
+C00859,12/04/2026,Mujer,,Murcia,Tienda,Si
+C00860,27/06/2022,Hombre,45-59,Valencia,Tienda,No
+C00861,25/08/2019,Hombre,30-44,Alicante,Tienda,No
+C00862,26/05/2025,Hombre,30-44,Malaga,Tienda,Si
+C00863,19/02/2020,Mujer,60+,Toledo,Tienda,Si
+C00864,09/06/2022,Hombre,30-44,Sevilla,Web,Si
+C00865,29/03/2024,Mujer,30-44,Sevilla,Tienda,Si
+C00866,14/10/2019,Mujer,60+,Madrid,Tienda,No
+C00867,31/10/2024,Mujer,30-44,Valencia,Tienda,Si
+C00868,25/03/2023,No indica,30-44,Toledo,Web,No
+C00869,08/07/2024,Mujer,30-44,Cadiz,Tienda,No
+C00870,24/02/2025,Hombre,45-59,Murcia,App,No
+C00871,22/12/2024,Mujer,45-59,Sevilla,Tienda,No
+C00872,17/04/2026,Mujer,30-44,Toledo,App,Si
+C00873,28/03/2024,Hombre,30-44,Madrid,Tienda,No
+C00874,19/05/2024,Mujer,60+,Alicante,Tienda,No
+C00875,30/10/2023,No indica,30-44,Sevilla,Tienda,No
+C00876,28/05/2025,Mujer,18-29,Malaga,Tienda,Si
+C00877,13/04/2024,No indica,30-44,Malaga,Web,No
+C00878,24/02/2025,Hombre,30-44,Murcia,Tienda,Si
+C00879,14/07/2021,Mujer,60+,Alicante,Tienda,Si
+C00880,19/07/2022,Hombre,18-29,Murcia,Tienda,No
+C00881,16/05/2024,Hombre,45-59,Madrid,Tienda,Si
+C00882,27/09/2021,Hombre,60+,Murcia,Tienda,No
+C00883,22/11/2019,Hombre,45-59,Valencia,Tienda,No
+C00884,03/02/2026,No indica,18-29,Toledo,Tienda,No
+C00885,26/05/2025,Hombre,30-44,Madrid,Tienda,Si
+C00886,02/05/2023,Mujer,60+,Alicante,Tienda,Si
+C00887,26/10/2019,Mujer,,Madrid,Tienda,No
+C00888,22/05/2025,Mujer,30-44,Malaga,Tienda,Si
+C00889,04/01/2020,Mujer,45-59,Madrid,Web,Si
+C00890,13/04/2026,Mujer,30-44,Alicante,Tienda,Si
+C00891,04/05/2026,Hombre,,Madrid,Tienda,No
+C00892,19/02/2021,Mujer,18-29,Valencia,Tienda,Si
+C00893,05/06/2020,No indica,30-44,Alicante,Tienda,No
+C00894,10/06/2024,Mujer,30-44,Castellon,Tienda,No
+C00895,30/05/2021,No indica,45-59,Sevilla,Tienda,Si
+C00896,11/03/2022,Mujer,18-29,Madrid,Tienda,Si
+C00897,09/01/2020,Mujer,45-59,Granada,Tienda,Si
+C00898,01/04/2024,Mujer,60+,Cadiz,App,No
+C00899,05/09/2024,Hombre,45-59,Malaga,Web,Si
+C00900,11/04/2019,Mujer,60+,Castellon,App,Si
+C00901,28/03/2026,No indica,18-29,Valencia,App,No
+C00901,28/03/2026,No indica,18-29,Valencia,App,No
+C00902,04/02/2021,Hombre,30-44,Sevilla,Web,Si
+C00903,01/01/2023,Mujer,60+,Granada,Tienda,Si
+C00904,02/06/2025,Mujer,30-44,Castellon,App,Si
+C00905,30/08/2025,Hombre,60+,Murcia,App,No
+C00906,06/12/2024,Mujer,30-44,Madrid,Web,No
+C00907,08/10/2024,Hombre,30-44,Madrid,Tienda,Si
+C00907,08/10/2024,Hombre,30-44,Madrid,Tienda,Si
+C00908,20/03/2021,Mujer,60+,Madrid,Tienda,No
+C00909,27/06/2024,Mujer,18-29,Madrid,Tienda,Si
+C00910,14/03/2025,Hombre,45-59,Almeria,Tienda,Si
+C00911,30/05/2025,Mujer,45-59,Castellon,Web,No
+C00912,31/07/2025,No indica,18-29,Toledo,Web,Si
+C00912,31/07/2025,No indica,18-29,Toledo,Web,Si
+C00913,22/11/2023,Hombre,60+,Alicante,Tienda,Si
+C00914,27/06/2020,Mujer,60+,Malaga,Tienda,Si
+C00915,13/08/2019,Hombre,45-59,Malaga,Tienda,Si
+C00916,29/02/2020,No indica,45-59,Madrid,Tienda,Si
+C00917,19/05/2023,Mujer,30-44,Madrid,Tienda,No
+C00918,31/03/2019,Mujer,18-29,Sevilla,Tienda,No
+C00919,04/06/2023,Hombre,30-44,Alicante,Tienda,No
+C00920,30/12/2024,Hombre,45-59,Castellon,Web,Si
+C00921,15/09/2026,Mujer,18-29,Alicante,Tienda,No
+C00922,06/02/2023,Hombre,60+,Murcia,Tienda,Si
+C00923,21/05/2026,Hombre,30-44,Castellon,Tienda,Si
+C00924,27/02/2024,Mujer,30-44,Sevilla,Tienda,Si
+C00925,05/03/2026,Mujer,60+,Castellon,Tienda,Si
+C00926,12/05/2024,Mujer,45-59,Murcia,App,No
+C00927,14/08/2026,Mujer,45-59,Castellon,Tienda,Si
+C00928,10/02/2026,Mujer,60+,Castellon,Tienda,Si
+C00929,03/07/2022,Hombre,45-59,Almeria,Tienda,Si
+C00930,15/09/2026,Mujer,60+,Madrid,Tienda,Si
+C00931,30/09/2025,Hombre,30-44,Granada,Tienda,Si
+C00932,23/01/2022,Hombre,60+,Valencia,Tienda,Si
+C00933,02/10/2023,Mujer,45-59,Valencia,Tienda,No
+C00934,12/02/2022,Mujer,60+,Alicante,Tienda,No
+C00935,13/02/2019,Hombre,,Madrid,Tienda,Si
+C00936,28/12/2024,Hombre,18-29,Alicante,Tienda,Si
+C00937,04/07/2025,Hombre,45-59,Alicante,Tienda,No
+C00938,04/02/2026,Hombre,30-44,Malaga,Tienda,Si
+C00939,12/08/2021,Hombre,18-29,Valencia,Tienda,No
+C00940,04/08/2023,Mujer,60+,Valencia,Tienda,Si
+C00941,16/07/2019,Hombre,45-59,Granada,App,Si
+C00942,29/07/2021,Hombre,18-29,Malaga,Tienda,Si
+C00943,23/02/2026,Hombre,30-44,Castellon,Tienda,Si
+C00944,06/04/2022,Mujer,,Malaga,Tienda,Si
+C00945,04/08/2021,Hombre,18-29,Valencia,Tienda,Si
+C00946,21/05/2023,Mujer,30-44,Madrid,App,Si
+C00947,26/10/2023,Mujer,45-59,Murcia,Tienda,No
+C00948,18/07/2023,Hombre,,Murcia,Tienda,Si
+C00949,12/03/2026,Mujer,30-44,Alicante,Tienda,No
+C00950,30/04/2022,Mujer,30-44,Sevilla,Tienda,Si
+C00951,02/03/2021,No indica,18-29,Murcia,Tienda,Si
+C00952,01/01/2020,Hombre,60+,Castellon,Tienda,Si
+C00953,26/12/2020,No indica,45-59,Valencia,Tienda,No
+C00954,28/10/2023,Hombre,30-44,Malaga,Tienda,Si
+C00955,28/03/2026,Hombre,60+,Alicante,Tienda,Si
+C00956,14/12/2021,Mujer,60+,Murcia,Tienda,Si
+C00957,15/06/2023,Mujer,45-59,Granada,Tienda,No
+C00958,22/01/2023,Mujer,30-44,Murcia,Tienda,No
+C00959,19/08/2022,Hombre,45-59,Alicante,Tienda,Si
+C00960,30/05/2021,Hombre,30-44,Malaga,Tienda,No
+C00961,16/03/2026,Mujer,18-29,Alicante,Tienda,Si
+C00962,04/08/2024,Mujer,45-59,Madrid,Web,Si
+C00963,31/07/2023,Hombre,30-44,Sevilla,Web,No
+C00964,28/10/2019,Hombre,30-44,Alicante,Tienda,Si
+C00965,11/10/2024,Mujer,30-44,Murcia,Tienda,Si
+C00966,18/05/2019,Mujer,45-59,Granada,App,Si
+C00967,09/07/2022,No indica,,Toledo,Web,No
+C00968,17/06/2025,No indica,30-44,Madrid,Tienda,No
+C00969,10/01/2026,Mujer,18-29,Alicante,Tienda,No
+C00970,17/01/2021,Mujer,18-29,Alicante,Tienda,No
+C00971,04/01/2024,Mujer,30-44,Alicante,Tienda,Si
+C00972,01/06/2022,Hombre,45-59,Madrid,Tienda,No
+C00973,13/07/2021,Mujer,45-59,Madrid,Tienda,No
+C00974,21/01/2024,No indica,45-59,Granada,Tienda,Si
+C00975,02/03/2026,Hombre,30-44,Murcia,Tienda,Si
+C00976,27/05/2026,Mujer,45-59,Cadiz,Web,No
+C00977,30/03/2024,Hombre,30-44,Granada,Tienda,Si
+C00978,12/06/2024,Mujer,60+,Sevilla,Tienda,No
+C00979,17/10/2024,Mujer,18-29,Toledo,Tienda,No
+C00980,11/06/2025,Mujer,45-59,Madrid,Tienda,No
+C00981,26/11/2021,No indica,30-44,Valencia,Tienda,Si
+C00982,29/10/2021,Mujer,30-44,Malaga,Tienda,Si
+C00983,04/10/2022,Hombre,30-44,Madrid,Tienda,No
+C00984,04/01/2022,Mujer,45-59,Murcia,Tienda,No
+C00985,23/03/2025,Hombre,30-44,Murcia,Tienda,Si
+C00986,23/10/2021,No indica,30-44,Alicante,Tienda,No
+C00987,18/10/2025,Mujer,45-59,Valencia,Tienda,Si
+C00988,19/04/2024,Mujer,45-59,Granada,Tienda,No
+C00989,17/02/2026,Mujer,30-44,Valencia,Tienda,Si
+C00990,22/06/2025,Mujer,18-29,Castellon,App,Si
+C00991,18/06/2025,No indica,45-59,Madrid,Tienda,Si
+C00992,07/04/2026,Mujer,45-59,Toledo,Tienda,Si
+C00993,02/09/2026,Mujer,45-59,Alicante,Web,Si
+C00994,24/02/2026,No indica,30-44,Alicante,Tienda,No
+C00995,26/10/2019,Mujer,30-44,Murcia,Tienda,Si
+C00996,04/05/2020,Mujer,30-44,Cadiz,Tienda,No
+C00997,13/11/2022,Hombre,30-44,Valencia,Tienda,Si
+C00998,01/03/2022,Hombre,45-59,Alicante,Tienda,Si
+C00999,14/02/2022,Hombre,30-44,Malaga,App,No
+C01000,30/12/2025,Mujer,18-29,Malaga,Web,Si
+C01001,06/01/2026,Hombre,45-59,Madrid,Tienda,Si
+C01002,19/11/2024,No indica,45-59,Cadiz,Tienda,Si
+C01003,25/06/2019,Hombre,45-59,Madrid,Tienda,Si
+C01004,25/01/2026,Hombre,30-44,Madrid,Tienda,No
+C01005,01/01/2020,No indica,30-44,Murcia,Tienda,Si
+C01006,31/05/2025,Mujer,60+,Malaga,Tienda,Si
+C01007,07/04/2024,Hombre,30-44,Valencia,Tienda,Si
+C01008,22/08/2022,No indica,45-59,Madrid,Tienda,Si
+C01009,24/07/2021,Mujer,60+,Valencia,Tienda,No
+C01010,25/06/2025,Mujer,45-59,Alicante,Tienda,Si
+C01011,21/09/2022,Hombre,18-29,Alicante,Web,Si
+C01012,29/07/2024,Mujer,30-44,Valencia,Tienda,Si
+C01013,22/11/2024,No indica,18-29,Cadiz,Tienda,Si
+C01014,26/09/2024,Mujer,60+,Alicante,Web,Si
+C01015,16/03/2024,Hombre,30-44,Malaga,Tienda,Si
+C01016,07/09/2026,Hombre,60+,Madrid,Tienda,Si
+C01017,07/09/2024,No indica,30-44,Murcia,Tienda,No
+C01018,04/03/2025,Mujer,18-29,Malaga,Tienda,Si
+C01019,05/03/2026,Mujer,30-44,Alicante,Tienda,Si
+C01020,02/07/2019,Hombre,45-59,Alicante,Tienda,Si
+C01021,18/12/2021,No indica,45-59,Malaga,Tienda,Si
+C01022,26/06/2025,Mujer,30-44,Murcia,Tienda,No
+C01023,31/08/2026,Mujer,18-29,Toledo,Tienda,Si
+C01024,25/06/2024,No indica,30-44,Madrid,Tienda,No
+C01025,02/06/2023,Mujer,30-44,Malaga,Tienda,No
+C01026,30/10/2021,Mujer,30-44,Alicante,Tienda,Si
+C01027,23/01/2026,Mujer,45-59,Madrid,App,No
+C01028,14/01/2026,Hombre,45-59,Murcia,App,Si
+C01029,05/07/2019,Hombre,60+,Toledo,Tienda,Si
+C01030,08/12/2023,Hombre,60+,Madrid,Web,No
+C01031,19/04/2023,No indica,45-59,Toledo,Tienda,No
+C01032,20/05/2020,Mujer,30-44,Madrid,Web,Si
+C01033,17/07/2021,Hombre,45-59,Valencia,App,No
+C01034,27/06/2025,Mujer,30-44,Malaga,Tienda,Si
+C01035,13/09/2020,Hombre,18-29,Castellon,Tienda,No
+C01036,19/10/2023,Mujer,60+,Alicante,Tienda,No
+C01037,07/09/2023,Mujer,18-29,Madrid,App,No
+C01038,15/04/2023,Hombre,30-44,Madrid,Tienda,Si
+C01039,24/02/2021,Hombre,45-59,Murcia,Web,Si
+C01040,02/06/2020,Hombre,45-59,Madrid,Tienda,Si
+C01041,20/12/2019,Mujer,60+,Madrid,Tienda,No
+C01042,31/03/2025,Hombre,30-44,Valencia,Web,Si
+C01043,10/06/2025,Mujer,45-59,Madrid,Tienda,No
+C01044,18/12/2022,No indica,18-29,Murcia,Web,No
+C01045,22/09/2019,Mujer,45-59,Alicante,Tienda,Si
+C01046,08/05/2023,Mujer,45-59,Toledo,Tienda,Si
+C01047,13/07/2025,Hombre,30-44,Sevilla,App,Si
+C01048,23/06/2023,Hombre,30-44,Cadiz,Tienda,Si
+C01049,08/08/2022,Mujer,30-44,Alicante,App,Si
+C01050,05/02/2024,Mujer,45-59,Malaga,App,No
+C01051,10/02/2024,No indica,45-59,Toledo,App,No
+C01052,15/08/2026,Mujer,45-59,Granada,Tienda,No
+C01053,17/09/2025,Mujer,45-59,Sevilla,Tienda,Si
+C01054,26/10/2021,No indica,18-29,Castellon,Tienda,Si
+C01055,04/05/2021,Mujer,,Valencia,Tienda,No
+C01056,02/11/2021,Mujer,60+,Castellon,App,Si
+C01057,01/02/2025,Mujer,30-44,Castellon,Tienda,Si
+C01058,16/01/2024,Mujer,30-44,Alicante,Tienda,Si
+C01059,02/10/2020,Hombre,18-29,Alicante,Tienda,Si
+C01060,27/10/2024,Mujer,,Murcia,Tienda,Si
+C01061,06/11/2023,Hombre,30-44,Alicante,Tienda,Si
+C01062,29/09/2024,Mujer,30-44,Madrid,Tienda,Si
+C01063,10/08/2023,Mujer,60+,Valencia,Tienda,No
+C01064,28/06/2020,No indica,,Granada,Tienda,No
+C01065,19/06/2024,Mujer,60+,Granada,Tienda,Si
+C01066,28/06/2026,Hombre,18-29,Murcia,Web,No
+C01067,03/06/2026,Hombre,60+,Madrid,Tienda,Si
+C01068,23/07/2021,Mujer,30-44,Malaga,Web,Si
+C01069,21/12/2021,Hombre,45-59,Valencia,Tienda,Si
+C01070,28/08/2023,No indica,30-44,Madrid,Web,Si
+C01071,06/03/2019,No indica,45-59,Cadiz,App,Si
+C01072,19/04/2019,Hombre,30-44,Valencia,Tienda,No
+C01073,07/08/2025,Hombre,60+,Malaga,Tienda,No
+C01074,17/09/2023,Hombre,30-44,Toledo,Tienda,No
+C01075,16/02/2025,Mujer,18-29,Murcia,App,Si
+C01076,31/08/2020,Mujer,30-44,Alicante,App,Si
+C01077,19/01/2021,Mujer,,Toledo,Tienda,Si
+C01078,01/07/2026,Mujer,60+,Madrid,Web,Si
+C01079,09/11/2025,Mujer,30-44,Murcia,Tienda,No
+C01080,23/01/2020,Mujer,45-59,Madrid,Tienda,No
+C01081,21/08/2025,No indica,45-59,Murcia,Tienda,Si
+C01082,10/05/2023,Mujer,45-59,Valencia,Tienda,No
+C01083,29/09/2023,Hombre,30-44,Murcia,Tienda,No
+C01084,31/03/2021,Hombre,60+,Murcia,Tienda,Si
+C01085,26/07/2021,No indica,30-44,Madrid,Tienda,Si
+C01086,28/01/2020,Mujer,18-29,Toledo,Tienda,No
+C01087,11/11/2020,Mujer,45-59,Valencia,Tienda,Si
+C01088,09/03/2019,Hombre,30-44,Alicante,App,No
+C01089,30/12/2025,Mujer,45-59,Valencia,App,Si
+C01090,21/03/2022,Hombre,45-59,Madrid,App,No
+C01091,12/08/2019,Hombre,30-44,Granada,Web,Si
+C01092,10/01/2026,Mujer,45-59,Madrid,Tienda,Si
+C01093,22/05/2024,Hombre,18-29,Cadiz,Tienda,Si
+C01094,11/10/2021,Mujer,45-59,Toledo,Tienda,Si
+C01095,28/02/2021,Mujer,45-59,Valencia,Web,No
+C01096,05/02/2023,No indica,30-44,Madrid,Tienda,Si
+C01097,22/10/2024,Hombre,18-29,Malaga,Tienda,No
+C01098,01/09/2021,Mujer,30-44,Malaga,Tienda,No
+C01099,01/04/2020,Mujer,60+,Alicante,Tienda,Si
+C01100,30/06/2023,Mujer,30-44,Madrid,Tienda,Si
+C01101,02/01/2026,Hombre,45-59,Castellon,Tienda,No
+C01102,03/06/2024,Mujer,45-59,Alicante,Tienda,No
+C01103,21/08/2025,Mujer,18-29,Toledo,Web,No
+C01104,21/01/2025,Hombre,30-44,Malaga,Tienda,No
+C01105,27/12/2020,Hombre,30-44,Murcia,Tienda,No
+C01106,13/09/2025,Hombre,60+,Granada,App,No
+C01107,12/12/2025,No indica,18-29,Sevilla,Tienda,No
+C01108,18/12/2019,No indica,60+,Sevilla,Tienda,Si
+C01109,06/01/2024,Mujer,30-44,Madrid,Tienda,No
+C01110,07/05/2025,Mujer,30-44,Murcia,Tienda,Si
+C01111,18/04/2020,Mujer,45-59,Alicante,Tienda,No
+C01112,12/07/2023,Hombre,60+,Granada,Tienda,No
+C01113,26/04/2026,Mujer,60+,Cadiz,App,Si
+C01114,28/05/2021,Hombre,18-29,Alicante,Tienda,No
+C01115,27/11/2021,Hombre,30-44,Murcia,Tienda,Si
+C01116,11/10/2021,Hombre,60+,Valencia,Tienda,No
+C01117,02/02/2023,Hombre,,Valencia,Tienda,Si
+C01118,08/02/2026,Hombre,45-59,Valencia,Tienda,Si
+C01119,02/07/2023,Hombre,30-44,Malaga,App,Si
+C01120,30/10/2024,No indica,45-59,Madrid,Tienda,No
+C01121,08/10/2024,Mujer,30-44,Murcia,Tienda,No
+C01122,09/08/2019,Hombre,30-44,Toledo,Tienda,No
+C01123,13/12/2021,Mujer,45-59,Cadiz,Tienda,No
+C01124,19/08/2023,Mujer,60+,Alicante,Tienda,Si
+C01125,31/03/2019,Hombre,30-44,Madrid,Tienda,No
+C01126,09/05/2022,Mujer,30-44,Valencia,Tienda,Si
+C01127,22/08/2024,Hombre,60+,Castellon,Tienda,Si
+C01128,16/09/2025,No indica,18-29,Madrid,App,Si
+C01129,13/04/2023,Mujer,18-29,Madrid,App,Si
+C01130,09/10/2022,Mujer,18-29,Malaga,App,Si
+C01131,15/02/2022,Hombre,18-29,Alicante,Tienda,Si
+C01132,14/11/2019,Mujer,45-59,Madrid,Tienda,No
+C01133,11/09/2025,No indica,45-59,Granada,Tienda,No
+C01134,10/05/2023,Hombre,45-59,Sevilla,Tienda,No
+C01135,30/06/2025,Hombre,45-59,Granada,Tienda,Si
+C01136,18/03/2026,Hombre,30-44,Malaga,Tienda,No
+C01137,31/01/2021,Hombre,18-29,Murcia,Tienda,No
+C01138,16/10/2022,Hombre,60+,Alicante,Web,Si
+C01139,01/03/2026,Mujer,18-29,Malaga,Tienda,Si
+C01140,10/11/2019,Hombre,,Alicante,Tienda,No
+C01141,22/09/2022,Hombre,60+,Granada,Tienda,Si
+C01142,22/09/2024,Hombre,45-59,Granada,Tienda,Si
+C01143,19/07/2021,Hombre,30-44,Granada,App,No
+C01144,06/03/2025,No indica,45-59,Almeria,Web,Si
+C01145,03/05/2019,No indica,45-59,Malaga,App,No
+C01146,15/07/2026,Mujer,30-44,Madrid,Tienda,No
+C01147,28/12/2024,Mujer,18-29,Murcia,Web,No
+C01148,10/08/2025,Mujer,45-59,Murcia,App,No
+C01149,26/09/2025,No indica,18-29,Valencia,Tienda,Si
+C01150,01/02/2023,Mujer,45-59,Granada,Tienda,No
+C01151,26/02/2026,Mujer,60+,Alicante,Tienda,Si
+C01152,08/01/2024,Hombre,60+,Madrid,Tienda,Si
+C01153,06/06/2023,Mujer,45-59,Almeria,Web,Si
+C01154,06/03/2026,Hombre,30-44,Castellon,Tienda,Si
+C01155,03/05/2026,Mujer,45-59,Murcia,Tienda,Si
+C01156,30/06/2019,Mujer,30-44,Toledo,Tienda,No
+C01157,31/03/2026,Mujer,30-44,Murcia,Tienda,No
+C01158,05/01/2024,Hombre,30-44,Malaga,App,Si
+C01159,25/03/2023,Hombre,30-44,Valencia,Tienda,No
+C01160,10/02/2023,Mujer,30-44,Toledo,App,No
+C01161,09/08/2024,Mujer,60+,Madrid,Tienda,Si
+C01162,25/11/2025,No indica,45-59,Sevilla,App,Si
+C01163,13/01/2025,Mujer,30-44,Murcia,Tienda,No
+C01164,22/01/2025,Mujer,30-44,Alicante,Tienda,Si
+C01165,05/02/2026,Mujer,30-44,Granada,Tienda,Si
+C01166,27/07/2022,Hombre,30-44,Valencia,Tienda,Si
+C01167,21/04/2021,Mujer,18-29,Sevilla,Web,Si
+C01168,13/02/2019,Hombre,18-29,Alicante,Web,No
+C01169,24/07/2019,Mujer,30-44,Malaga,Tienda,Si
+C01170,26/03/2021,Mujer,45-59,Madrid,App,No
+C01171,03/12/2022,Mujer,18-29,Alicante,Web,No
+C01172,11/05/2021,Mujer,45-59,Sevilla,Web,No
+C01173,25/05/2023,Hombre,45-59,Alicante,App,No
+C01174,25/02/2022,Mujer,60+,Alicante,Tienda,No
+C01175,18/02/2024,Mujer,30-44,Malaga,Tienda,No
+C01176,04/09/2023,Mujer,60+,Murcia,Tienda,No
+C01177,04/04/2025,Hombre,30-44,Alicante,Tienda,No
+C01178,14/02/2020,Mujer,45-59,Alicante,Tienda,Si
+C01179,03/01/2025,Mujer,45-59,Alicante,App,No
+C01180,16/12/2020,Mujer,30-44,Toledo,Tienda,Si
+C01181,11/11/2023,Hombre,45-59,Murcia,Tienda,Si
+C01182,03/08/2026,Hombre,45-59,Murcia,Web,Si
+C01183,11/07/2021,Mujer,30-44,Alicante,Tienda,Si
+C01184,19/04/2019,Mujer,18-29,Sevilla,Web,Si
+C01184,19/04/2019,Mujer,18-29,Sevilla,Web,Si
+C01185,05/02/2023,Mujer,60+,Valencia,Tienda,No
+C01186,05/08/2019,Mujer,45-59,Valencia,App,No
+C01187,03/01/2019,No indica,45-59,Granada,App,Si
+C01188,16/11/2020,Mujer,30-44,Toledo,Web,Si
+C01189,05/09/2021,Mujer,45-59,Sevilla,App,No
+C01190,17/04/2019,Mujer,30-44,Madrid,Web,No
+C01191,04/07/2020,No indica,60+,Madrid,Tienda,No
+C01192,02/07/2020,Mujer,45-59,Alicante,Tienda,Si
+C01193,06/03/2024,Hombre,45-59,Sevilla,App,No
+C01194,03/02/2019,No indica,30-44,Malaga,Tienda,No
+C01195,25/08/2025,No indica,45-59,Alicante,Tienda,No
+C01196,06/04/2019,Mujer,45-59,Granada,Web,Si
+C01197,02/12/2024,Mujer,60+,Granada,App,Si
+C01198,14/12/2020,Mujer,45-59,Valencia,Web,Si
+C01199,23/04/2021,Hombre,45-59,Madrid,Tienda,No
+C01200,10/09/2021,Mujer,30-44,Cadiz,Tienda,No
+C01201,16/05/2021,No indica,45-59,Sevilla,Tienda,Si
+C01202,21/03/2026,No indica,45-59,Alicante,App,No
+C01203,17/03/2021,Mujer,18-29,Madrid,App,Si
+C01204,14/09/2024,Mujer,60+,Castellon,Tienda,No
+C01205,10/05/2025,Hombre,45-59,Almeria,App,Si
+C01206,27/08/2025,Mujer,45-59,Alicante,Web,Si
+C01207,27/10/2021,Hombre,18-29,Malaga,Tienda,Si
+C01208,14/04/2024,Mujer,60+,Madrid,App,No
+C01209,09/07/2020,Hombre,,Valencia,Tienda,No
+C01210,25/03/2026,Hombre,60+,Alicante,Tienda,No
+C01211,31/01/2021,Mujer,45-59,Murcia,Tienda,Si
+C01212,05/09/2020,Hombre,30-44,Alicante,Tienda,Si
+C01213,17/04/2025,No indica,45-59,Valencia,Web,Si
+C01214,12/08/2025,Mujer,60+,Malaga,Tienda,Si
+C01215,04/03/2024,No indica,30-44,Castellon,Tienda,Si
+C01216,13/07/2019,Mujer,,Valencia,Web,Si
+C01217,17/02/2026,No indica,45-59,Murcia,Tienda,Si
+C01218,15/08/2023,Hombre,30-44,Toledo,Tienda,Si
+C01219,15/09/2024,Mujer,30-44,Toledo,App,No
+C01220,21/03/2019,Hombre,45-59,Malaga,Tienda,No
+C01221,21/07/2019,Mujer,18-29,Madrid,Tienda,No
+C01222,27/11/2021,Mujer,60+,Malaga,Web,No
+C01223,14/03/2019,Mujer,30-44,Valencia,App,Si
+C01224,26/10/2019,Mujer,30-44,Madrid,Tienda,Si
+C01225,09/09/2021,Mujer,30-44,Castellon,Tienda,Si
+C01226,18/08/2025,Hombre,30-44,Alicante,Tienda,No
+C01227,16/02/2025,Mujer,,Murcia,Tienda,Si
+C01228,28/11/2022,Mujer,45-59,Valencia,Tienda,Si
+C01229,28/08/2024,Mujer,18-29,Malaga,Tienda,Si
+C01230,30/01/2025,Hombre,45-59,Alicante,App,Si
+C01231,01/03/2026,Mujer,18-29,Alicante,Tienda,Si
+C01232,13/08/2021,Mujer,18-29,Alicante,Web,No
+C01233,18/12/2021,Mujer,60+,Valencia,Tienda,No
+C01234,03/08/2026,Hombre,45-59,Murcia,Web,No
+C01235,23/06/2021,Mujer,45-59,Cadiz,Tienda,Si
+C01236,19/12/2021,Hombre,18-29,Alicante,Tienda,No
+C01237,24/06/2021,No indica,,Murcia,Tienda,Si
+C01238,02/05/2022,Mujer,45-59,Madrid,Tienda,No
+C01239,25/03/2026,Hombre,60+,Granada,Tienda,No
+C01240,03/07/2020,Mujer,30-44,Valencia,Tienda,Si
+C01241,11/09/2022,Mujer,45-59,Malaga,App,Si
+C01242,05/08/2020,Mujer,,Sevilla,Tienda,No
+C01243,23/01/2021,Hombre,18-29,Toledo,Web,Si
+C01244,18/03/2024,Mujer,45-59,Valencia,Tienda,Si
+C01245,01/05/2024,Mujer,45-59,Valencia,Tienda,No
+C01246,07/08/2023,Mujer,30-44,Madrid,Web,Si
+C01247,20/01/2019,No indica,,Murcia,Tienda,No
+C01248,26/05/2022,No indica,30-44,Murcia,Tienda,No
+C01249,01/02/2023,Hombre,45-59,Valencia,App,Si
+C01250,07/01/2024,Hombre,45-59,Madrid,Tienda,No
+C01251,20/10/2025,Mujer,45-59,Malaga,Tienda,Si
+C01252,10/02/2019,Hombre,60+,Toledo,Tienda,No
+C01253,27/01/2020,Mujer,45-59,Malaga,Web,Si
+C01254,14/07/2024,No indica,30-44,Cadiz,Web,No
+C01255,14/04/2026,Hombre,30-44,Valencia,Tienda,Si
+C01256,07/11/2025,Mujer,60+,Sevilla,Web,No
+C01257,15/06/2020,No indica,18-29,Cadiz,Tienda,Si
+C01258,30/10/2020,Hombre,30-44,Alicante,Tienda,No
+C01259,01/11/2024,Mujer,60+,Madrid,Tienda,Si
+C01260,17/02/2024,Mujer,30-44,Madrid,Tienda,Si
+C01261,28/12/2019,Hombre,18-29,Malaga,App,No
+C01262,05/09/2021,No indica,,Madrid,Tienda,No
+C01263,07/01/2024,Hombre,45-59,Alicante,Tienda,Si
+C01264,23/02/2023,Mujer,30-44,Alicante,App,No
+C01265,25/03/2024,Mujer,45-59,Granada,Tienda,No
+C01266,15/04/2020,Hombre,45-59,Malaga,Web,No
+C01267,20/02/2026,Mujer,60+,Sevilla,Tienda,Si
+C01268,03/09/2023,Mujer,45-59,Granada,Tienda,No
+C01269,14/09/2025,Mujer,60+,Toledo,Web,Si
+C01270,04/05/2021,Hombre,45-59,Sevilla,Web,Si
+C01271,09/06/2026,Hombre,,Madrid,App,No
+C01272,10/02/2024,Mujer,30-44,Madrid,Tienda,No
+C01273,04/05/2024,Hombre,18-29,Toledo,Tienda,Si
+C01274,16/02/2025,Hombre,45-59,Madrid,App,No
+C01275,14/06/2022,Hombre,,Granada,Tienda,No
+C01276,05/02/2020,No indica,18-29,Cadiz,Tienda,Si
+C01277,07/01/2022,Hombre,18-29,Madrid,Tienda,No
+C01278,04/01/2026,No indica,30-44,Toledo,Web,No
+C01279,12/06/2024,Mujer,18-29,Alicante,Web,Si
+C01280,31/05/2020,Hombre,18-29,Madrid,Web,Si
+C01281,09/01/2021,Mujer,30-44,Malaga,Tienda,Si
+C01281,09/01/2021,Mujer,30-44,Malaga,Tienda,Si
+C01282,15/04/2020,Mujer,45-59,Cadiz,Tienda,Si
+C01283,16/01/2026,Hombre,45-59,Toledo,Tienda,Si
+C01284,09/02/2024,Mujer,30-44,Alicante,Tienda,No
+C01285,27/01/2022,Mujer,45-59,Madrid,Tienda,Si
+C01286,18/08/2023,No indica,30-44,Malaga,Tienda,No
+C01287,12/06/2023,Mujer,45-59,Madrid,Web,No
+C01288,29/06/2025,Hombre,30-44,Malaga,App,No
+C01289,17/08/2026,Mujer,45-59,Madrid,Tienda,Si
+C01290,26/03/2024,Mujer,60+,Madrid,Tienda,No
+C01291,21/06/2025,Hombre,30-44,Murcia,Tienda,Si
+C01292,18/08/2021,Hombre,30-44,Madrid,Tienda,No
+C01293,02/04/2021,Mujer,30-44,Alicante,App,Si
+C01294,13/05/2024,Hombre,18-29,Sevilla,Tienda,No
+C01295,10/10/2025,Mujer,60+,Murcia,Tienda,Si
+C01296,08/08/2026,Mujer,30-44,Alicante,Tienda,Si
+C01297,07/02/2020,Mujer,45-59,Granada,Tienda,No
+C01298,09/01/2020,Hombre,45-59,Alicante,Tienda,No
+C01299,11/12/2019,No indica,30-44,Sevilla,Tienda,No
+C01300,04/08/2021,Mujer,18-29,Madrid,Tienda,No
+C01301,26/07/2021,Hombre,30-44,Valencia,Tienda,No
+C01302,24/07/2025,Mujer,45-59,Alicante,Tienda,Si
+C01303,16/05/2019,Mujer,60+,Madrid,Web,Si
+C01304,31/03/2024,Mujer,30-44,Alicante,Tienda,Si
+C01305,01/12/2024,Hombre,30-44,Malaga,Tienda,No
+C01306,03/12/2024,Hombre,30-44,Valencia,App,Si
+C01307,10/04/2019,Hombre,30-44,Castellon,Tienda,No
+C01308,24/04/2021,Hombre,45-59,Valencia,Web,Si
+C01309,16/05/2020,Hombre,45-59,Valencia,Tienda,Si
+C01310,15/04/2021,Mujer,45-59,Alicante,Tienda,Si
+C01311,27/04/2026,Mujer,45-59,Madrid,Tienda,Si
+C01312,15/01/2025,Hombre,45-59,Madrid,Web,Si
+C01313,12/05/2024,Mujer,45-59,Malaga,Tienda,No
+C01314,04/02/2025,Hombre,30-44,Madrid,Tienda,Si
+C01315,18/12/2024,Mujer,30-44,Valencia,Tienda,No
+C01316,22/07/2023,Mujer,30-44,Madrid,Tienda,Si
+C01317,16/01/2023,Hombre,45-59,Murcia,Tienda,No
+C01318,31/10/2025,Mujer,30-44,Sevilla,Tienda,Si
+C01319,11/11/2023,Hombre,30-44,Malaga,Web,Si
+C01320,16/08/2019,No indica,45-59,Toledo,Tienda,Si
+C01321,03/08/2025,Mujer,18-29,Madrid,App,No
+C01322,26/05/2026,Hombre,60+,Murcia,Tienda,Si
+C01323,27/05/2023,Mujer,,Alicante,Web,No
+C01324,03/12/2023,Hombre,30-44,Malaga,Web,Si
+C01325,17/06/2024,No indica,18-29,Cadiz,Web,Si
+C01326,04/11/2022,Mujer,45-59,Madrid,Web,No
+C01327,04/02/2026,Hombre,30-44,Malaga,Tienda,Si
+C01328,31/12/2019,Hombre,60+,Madrid,Tienda,Si
+C01329,01/05/2023,No indica,18-29,Sevilla,Web,No
+C01330,13/08/2022,Mujer,30-44,Murcia,Tienda,Si
+C01331,20/03/2021,Hombre,45-59,Sevilla,Tienda,Si
+C01332,20/06/2022,Mujer,45-59,Madrid,Web,Si
+C01333,07/01/2025,Hombre,30-44,Malaga,Tienda,Si
+C01334,01/07/2021,Mujer,45-59,Sevilla,Web,No
+C01335,21/05/2024,Hombre,45-59,Malaga,Tienda,No
+C01336,16/09/2023,Mujer,45-59,Alicante,Tienda,Si
+C01337,15/06/2021,Hombre,45-59,Valencia,Tienda,Si
+C01338,08/03/2024,Mujer,60+,Alicante,Tienda,No
+C01339,13/07/2019,Hombre,45-59,Valencia,Tienda,No
+C01340,26/01/2023,No indica,18-29,Cadiz,Tienda,Si
+C01341,23/04/2026,Hombre,30-44,Madrid,Tienda,Si
+C01342,03/11/2024,Mujer,30-44,Toledo,Tienda,Si
+C01343,21/08/2019,Hombre,,Madrid,Tienda,No
+C01344,10/12/2019,Mujer,45-59,Toledo,Tienda,Si
+C01345,25/12/2023,Hombre,60+,Alicante,Tienda,No
+C01346,04/10/2025,Hombre,60+,Alicante,Tienda,No
+C01347,10/03/2019,Mujer,30-44,Valencia,Tienda,Si
+C01348,18/05/2024,Hombre,60+,Granada,Tienda,Si
+C01349,26/04/2026,No indica,18-29,Malaga,Tienda,Si
+C01350,09/05/2026,Hombre,30-44,Malaga,Tienda,Si
+C01351,28/09/2023,Hombre,30-44,Murcia,Web,No
+C01352,11/01/2025,Mujer,18-29,Sevilla,Web,Si
+C01353,04/09/2022,Hombre,45-59,Madrid,Tienda,No
+C01354,04/09/2025,Mujer,30-44,Madrid,Tienda,No
+C01355,25/01/2025,Hombre,45-59,Castellon,App,Si
+C01356,09/02/2023,Mujer,45-59,Malaga,Tienda,Si
+C01357,07/04/2024,Mujer,45-59,Madrid,Web,Si
+C01358,28/01/2025,No indica,30-44,Alicante,Tienda,No
+C01359,26/01/2025,Mujer,45-59,Alicante,App,Si
+C01360,12/07/2025,Hombre,45-59,Granada,Tienda,Si
+C01361,10/09/2025,Mujer,30-44,Valencia,Tienda,Si
+C01362,08/06/2019,Hombre,60+,Sevilla,Tienda,No
+C01363,02/09/2026,Mujer,45-59,Valencia,Tienda,Si
+C01364,21/12/2022,Hombre,18-29,Madrid,Tienda,No
+C01365,05/06/2023,Hombre,30-44,Malaga,Tienda,No
+C01366,30/12/2021,Hombre,18-29,Sevilla,Tienda,No
+C01367,18/04/2026,Mujer,60+,Sevilla,Tienda,Si
+C01368,29/12/2021,Mujer,,Cadiz,Tienda,Si
+C01369,30/08/2023,Hombre,30-44,Murcia,Web,No
+C01370,27/03/2024,Hombre,60+,Alicante,Tienda,Si
+C01371,07/06/2019,Mujer,30-44,Madrid,Web,No
+C01372,10/02/2021,Mujer,30-44,Murcia,Tienda,No
+C01373,25/05/2022,Mujer,45-59,Valencia,Web,Si
+C01374,07/09/2024,Mujer,30-44,Toledo,Tienda,Si
+C01375,22/06/2024,No indica,,Murcia,Web,Si
+C01376,20/05/2024,Mujer,30-44,Cadiz,Tienda,Si
+C01377,22/06/2019,Mujer,45-59,Murcia,Tienda,Si
+C01378,06/05/2020,Mujer,30-44,Malaga,Web,Si
+C01379,17/12/2024,Mujer,45-59,Valencia,Tienda,No
+C01380,19/02/2026,Hombre,60+,Granada,Tienda,No
+C01381,13/10/2020,Mujer,60+,Cadiz,Web,No
+C01382,26/07/2020,Hombre,18-29,Cadiz,Tienda,No
+C01383,08/09/2019,Hombre,,Granada,Tienda,Si
+C01384,20/02/2024,Hombre,30-44,Valencia,Tienda,Si
+C01385,06/06/2020,Mujer,45-59,Alicante,Web,Si
+C01386,23/10/2021,Mujer,45-59,Toledo,App,Si
+C01387,07/08/2019,Mujer,45-59,Madrid,Tienda,No
+C01388,07/06/2021,Mujer,30-44,Granada,Tienda,No
+C01389,29/12/2020,Hombre,30-44,Sevilla,Tienda,Si
+C01390,30/05/2025,Hombre,30-44,Madrid,App,Si
+C01391,25/03/2024,No indica,18-29,Cadiz,App,Si
+C01392,16/06/2020,No indica,30-44,Sevilla,Tienda,Si
+C01393,26/08/2020,Hombre,60+,Sevilla,Web,Si
+C01394,07/07/2025,Mujer,30-44,Madrid,Web,Si
+C01395,11/10/2024,Mujer,45-59,Madrid,Tienda,No
+C01396,24/07/2026,Mujer,30-44,Sevilla,Tienda,Si
+C01397,17/06/2021,Mujer,18-29,Madrid,Tienda,No
+C01398,04/09/2020,Mujer,18-29,Madrid,Tienda,Si
+C01399,23/10/2023,Hombre,18-29,Alicante,Tienda,Si
+C01400,19/01/2026,No indica,30-44,Castellon,Web,Si
+C01401,12/01/2020,Mujer,,Castellon,Tienda,Si
+C01402,05/10/2020,Hombre,30-44,Valencia,Tienda,No
+C01403,11/09/2026,Mujer,18-29,Alicante,Web,Si
+C01404,25/07/2019,No indica,,Sevilla,Tienda,Si
+C01405,27/05/2020,Mujer,45-59,Malaga,App,Si
+C01406,18/04/2021,Hombre,45-59,Murcia,Web,Si
+C01407,07/06/2021,Mujer,30-44,Valencia,Tienda,Si
+C01408,18/12/2022,Hombre,30-44,Valencia,Tienda,No
+C01409,22/11/2021,Mujer,60+,Almeria,Tienda,Si
+C01410,22/04/2022,Hombre,30-44,Valencia,Tienda,Si
+C01411,30/12/2023,No indica,30-44,Castellon,Tienda,Si
+C01412,10/08/2022,Mujer,30-44,Madrid,Tienda,Si
+C01413,30/01/2023,No indica,30-44,Madrid,Tienda,Si
+C01414,12/12/2022,Mujer,60+,Malaga,Tienda,Si
+C01415,21/11/2020,Hombre,45-59,Alicante,Tienda,Si
+C01416,17/06/2023,Mujer,45-59,Toledo,App,Si
+C01417,26/06/2026,Hombre,18-29,Sevilla,Tienda,No
+C01418,28/09/2024,No indica,,Malaga,Tienda,Si
+C01419,19/06/2024,Hombre,45-59,Valencia,Tienda,Si
+C01420,08/10/2025,No indica,45-59,Valencia,Tienda,Si
+C01421,15/11/2020,Hombre,45-59,Granada,Tienda,No
+C01422,08/12/2024,Mujer,60+,Sevilla,Web,Si
+C01423,10/03/2025,Hombre,30-44,Madrid,Tienda,No
+C01424,28/03/2024,Mujer,30-44,Sevilla,Tienda,No
+C01425,29/12/2022,Hombre,30-44,Cadiz,Tienda,No
+C01426,23/09/2025,No indica,45-59,Madrid,Tienda,Si
+C01427,10/08/2024,Mujer,45-59,Murcia,Tienda,Si
+C01428,23/03/2019,Hombre,60+,Granada,App,Si
+C01429,08/02/2019,Mujer,60+,Alicante,Tienda,No
+C01430,11/04/2022,Hombre,30-44,Madrid,Tienda,No
+C01431,11/03/2025,Mujer,,Murcia,Tienda,Si
+C01432,27/05/2021,Mujer,45-59,Malaga,App,Si
+C01433,29/06/2019,Mujer,30-44,Madrid,Tienda,No
+C01434,16/05/2019,Mujer,18-29,Alicante,Tienda,No
+C01435,09/06/2025,No indica,45-59,Valencia,Tienda,Si
+C01436,25/08/2021,Mujer,45-59,Sevilla,App,Si
+C01437,01/04/2025,Hombre,,Granada,Tienda,No
+C01438,19/05/2025,Mujer,,Valencia,Tienda,No
+C01439,10/03/2021,Mujer,30-44,Malaga,Tienda,No
+C01440,20/02/2024,Hombre,18-29,Sevilla,Tienda,Si
+C01441,21/07/2020,Mujer,30-44,Madrid,Tienda,No
+C01442,03/03/2021,Mujer,60+,Granada,Tienda,Si
+C01443,13/10/2019,No indica,,Toledo,Tienda,Si
+C01444,10/04/2022,Mujer,45-59,Madrid,Web,Si
+C01445,16/12/2023,Mujer,18-29,Madrid,Tienda,Si
+C01446,29/06/2024,Mujer,30-44,Alicante,App,Si
+C01447,04/09/2026,Mujer,60+,Valencia,App,No
+C01448,19/12/2025,Mujer,30-44,Murcia,Tienda,Si
+C01449,27/04/2025,Mujer,45-59,Alicante,App,Si
+C01450,30/01/2022,Hombre,30-44,Malaga,Tienda,Si
+C01451,13/04/2024,No indica,30-44,Granada,Tienda,Si
+C01452,24/08/2020,Hombre,18-29,Granada,Tienda,Si
+C01453,09/11/2023,Hombre,45-59,Toledo,Tienda,Si
+C01454,18/03/2024,Mujer,45-59,Cadiz,Tienda,Si
+C01455,10/01/2022,Hombre,45-59,Madrid,Tienda,Si
+C01456,04/05/2026,Mujer,30-44,Granada,Tienda,No
+C01457,04/01/2022,Mujer,18-29,Murcia,Tienda,No
+C01458,16/11/2024,Mujer,18-29,Murcia,Tienda,No
+C01459,15/07/2025,Hombre,18-29,Granada,App,Si
+C01460,03/01/2024,Mujer,45-59,Madrid,App,Si
+C01461,13/07/2026,Hombre,30-44,Murcia,Tienda,No
+C01462,09/09/2026,Mujer,45-59,Sevilla,Tienda,No
+C01463,03/01/2024,No indica,60+,Madrid,App,Si
+C01464,17/06/2025,No indica,45-59,Murcia,Web,Si
+C01465,28/05/2025,Mujer,45-59,Cadiz,Tienda,No
+C01466,03/10/2024,Mujer,30-44,Valencia,Tienda,Si
+C01467,03/07/2019,Hombre,30-44,Malaga,Web,Si
+C01468,22/12/2023,Mujer,45-59,Murcia,Tienda,Si
+C01469,23/11/2021,Hombre,30-44,Granada,Tienda,Si
+C01470,10/07/2025,Mujer,45-59,Sevilla,Tienda,Si
+C01471,30/04/2024,Mujer,60+,Madrid,Tienda,Si
+C01472,28/03/2019,Mujer,30-44,Valencia,Tienda,Si
+C01473,16/08/2023,Hombre,18-29,Madrid,Tienda,Si
+C01474,12/07/2021,Hombre,30-44,Sevilla,Tienda,Si
+C01475,10/10/2020,Mujer,45-59,Malaga,App,No
+C01476,14/02/2026,Mujer,60+,Sevilla,Tienda,No
+C01477,20/06/2023,Hombre,30-44,Malaga,Tienda,No
+C01478,14/04/2025,Mujer,30-44,Malaga,App,Si
+C01479,23/04/2021,Hombre,,Madrid,Tienda,Si
+C01480,02/01/2024,Hombre,45-59,Murcia,Tienda,Si
+C01481,23/01/2024,Mujer,60+,Murcia,Tienda,No
+C01482,26/07/2022,Mujer,30-44,Granada,Tienda,Si
+C01483,10/04/2025,Hombre,30-44,Madrid,App,Si
+C01484,21/05/2025,Hombre,,Castellon,App,No
+C01485,02/11/2019,Hombre,18-29,Malaga,App,No
+C01485,02/11/2019,Hombre,18-29,Malaga,App,No
+C01486,10/09/2019,Mujer,30-44,Sevilla,App,Si
+C01487,12/02/2023,Hombre,45-59,Madrid,Tienda,Si
+C01488,04/10/2023,Mujer,45-59,Murcia,Tienda,No
+C01489,01/02/2023,No indica,45-59,Sevilla,Web,No
+C01490,27/10/2023,Hombre,45-59,Malaga,Tienda,No
+C01491,18/08/2019,Mujer,30-44,Malaga,Tienda,No
+C01492,20/11/2019,Mujer,30-44,Malaga,Tienda,Si
+C01493,25/09/2025,Mujer,45-59,Madrid,Tienda,No
+C01494,02/05/2022,Mujer,18-29,Alicante,Web,Si
+C01495,12/09/2023,Hombre,18-29,Malaga,Web,No
+C01496,18/06/2025,Mujer,60+,Sevilla,Tienda,Si
+C01497,06/06/2026,Hombre,30-44,Murcia,Tienda,Si
+C01498,11/11/2025,No indica,45-59,Madrid,Tienda,Si
+C01499,04/05/2020,Mujer,30-44,Madrid,Tienda,Si
+C01500,25/07/2023,Hombre,45-59,Malaga,Tienda,Si
+C01501,01/09/2025,No indica,60+,Madrid,Web,Si
+C01502,11/07/2025,No indica,45-59,Alicante,Tienda,No
+C01503,25/06/2024,Mujer,60+,Castellon,Tienda,Si
+C01504,20/09/2023,No indica,60+,Granada,Tienda,Si
+C01505,23/02/2023,No indica,30-44,Castellon,Tienda,No
+C01506,25/01/2023,Mujer,60+,Toledo,Tienda,No
+C01507,21/05/2022,Mujer,45-59,Alicante,Tienda,No
+C01508,21/09/2024,Hombre,30-44,Toledo,Tienda,No
+C01509,01/10/2025,Mujer,30-44,Murcia,Tienda,No
+C01510,07/07/2020,Mujer,30-44,Murcia,Tienda,No
+C01511,03/04/2022,Mujer,45-59,Toledo,Tienda,No
+C01512,19/10/2020,Mujer,45-59,Madrid,Tienda,Si
+C01513,06/04/2026,Mujer,45-59,Murcia,Tienda,Si
+C01514,14/10/2021,Hombre,45-59,Murcia,Tienda,Si
+C01515,02/10/2021,No indica,30-44,Malaga,Tienda,No
+C01516,13/07/2020,Hombre,45-59,Toledo,Tienda,No
+C01517,23/05/2026,Mujer,18-29,Murcia,Tienda,Si
+C01518,17/07/2024,Mujer,30-44,Murcia,App,No
+C01519,28/06/2023,Hombre,30-44,Valencia,Tienda,No
+C01520,25/01/2020,Mujer,18-29,Alicante,Tienda,No
+C01521,04/06/2022,Hombre,30-44,Toledo,Tienda,No
+C01522,08/06/2025,Mujer,30-44,Sevilla,Web,Si
+C01523,23/08/2022,Hombre,45-59,Granada,Tienda,Si
+C01524,29/08/2026,Mujer,30-44,Madrid,Web,Si
+C01525,07/09/2022,Mujer,30-44,Murcia,App,Si
+C01526,08/07/2023,Hombre,30-44,Sevilla,Tienda,Si
+C01527,11/02/2020,Mujer,30-44,Valencia,Tienda,Si
+C01528,28/01/2021,Hombre,45-59,Alicante,Tienda,Si
+C01529,28/01/2026,Hombre,60+,Valencia,Web,Si
+C01530,30/04/2019,No indica,45-59,Madrid,Tienda,Si
+C01531,11/03/2026,Mujer,60+,Valencia,Tienda,Si
+C01532,19/05/2023,Hombre,30-44,Valencia,Web,No
+C01533,12/08/2024,Mujer,60+,Granada,Web,Si
+C01534,02/10/2022,Mujer,30-44,Castellon,Tienda,No
+C01535,02/02/2021,Mujer,18-29,Granada,App,Si
+C01536,13/09/2023,Hombre,45-59,Malaga,Tienda,Si
+C01537,13/09/2025,Hombre,30-44,Castellon,Tienda,No
+C01538,14/11/2022,Hombre,60+,Madrid,App,No
+C01539,17/04/2023,No indica,,Murcia,App,Si
+C01540,09/03/2019,Mujer,60+,Castellon,Tienda,No
+C01541,16/05/2026,Mujer,,Valencia,Tienda,Si
+C01542,08/02/2025,Mujer,,Granada,Tienda,No
+C01543,28/06/2022,Mujer,60+,Murcia,App,Si
+C01544,28/05/2026,Hombre,45-59,Malaga,Tienda,Si
+C01545,19/05/2023,Mujer,30-44,Malaga,Tienda,Si
+C01546,24/05/2024,Hombre,45-59,Granada,Tienda,No
+C01547,28/12/2019,Mujer,18-29,Madrid,App,No
+C01548,30/01/2019,Mujer,30-44,Alicante,Tienda,No
+C01549,30/12/2022,Hombre,45-59,Valencia,Web,Si
+C01550,27/01/2021,Mujer,45-59,Madrid,Tienda,No
+C01551,19/02/2021,Mujer,30-44,Malaga,Tienda,No
+C01552,04/10/2024,Mujer,60+,Castellon,Tienda,No
+C01553,16/01/2024,Mujer,18-29,Alicante,Tienda,Si
+C01554,01/04/2025,No indica,,Valencia,App,No
+C01555,16/10/2020,Mujer,30-44,Malaga,App,No
+C01556,23/05/2024,Mujer,30-44,Granada,Tienda,Si
+C01557,01/01/2022,Mujer,45-59,Madrid,Tienda,No
+C01558,13/04/2023,No indica,18-29,Valencia,App,Si
+C01559,23/02/2025,Mujer,30-44,Murcia,Tienda,Si
+C01560,02/05/2026,No indica,60+,Madrid,Tienda,No
+C01561,07/11/2020,No indica,45-59,Castellon,Tienda,No
+C01562,19/12/2024,Mujer,18-29,Alicante,Tienda,No
+C01563,09/09/2023,Mujer,30-44,Alicante,Tienda,Si
+C01564,24/10/2025,Mujer,45-59,Cadiz,Tienda,No
+C01565,06/10/2023,Mujer,45-59,Madrid,Tienda,Si
+C01566,18/04/2021,Hombre,,Castellon,Tienda,Si
+C01567,12/12/2019,Mujer,45-59,Toledo,Tienda,No
+C01568,01/11/2025,Mujer,30-44,Sevilla,Tienda,Si
+C01569,10/07/2026,Mujer,45-59,Alicante,Tienda,Si
+C01570,06/10/2020,Hombre,,Valencia,Tienda,Si
+C01571,16/08/2020,Mujer,30-44,Madrid,Tienda,Si
+C01572,11/09/2019,No indica,18-29,Toledo,Tienda,Si
+C01573,12/05/2021,Mujer,30-44,Murcia,App,No
+C01574,23/01/2025,Hombre,45-59,Cadiz,Tienda,Si
+C01575,02/06/2019,Mujer,60+,Castellon,Web,Si
+C01576,19/11/2025,Hombre,45-59,Madrid,Web,No
+C01577,15/06/2022,No indica,30-44,Murcia,Tienda,Si
+C01578,26/12/2020,Hombre,18-29,Valencia,App,Si
+C01579,02/06/2022,Mujer,60+,Valencia,Tienda,Si
+C01580,20/04/2023,No indica,30-44,Alicante,Web,Si
+C01581,10/03/2024,Mujer,45-59,Madrid,Tienda,No
+C01582,03/03/2024,Mujer,30-44,Madrid,Tienda,Si
+C01583,10/02/2025,Mujer,30-44,Alicante,Tienda,No
+C01584,14/04/2022,No indica,45-59,Castellon,App,Si
+C01585,16/10/2024,Hombre,60+,Alicante,Tienda,No
+C01586,07/07/2021,Hombre,18-29,Alicante,App,Si
+C01587,10/04/2022,Mujer,,Cadiz,Tienda,No
+C01588,21/01/2020,Mujer,45-59,Murcia,Tienda,Si
+C01589,06/08/2024,Mujer,18-29,Valencia,App,No
+C01590,01/05/2019,Mujer,60+,Valencia,Tienda,No
+C01591,19/01/2023,No indica,45-59,Murcia,App,Si
+C01592,30/09/2019,Mujer,30-44,Alicante,Tienda,Si
+C01593,23/11/2021,No indica,30-44,Valencia,App,Si
+C01594,13/08/2021,Mujer,30-44,Alicante,Tienda,Si
+C01595,20/08/2021,Hombre,30-44,Alicante,Tienda,No
+C01596,19/05/2025,Mujer,45-59,Granada,Tienda,No
+C01597,13/03/2020,Mujer,30-44,Valencia,App,No
+C01598,29/10/2025,Mujer,,Madrid,Tienda,Si
+C01599,12/10/2024,Mujer,60+,Alicante,App,No
+C01600,06/03/2025,Mujer,18-29,Alicante,Tienda,Si
+C01601,11/03/2026,Mujer,60+,Malaga,Web,Si
+C01602,03/07/2021,Mujer,60+,Toledo,Tienda,Si
+C01603,08/07/2023,No indica,45-59,Madrid,App,No
+C01604,17/01/2020,Hombre,45-59,Madrid,Web,Si
+C01605,12/07/2021,Hombre,30-44,Malaga,Tienda,Si
+C01606,11/02/2019,Mujer,30-44,Murcia,App,Si
+C01607,23/07/2021,Hombre,30-44,Valencia,Tienda,Si
+C01608,16/04/2026,Hombre,30-44,Alicante,Tienda,No
+C01609,21/03/2023,Mujer,45-59,Murcia,Tienda,No
+C01610,14/05/2024,Mujer,18-29,Toledo,Tienda,No
+C01611,11/03/2019,Mujer,30-44,Alicante,Web,No
+C01612,14/01/2026,Mujer,60+,Murcia,Tienda,Si
+C01613,13/04/2021,Mujer,30-44,Malaga,Tienda,Si
+C01614,07/06/2022,Mujer,30-44,Madrid,App,Si
+C01615,21/10/2024,No indica,45-59,Murcia,Tienda,Si
+C01616,17/05/2026,Hombre,,Madrid,Tienda,No
+C01617,26/02/2026,Mujer,45-59,Madrid,Tienda,Si
+C01618,08/10/2025,Mujer,45-59,Malaga,Tienda,Si
+C01619,01/10/2024,No indica,,Alicante,Tienda,No
+C01620,28/01/2023,Mujer,45-59,Malaga,Tienda,No
+C01621,20/03/2025,Mujer,18-29,Cadiz,Tienda,Si
+C01622,15/07/2022,Mujer,45-59,Alicante,Tienda,No
+C01623,15/01/2022,Mujer,60+,Madrid,Tienda,No
+C01624,06/10/2024,Hombre,45-59,Murcia,App,Si
+C01625,04/03/2022,Mujer,60+,Sevilla,Tienda,Si
+C01626,02/03/2022,Mujer,30-44,Madrid,Tienda,Si
+C01627,31/01/2022,Mujer,60+,Malaga,Tienda,No
+C01628,19/06/2026,Hombre,60+,Toledo,App,Si
+C01629,08/02/2022,Mujer,45-59,Madrid,Tienda,No
+C01630,10/04/2019,No indica,45-59,Murcia,Tienda,Si
+C01631,24/03/2021,Mujer,45-59,Toledo,Tienda,Si
+C01632,17/05/2025,Hombre,45-59,Murcia,App,Si
+C01633,09/07/2022,No indica,45-59,Malaga,Tienda,No
+C01634,09/02/2020,Mujer,60+,Sevilla,Tienda,Si
+C01635,05/05/2021,Hombre,,Madrid,Tienda,Si
+C01636,25/01/2021,Hombre,45-59,Sevilla,Tienda,No
+C01637,07/01/2022,Mujer,30-44,Castellon,Tienda,Si
+C01638,26/07/2023,Hombre,45-59,Alicante,Tienda,No
+C01639,30/04/2022,No indica,30-44,Malaga,Tienda,Si
+C01640,08/04/2026,No indica,45-59,Madrid,Tienda,Si
+C01641,07/01/2020,Mujer,45-59,Madrid,Tienda,No
+C01642,31/03/2023,Mujer,30-44,Malaga,Web,Si
+C01643,14/05/2026,No indica,30-44,Sevilla,Tienda,Si
+C01644,06/06/2023,Hombre,18-29,Malaga,Tienda,Si
+C01645,18/02/2026,Mujer,45-59,Malaga,Tienda,Si
+C01646,26/10/2025,Hombre,18-29,Malaga,Tienda,Si
+C01647,28/01/2025,No indica,30-44,Murcia,App,Si
+C01648,09/11/2025,Hombre,30-44,Madrid,Tienda,Si
+C01649,11/02/2024,Mujer,45-59,Valencia,Tienda,No
+C01650,16/08/2022,Mujer,30-44,Valencia,App,No
+C01651,27/12/2019,Hombre,45-59,Alicante,Web,No
+C01652,09/09/2020,Mujer,18-29,Valencia,Tienda,No
+C01653,01/09/2020,Mujer,,Madrid,Tienda,Si
+C01654,31/01/2021,No indica,30-44,Sevilla,Tienda,Si
+C01655,08/01/2026,No indica,45-59,Castellon,Tienda,No
+C01656,01/04/2022,Hombre,45-59,Sevilla,Web,No
+C01657,04/08/2024,Hombre,,Madrid,Tienda,Si
+C01658,03/01/2026,Hombre,45-59,Murcia,Tienda,No
+C01659,31/08/2025,Mujer,18-29,Toledo,Web,Si
+C01660,31/03/2019,Hombre,45-59,Valencia,Tienda,Si
+C01661,17/06/2024,Mujer,60+,Sevilla,Web,No
+C01662,28/06/2019,Mujer,30-44,Madrid,Tienda,No
+C01663,29/08/2024,Mujer,30-44,Valencia,App,Si
+C01664,05/12/2019,Hombre,60+,Granada,Tienda,No
+C01665,21/04/2026,Mujer,45-59,Madrid,Tienda,No
+C01666,03/03/2023,No indica,60+,Valencia,Tienda,Si
+C01667,27/12/2025,Mujer,30-44,Valencia,Tienda,Si
+C01668,20/09/2021,Hombre,30-44,Madrid,Web,Si
+C01669,11/04/2019,Mujer,45-59,Alicante,Tienda,No
+C01670,08/03/2020,No indica,45-59,Madrid,App,No
+C01671,09/11/2023,Hombre,30-44,Murcia,Tienda,No
+C01672,22/01/2025,Mujer,30-44,Murcia,Tienda,No
+C01673,06/07/2024,Mujer,18-29,Castellon,Tienda,Si
+C01674,25/10/2022,Hombre,60+,Malaga,Web,No
+C01675,16/09/2022,No indica,45-59,Granada,Tienda,Si
+C01676,07/03/2023,Mujer,45-59,Toledo,App,No
+C01677,27/10/2021,Mujer,45-59,Madrid,Tienda,Si
+C01678,10/06/2024,Mujer,45-59,Alicante,Tienda,Si
+C01679,11/04/2025,Hombre,60+,Valencia,Tienda,Si
+C01680,21/01/2025,Mujer,45-59,Almeria,App,No
+C01681,04/06/2019,No indica,30-44,Malaga,Tienda,Si
+C01682,01/02/2026,Mujer,30-44,Valencia,Tienda,Si
+C01683,04/08/2020,Mujer,45-59,Granada,Tienda,Si
+C01684,11/11/2024,Mujer,30-44,Madrid,Tienda,Si
+C01685,08/03/2021,Mujer,45-59,Madrid,Web,No
+C01686,03/06/2022,No indica,60+,Toledo,Tienda,Si
+C01687,15/07/2022,Hombre,30-44,Valencia,Tienda,Si
+C01688,07/08/2024,Mujer,30-44,Madrid,Tienda,Si
+C01689,14/09/2024,Mujer,60+,Madrid,Web,No
+C01690,13/07/2022,Hombre,30-44,Alicante,Tienda,Si
+C01691,31/03/2019,Mujer,30-44,Malaga,Tienda,Si
+C01692,10/12/2019,Mujer,30-44,Granada,Web,No
+C01693,16/01/2026,Hombre,45-59,Valencia,Tienda,Si
+C01694,06/10/2022,Hombre,30-44,Malaga,Tienda,No
+C01695,11/01/2023,No indica,30-44,Cadiz,Tienda,No
+C01696,07/07/2024,Hombre,30-44,Valencia,Tienda,Si
+C01697,17/09/2019,Mujer,18-29,Murcia,Web,Si
+C01698,04/12/2025,Hombre,45-59,Sevilla,Tienda,Si
+C01699,04/04/2021,Hombre,60+,Madrid,Tienda,No
+C01700,14/07/2025,Mujer,45-59,Castellon,Tienda,No
+C01701,24/02/2026,Mujer,30-44,Murcia,Web,Si
+C01702,14/06/2026,Mujer,,Madrid,App,No
+C01703,13/05/2026,Mujer,45-59,Toledo,Tienda,No
+C01704,28/10/2023,Mujer,18-29,Alicante,Tienda,No
+C01705,01/08/2026,Mujer,60+,Alicante,Tienda,Si
+C01706,01/08/2022,No indica,30-44,Madrid,Tienda,Si
+C01707,01/04/2026,Hombre,60+,Granada,Tienda,Si
+C01708,22/06/2026,Hombre,45-59,Murcia,Tienda,Si
+C01709,06/01/2025,Hombre,30-44,Toledo,Tienda,No
+C01710,18/04/2021,Mujer,60+,Murcia,Tienda,Si
+C01711,03/10/2021,Mujer,45-59,Murcia,Web,Si
+C01712,13/03/2025,Mujer,45-59,Cadiz,Web,Si
+C01713,26/09/2021,Hombre,30-44,Madrid,Tienda,Si
+C01714,06/09/2026,Mujer,30-44,Cadiz,Tienda,Si
+C01715,09/09/2021,No indica,18-29,Sevilla,Tienda,Si
+C01716,10/08/2022,Mujer,30-44,Malaga,Tienda,No
+C01717,22/05/2026,Mujer,60+,Malaga,Tienda,No
+C01718,26/05/2024,Mujer,45-59,Cadiz,Tienda,Si
+C01719,08/07/2026,Mujer,18-29,Madrid,App,Si
+C01720,05/05/2020,Hombre,45-59,Toledo,Web,Si
+C01721,20/01/2023,Mujer,30-44,Cadiz,Tienda,Si
+C01722,27/11/2025,Hombre,45-59,Madrid,App,Si
+C01723,03/07/2019,Hombre,30-44,Madrid,App,Si
+C01724,28/07/2019,Mujer,18-29,Alicante,App,No
+C01725,22/11/2024,Hombre,30-44,Granada,Tienda,Si
+C01726,12/01/2025,Mujer,,Alicante,App,No
+C01727,29/10/2022,No indica,30-44,Malaga,Tienda,Si
+C01728,06/06/2020,Hombre,45-59,Valencia,Tienda,No
+C01729,23/07/2023,Mujer,45-59,Malaga,Tienda,Si
+C01730,31/05/2023,No indica,30-44,Alicante,App,Si
+C01731,15/02/2024,Mujer,45-59,Valencia,Tienda,Si
+C01732,14/07/2025,Hombre,60+,Murcia,Web,No
+C01733,25/02/2025,Hombre,45-59,Malaga,Web,Si
+C01734,01/02/2024,Hombre,45-59,Alicante,Tienda,No
+C01735,11/07/2025,Mujer,45-59,Malaga,App,Si
+C01736,12/03/2026,No indica,45-59,Sevilla,Tienda,No
+C01737,29/09/2019,Hombre,,Malaga,Tienda,Si
+C01738,18/07/2023,Mujer,18-29,Malaga,App,No
+C01739,27/09/2022,Hombre,45-59,Alicante,App,Si
+C01740,26/05/2021,Hombre,30-44,Malaga,Web,Si
+C01741,02/02/2019,No indica,60+,Alicante,Tienda,No
+C01742,05/05/2024,Mujer,45-59,Sevilla,Tienda,Si
+C01743,23/05/2021,Mujer,,Alicante,Web,Si
+C01744,24/08/2021,Mujer,30-44,Alicante,Tienda,Si
+C01745,29/03/2021,No indica,60+,Valencia,Tienda,No
+C01746,25/09/2024,Mujer,60+,Sevilla,Tienda,Si
+C01747,20/02/2020,No indica,18-29,Madrid,Tienda,No
+C01748,21/09/2025,Mujer,18-29,Castellon,Tienda,Si
+C01749,12/05/2024,Mujer,18-29,Alicante,Web,Si
+C01750,26/11/2025,Hombre,45-59,Murcia,Web,Si
+C01751,21/05/2023,Hombre,30-44,Murcia,App,Si
+C01751,21/05/2023,Hombre,30-44,Murcia,App,Si
+C01752,10/07/2019,Mujer,30-44,Madrid,Web,No
+C01753,21/09/2019,No indica,30-44,Cadiz,App,Si
+C01754,26/04/2021,Hombre,45-59,Castellon,Tienda,Si
+C01755,22/12/2019,Hombre,60+,Malaga,Tienda,Si
+C01756,01/04/2026,Mujer,30-44,Sevilla,Tienda,No
+C01757,20/04/2024,Hombre,45-59,Castellon,Tienda,Si
+C01758,11/07/2025,No indica,30-44,Murcia,App,Si
+C01759,24/08/2023,No indica,45-59,Murcia,Tienda,Si
+C01760,15/10/2020,Hombre,30-44,Madrid,Tienda,Si
+C01761,23/04/2019,Hombre,60+,Granada,App,Si
+C01762,27/06/2019,Mujer,45-59,Alicante,Tienda,Si
+C01763,07/07/2024,No indica,30-44,Murcia,Tienda,Si
+C01764,07/09/2025,Mujer,45-59,Toledo,Tienda,Si
+C01765,21/02/2026,Hombre,30-44,Malaga,Tienda,No
+C01766,27/05/2025,Hombre,60+,Malaga,Tienda,Si
+C01767,03/04/2023,Mujer,45-59,Alicante,Tienda,No
+C01768,03/08/2023,Mujer,45-59,Cadiz,Tienda,No
+C01769,08/04/2026,Mujer,45-59,Malaga,Tienda,Si
+C01770,30/03/2024,No indica,30-44,Murcia,Tienda,Si
+C01771,21/03/2023,Mujer,45-59,Malaga,Tienda,Si
+C01772,29/08/2022,Mujer,60+,Alicante,Tienda,No
+C01773,26/07/2024,Mujer,45-59,Cadiz,Tienda,No
+C01774,11/01/2024,Hombre,60+,Murcia,Tienda,Si
+C01775,26/11/2023,Hombre,60+,Alicante,App,No
+C01776,04/09/2024,Hombre,45-59,Madrid,App,Si
+C01777,30/05/2024,No indica,30-44,Alicante,Tienda,No
+C01778,06/07/2020,Mujer,30-44,Murcia,Tienda,Si
+C01779,21/09/2023,Mujer,18-29,Cadiz,Tienda,Si
+C01780,12/07/2023,Mujer,45-59,Murcia,Tienda,Si
+C01781,02/07/2026,Hombre,18-29,Valencia,Web,No
+C01782,30/12/2019,Mujer,,Murcia,Tienda,Si
+C01783,27/10/2025,Hombre,30-44,Toledo,Web,No
+C01784,19/01/2026,Mujer,60+,Murcia,Tienda,Si
+C01785,29/03/2019,Hombre,30-44,Granada,Tienda,Si
+C01786,11/12/2021,Hombre,45-59,Madrid,Tienda,No
+C01787,03/04/2026,Mujer,,Madrid,Tienda,Si
+C01788,26/03/2022,Mujer,30-44,Murcia,Tienda,No
+C01789,24/07/2025,Mujer,30-44,Cadiz,Tienda,Si
+C01790,10/10/2022,Hombre,45-59,Granada,Tienda,Si
+C01791,02/12/2024,Hombre,30-44,Toledo,Tienda,No
+C01792,08/09/2024,Mujer,30-44,Malaga,Tienda,No
+C01793,23/01/2023,Mujer,30-44,Madrid,Tienda,No
+C01794,13/09/2024,No indica,60+,Madrid,Tienda,No
+C01795,27/02/2021,Mujer,60+,Madrid,Tienda,Si
+C01796,15/09/2023,Mujer,45-59,Madrid,Tienda,No
+C01797,11/06/2023,Mujer,18-29,Madrid,Tienda,Si
+C01798,07/12/2021,Mujer,30-44,Alicante,App,No
+C01799,30/06/2025,Mujer,30-44,Madrid,Tienda,Si
+C01800,14/05/2023,Mujer,45-59,Alicante,Tienda,Si
+C01801,21/11/2025,Mujer,60+,Sevilla,Web,No
+C01802,28/11/2020,Mujer,45-59,Madrid,Tienda,Si
+C01803,08/01/2019,Mujer,30-44,Cadiz,Web,Si
+C01804,14/08/2021,No indica,30-44,Madrid,Tienda,Si
+C01805,06/05/2026,Mujer,18-29,Murcia,Web,No
+C01806,14/04/2025,Hombre,18-29,Murcia,Tienda,Si
+C01807,29/05/2023,Mujer,30-44,Madrid,Web,Si
+C01808,13/02/2024,Hombre,30-44,Sevilla,Tienda,Si
+C01809,07/06/2021,Mujer,30-44,Alicante,Tienda,Si
+C01810,13/07/2021,Hombre,30-44,Madrid,Tienda,No
+C01811,26/11/2019,No indica,60+,Sevilla,Tienda,Si
+C01812,30/12/2021,No indica,45-59,Toledo,Tienda,Si
+C01813,01/02/2025,Hombre,60+,Madrid,Tienda,Si
+C01814,05/04/2021,Mujer,,Murcia,Tienda,Si
+C01815,06/06/2025,No indica,18-29,Madrid,Tienda,Si
+C01816,27/07/2022,No indica,45-59,Alicante,Tienda,No
+C01817,24/10/2020,No indica,18-29,Madrid,Tienda,No
+C01818,13/06/2021,Hombre,60+,Sevilla,App,Si
+C01819,07/04/2026,Hombre,30-44,Valencia,Tienda,Si
+C01820,19/01/2022,Mujer,30-44,Malaga,Tienda,Si
+C01821,17/11/2024,Hombre,30-44,Malaga,Tienda,No
+C01822,19/01/2019,No indica,45-59,Malaga,App,Si
+C01823,20/03/2025,Mujer,18-29,Malaga,Tienda,No
+C01824,24/09/2020,Mujer,18-29,Castellon,App,No
+C01825,21/10/2025,No indica,60+,Toledo,Tienda,Si
+C01826,06/07/2023,Hombre,18-29,Murcia,App,Si
+C01827,24/02/2024,Hombre,45-59,Murcia,Tienda,No
+C01828,14/09/2021,Hombre,30-44,Castellon,Tienda,No
+C01829,28/01/2026,Hombre,45-59,Murcia,Tienda,No
+C01830,11/08/2022,Mujer,45-59,Castellon,Tienda,Si
+C01831,31/08/2026,Hombre,45-59,Toledo,App,No
+C01832,31/07/2022,Hombre,30-44,Granada,Web,No
+C01833,29/12/2024,Hombre,,Valencia,Tienda,No
+C01834,25/01/2026,Mujer,30-44,Sevilla,Tienda,Si
+C01835,28/05/2025,Mujer,18-29,Alicante,Tienda,No
+C01836,24/05/2026,No indica,30-44,Alicante,App,Si
+C01837,24/03/2025,Mujer,45-59,Malaga,Web,Si
+C01838,23/02/2022,Hombre,30-44,Murcia,Tienda,Si
+C01839,10/10/2024,Hombre,30-44,Granada,Tienda,Si
+C01840,20/02/2026,Hombre,45-59,Sevilla,Tienda,Si
+C01841,05/01/2021,Mujer,45-59,Alicante,App,No
+C01842,26/12/2021,Hombre,18-29,Madrid,Tienda,Si
+C01843,24/03/2026,Mujer,45-59,Murcia,Tienda,Si
+C01844,02/07/2021,Mujer,45-59,Madrid,App,No
+C01845,08/03/2026,Mujer,18-29,Alicante,Tienda,Si
+C01846,11/03/2025,Mujer,60+,Madrid,Tienda,No
+C01847,22/10/2019,Mujer,45-59,Madrid,Tienda,Si
+C01848,02/04/2020,Hombre,30-44,Madrid,Tienda,Si
+C01849,01/09/2024,Mujer,30-44,Malaga,Web,Si
+C01850,14/07/2019,No indica,45-59,Madrid,Tienda,No
+C01851,23/08/2020,Mujer,60+,Alicante,Tienda,Si
+C01852,29/07/2020,Mujer,18-29,Granada,Tienda,Si
+C01853,03/06/2024,No indica,30-44,Almeria,Tienda,No
+C01854,28/06/2021,Mujer,45-59,Murcia,Tienda,Si
+C01855,08/03/2019,No indica,60+,Alicante,Web,Si
+C01856,14/02/2025,Hombre,18-29,Murcia,Tienda,No
+C01857,09/09/2026,Mujer,30-44,Valencia,App,No
+C01858,01/09/2026,Mujer,30-44,Madrid,Tienda,No
+C01859,14/09/2019,Mujer,,Valencia,Web,No
+C01860,13/04/2025,Hombre,30-44,Madrid,Web,Si
+C01861,24/01/2026,Mujer,45-59,Cadiz,App,No
+C01862,08/05/2026,Hombre,30-44,Granada,Web,No
+C01863,13/12/2025,Mujer,30-44,Madrid,Tienda,Si
+C01864,04/12/2021,Mujer,18-29,Alicante,Tienda,No
+C01865,02/12/2023,Mujer,60+,Murcia,Tienda,Si
+C01866,24/05/2019,Hombre,30-44,Madrid,Tienda,No
+C01867,03/09/2020,No indica,45-59,Toledo,Tienda,Si
+C01868,17/12/2021,Hombre,,Castellon,Tienda,Si
+C01869,14/10/2025,Hombre,45-59,Valencia,Tienda,No
+C01870,29/03/2020,Mujer,30-44,Alicante,Tienda,Si
+C01871,05/02/2019,Mujer,18-29,Cadiz,Tienda,Si
+C01872,13/11/2022,Mujer,30-44,Malaga,Tienda,No
+C01873,06/08/2022,Mujer,60+,Cadiz,Tienda,Si
+C01874,21/03/2025,Mujer,30-44,Valencia,Web,Si
+C01875,06/10/2025,Mujer,30-44,Sevilla,Tienda,No
+C01876,03/11/2024,No indica,30-44,Madrid,Tienda,Si
+C01877,28/08/2023,No indica,,Sevilla,Tienda,No
+C01878,17/05/2025,No indica,60+,Malaga,Tienda,Si
+C01879,30/09/2019,No indica,30-44,Cadiz,Tienda,Si
+C01880,10/02/2020,Hombre,45-59,Madrid,Tienda,No
+C01881,02/04/2023,No indica,30-44,Alicante,Tienda,Si
+C01882,21/01/2025,No indica,60+,Valencia,Tienda,No
+C01883,13/01/2025,Mujer,45-59,Madrid,App,No
+C01884,01/05/2023,Mujer,60+,Valencia,Tienda,Si
+C01885,31/01/2021,Mujer,30-44,Valencia,Tienda,No
+C01886,08/06/2022,Mujer,45-59,Alicante,Tienda,Si
+C01887,19/02/2026,Hombre,30-44,Granada,Tienda,Si
+C01888,14/01/2026,Hombre,45-59,Granada,Tienda,Si
+C01889,23/03/2026,Mujer,60+,Cadiz,Tienda,Si
+C01890,15/02/2022,Hombre,45-59,Sevilla,Tienda,Si
+C01891,05/12/2019,No indica,45-59,Alicante,Tienda,Si
+C01892,20/03/2019,Mujer,60+,Murcia,App,Si
+C01893,17/10/2021,No indica,30-44,Castellon,Tienda,Si
+C01894,14/06/2023,Hombre,30-44,Sevilla,Tienda,No
+C01895,17/06/2020,Mujer,60+,Valencia,Tienda,No
+C01896,22/08/2025,No indica,30-44,Valencia,App,Si
+C01897,15/03/2022,Hombre,60+,Madrid,Tienda,Si
+C01898,03/07/2025,Hombre,45-59,Madrid,Tienda,No
+C01899,31/12/2024,No indica,45-59,Sevilla,Tienda,No
+C01900,10/11/2024,Mujer,60+,Castellon,App,Si
+C01901,19/05/2024,Hombre,60+,Malaga,Tienda,Si
+C01902,22/09/2022,Hombre,,Sevilla,Tienda,Si
+C01903,08/07/2022,Hombre,,Alicante,Tienda,No
+C01904,25/08/2019,Mujer,60+,Valencia,Tienda,Si
+C01905,22/08/2019,Mujer,45-59,Malaga,Web,No
+C01906,19/11/2024,Mujer,30-44,Madrid,Tienda,No
+C01907,26/05/2019,Mujer,45-59,Malaga,Tienda,No
+C01908,11/06/2020,Hombre,45-59,Murcia,Tienda,No
+C01909,27/04/2019,Mujer,18-29,Alicante,Tienda,No
+C01910,22/11/2019,Hombre,18-29,Alicante,Tienda,No
+C01911,20/08/2021,Hombre,30-44,Valencia,Tienda,Si
+C01912,28/06/2022,Mujer,30-44,Castellon,App,Si
+C01913,01/10/2024,Mujer,30-44,Granada,Tienda,No
+C01914,01/09/2019,Mujer,45-59,Sevilla,Tienda,Si
+C01915,20/09/2025,Mujer,,Madrid,Tienda,No
+C01916,29/06/2023,No indica,18-29,Castellon,Tienda,No
+C01917,23/07/2023,Hombre,45-59,Alicante,Tienda,No
+C01918,14/01/2022,Hombre,45-59,Granada,Web,Si
+C01919,07/01/2020,Mujer,30-44,Sevilla,Tienda,Si
+C01920,05/11/2021,No indica,45-59,Alicante,Tienda,No
+C01921,11/01/2024,Mujer,45-59,Madrid,Tienda,No
+C01922,21/11/2020,Mujer,30-44,Murcia,Tienda,Si
+C01923,08/12/2024,Hombre,30-44,Alicante,Tienda,No
+C01924,13/11/2020,Mujer,45-59,Granada,Tienda,Si
+C01925,06/06/2024,Mujer,30-44,Castellon,Tienda,Si
+C01926,05/11/2020,Mujer,30-44,Toledo,Tienda,Si
+C01927,12/03/2019,Hombre,60+,Malaga,Web,Si
+C01928,24/07/2022,Mujer,30-44,Malaga,App,No
+C01929,01/02/2023,Hombre,30-44,Sevilla,Tienda,No
+C01930,29/08/2023,Mujer,45-59,Valencia,Tienda,Si
+C01931,13/07/2026,Hombre,30-44,Murcia,Tienda,Si
+C01932,15/05/2019,Mujer,60+,Sevilla,Tienda,Si
+C01933,22/06/2021,No indica,30-44,Granada,Tienda,No
+C01934,25/08/2024,Hombre,60+,Sevilla,Tienda,Si
+C01935,21/08/2024,No indica,60+,Murcia,Tienda,No
+C01936,15/12/2020,Hombre,45-59,Cadiz,Tienda,No
+C01937,14/12/2024,Mujer,60+,Almeria,App,No
+C01938,30/08/2025,Hombre,60+,Malaga,Tienda,Si
+C01939,17/02/2020,Mujer,18-29,Madrid,Tienda,No
+C01940,14/04/2026,Mujer,18-29,Madrid,Web,No
+C01941,12/01/2025,Mujer,60+,Alicante,Tienda,No
+C01942,20/10/2023,Mujer,45-59,Granada,Tienda,No
+C01943,28/06/2023,Mujer,60+,Madrid,Tienda,Si
+C01944,19/02/2024,Mujer,30-44,Madrid,Tienda,Si
+C01945,10/02/2024,Hombre,30-44,Toledo,Tienda,Si
+C01946,02/09/2025,Hombre,60+,Toledo,Web,Si
+C01947,07/03/2023,Mujer,30-44,Murcia,Tienda,Si
+C01948,16/01/2025,Mujer,45-59,Malaga,Tienda,No
+C01949,03/04/2020,Mujer,60+,Malaga,Web,No
+C01950,05/08/2022,Mujer,18-29,Murcia,Tienda,Si
+C01951,19/04/2023,Hombre,30-44,Valencia,Tienda,No
+C01952,28/11/2019,Mujer,18-29,Madrid,Tienda,No
+C01953,17/08/2025,Hombre,,Valencia,Tienda,No
+C01954,09/12/2022,Mujer,60+,Madrid,Tienda,Si
+C01955,16/04/2023,Hombre,18-29,Cadiz,Tienda,Si
+C01956,31/01/2026,Mujer,45-59,Alicante,Tienda,Si
+C01957,26/08/2019,Hombre,30-44,Murcia,Tienda,No
+C01958,27/06/2025,Mujer,60+,Alicante,Tienda,No
+C01959,11/02/2026,Hombre,60+,Madrid,App,No
+C01960,12/05/2026,Mujer,18-29,Malaga,Tienda,No
+C01961,27/11/2023,Mujer,30-44,Cadiz,Tienda,Si
+C01962,04/03/2022,Hombre,60+,Castellon,Tienda,No
+C01963,06/09/2026,Mujer,45-59,Sevilla,Tienda,Si
+C01964,04/01/2024,No indica,30-44,Castellon,Tienda,Si
+C01965,26/12/2024,Mujer,60+,Sevilla,Tienda,Si
+C01966,03/06/2022,Hombre,60+,Toledo,Tienda,Si
+C01967,02/09/2026,Mujer,45-59,Madrid,Tienda,Si
+C01968,28/07/2024,Mujer,18-29,Alicante,App,Si
+C01969,19/09/2024,Mujer,30-44,Granada,Tienda,No
+C01970,21/05/2026,Hombre,30-44,Granada,Tienda,Si
+C01971,13/06/2023,Mujer,18-29,Valencia,Web,Si
+C01972,28/08/2024,Hombre,18-29,Alicante,Web,Si
+C01973,20/01/2019,Hombre,18-29,Castellon,App,No
+C01974,29/11/2024,Hombre,30-44,Malaga,App,Si
+C01975,22/06/2023,Mujer,60+,Murcia,Tienda,Si
+C01976,12/03/2025,No indica,60+,Alicante,App,No
+C01977,25/01/2022,Mujer,45-59,Toledo,App,Si
+C01978,01/10/2020,Mujer,30-44,Sevilla,Web,No
+C01979,14/10/2024,Mujer,60+,Castellon,Tienda,No
+C01980,31/03/2024,Hombre,18-29,Sevilla,Tienda,No
+C01981,03/11/2025,Mujer,18-29,Valencia,Tienda,Si
+C01982,18/07/2024,No indica,,Valencia,Tienda,No
+C01983,03/11/2023,No indica,30-44,Alicante,Tienda,No
+C01984,08/09/2024,Mujer,60+,Castellon,Tienda,Si
+C01985,20/01/2025,Hombre,30-44,Malaga,Tienda,No
+C01986,15/11/2022,Mujer,18-29,Malaga,Web,Si
+C01987,02/02/2024,Mujer,30-44,Granada,Web,Si
+C01988,23/08/2024,Hombre,45-59,Sevilla,Tienda,Si
+C01989,26/04/2019,No indica,18-29,Murcia,Web,Si
+C01990,25/02/2022,Mujer,45-59,Granada,Tienda,Si
+C01991,04/07/2026,Mujer,60+,Murcia,Tienda,Si
+C01992,16/03/2026,Mujer,45-59,Castellon,App,No
+C01993,21/02/2026,No indica,30-44,Madrid,Tienda,Si
+C01994,20/10/2020,Hombre,45-59,Granada,Tienda,Si
+C01995,06/02/2020,Mujer,,Valencia,Tienda,Si
+C01996,10/04/2026,Hombre,45-59,Sevilla,Tienda,No
+C01997,14/01/2026,No indica,,Alicante,Tienda,No
+C01998,18/10/2024,Mujer,18-29,Granada,Tienda,Si
+C01999,13/06/2020,Mujer,45-59,Castellon,Tienda,Si
+C02000,22/07/2026,No indica,45-59,Valencia,Web,No
+C02001,01/04/2023,No indica,45-59,Alicante,Web,Si
+C02002,13/01/2022,Mujer,45-59,Malaga,Web,Si
+C02003,06/10/2025,Mujer,45-59,Madrid,Tienda,Si
+C02004,20/10/2023,No indica,45-59,Madrid,Tienda,Si
+C02005,01/05/2019,Mujer,45-59,Valencia,Tienda,Si
+C02006,12/08/2019,Mujer,60+,Murcia,Tienda,Si
+C02007,25/08/2026,Hombre,18-29,Alicante,Tienda,Si
+C02008,28/02/2021,No indica,45-59,Murcia,Tienda,No
+C02009,21/08/2021,Mujer,,Murcia,Tienda,Si
+C02010,01/05/2024,Hombre,60+,Madrid,Tienda,Si
+C02011,28/04/2019,Mujer,60+,Castellon,App,Si
+C02012,25/02/2023,Hombre,30-44,Sevilla,Tienda,Si
+C02013,02/04/2023,Mujer,30-44,Valencia,Tienda,Si
+C02014,19/05/2025,Hombre,18-29,Valencia,Web,No
+C02015,26/10/2024,Mujer,60+,Alicante,Tienda,Si
+C02016,18/10/2025,Hombre,45-59,Madrid,Tienda,Si
+C02017,13/08/2025,Mujer,18-29,Madrid,Tienda,No
+C02018,05/12/2024,Mujer,60+,Madrid,Tienda,Si
+C02019,25/04/2019,Mujer,60+,Cadiz,Tienda,No
+C02020,03/08/2022,Hombre,30-44,Toledo,App,Si
+C02021,24/02/2024,Mujer,45-59,Madrid,Web,Si
+C02022,27/09/2023,Mujer,45-59,Toledo,Tienda,Si
+C02023,22/10/2020,Mujer,45-59,Sevilla,Tienda,Si
+C02024,28/03/2020,Hombre,30-44,Malaga,Tienda,No
+C02025,18/03/2020,No indica,60+,Madrid,Tienda,Si
+C02026,21/08/2019,Mujer,45-59,Malaga,Tienda,Si
+C02027,25/02/2020,Mujer,30-44,Murcia,Tienda,No
+C02028,04/11/2023,Mujer,45-59,Malaga,Tienda,No
+C02029,05/11/2024,Hombre,60+,Alicante,Tienda,No
+C02030,13/11/2021,Mujer,,Murcia,Tienda,Si
+C02031,30/04/2021,Hombre,45-59,Murcia,Tienda,Si
+C02032,14/12/2024,Mujer,18-29,Valencia,Tienda,No
+C02033,04/04/2023,Mujer,30-44,Sevilla,Tienda,Si
+C02034,15/07/2019,Hombre,60+,Malaga,Tienda,Si
+C02035,26/09/2019,Mujer,45-59,Valencia,Tienda,Si
+C02036,03/11/2020,Hombre,18-29,Sevilla,Tienda,Si
+C02037,06/02/2023,Hombre,30-44,Alicante,Tienda,No
+C02038,15/02/2020,No indica,18-29,Madrid,Tienda,No
+C02039,29/05/2024,Hombre,30-44,Malaga,Web,Si
+C02040,12/08/2022,Hombre,45-59,Alicante,Tienda,Si
+C02041,27/01/2026,Mujer,18-29,Murcia,Tienda,Si
+C02042,23/07/2021,Mujer,18-29,Alicante,Tienda,Si
+C02043,21/09/2022,Mujer,45-59,Sevilla,Tienda,Si
+C02044,02/06/2026,Mujer,60+,Toledo,Tienda,Si
+C02045,10/06/2025,Mujer,18-29,Valencia,App,Si
+C02046,29/04/2026,Hombre,18-29,Madrid,Tienda,No
+C02047,01/04/2026,Mujer,45-59,Madrid,Tienda,Si
+C02048,06/02/2021,Mujer,18-29,Alicante,Tienda,Si
+C02049,07/02/2024,Mujer,45-59,Alicante,App,No
+C02050,21/12/2023,Mujer,30-44,Valencia,Web,Si
+C02051,13/05/2023,Mujer,45-59,Toledo,Tienda,Si
+C02052,04/05/2025,Mujer,30-44,Madrid,Tienda,Si
+C02053,09/03/2020,Mujer,30-44,Madrid,Tienda,No
+C02054,13/09/2024,Mujer,18-29,Murcia,Tienda,No
+C02055,05/08/2025,Hombre,45-59,Sevilla,App,Si
+C02056,02/03/2025,Hombre,45-59,Castellon,Tienda,No
+C02057,13/07/2020,Mujer,30-44,Granada,Tienda,Si
+C02058,26/08/2021,Hombre,30-44,Murcia,App,Si
+C02059,24/10/2024,Hombre,45-59,Malaga,App,Si
+C02060,14/06/2025,No indica,45-59,Murcia,Tienda,No
+C02061,11/07/2025,No indica,45-59,Murcia,Tienda,No
+C02062,11/05/2021,Mujer,30-44,Madrid,Tienda,No
+C02063,30/08/2019,Hombre,45-59,Valencia,Tienda,No
+C02064,11/08/2024,Mujer,18-29,Madrid,Tienda,No
+C02065,15/11/2019,No indica,30-44,Malaga,Tienda,No
+C02066,23/08/2026,Mujer,30-44,Valencia,Tienda,No
+C02067,01/05/2024,Mujer,45-59,Madrid,Tienda,Si
+C02068,01/07/2020,Mujer,60+,Granada,Tienda,Si
+C02069,10/09/2025,Mujer,45-59,Cadiz,App,Si
+C02070,16/05/2025,Mujer,45-59,Murcia,Tienda,Si
+C02071,18/09/2025,Mujer,18-29,Murcia,App,No
+C02072,24/05/2022,Hombre,45-59,Toledo,Tienda,Si
+C02073,06/05/2023,Mujer,60+,Malaga,Tienda,Si
+C02074,24/03/2026,Hombre,45-59,Murcia,Tienda,No
+C02075,07/11/2019,Mujer,30-44,Malaga,Tienda,No
+C02076,02/08/2026,Mujer,30-44,Murcia,Tienda,Si
+C02077,13/06/2025,Mujer,45-59,Murcia,Tienda,No
+C02078,03/02/2019,Mujer,30-44,Toledo,App,No
+C02079,17/04/2019,Mujer,45-59,Murcia,Web,Si
+C02080,09/07/2020,Hombre,30-44,Madrid,Tienda,No
+C02081,22/04/2026,Mujer,30-44,Cadiz,Web,Si
+C02082,01/03/2020,No indica,60+,Sevilla,Tienda,No
+C02083,29/10/2025,Hombre,45-59,Malaga,Web,Si
+C02084,11/02/2025,Mujer,45-59,Madrid,Tienda,No
+C02085,23/11/2024,Hombre,60+,Alicante,Tienda,Si
+C02086,27/07/2022,Mujer,30-44,Malaga,Tienda,Si
+C02087,13/09/2023,Hombre,45-59,Sevilla,Tienda,Si
+C02088,31/03/2023,Hombre,60+,Madrid,Tienda,Si
+C02089,22/09/2025,Hombre,45-59,Sevilla,Tienda,Si
+C02090,30/08/2023,Mujer,45-59,Madrid,Tienda,No
+C02091,17/01/2023,Hombre,45-59,Alicante,Web,Si
+C02092,30/09/2023,Mujer,18-29,Madrid,Tienda,Si
+C02093,09/08/2023,Hombre,60+,Granada,Tienda,Si
+C02094,19/08/2024,Mujer,45-59,Madrid,Tienda,Si
+C02095,03/03/2020,Hombre,60+,Madrid,Web,No
+C02096,13/11/2025,Mujer,30-44,Sevilla,Tienda,Si
+C02097,02/06/2019,Hombre,18-29,Madrid,Web,Si
+C02098,12/08/2025,Mujer,60+,Murcia,Tienda,Si
+C02099,30/06/2025,No indica,60+,Granada,App,No
+C02100,08/02/2024,Mujer,60+,Valencia,Tienda,No
+C02101,14/03/2024,Mujer,30-44,Granada,Tienda,Si
+C02102,01/04/2020,Hombre,45-59,Toledo,Tienda,Si
+C02103,14/02/2020,Mujer,45-59,Toledo,Tienda,Si
+C02104,12/08/2025,Hombre,18-29,Madrid,App,Si
+C02105,08/07/2023,No indica,30-44,Castellon,Tienda,Si
+C02106,19/01/2026,No indica,30-44,Madrid,App,Si
+C02107,24/11/2022,Hombre,30-44,Toledo,Tienda,Si
+C02108,22/05/2024,Mujer,,Madrid,Tienda,No
+C02109,06/07/2021,Mujer,30-44,Malaga,Tienda,Si
+C02110,09/01/2023,Mujer,,Valencia,App,Si
+C02111,28/04/2021,No indica,30-44,Murcia,Tienda,No
+C02112,31/10/2019,Mujer,45-59,Toledo,Tienda,No
+C02113,27/04/2023,Mujer,30-44,Toledo,Web,Si
+C02114,12/07/2026,Mujer,60+,Sevilla,Web,Si
+C02115,02/10/2024,Mujer,30-44,Madrid,Tienda,No
+C02116,01/08/2026,Mujer,60+,Madrid,App,Si
+C02117,25/03/2019,Hombre,30-44,Valencia,Tienda,Si
+C02118,15/06/2024,Mujer,30-44,Alicante,Tienda,No
+C02119,14/02/2019,Mujer,45-59,Sevilla,App,No
+C02120,29/07/2024,Hombre,18-29,Murcia,App,No
+C02121,20/11/2021,No indica,18-29,Alicante,Tienda,Si
+C02122,05/12/2019,Mujer,18-29,Sevilla,App,No
+C02123,02/05/2022,Mujer,18-29,Madrid,Tienda,Si
+C02124,28/01/2023,Mujer,45-59,Murcia,Tienda,No
+C02125,01/06/2021,Hombre,30-44,Valencia,Tienda,Si
+C02126,15/02/2026,Mujer,45-59,Toledo,Tienda,Si
+C02127,16/04/2025,Mujer,30-44,Alicante,Tienda,Si
+C02128,15/10/2025,Hombre,60+,Alicante,Tienda,Si
+C02129,22/03/2026,Mujer,45-59,Malaga,App,Si
+C02130,26/12/2024,Mujer,60+,Alicante,Tienda,No
+C02131,05/01/2019,Mujer,30-44,Murcia,Web,No
+C02132,08/05/2021,Hombre,30-44,Murcia,App,No
+C02133,30/06/2026,Mujer,60+,Malaga,Tienda,No
+C02134,20/12/2022,Mujer,18-29,Madrid,Tienda,Si
+C02135,06/04/2025,Mujer,18-29,Malaga,Web,No
+C02136,02/06/2022,Hombre,45-59,Madrid,Tienda,Si
+C02137,28/06/2025,Mujer,45-59,Alicante,Tienda,Si
+C02138,06/07/2024,No indica,30-44,Madrid,Tienda,Si
+C02139,11/04/2025,Hombre,45-59,Malaga,Tienda,Si
+C02140,26/03/2025,Mujer,30-44,Alicante,Tienda,No
+C02141,03/08/2025,Hombre,18-29,Granada,App,Si
+C02142,26/05/2019,Mujer,30-44,Alicante,App,Si
+C02143,14/09/2020,Mujer,30-44,Sevilla,Tienda,Si
+C02144,17/02/2022,Mujer,30-44,Granada,Tienda,No
+C02145,16/01/2025,Hombre,30-44,Murcia,Tienda,No
+C02146,05/02/2020,Hombre,18-29,Malaga,App,No
+C02147,15/02/2026,Mujer,18-29,Sevilla,Tienda,Si
+C02148,22/08/2024,Hombre,45-59,Toledo,Tienda,Si
+C02149,25/07/2022,Hombre,45-59,Alicante,Tienda,Si
+C02150,04/08/2019,Mujer,45-59,Murcia,Tienda,Si
+C02151,03/03/2020,No indica,18-29,Toledo,Web,Si
+C02152,26/08/2026,No indica,45-59,Toledo,Tienda,Si
+C02153,10/08/2019,Hombre,45-59,Murcia,Tienda,Si
+C02154,21/06/2026,Mujer,45-59,Murcia,Web,Si
+C02155,16/01/2021,Hombre,45-59,Madrid,Web,No
+C02156,27/06/2022,Hombre,60+,Toledo,Tienda,No
+C02157,16/04/2022,Hombre,45-59,Madrid,Tienda,Si
+C02158,25/06/2019,Mujer,45-59,Granada,Tienda,Si
+C02159,25/02/2019,Hombre,30-44,Cadiz,Tienda,Si
+C02160,21/08/2021,Mujer,45-59,Madrid,Tienda,No
+C02161,10/04/2024,Mujer,45-59,Alicante,Tienda,Si
+C02162,23/07/2023,Mujer,30-44,Murcia,App,No
+C02163,27/05/2023,Hombre,45-59,Malaga,Tienda,No
+C02164,20/06/2026,Mujer,45-59,Madrid,Tienda,Si
+C02165,27/04/2020,Hombre,45-59,Toledo,Web,Si
+C02166,08/01/2019,Mujer,45-59,Madrid,Tienda,No
+C02167,08/09/2019,Mujer,45-59,Sevilla,Tienda,Si
+C02168,05/06/2025,Mujer,18-29,Alicante,App,No
+C02169,14/09/2023,Mujer,18-29,Madrid,Tienda,Si
+C02170,10/03/2024,Hombre,45-59,Alicante,App,No
+C02171,25/01/2022,Hombre,30-44,Murcia,Tienda,Si
+C02172,20/03/2019,Mujer,60+,Malaga,Tienda,Si
+C02173,10/04/2025,Mujer,,Sevilla,Tienda,Si
+C02174,29/09/2019,Hombre,45-59,Murcia,Tienda,No
+C02175,02/05/2024,Mujer,,Toledo,Tienda,No
+C02176,04/12/2019,No indica,18-29,Malaga,Tienda,Si
+C02177,28/06/2019,Hombre,30-44,Malaga,Tienda,Si
+C02178,31/03/2019,Hombre,45-59,Madrid,Web,Si
+C02179,01/07/2019,Hombre,45-59,Alicante,Tienda,No
+C02180,25/07/2019,Mujer,45-59,Murcia,Tienda,Si
+C02181,26/01/2024,Hombre,18-29,Alicante,Tienda,No
+C02182,28/08/2026,No indica,30-44,Castellon,Tienda,Si
+C02183,08/11/2021,Mujer,18-29,Madrid,Tienda,Si
+C02184,08/03/2025,Hombre,18-29,Malaga,Tienda,Si
+C02185,27/04/2026,Hombre,,Murcia,Tienda,Si
+C02186,26/05/2024,Mujer,30-44,Murcia,Tienda,Si
+C02187,08/05/2024,Mujer,45-59,Madrid,Tienda,Si
+C02188,24/06/2026,Mujer,45-59,Alicante,Tienda,Si
+C02189,06/06/2025,Hombre,45-59,Madrid,Web,No
+C02190,05/04/2022,Mujer,60+,Madrid,Tienda,No
+C02191,10/11/2025,Mujer,60+,Murcia,Tienda,No
+C02192,17/01/2022,Hombre,45-59,Alicante,Tienda,No
+C02193,24/05/2026,Hombre,30-44,Granada,Web,Si
+C02194,09/02/2025,Mujer,45-59,Castellon,Tienda,Si
+C02195,07/03/2020,Mujer,30-44,Castellon,App,No
+C02196,29/03/2026,No indica,45-59,Madrid,App,Si
+C02197,09/08/2024,Mujer,,Madrid,Tienda,No
+C02198,09/12/2023,No indica,45-59,Granada,App,Si
+C02199,10/01/2021,Mujer,45-59,Murcia,Tienda,Si
+C02200,28/12/2021,Mujer,60+,Sevilla,App,Si
+C02201,18/03/2020,Hombre,45-59,Alicante,Tienda,Si
+C02202,16/05/2019,Hombre,30-44,Sevilla,Tienda,Si
+C02203,08/06/2020,Hombre,30-44,Alicante,Tienda,Si
+C02204,04/07/2026,Hombre,30-44,Madrid,Web,Si
+C02205,15/12/2023,Mujer,45-59,Cadiz,Tienda,Si
+C02206,23/02/2024,Mujer,30-44,Madrid,Tienda,Si
+C02207,03/10/2020,Mujer,18-29,Granada,Tienda,No
+C02208,22/11/2024,No indica,60+,Toledo,Tienda,No
+C02209,31/08/2021,Mujer,30-44,Malaga,Tienda,Si
+C02210,25/12/2019,Mujer,18-29,Alicante,App,Si
+C02211,29/06/2022,Mujer,60+,Castellon,App,No
+C02212,28/04/2025,Mujer,18-29,Alicante,App,Si
+C02213,11/05/2022,Mujer,30-44,Murcia,Web,Si
+C02214,08/06/2023,No indica,60+,Madrid,App,No
+C02215,10/05/2025,Hombre,45-59,Madrid,Web,Si
+C02216,18/01/2020,Mujer,30-44,Sevilla,Tienda,Si
+C02217,15/06/2025,Mujer,30-44,Malaga,Tienda,Si
+C02218,02/04/2020,Mujer,45-59,Cadiz,Tienda,No
+C02219,21/05/2019,Mujer,30-44,Madrid,Tienda,Si
+C02220,09/04/2020,Hombre,45-59,Malaga,Tienda,Si
+C02221,14/06/2024,Mujer,30-44,Madrid,App,Si
+C02222,16/12/2025,Hombre,30-44,Cadiz,Tienda,Si
+C02223,02/10/2019,Hombre,60+,Valencia,Tienda,Si
+C02223,02/10/2019,Hombre,60+,Valencia,Tienda,Si
+C02224,18/06/2025,Mujer,60+,Murcia,Web,Si
+C02225,22/11/2024,No indica,30-44,Granada,Tienda,Si
+C02226,17/10/2019,Mujer,30-44,Granada,Tienda,Si
+C02227,30/07/2021,Mujer,30-44,Valencia,Tienda,Si
+C02228,27/03/2021,Mujer,45-59,Cadiz,Tienda,No
+C02229,07/10/2022,No indica,45-59,Malaga,Web,Si
+C02230,16/08/2023,Mujer,45-59,Alicante,Tienda,No
+C02231,30/09/2025,Hombre,45-59,Alicante,Tienda,No
+C02232,05/08/2022,Mujer,30-44,Murcia,Tienda,Si
+C02233,10/09/2025,Mujer,,Madrid,Web,No
+C02234,19/07/2019,Hombre,60+,Malaga,Tienda,Si
+C02235,25/02/2026,Mujer,18-29,Granada,Tienda,Si
+C02236,12/11/2022,No indica,45-59,Madrid,App,Si
+C02237,01/03/2024,Mujer,60+,Toledo,App,No
+C02238,14/04/2020,No indica,45-59,Murcia,Web,Si
+C02239,02/01/2019,Mujer,60+,Malaga,Tienda,Si
+C02240,23/12/2021,Hombre,30-44,Alicante,Web,No
+C02241,14/12/2024,Mujer,45-59,Valencia,App,No
+C02242,23/06/2026,Hombre,18-29,Madrid,Tienda,Si
+C02243,05/08/2021,Mujer,,Malaga,Tienda,Si
+C02244,16/03/2022,Mujer,60+,Madrid,Tienda,Si
+C02245,12/05/2024,Mujer,45-59,Madrid,Tienda,Si
+C02246,29/06/2024,Mujer,60+,Granada,Web,Si
+C02247,15/04/2022,Hombre,18-29,Alicante,Tienda,Si
+C02248,26/05/2019,Mujer,30-44,Cadiz,App,Si
+C02249,28/03/2021,Mujer,18-29,Malaga,App,No
+C02250,02/06/2020,Hombre,45-59,Alicante,App,Si
+C02251,29/06/2024,Mujer,60+,Toledo,Tienda,No
+C02251,29/06/2024,Mujer,60+,Toledo,Tienda,No
+C02252,13/08/2019,No indica,60+,Alicante,Tienda,Si
+C02253,07/11/2023,Mujer,45-59,Madrid,Tienda,Si
+C02254,08/01/2019,Mujer,30-44,Cadiz,Tienda,Si
+C02255,11/02/2024,Mujer,30-44,Valencia,App,Si
+C02256,18/08/2019,Mujer,18-29,Murcia,Web,No
+C02257,30/03/2023,Mujer,45-59,Alicante,Web,Si
+C02258,09/04/2025,Mujer,30-44,Valencia,App,No
+C02259,16/09/2022,Mujer,18-29,Sevilla,Tienda,Si
+C02260,25/12/2023,Hombre,30-44,Alicante,Tienda,No
+C02261,12/03/2025,Hombre,45-59,Madrid,Tienda,Si
+C02262,21/01/2025,Mujer,30-44,Malaga,Tienda,No
+C02263,16/01/2024,Mujer,45-59,Madrid,Tienda,No
+C02264,19/07/2021,Mujer,60+,Murcia,Tienda,Si
+C02265,26/06/2021,Mujer,30-44,Alicante,App,Si
+C02266,07/04/2019,Hombre,45-59,Sevilla,Tienda,Si
+C02267,28/06/2021,Hombre,30-44,Almeria,Tienda,No
+C02268,27/09/2023,Hombre,60+,Madrid,App,Si
+C02269,04/04/2023,No indica,18-29,Murcia,Tienda,Si
+C02270,19/12/2019,Mujer,60+,Malaga,Tienda,Si
+C02271,07/11/2025,Hombre,18-29,Granada,Web,Si
+C02272,23/02/2025,Mujer,30-44,Madrid,Web,No
+C02273,15/07/2023,Mujer,,Malaga,App,Si
+C02274,21/04/2026,Mujer,45-59,Murcia,Tienda,Si
+C02275,03/03/2019,Hombre,60+,Granada,Tienda,Si
+C02276,14/06/2026,Mujer,,Madrid,Tienda,No
+C02277,28/05/2025,No indica,60+,Castellon,Tienda,Si
+C02278,17/07/2026,Mujer,,Toledo,Web,No
+C02279,18/03/2021,No indica,,Alicante,App,Si
+C02280,27/07/2020,Hombre,45-59,Toledo,Tienda,No
+C02281,16/10/2021,Mujer,45-59,Malaga,Tienda,Si
+C02282,24/06/2019,Mujer,45-59,Toledo,Tienda,Si
+C02283,02/09/2024,Hombre,30-44,Granada,App,No
+C02284,28/07/2019,Hombre,60+,Granada,Tienda,Si
+C02285,13/08/2024,Hombre,60+,Valencia,Tienda,Si
+C02286,19/08/2023,Mujer,45-59,Malaga,Tienda,No
+C02287,08/12/2023,Hombre,45-59,Granada,Tienda,No
+C02288,22/07/2024,No indica,18-29,Murcia,Tienda,Si
+C02289,22/05/2025,Mujer,30-44,Valencia,Tienda,No
+C02290,15/03/2022,Hombre,18-29,Alicante,Web,Si
+C02291,07/02/2023,Mujer,45-59,Madrid,Tienda,Si
+C02292,10/09/2025,Hombre,30-44,Castellon,Tienda,No
+C02293,14/10/2025,Mujer,18-29,Murcia,Tienda,No
+C02294,17/09/2024,No indica,30-44,Madrid,Tienda,Si
+C02295,12/05/2024,Hombre,30-44,Murcia,Tienda,No
+C02296,19/02/2025,Mujer,18-29,Alicante,Tienda,Si
+C02297,23/02/2024,No indica,30-44,Alicante,Tienda,No
+C02298,03/01/2020,Hombre,60+,Valencia,App,No
+C02299,15/02/2021,Mujer,30-44,Sevilla,Tienda,No
+C02300,17/10/2019,Mujer,60+,Alicante,Web,No
+C02301,10/03/2023,Mujer,45-59,Alicante,App,Si
+C02302,25/03/2022,Mujer,30-44,Murcia,Tienda,No
+C02303,08/02/2026,Mujer,18-29,Granada,Tienda,Si
+C02304,13/12/2025,Mujer,60+,Madrid,Tienda,Si
+C02305,20/04/2024,Mujer,60+,Alicante,Web,Si
+C02306,08/05/2023,Mujer,30-44,Toledo,Tienda,No
+C02307,25/09/2025,Mujer,18-29,Murcia,Tienda,Si
+C02308,17/10/2019,Hombre,18-29,Madrid,Tienda,Si
+C02309,22/12/2022,Mujer,30-44,Sevilla,Tienda,Si
+C02310,13/04/2024,Mujer,30-44,Madrid,App,Si
+C02311,30/01/2024,Hombre,30-44,Malaga,App,Si
+C02312,15/02/2024,Hombre,30-44,Valencia,Web,Si
+C02313,17/05/2021,Hombre,30-44,Sevilla,Web,No
+C02314,28/04/2021,Mujer,18-29,Madrid,Tienda,Si
+C02315,14/02/2025,Hombre,30-44,Murcia,App,No
+C02316,14/02/2020,Mujer,,Madrid,Tienda,Si
+C02317,01/02/2024,Hombre,45-59,Sevilla,Web,No
+C02318,23/12/2025,Hombre,30-44,Granada,App,Si
+C02319,07/07/2021,No indica,45-59,Madrid,Tienda,Si
+C02320,13/02/2025,Mujer,30-44,Alicante,Tienda,Si
+C02321,07/05/2023,Mujer,60+,Granada,Tienda,Si
+C02322,28/01/2021,Hombre,60+,Madrid,App,No
+C02323,29/01/2023,Hombre,45-59,Toledo,Tienda,Si
+C02324,07/12/2025,No indica,30-44,Granada,App,Si
+C02325,15/04/2022,Hombre,30-44,Madrid,Tienda,Si
+C02326,17/06/2023,Mujer,45-59,Toledo,App,No
+C02327,12/09/2026,No indica,30-44,Malaga,Tienda,Si
+C02328,05/06/2022,No indica,18-29,Granada,App,No
+C02329,27/03/2026,Mujer,,Sevilla,Tienda,No
+C02330,14/09/2024,Mujer,30-44,Murcia,Tienda,Si
+C02331,06/12/2024,Mujer,45-59,Madrid,App,Si
+C02332,10/04/2025,Hombre,45-59,Murcia,Tienda,Si
+C02333,16/07/2026,No indica,45-59,Murcia,Tienda,Si
+C02334,04/02/2025,No indica,30-44,Madrid,Tienda,No
+C02335,03/05/2025,Mujer,30-44,Alicante,Tienda,Si
+C02336,24/02/2023,Mujer,60+,Alicante,Web,No
+C02337,21/10/2024,Mujer,18-29,Castellon,Tienda,Si
+C02338,30/03/2021,No indica,45-59,Madrid,Web,No
+C02339,22/12/2024,Mujer,60+,Alicante,Tienda,Si
+C02340,24/01/2024,Mujer,18-29,Toledo,Tienda,No
+C02341,26/11/2022,Hombre,,Castellon,Tienda,Si
+C02342,05/09/2019,Hombre,30-44,Malaga,Tienda,Si
+C02343,23/05/2022,Mujer,18-29,Sevilla,Tienda,Si
+C02344,12/05/2022,Hombre,30-44,Malaga,Tienda,No
+C02345,29/08/2022,Mujer,45-59,Malaga,Tienda,Si
+C02346,14/03/2023,Mujer,30-44,Madrid,Tienda,Si
+C02347,07/12/2025,Mujer,30-44,Almeria,Tienda,Si
+C02348,22/11/2025,Mujer,30-44,Murcia,Tienda,Si
+C02349,10/09/2019,Mujer,30-44,Murcia,Tienda,No
+C02350,18/09/2024,Hombre,45-59,Alicante,Tienda,Si
+C02351,03/03/2024,Mujer,45-59,Alicante,Tienda,No
+C02352,06/02/2026,Mujer,30-44,Murcia,Tienda,No
+C02353,25/03/2024,Hombre,18-29,Valencia,Tienda,Si
+C02354,19/08/2021,Hombre,30-44,Madrid,Tienda,Si
+C02355,16/06/2023,Mujer,30-44,Sevilla,Web,Si
+C02356,07/04/2026,Hombre,,Alicante,Tienda,Si
+C02357,22/06/2019,Hombre,30-44,Murcia,App,No
+C02358,07/10/2020,Hombre,45-59,Madrid,Tienda,Si
+C02359,22/07/2021,Hombre,30-44,Madrid,Tienda,No
+C02360,29/01/2023,Hombre,,Sevilla,Tienda,Si
+C02361,03/01/2021,Hombre,30-44,Madrid,Tienda,Si
+C02362,27/04/2019,Hombre,30-44,Valencia,Tienda,Si
+C02363,10/01/2020,Mujer,18-29,Toledo,Tienda,Si
+C02364,29/06/2025,Mujer,45-59,Madrid,Tienda,Si
+C02365,31/10/2024,Mujer,45-59,Madrid,Web,No
+C02366,07/12/2021,No indica,30-44,Valencia,Tienda,Si
+C02367,08/03/2021,Hombre,30-44,Murcia,Tienda,No
+C02368,03/12/2024,Mujer,30-44,Alicante,Tienda,No
+C02369,01/11/2025,Hombre,45-59,Cadiz,Tienda,Si
+C02370,01/02/2026,Mujer,30-44,Malaga,App,No
+C02371,10/01/2021,Mujer,30-44,Alicante,Web,Si
+C02372,18/07/2024,Mujer,60+,Malaga,Tienda,No
+C02373,28/11/2024,No indica,18-29,Alicante,Web,No
+C02374,06/12/2019,Hombre,30-44,Cadiz,Tienda,Si
+C02375,17/04/2025,Hombre,18-29,Sevilla,Tienda,Si
+C02376,14/05/2025,Hombre,60+,Sevilla,Tienda,Si
+C02377,14/08/2024,No indica,18-29,Castellon,Tienda,Si
+C02378,11/02/2026,No indica,45-59,Valencia,App,No
+C02379,18/09/2025,Mujer,,Madrid,Tienda,Si
+C02380,20/10/2025,Mujer,30-44,Toledo,App,Si
+C02381,04/02/2026,Hombre,18-29,Granada,Tienda,No
+C02382,21/06/2022,Hombre,45-59,Toledo,Tienda,Si
+C02383,26/06/2026,Hombre,18-29,Toledo,Tienda,No
+C02384,04/12/2024,No indica,18-29,Murcia,Web,Si
+C02385,24/07/2019,Mujer,18-29,Castellon,Tienda,Si
+C02386,24/06/2023,Mujer,30-44,Sevilla,Tienda,No
+C02387,05/10/2019,No indica,30-44,Toledo,Tienda,Si
+C02388,19/08/2021,Hombre,60+,Madrid,Tienda,No
+C02389,27/04/2025,Mujer,60+,Castellon,Tienda,No
+C02390,25/06/2022,No indica,30-44,Alicante,App,No
+C02391,04/07/2024,Hombre,60+,Madrid,Tienda,Si
+C02392,03/05/2025,Hombre,45-59,Murcia,Tienda,No
+C02393,01/03/2022,Hombre,60+,Madrid,Tienda,Si
+C02394,26/09/2021,No indica,30-44,Madrid,Tienda,No
+C02395,15/05/2025,Hombre,45-59,Murcia,Web,No
+C02396,20/04/2026,No indica,60+,Alicante,Tienda,No
+C02397,28/07/2025,Mujer,45-59,Valencia,Tienda,Si
+C02398,17/12/2021,No indica,18-29,Madrid,Tienda,Si
+C02399,17/07/2024,Mujer,18-29,Sevilla,Web,Si
+C02400,23/06/2024,Mujer,18-29,Sevilla,Tienda,No
+C02401,30/08/2024,Mujer,45-59,Valencia,Tienda,Si
+C02402,04/12/2025,Mujer,45-59,Madrid,Tienda,Si
+C02403,27/01/2026,Mujer,30-44,Toledo,Tienda,Si
+C02404,19/02/2025,Mujer,30-44,Alicante,Tienda,No
+C02405,24/10/2022,Hombre,60+,Alicante,Web,Si
+C02406,07/11/2020,Mujer,45-59,Toledo,Tienda,No
+C02407,10/04/2024,Hombre,30-44,Murcia,Tienda,No
+C02408,30/11/2019,Mujer,45-59,Madrid,Tienda,Si
+C02409,26/02/2025,Mujer,45-59,Granada,Tienda,Si
+C02410,17/08/2024,Mujer,45-59,Sevilla,Web,No
+C02411,03/11/2021,Hombre,30-44,Murcia,Tienda,Si
+C02412,21/08/2020,Mujer,30-44,Toledo,Tienda,No
+C02413,06/06/2025,Hombre,45-59,Cadiz,Tienda,Si
+C02413,06/06/2025,Hombre,45-59,Cadiz,Tienda,Si
+C02414,17/03/2020,Mujer,45-59,Alicante,Tienda,Si
+C02415,28/09/2022,Mujer,,Sevilla,Tienda,No
+C02416,11/12/2023,No indica,30-44,Madrid,Tienda,Si
+C02417,30/09/2022,Hombre,18-29,Toledo,Tienda,Si
+C02418,24/02/2022,Mujer,45-59,Valencia,App,No
+C02419,10/05/2021,Hombre,30-44,Murcia,Tienda,Si
+C02420,22/09/2025,Mujer,60+,Murcia,Tienda,No
+C02421,05/05/2025,Mujer,60+,Madrid,Tienda,Si
+C02422,23/06/2026,Hombre,45-59,Cadiz,Web,Si
+C02423,22/02/2023,Mujer,30-44,Sevilla,App,Si
+C02424,28/08/2021,Hombre,45-59,Sevilla,App,Si
+C02425,28/12/2022,Mujer,,Madrid,Tienda,Si
+C02426,07/12/2022,Hombre,30-44,Alicante,Tienda,Si
+C02427,09/08/2024,Mujer,,Madrid,App,Si
+C02428,23/07/2019,Mujer,30-44,Madrid,Tienda,No
+C02429,10/04/2023,Hombre,45-59,Granada,Tienda,Si
+C02430,21/05/2024,Hombre,60+,Sevilla,Tienda,No
+C02431,10/08/2022,Mujer,,Granada,App,Si
+C02432,09/08/2019,Mujer,30-44,Madrid,Tienda,Si
+C02433,09/05/2024,Mujer,45-59,Cadiz,Tienda,Si
+C02434,12/06/2025,Hombre,60+,Alicante,Tienda,Si
+C02435,11/01/2022,Mujer,45-59,Sevilla,Tienda,Si
+C02436,27/09/2021,Hombre,45-59,Sevilla,Tienda,No
+C02437,05/06/2021,Hombre,18-29,Toledo,Tienda,Si
+C02438,17/04/2019,No indica,30-44,Madrid,Tienda,No
+C02439,10/08/2021,Hombre,,Murcia,Tienda,Si
+C02440,11/04/2026,No indica,18-29,Madrid,Tienda,No
+C02441,20/05/2019,Mujer,30-44,Madrid,App,Si
+C02442,30/09/2021,Mujer,,Sevilla,Tienda,No
+C02443,06/07/2025,Mujer,45-59,Valencia,Tienda,Si
+C02444,31/01/2023,Mujer,30-44,Madrid,Tienda,No
+C02445,21/03/2025,Mujer,18-29,Malaga,App,Si
+C02446,17/12/2019,Mujer,30-44,Madrid,Tienda,Si
+C02447,27/01/2025,Mujer,18-29,Valencia,Tienda,Si
+C02448,04/05/2026,Mujer,18-29,Granada,App,No
+C02449,16/09/2026,Hombre,60+,Madrid,App,Si
+C02450,06/08/2025,Mujer,18-29,Valencia,Tienda,Si
+C02451,31/07/2019,Mujer,60+,Madrid,Tienda,No
+C02452,16/09/2026,Mujer,60+,Castellon,Tienda,Si
+C02453,04/05/2026,Hombre,18-29,Madrid,Web,Si
+C02454,21/06/2022,No indica,45-59,Murcia,Web,No
+C02455,22/10/2025,Mujer,30-44,Madrid,App,No
+C02456,16/06/2020,Mujer,30-44,Madrid,Tienda,Si
+C02457,04/02/2021,No indica,45-59,Granada,Tienda,Si
+C02458,15/05/2019,Hombre,45-59,Murcia,Tienda,Si
+C02459,02/06/2019,Hombre,45-59,Malaga,Tienda,Si
+C02460,08/01/2026,Hombre,18-29,Sevilla,Tienda,No
+C02461,07/02/2024,Mujer,18-29,Sevilla,Tienda,No
+C02462,25/10/2025,Hombre,30-44,Murcia,Web,Si
+C02463,19/08/2025,No indica,18-29,Murcia,Tienda,No
+C02464,15/06/2024,Mujer,60+,Alicante,Tienda,No
+C02465,19/06/2026,Mujer,30-44,Malaga,App,No
+C02466,15/10/2022,No indica,60+,Malaga,Tienda,No
+C02467,29/10/2023,Mujer,18-29,Madrid,Tienda,Si
+C02468,07/11/2019,Mujer,30-44,Sevilla,Tienda,Si
+C02469,21/06/2021,Hombre,18-29,Valencia,App,Si
+C02470,15/09/2026,Mujer,45-59,Madrid,Tienda,No
+C02471,14/03/2023,Mujer,,Murcia,Web,Si
+C02472,03/08/2020,Mujer,45-59,Madrid,Tienda,Si
+C02473,29/08/2020,Hombre,18-29,Toledo,Tienda,Si
+C02474,04/06/2019,No indica,18-29,Granada,Tienda,Si
+C02475,15/06/2023,Mujer,18-29,Madrid,App,Si
+C02476,12/04/2023,Mujer,18-29,Murcia,Tienda,Si
+C02477,22/07/2023,Hombre,45-59,Sevilla,Tienda,Si
+C02478,27/01/2019,Hombre,18-29,Alicante,Tienda,No
+C02479,29/03/2023,Mujer,45-59,Valencia,Tienda,Si
+C02480,02/06/2019,Mujer,,Madrid,App,Si
+C02481,30/08/2026,Mujer,,Alicante,Tienda,No
+C02482,11/11/2024,Mujer,30-44,Malaga,Web,Si
+C02483,15/02/2026,Mujer,30-44,Murcia,App,No
+C02484,18/01/2026,Mujer,45-59,Murcia,Tienda,Si
+C02485,11/07/2019,Mujer,30-44,Alicante,Tienda,Si
+C02486,16/11/2024,Mujer,18-29,Madrid,App,No
+C02487,13/09/2019,Mujer,,Madrid,Tienda,No
+C02488,28/09/2024,No indica,30-44,Malaga,Tienda,No
+C02489,10/04/2024,No indica,30-44,Murcia,Web,No
+C02490,17/10/2025,Mujer,60+,Madrid,Tienda,No
+C02491,28/01/2025,Hombre,60+,Madrid,App,Si
+C02492,14/07/2021,Mujer,30-44,Madrid,App,Si
+C02493,01/11/2023,Mujer,18-29,Madrid,Tienda,Si
+C02494,27/12/2021,Mujer,18-29,Castellon,App,Si
+C02495,19/09/2024,Mujer,,Alicante,App,Si
+C02496,25/11/2021,Mujer,45-59,Valencia,Tienda,No
+C02497,17/06/2025,Mujer,60+,Alicante,Tienda,Si
+C02498,18/04/2026,Mujer,18-29,Murcia,Tienda,No
+C02499,20/07/2024,Hombre,45-59,Granada,Tienda,Si
+C02500,28/03/2022,Mujer,18-29,Madrid,Web,Si
+C02501,12/06/2024,Mujer,45-59,Valencia,Tienda,Si
+C02502,26/05/2019,Mujer,45-59,Valencia,Tienda,No
+C02503,08/05/2024,Hombre,30-44,Murcia,Web,No
+C02504,27/11/2024,Hombre,45-59,Sevilla,Tienda,No
+C02505,06/12/2024,No indica,45-59,Toledo,Tienda,No
+C02506,31/08/2019,No indica,30-44,Alicante,Tienda,No
+C02507,21/11/2022,Mujer,18-29,Madrid,Tienda,No
+C02508,06/12/2025,Mujer,30-44,Toledo,Web,Si
+C02509,25/05/2022,Hombre,30-44,Cadiz,Tienda,Si
+C02510,11/01/2024,Hombre,,Alicante,Tienda,Si
+C02511,30/01/2024,Mujer,45-59,Madrid,Tienda,Si
+C02512,01/11/2023,Mujer,30-44,Madrid,Tienda,Si
+C02513,21/06/2025,Hombre,,Madrid,App,No
+C02514,08/07/2020,Hombre,18-29,Cadiz,App,Si
+C02515,10/01/2026,Hombre,18-29,Alicante,Tienda,Si
+C02516,17/08/2026,Hombre,60+,Madrid,Tienda,No
+C02517,25/02/2023,Mujer,30-44,Cadiz,Web,No
+C02518,18/05/2024,No indica,30-44,Granada,Web,Si
+C02519,18/07/2026,Mujer,45-59,Malaga,Tienda,No
+C02520,17/08/2026,Mujer,,Alicante,Web,Si
+C02521,10/03/2020,Mujer,45-59,Madrid,Tienda,Si
+C02522,11/01/2020,Mujer,60+,Madrid,Tienda,No
+C02523,19/08/2023,Hombre,45-59,Murcia,App,Si
+C02524,31/10/2020,No indica,18-29,Madrid,Tienda,Si
+C02525,04/11/2024,No indica,18-29,Malaga,Tienda,No
+C02526,16/03/2021,Mujer,45-59,Murcia,App,No
+C02527,28/02/2021,Hombre,18-29,Sevilla,Tienda,Si
+C02528,09/02/2024,Hombre,30-44,Valencia,Tienda,No
+C02529,04/06/2026,Mujer,30-44,Granada,App,Si
+C02530,10/06/2025,Hombre,18-29,Sevilla,Tienda,Si
+C02531,13/06/2021,Mujer,60+,Alicante,Tienda,Si
+C02532,12/06/2021,Mujer,45-59,Murcia,Web,Si
+C02533,10/04/2026,Mujer,30-44,Madrid,Tienda,Si
+C02534,10/12/2022,Mujer,45-59,Malaga,Tienda,Si
+C02535,12/05/2026,Mujer,45-59,Murcia,Web,Si
+C02536,29/09/2024,Hombre,18-29,Valencia,Web,Si
+C02537,03/10/2019,Mujer,30-44,Castellon,App,Si
+C02538,14/10/2024,Mujer,60+,Valencia,Tienda,No
+C02539,04/02/2022,Mujer,30-44,Alicante,App,Si
+C02540,15/08/2020,Mujer,30-44,Valencia,App,Si
+C02541,09/09/2025,Mujer,,Murcia,Tienda,No
+C02542,09/10/2019,No indica,18-29,Madrid,Tienda,Si
+C02543,12/04/2022,Hombre,45-59,Granada,Tienda,No
+C02544,08/05/2022,Mujer,45-59,Alicante,Tienda,Si
+C02545,20/08/2026,Hombre,30-44,Murcia,Tienda,No
+C02546,20/04/2024,Mujer,30-44,Valencia,Tienda,Si
+C02547,30/11/2024,No indica,45-59,Valencia,Tienda,No
+C02548,11/12/2023,Hombre,30-44,Madrid,Tienda,No
+C02549,09/04/2024,Hombre,45-59,Sevilla,Tienda,Si
+C02550,21/01/2023,Mujer,18-29,Granada,Tienda,Si
+C02551,30/08/2026,Mujer,45-59,Valencia,Tienda,Si
+C02552,15/07/2020,Mujer,18-29,Alicante,Tienda,Si
+C02553,14/10/2024,Mujer,45-59,Malaga,Tienda,No
+C02554,02/08/2026,Hombre,30-44,Sevilla,Tienda,Si
+C02555,03/03/2021,Hombre,45-59,Malaga,Tienda,No
+C02556,25/01/2024,No indica,60+,Madrid,App,Si
+C02557,26/09/2020,Mujer,30-44,Cadiz,App,Si
+C02558,28/02/2025,Mujer,60+,Valencia,Tienda,No
+C02559,25/11/2019,No indica,45-59,Sevilla,App,Si
+C02560,23/10/2025,No indica,60+,Valencia,Tienda,Si
+C02561,09/02/2026,Mujer,45-59,Alicante,App,No
+C02562,21/11/2021,Mujer,30-44,Malaga,Tienda,Si
+C02563,26/05/2025,No indica,60+,Murcia,Web,Si
+C02564,10/07/2024,Hombre,30-44,Madrid,Tienda,Si
+C02565,06/06/2026,Hombre,30-44,Sevilla,Tienda,Si
+C02566,24/05/2024,Mujer,30-44,Castellon,Web,Si
+C02567,06/08/2026,Hombre,30-44,Alicante,Tienda,Si
+C02568,14/09/2025,Hombre,30-44,Malaga,Tienda,No
+C02569,08/03/2021,Hombre,60+,Cadiz,Web,No
+C02570,17/01/2024,Mujer,60+,Castellon,Tienda,Si
+C02571,25/11/2022,No indica,18-29,Madrid,Tienda,No
+C02572,16/06/2024,Mujer,18-29,Alicante,App,Si
+C02573,10/08/2026,No indica,60+,Alicante,Tienda,No
+C02574,22/05/2019,Hombre,30-44,Malaga,Tienda,Si
+C02575,22/12/2019,Mujer,,Murcia,App,Si
+C02576,12/09/2024,Mujer,18-29,Malaga,Tienda,No
+C02577,04/11/2019,Mujer,30-44,Alicante,Tienda,No
+C02578,31/03/2025,Hombre,30-44,Alicante,Tienda,Si
+C02579,15/11/2020,Hombre,18-29,Granada,Tienda,Si
+C02580,04/03/2026,Mujer,45-59,Castellon,App,Si
+C02581,06/06/2026,No indica,18-29,Madrid,Tienda,Si
+C02582,08/03/2023,Hombre,45-59,Madrid,Tienda,Si
+C02583,17/02/2026,No indica,,Alicante,App,Si
+C02584,03/04/2025,Mujer,18-29,Sevilla,Tienda,No
+C02585,07/04/2024,Mujer,18-29,Granada,App,Si
+C02586,13/01/2020,Hombre,60+,Granada,Web,Si
+C02587,29/11/2022,Mujer,45-59,Granada,Tienda,No
+C02588,31/03/2021,No indica,45-59,Valencia,Tienda,No
+C02589,03/07/2025,Mujer,30-44,Castellon,App,Si
+C02590,19/02/2026,Mujer,18-29,Alicante,Tienda,Si
+C02591,31/05/2023,Mujer,30-44,Malaga,Tienda,No
+C02592,02/08/2019,Mujer,45-59,Madrid,Web,Si
+C02593,11/06/2019,Mujer,30-44,Madrid,Tienda,No
+C02594,21/12/2022,Hombre,60+,Alicante,App,No
+C02595,15/07/2020,Mujer,30-44,Murcia,Tienda,Si
+C02596,10/07/2019,Mujer,60+,Malaga,Tienda,No
+C02597,31/07/2024,Mujer,45-59,Madrid,Tienda,No
+C02598,28/04/2019,Hombre,60+,Sevilla,Tienda,No
+C02599,18/07/2019,Hombre,60+,Castellon,Tienda,No
+C02600,03/06/2022,Hombre,45-59,Valencia,Tienda,Si
+C02601,23/01/2025,Mujer,18-29,Sevilla,Tienda,No
+C02602,18/07/2026,No indica,60+,Madrid,Tienda,No
+C02603,24/05/2019,Hombre,60+,Madrid,Tienda,No
+C02604,17/10/2020,Hombre,45-59,Madrid,Tienda,Si
+C02605,16/04/2022,Hombre,18-29,Madrid,Tienda,Si
+C02606,15/01/2025,Hombre,45-59,Cadiz,App,No
+C02607,30/12/2023,Hombre,45-59,Almeria,Tienda,Si
+C02608,12/06/2026,Mujer,60+,Alicante,Tienda,No
+C02609,22/08/2021,Mujer,45-59,Malaga,Web,Si
+C02610,09/09/2026,Mujer,18-29,Alicante,Tienda,Si
+C02611,17/09/2021,Mujer,30-44,Cadiz,Tienda,Si
+C02612,19/07/2023,Mujer,30-44,Toledo,App,Si
+C02613,16/10/2024,Mujer,60+,Alicante,Tienda,Si
+C02614,17/02/2026,Hombre,60+,Sevilla,Tienda,No
+C02615,15/07/2026,Mujer,18-29,Toledo,App,Si
+C02616,10/07/2020,Mujer,60+,Murcia,Tienda,Si
+C02617,12/11/2025,Mujer,45-59,Murcia,Web,Si
+C02618,27/04/2020,Mujer,30-44,Murcia,Tienda,Si
+C02619,11/09/2021,Mujer,45-59,Granada,App,Si
+C02620,08/12/2021,Mujer,18-29,Madrid,Tienda,Si
+C02621,18/01/2024,Mujer,30-44,Madrid,Tienda,Si
+C02622,15/03/2025,No indica,,Alicante,App,Si
+C02623,23/06/2022,Mujer,,Madrid,Web,Si
+C02624,21/09/2025,Mujer,30-44,Madrid,Tienda,No
+C02625,28/09/2025,Hombre,45-59,Granada,Tienda,Si
+C02626,13/05/2025,No indica,18-29,Madrid,Tienda,Si
+C02627,13/12/2023,Hombre,18-29,Madrid,Web,Si
+C02628,14/08/2026,Mujer,30-44,Valencia,Tienda,No
+C02629,09/11/2019,Hombre,45-59,Madrid,Tienda,No
+C02630,02/10/2025,Hombre,30-44,Sevilla,Tienda,Si
+C02631,16/06/2023,Hombre,60+,Toledo,App,No
+C02632,01/06/2026,No indica,45-59,Sevilla,Tienda,Si
+C02633,24/07/2021,Hombre,60+,Madrid,App,No
+C02634,21/09/2021,Mujer,30-44,Madrid,Web,No
+C02635,22/06/2020,Hombre,30-44,Sevilla,Tienda,No
+C02636,18/09/2024,Hombre,45-59,Madrid,App,Si
+C02637,02/05/2022,Mujer,45-59,Malaga,Tienda,No
+C02638,02/10/2022,Hombre,60+,Malaga,Tienda,No
+C02639,06/03/2022,Hombre,30-44,Madrid,Tienda,No
+C02640,20/09/2021,No indica,30-44,Cadiz,Tienda,No
+C02641,03/02/2023,Mujer,30-44,Malaga,Web,No
+C02642,30/08/2024,Hombre,45-59,Madrid,Tienda,No
+C02643,27/12/2019,Mujer,18-29,Alicante,Tienda,No
+C02644,27/12/2024,Hombre,30-44,Alicante,Tienda,Si
+C02645,12/02/2022,No indica,60+,Granada,Tienda,Si
+C02646,24/12/2019,Mujer,45-59,Madrid,Tienda,No
+C02647,02/06/2025,Mujer,30-44,Granada,Tienda,Si
+C02648,01/02/2023,No indica,18-29,Alicante,App,Si
+C02649,07/04/2026,Hombre,,Malaga,Tienda,No
+C02650,01/09/2026,Mujer,30-44,Madrid,App,Si
+C02651,08/09/2025,Mujer,30-44,Valencia,Tienda,Si
+C02652,12/04/2026,Mujer,30-44,Madrid,Tienda,Si
+C02653,16/08/2024,Hombre,30-44,Granada,Tienda,Si
+C02654,02/03/2020,Hombre,30-44,Alicante,Web,Si
+C02655,13/12/2024,Hombre,18-29,Toledo,Tienda,No
+C02656,18/07/2025,Mujer,18-29,Malaga,Tienda,No
+C02657,05/05/2020,Mujer,30-44,Valencia,App,Si
+C02658,09/04/2020,Mujer,45-59,Cadiz,Tienda,No
+C02659,09/08/2025,Mujer,60+,Malaga,App,Si
+C02660,30/10/2020,Hombre,30-44,Alicante,App,Si
+C02661,03/09/2021,Hombre,45-59,Valencia,Tienda,Si
+C02662,20/09/2023,Mujer,30-44,Murcia,Tienda,Si
+C02663,14/06/2025,Hombre,45-59,Madrid,Tienda,Si
+C02664,10/05/2019,Hombre,,Madrid,Tienda,Si
+C02665,25/08/2023,Mujer,18-29,Madrid,Tienda,Si
+C02666,31/10/2019,Mujer,45-59,Madrid,Tienda,Si
+C02667,17/04/2023,No indica,45-59,Murcia,App,Si
+C02668,19/11/2021,Mujer,18-29,Alicante,Tienda,Si
+C02669,18/03/2020,Hombre,60+,Alicante,Tienda,No
+C02670,07/08/2020,Hombre,45-59,Cadiz,Tienda,No
+C02671,14/01/2025,Hombre,18-29,Murcia,App,Si
+C02672,25/06/2025,No indica,45-59,Alicante,Tienda,Si
+C02673,20/02/2024,Hombre,45-59,Alicante,App,Si
+C02674,29/07/2025,Mujer,18-29,Alicante,Web,No
+C02675,14/10/2024,Mujer,60+,Alicante,Tienda,No
+C02676,29/10/2020,Mujer,18-29,Toledo,Web,Si
+C02677,11/08/2023,Mujer,18-29,Sevilla,Tienda,Si
+C02678,23/09/2025,No indica,60+,Toledo,Tienda,No
+C02679,22/01/2023,Mujer,60+,Sevilla,Tienda,No
+C02680,11/06/2019,No indica,30-44,Madrid,Tienda,Si
+C02681,31/08/2020,Mujer,45-59,Madrid,Tienda,Si
+C02682,22/07/2026,Hombre,18-29,Malaga,App,Si
+C02683,26/08/2024,Mujer,30-44,Sevilla,Tienda,Si
+C02684,09/02/2021,Mujer,45-59,Malaga,Tienda,Si
+C02685,15/08/2021,Mujer,18-29,Madrid,Tienda,Si
+C02686,08/04/2024,Hombre,60+,Valencia,Tienda,Si
+C02687,26/04/2020,Hombre,60+,Malaga,Tienda,Si
+C02688,31/10/2020,Mujer,45-59,Madrid,Tienda,No
+C02689,31/03/2022,Hombre,18-29,Madrid,App,No
+C02690,14/11/2021,Mujer,18-29,Sevilla,App,No
+C02691,02/11/2020,Hombre,18-29,Granada,Tienda,Si
+C02692,18/02/2019,Mujer,30-44,Madrid,App,No
+C02693,08/01/2023,Hombre,30-44,Murcia,Tienda,Si
+C02694,12/01/2026,Hombre,30-44,Murcia,Tienda,No
+C02695,12/07/2026,Hombre,30-44,Valencia,Web,Si
+C02696,01/07/2019,Hombre,45-59,Murcia,Tienda,Si
+C02697,20/02/2025,Hombre,18-29,Malaga,Tienda,Si
+C02698,13/03/2025,Mujer,45-59,Murcia,Tienda,No
+C02699,05/05/2025,No indica,45-59,Murcia,Web,Si
+C02700,12/02/2023,Mujer,,Cadiz,Tienda,No
+C02701,29/04/2022,No indica,45-59,Sevilla,Tienda,No
+C02702,20/03/2019,Hombre,45-59,Castellon,Tienda,Si
+C02703,27/09/2025,Hombre,30-44,Madrid,Tienda,Si
+C02704,24/02/2023,Mujer,30-44,Alicante,Tienda,No
+C02705,09/04/2021,No indica,30-44,Malaga,Tienda,No
+C02706,06/12/2025,Mujer,45-59,Alicante,Tienda,Si
+C02707,28/01/2025,Mujer,45-59,Madrid,Tienda,Si
+C02708,25/01/2024,Hombre,60+,Valencia,Tienda,No
+C02709,31/12/2022,No indica,18-29,Malaga,Tienda,No
+C02710,11/09/2024,Mujer,30-44,Murcia,Web,Si
+C02711,09/05/2024,No indica,30-44,Alicante,App,Si
+C02712,26/06/2019,Mujer,30-44,Madrid,App,Si
+C02713,09/01/2024,Mujer,60+,Cadiz,Tienda,Si
+C02714,01/02/2026,No indica,18-29,Madrid,Tienda,Si
+C02715,04/04/2025,Hombre,45-59,Madrid,Tienda,No
+C02716,16/05/2021,Mujer,,Granada,Web,Si
+C02717,19/11/2019,Mujer,30-44,Alicante,Web,No
+C02718,03/02/2022,Hombre,45-59,Cadiz,App,Si
+C02719,17/08/2023,Hombre,30-44,Alicante,Tienda,Si
+C02720,07/01/2022,Hombre,,Sevilla,Tienda,No
+C02721,23/08/2025,Mujer,45-59,Sevilla,App,Si
+C02722,04/04/2023,No indica,60+,Sevilla,Tienda,No
+C02723,28/06/2025,Mujer,45-59,Alicante,Tienda,Si
+C02724,01/02/2022,Mujer,60+,Granada,Tienda,No
+C02725,28/07/2019,Mujer,45-59,Madrid,Tienda,Si
+C02726,14/02/2021,No indica,60+,Madrid,Tienda,Si
+C02727,12/05/2025,Hombre,18-29,Malaga,Tienda,No
+C02728,05/11/2024,Hombre,60+,Toledo,Tienda,No
+C02729,01/12/2023,Mujer,45-59,Sevilla,App,Si
+C02730,14/06/2021,Mujer,45-59,Sevilla,Tienda,Si
+C02731,04/10/2019,No indica,18-29,Madrid,Tienda,Si
+C02732,22/12/2022,Hombre,45-59,Malaga,Tienda,Si
+C02733,19/04/2023,Hombre,45-59,Madrid,Tienda,No
+C02734,27/06/2022,Mujer,60+,Sevilla,Tienda,No
+C02735,24/01/2025,Mujer,18-29,Cadiz,Tienda,Si
+C02736,22/07/2022,Hombre,30-44,Madrid,Tienda,No
+C02737,04/05/2020,Hombre,30-44,Valencia,App,Si
+C02738,08/04/2022,Mujer,30-44,Toledo,Web,Si
+C02739,09/07/2020,Mujer,18-29,Sevilla,Tienda,Si
+C02740,26/11/2024,No indica,45-59,Castellon,Tienda,Si
+C02741,20/09/2020,No indica,45-59,Madrid,Tienda,Si
+C02742,06/02/2020,Mujer,30-44,Murcia,Tienda,Si
+C02743,02/10/2023,Mujer,30-44,Sevilla,Web,Si
+C02744,12/03/2025,Mujer,,Valencia,Web,Si
+C02745,20/11/2023,Hombre,45-59,Granada,Tienda,Si
+C02746,25/04/2019,No indica,45-59,Sevilla,Tienda,No
+C02747,12/02/2024,Hombre,30-44,Madrid,Web,No
+C02748,23/08/2025,Hombre,,Malaga,Tienda,Si
+C02749,19/08/2026,Mujer,45-59,Sevilla,App,No
+C02750,17/10/2025,Hombre,45-59,Granada,Tienda,Si
+C02751,29/02/2024,Hombre,60+,Malaga,Web,No
+C02752,15/09/2022,Mujer,30-44,Valencia,Tienda,No
+C02753,13/12/2019,No indica,,Murcia,Web,Si
+C02754,11/08/2019,Mujer,30-44,Alicante,Tienda,Si
+C02755,29/05/2020,No indica,18-29,Toledo,App,Si
+C02756,15/12/2024,Mujer,30-44,Sevilla,App,Si
+C02757,10/01/2024,Hombre,45-59,Murcia,Web,Si
+C02758,08/03/2025,Hombre,30-44,Murcia,Tienda,No
+C02759,22/07/2020,Mujer,45-59,Valencia,Tienda,No
+C02760,28/12/2021,Hombre,45-59,Madrid,Tienda,No
+C02761,26/06/2023,Hombre,18-29,Sevilla,Tienda,Si
+C02762,30/01/2021,Mujer,30-44,Madrid,Tienda,Si
+C02763,01/05/2026,No indica,45-59,Cadiz,Tienda,Si
+C02764,26/09/2024,Mujer,,Valencia,Tienda,No
+C02765,29/04/2023,Hombre,18-29,Sevilla,Tienda,No
+C02766,10/01/2024,Mujer,45-59,Madrid,Tienda,Si
+C02767,30/06/2022,Mujer,18-29,Toledo,App,No
+C02768,06/02/2022,Mujer,18-29,Alicante,Tienda,Si
+C02769,07/03/2026,Hombre,18-29,Madrid,Tienda,No
+C02770,13/11/2025,No indica,45-59,Madrid,Tienda,Si
+C02771,05/12/2023,Mujer,60+,Granada,Tienda,No
+C02772,15/02/2025,No indica,45-59,Madrid,Tienda,Si
+C02773,06/01/2019,No indica,,Valencia,App,Si
+C02774,31/07/2021,No indica,45-59,Madrid,Tienda,No
+C02775,12/02/2024,Hombre,45-59,Madrid,Tienda,No
+C02776,30/01/2024,Hombre,18-29,Alicante,App,No
+C02777,17/08/2021,Mujer,45-59,Madrid,Tienda,Si
+C02778,22/07/2022,Mujer,45-59,Valencia,Tienda,Si
+C02779,27/02/2025,Hombre,45-59,Toledo,Tienda,No
+C02780,04/06/2020,Mujer,45-59,Madrid,Web,Si
+C02781,04/11/2022,No indica,45-59,Toledo,App,Si
+C02782,21/02/2022,Mujer,60+,Alicante,Tienda,No
+C02783,14/08/2022,Hombre,45-59,Valencia,App,No
+C02784,24/01/2022,Mujer,30-44,Sevilla,Tienda,No
+C02785,08/04/2020,Hombre,,Sevilla,Tienda,Si
+C02786,17/07/2021,Hombre,30-44,Granada,Tienda,Si
+C02787,18/06/2019,Mujer,18-29,Sevilla,App,Si
+C02788,19/12/2022,Mujer,45-59,Madrid,Tienda,Si
+C02789,13/01/2023,Hombre,60+,Murcia,App,Si
+C02790,01/11/2025,Hombre,30-44,Sevilla,App,Si
+C02791,07/07/2020,Hombre,30-44,Malaga,Tienda,Si
+C02792,12/08/2024,No indica,45-59,Madrid,App,No
+C02793,01/05/2025,Hombre,45-59,Madrid,Tienda,Si
+C02794,23/09/2019,Mujer,30-44,Valencia,Tienda,No
+C02795,13/12/2024,Hombre,18-29,Granada,Tienda,Si
+C02796,31/12/2025,Mujer,45-59,Malaga,Tienda,Si
+C02797,19/04/2022,Mujer,,Granada,Tienda,No
+C02798,20/03/2024,Mujer,45-59,Alicante,Tienda,Si
+C02799,27/03/2021,No indica,45-59,Sevilla,App,Si
+C02800,07/06/2023,Mujer,60+,Almeria,Tienda,Si
+C02801,20/08/2025,Hombre,45-59,Madrid,Tienda,No
+C02802,15/09/2025,No indica,30-44,Alicante,Tienda,No
+C02803,06/04/2022,Mujer,18-29,Alicante,Tienda,Si
+C02804,19/05/2024,Hombre,30-44,Murcia,Web,Si
+C02805,28/07/2021,Hombre,45-59,Madrid,Tienda,Si
+C02806,25/10/2023,Mujer,,Toledo,Tienda,Si
+C02807,20/12/2024,Hombre,45-59,Madrid,App,Si
+C02808,26/09/2021,Mujer,18-29,Murcia,Web,Si
+C02809,24/08/2026,Mujer,,Sevilla,Tienda,Si
+C02810,21/12/2025,Mujer,30-44,Sevilla,Tienda,Si
+C02811,11/04/2025,Mujer,,Castellon,Tienda,Si
+C02812,21/10/2020,Hombre,45-59,Toledo,Tienda,Si
+C02813,28/05/2021,Hombre,45-59,Granada,Web,No
+C02814,15/07/2022,Mujer,30-44,Granada,Tienda,No
+C02815,17/06/2023,Hombre,18-29,Madrid,Tienda,No
+C02816,13/05/2024,Mujer,18-29,Valencia,Tienda,Si
+C02817,26/12/2024,No indica,30-44,Valencia,Web,Si
+C02818,05/10/2023,Mujer,60+,Valencia,Tienda,No
+C02819,20/03/2020,Mujer,30-44,Sevilla,Tienda,Si
+C02820,11/01/2026,Hombre,45-59,Murcia,Web,No
+C02821,27/03/2025,Mujer,45-59,Alicante,Tienda,No
+C02822,01/07/2022,Hombre,45-59,Murcia,Tienda,Si
+C02823,08/08/2025,Hombre,18-29,Murcia,Web,Si
+C02824,20/08/2024,Mujer,30-44,Murcia,App,Si
+C02825,02/01/2022,Hombre,45-59,Murcia,Tienda,No
+C02826,17/09/2023,Hombre,30-44,Murcia,Tienda,Si
+C02827,25/06/2022,Mujer,,Alicante,Tienda,Si
+C02828,30/04/2019,Mujer,18-29,Murcia,Tienda,Si
+C02829,07/11/2023,Hombre,45-59,Madrid,Tienda,Si
+C02830,22/05/2026,Mujer,45-59,Granada,Tienda,No
+C02831,14/05/2024,Hombre,45-59,Madrid,Tienda,Si
+C02832,09/08/2020,Mujer,45-59,Toledo,App,Si
+C02833,29/08/2023,Mujer,30-44,Cadiz,Tienda,Si
+C02834,23/03/2022,Mujer,,Toledo,App,Si
+C02835,14/02/2023,No indica,45-59,Madrid,App,No
+C02836,18/05/2026,Hombre,45-59,Granada,Tienda,Si
+C02837,19/07/2025,Mujer,45-59,Madrid,Tienda,Si
+C02838,31/10/2025,Mujer,45-59,Madrid,Tienda,No
+C02839,25/11/2019,Mujer,30-44,Sevilla,Tienda,Si
+C02840,18/05/2026,Mujer,,Malaga,Web,No
+C02841,06/04/2024,No indica,45-59,Sevilla,Tienda,No
+C02842,23/06/2023,No indica,30-44,Valencia,Web,No
+C02843,17/07/2025,Mujer,18-29,Granada,Web,Si
+C02844,24/12/2023,Hombre,45-59,Malaga,Tienda,Si
+C02845,08/06/2023,Mujer,30-44,Valencia,Tienda,No
+C02846,18/01/2025,Mujer,30-44,Cadiz,Tienda,No
+C02847,30/11/2022,No indica,45-59,Valencia,Tienda,Si
+C02848,25/02/2026,No indica,18-29,Malaga,Tienda,Si
+C02849,19/09/2023,No indica,60+,Toledo,Web,No
+C02850,15/04/2021,No indica,30-44,Toledo,Web,Si
+C02851,14/04/2022,Hombre,45-59,Madrid,Tienda,Si
+C02852,01/02/2020,Hombre,18-29,Madrid,Tienda,Si
+C02853,13/08/2026,Hombre,30-44,Malaga,App,Si
+C02854,04/05/2026,Hombre,60+,Murcia,Tienda,No
+C02855,16/02/2026,Hombre,,Madrid,Tienda,No
+C02856,04/02/2020,No indica,30-44,Madrid,App,No
+C02857,22/02/2019,No indica,30-44,Alicante,Tienda,Si
+C02858,17/05/2025,Hombre,30-44,Malaga,Tienda,No
+C02859,11/04/2022,Hombre,60+,Murcia,Tienda,Si
+C02860,02/08/2026,Mujer,30-44,Murcia,Tienda,Si
+C02861,07/01/2020,Mujer,30-44,Madrid,Web,Si
+C02862,30/06/2025,Mujer,60+,Toledo,Web,Si
+C02863,06/10/2025,Mujer,45-59,Alicante,Tienda,Si
+C02864,24/10/2024,Mujer,30-44,Madrid,Tienda,Si
+C02865,06/04/2025,Mujer,45-59,Toledo,Tienda,Si
+C02866,08/07/2024,No indica,60+,Cadiz,App,Si
+C02867,09/10/2021,Mujer,60+,Madrid,Tienda,Si
+C02868,23/11/2019,Mujer,30-44,Sevilla,Web,Si
+C02869,04/10/2024,Mujer,18-29,Castellon,Tienda,Si
+C02870,01/03/2026,Mujer,18-29,Toledo,Tienda,No
+C02871,31/01/2021,Hombre,30-44,Valencia,Tienda,Si
+C02872,22/11/2020,Mujer,18-29,Valencia,Tienda,No
+C02873,08/04/2024,No indica,30-44,Alicante,Tienda,Si
+C02874,09/06/2020,Mujer,30-44,Murcia,Tienda,No
+C02875,26/12/2022,Mujer,30-44,Madrid,Tienda,Si
+C02876,21/11/2025,Hombre,60+,Malaga,Tienda,No
+C02877,12/08/2022,Mujer,30-44,Valencia,Web,No
+C02878,19/08/2026,Hombre,18-29,Madrid,Tienda,Si
+C02879,28/10/2025,Mujer,18-29,Murcia,Web,Si
+C02880,11/09/2021,Hombre,45-59,Alicante,App,No
+C02881,23/03/2021,Hombre,60+,Granada,App,No
+C02882,21/12/2024,Mujer,30-44,Madrid,Tienda,Si
+C02883,31/05/2021,Hombre,45-59,Valencia,Tienda,Si
+C02884,28/03/2019,No indica,18-29,Granada,App,No
+C02885,10/01/2025,No indica,,Malaga,Tienda,No
+C02886,24/04/2021,Hombre,60+,Alicante,Web,Si
+C02887,23/04/2026,Hombre,60+,Murcia,Tienda,No
+C02888,05/11/2024,Mujer,60+,Madrid,Tienda,No
+C02889,11/11/2019,Mujer,,Malaga,Tienda,No
+C02890,16/08/2021,Mujer,45-59,Madrid,Tienda,No
+C02891,16/12/2025,Hombre,18-29,Madrid,Tienda,No
+C02892,16/10/2019,Mujer,45-59,Malaga,Web,No
+C02893,20/08/2026,Hombre,,Madrid,Tienda,Si
+C02894,30/05/2026,Mujer,45-59,Malaga,Tienda,Si
+C02895,05/10/2024,Hombre,60+,Sevilla,App,Si
+C02896,18/09/2020,No indica,18-29,Malaga,Tienda,No
+C02897,28/05/2019,Mujer,18-29,Malaga,Tienda,Si
+C02898,04/04/2021,Mujer,18-29,Malaga,Tienda,No
+C02899,24/06/2023,Mujer,45-59,Alicante,Tienda,Si
+C02900,13/11/2019,No indica,60+,Alicante,Tienda,Si
+C02901,27/07/2023,Hombre,45-59,Sevilla,Tienda,Si
+C02902,17/07/2024,Mujer,60+,Granada,Tienda,No
+C02903,28/05/2023,Mujer,45-59,Valencia,Tienda,Si
+C02904,27/06/2019,Mujer,18-29,Granada,Tienda,Si
+C02905,14/06/2019,Mujer,45-59,Sevilla,Web,Si
+C02906,03/02/2026,Mujer,30-44,Madrid,Tienda,Si
+C02907,19/03/2020,No indica,18-29,Murcia,Web,Si
+C02908,29/05/2025,Hombre,18-29,Madrid,Tienda,Si
+C02909,21/12/2024,Mujer,18-29,Cadiz,Tienda,No
+C02910,02/09/2023,Mujer,60+,Alicante,Tienda,Si
+C02911,25/01/2021,Mujer,30-44,Malaga,Tienda,No
+C02912,14/08/2025,Mujer,60+,Cadiz,Tienda,No
+C02913,10/05/2025,Hombre,,Alicante,Tienda,Si
+C02914,05/11/2023,Hombre,30-44,Malaga,Tienda,Si
+C02915,31/03/2024,Hombre,45-59,Granada,Tienda,No
+C02916,25/06/2024,Hombre,30-44,Murcia,Tienda,Si
+C02917,13/04/2020,No indica,18-29,Valencia,Tienda,No
+C02918,03/04/2021,Hombre,18-29,Madrid,Tienda,Si
+C02919,14/10/2025,Mujer,18-29,Malaga,Web,Si
+C02920,24/04/2019,Hombre,18-29,Murcia,Tienda,No
+C02921,08/09/2025,Mujer,18-29,Madrid,App,No
+C02922,13/12/2025,Mujer,18-29,Madrid,Web,Si
+C02923,21/03/2024,No indica,45-59,Valencia,Tienda,Si
+C02924,03/05/2025,Mujer,60+,Alicante,Web,Si
+C02925,24/03/2024,Mujer,,Valencia,Tienda,No
+C02926,20/09/2025,Mujer,60+,Toledo,Web,Si
+C02927,16/04/2025,Mujer,,Malaga,Tienda,No
+C02928,18/05/2026,Mujer,45-59,Toledo,App,Si
+C02929,10/09/2020,Hombre,60+,Madrid,Tienda,Si
+C02930,29/08/2022,Hombre,30-44,Alicante,Tienda,No
+C02931,29/09/2024,Hombre,45-59,Alicante,Tienda,Si
+C02932,30/08/2019,Mujer,45-59,Alicante,Tienda,Si
+C02933,03/02/2026,Hombre,30-44,Sevilla,Tienda,No
+C02934,29/11/2019,Mujer,30-44,Granada,App,Si
+C02935,16/06/2023,Mujer,18-29,Madrid,App,No
+C02936,21/10/2022,Mujer,18-29,Madrid,App,Si
+C02937,09/08/2025,Hombre,45-59,Granada,Tienda,No
+C02938,28/08/2021,Hombre,45-59,Madrid,Tienda,No
+C02939,15/11/2024,No indica,45-59,Alicante,Tienda,Si
+C02940,03/08/2019,Mujer,30-44,Malaga,Tienda,No
+C02941,22/03/2019,Hombre,,Toledo,Tienda,Si
+C02942,13/05/2024,No indica,45-59,Madrid,Tienda,Si
+C02943,26/03/2026,Mujer,45-59,Alicante,Tienda,Si
+C02944,07/09/2024,Mujer,60+,Granada,Tienda,Si
+C02945,25/12/2022,Mujer,30-44,Alicante,Web,No
+C02946,04/02/2022,Mujer,60+,Cadiz,Tienda,Si
+C02947,15/07/2021,Mujer,45-59,Alicante,Tienda,Si
+C02948,20/05/2021,Mujer,45-59,Valencia,App,Si
+C02949,12/04/2019,Mujer,30-44,Malaga,Tienda,Si
+C02950,14/11/2024,Hombre,18-29,Madrid,Web,No
+C02951,24/04/2021,Mujer,30-44,Alicante,App,No
+C02952,25/07/2024,Mujer,60+,Madrid,Tienda,No
+C02953,15/10/2023,Mujer,30-44,Castellon,Tienda,Si
+C02954,02/03/2025,Mujer,45-59,Madrid,Tienda,No
+C02955,28/11/2024,Mujer,30-44,Madrid,Tienda,No
+C02956,15/03/2023,Mujer,30-44,Sevilla,Tienda,No
+C02957,27/04/2023,Hombre,30-44,Valencia,Tienda,Si
+C02958,08/05/2024,No indica,45-59,Murcia,Tienda,Si
+C02959,09/09/2024,Mujer,18-29,Granada,App,Si
+C02960,20/08/2021,Hombre,18-29,Murcia,Tienda,Si
+C02961,13/08/2020,Hombre,60+,Murcia,Tienda,No
+C02962,28/11/2024,Mujer,45-59,Madrid,Tienda,Si
+C02963,07/09/2024,Hombre,45-59,Sevilla,Tienda,Si
+C02964,31/10/2025,No indica,60+,Toledo,Web,Si
+C02965,14/10/2023,Mujer,45-59,Madrid,Tienda,Si
+C02966,31/12/2025,Mujer,30-44,Cadiz,Tienda,No
+C02967,10/01/2025,Mujer,,Valencia,Web,No
+C02968,23/06/2024,Hombre,30-44,Madrid,Tienda,Si
+C02969,19/12/2024,Mujer,30-44,Valencia,Tienda,No
+C02970,02/01/2021,Mujer,30-44,Castellon,Tienda,No
+C02971,24/11/2020,Mujer,45-59,Murcia,Tienda,Si
+C02972,18/10/2024,Mujer,30-44,Valencia,Tienda,No
+C02973,21/11/2024,Mujer,45-59,Madrid,Web,Si
+C02974,31/07/2023,Mujer,30-44,Malaga,Tienda,Si
+C02975,29/04/2022,Mujer,60+,Madrid,Tienda,No
+C02976,16/01/2019,Hombre,30-44,Sevilla,Tienda,Si
+C02977,21/10/2023,No indica,60+,Murcia,Tienda,No
+C02978,06/05/2023,Hombre,60+,Malaga,Web,Si
+C02979,24/04/2023,No indica,45-59,Castellon,Tienda,No
+C02980,01/06/2020,Mujer,18-29,Alicante,App,No
+C02980,01/06/2020,Mujer,18-29,Alicante,App,No
+C02981,11/03/2025,Hombre,60+,Valencia,Tienda,Si
+C02982,11/05/2024,Mujer,30-44,Madrid,Tienda,No
+C02983,13/11/2025,Mujer,45-59,Toledo,Tienda,No
+C02984,03/12/2023,Hombre,18-29,Madrid,App,Si
+C02985,06/07/2024,Hombre,18-29,Madrid,Tienda,No
+C02986,06/06/2024,Mujer,30-44,Malaga,Web,No
+C02987,16/07/2024,Mujer,30-44,Sevilla,Tienda,Si
+C02988,07/04/2025,Mujer,30-44,Madrid,Tienda,No
+C02989,25/10/2025,Hombre,45-59,Granada,Tienda,No
+C02990,05/12/2023,Hombre,60+,Toledo,Tienda,No
+C02991,08/04/2023,Hombre,30-44,Valencia,Tienda,Si
+C02992,05/10/2022,Hombre,,Murcia,Tienda,Si
+C02993,20/09/2024,Mujer,18-29,Granada,App,No
+C02994,06/07/2026,Hombre,,Toledo,Tienda,Si
+C02995,06/03/2020,Mujer,,Madrid,Tienda,Si
+C02996,16/07/2026,Mujer,18-29,Malaga,Tienda,No
+C02997,14/06/2021,No indica,60+,Alicante,Tienda,No
+C02998,02/01/2023,Hombre,18-29,Sevilla,Web,No
+C02999,12/07/2022,Mujer,18-29,Murcia,Tienda,No
+C03000,05/07/2026,Mujer,30-44,Madrid,Tienda,No
+C03001,21/04/2023,Mujer,30-44,Madrid,Tienda,No
+C03002,09/01/2025,Mujer,18-29,Madrid,App,Si
+C03003,12/12/2021,Mujer,30-44,Alicante,App,Si
+C03004,29/10/2024,No indica,30-44,Murcia,Tienda,Si
+C03005,09/01/2023,Mujer,18-29,Alicante,Tienda,No
+C03006,28/03/2019,No indica,30-44,Cadiz,Tienda,Si
+C03007,26/02/2024,Hombre,60+,Madrid,Tienda,Si
+C03008,24/04/2024,Mujer,45-59,Toledo,App,No
+C03009,06/07/2020,No indica,45-59,Madrid,Web,No
+C03010,12/05/2023,Hombre,,Cadiz,Tienda,Si
+C03011,31/07/2024,Mujer,30-44,Alicante,Tienda,No
+C03012,09/02/2024,Hombre,60+,Malaga,Tienda,Si
+C03013,24/12/2025,Hombre,30-44,Alicante,Web,No
+C03014,24/10/2023,Mujer,45-59,Alicante,App,No
+C03015,30/07/2026,Mujer,30-44,Malaga,Tienda,Si
+C03016,08/11/2023,Hombre,45-59,Alicante,Tienda,Si
+C03017,25/09/2024,Mujer,30-44,Murcia,Tienda,Si
+C03018,08/06/2024,Hombre,30-44,Toledo,Tienda,Si
+C03019,17/02/2025,Mujer,30-44,Murcia,Web,Si
+C03020,23/10/2020,Hombre,18-29,Valencia,Tienda,Si
+C03021,20/05/2020,No indica,18-29,Murcia,Tienda,Si
+C03022,16/10/2019,Mujer,60+,Malaga,Tienda,No
+C03023,22/07/2025,Hombre,30-44,Cadiz,Tienda,No
+C03024,04/11/2019,Mujer,30-44,Sevilla,Tienda,Si
+C03025,19/11/2023,Mujer,30-44,Valencia,Tienda,No
+C03026,03/06/2024,Mujer,18-29,Sevilla,Tienda,No
+C03027,07/04/2019,Hombre,45-59,Alicante,Tienda,Si
+C03028,12/09/2022,No indica,30-44,Castellon,Tienda,No
+C03029,03/01/2024,Hombre,30-44,Granada,Tienda,Si
+C03030,15/05/2019,No indica,45-59,Malaga,Tienda,Si
+C03031,27/03/2026,Mujer,45-59,Cadiz,App,No
+C03032,07/08/2021,Hombre,30-44,Valencia,App,Si
+C03033,31/08/2023,Mujer,45-59,Toledo,Tienda,No
+C03034,06/02/2026,Mujer,60+,Valencia,Tienda,No
+C03035,30/12/2024,No indica,30-44,Malaga,Tienda,Si
+C03036,26/04/2019,Mujer,45-59,Madrid,Tienda,Si
+C03037,07/09/2026,Mujer,30-44,Valencia,Tienda,Si
+C03038,14/03/2020,Hombre,18-29,Madrid,Tienda,Si
+C03039,09/07/2024,Hombre,60+,Murcia,Web,No
+C03040,05/03/2025,Hombre,30-44,Alicante,Tienda,Si
+C03041,01/07/2026,Hombre,30-44,Cadiz,App,Si
+C03042,23/05/2019,Hombre,45-59,Madrid,App,No
+C03043,30/10/2021,Mujer,30-44,Toledo,Web,Si
+C03044,09/03/2022,Mujer,60+,Malaga,Tienda,Si
+C03045,28/08/2024,Hombre,45-59,Sevilla,Tienda,Si
+C03046,22/08/2025,Hombre,45-59,Toledo,Tienda,Si
+C03047,20/09/2021,Mujer,30-44,Murcia,Tienda,Si
+C03048,07/01/2026,Mujer,45-59,Madrid,Tienda,No
+C03048,07/01/2026,Mujer,45-59,Madrid,Tienda,No
+C03049,28/01/2019,Mujer,30-44,Malaga,Tienda,No
+C03050,03/03/2025,Hombre,45-59,Malaga,App,No
+C03051,10/03/2021,Mujer,30-44,Cadiz,Tienda,Si
+C03052,23/02/2024,No indica,30-44,Madrid,App,Si
+C03053,03/05/2025,No indica,45-59,Alicante,Tienda,Si
+C03054,30/10/2025,Hombre,18-29,Toledo,Tienda,Si
+C03054,30/10/2025,Hombre,18-29,Toledo,Tienda,Si
+C03055,22/06/2026,Mujer,60+,Alicante,App,No
+C03056,10/06/2024,Mujer,45-59,Alicante,Tienda,Si
+C03057,22/04/2023,Mujer,18-29,Alicante,Tienda,No
+C03058,08/07/2022,Mujer,45-59,Alicante,Tienda,Si
+C03059,12/12/2025,Hombre,30-44,Malaga,Tienda,Si
+C03060,16/10/2023,Mujer,45-59,Castellon,Tienda,No
+C03061,24/01/2024,No indica,60+,Valencia,Tienda,No
+C03062,01/03/2026,Hombre,60+,Toledo,Tienda,Si
+C03063,07/05/2026,Hombre,18-29,Murcia,Tienda,No
+C03064,20/04/2023,Mujer,60+,Murcia,Web,Si
+C03065,07/07/2024,No indica,18-29,Madrid,Web,Si
+C03066,02/01/2019,No indica,60+,Murcia,App,Si
+C03067,27/08/2023,Mujer,45-59,Murcia,Tienda,No
+C03068,02/06/2023,Hombre,45-59,Toledo,Tienda,Si
+C03069,02/06/2024,No indica,18-29,Castellon,Web,Si
+C03070,28/05/2026,Hombre,45-59,Madrid,Tienda,Si
+C03071,09/02/2022,Mujer,30-44,Malaga,Tienda,Si
+C03072,09/11/2022,Hombre,45-59,Valencia,Tienda,Si
+C03073,07/07/2021,Mujer,45-59,Alicante,App,No
+C03074,07/06/2021,No indica,45-59,Sevilla,Web,Si
+C03075,14/08/2024,Mujer,30-44,Granada,Tienda,Si
+C03076,26/05/2026,Mujer,45-59,Granada,Tienda,Si
+C03077,14/09/2026,Mujer,,Granada,Tienda,No
+C03078,15/08/2020,Mujer,45-59,Cadiz,Tienda,Si
+C03079,24/08/2025,Mujer,18-29,Castellon,Tienda,No
+C03080,18/04/2019,Hombre,,Madrid,Web,No
+C03081,09/05/2022,Mujer,18-29,Madrid,Tienda,No
+C03082,03/04/2026,Mujer,30-44,Castellon,Tienda,Si
+C03083,10/11/2021,Hombre,,Madrid,Tienda,Si
+C03084,13/04/2025,Hombre,60+,Murcia,Tienda,Si
+C03085,07/10/2019,Hombre,45-59,Granada,Web,Si
+C03086,08/02/2020,Hombre,30-44,Alicante,Tienda,No
+C03087,12/09/2024,Hombre,45-59,Malaga,Tienda,Si
+C03088,23/07/2024,Mujer,,Malaga,Tienda,No
+C03089,01/11/2024,Hombre,30-44,Alicante,Tienda,Si
+C03090,12/08/2019,Mujer,45-59,Sevilla,Tienda,Si
+C03091,16/03/2024,Hombre,45-59,Alicante,Tienda,Si
+C03092,15/07/2021,No indica,18-29,Murcia,Tienda,Si
+C03093,27/08/2024,Hombre,30-44,Murcia,Tienda,No
+C03094,07/06/2025,Hombre,30-44,Malaga,App,No
+C03095,23/04/2024,Mujer,30-44,Murcia,Tienda,Si
+C03096,21/05/2026,Mujer,60+,Valencia,Tienda,No
+C03097,13/05/2020,Mujer,45-59,Sevilla,App,Si
+C03098,15/11/2023,Hombre,30-44,Alicante,Tienda,Si
+C03099,09/08/2023,Mujer,18-29,Granada,Tienda,Si
+C03100,11/02/2019,Mujer,45-59,Sevilla,Tienda,Si
+C03101,03/02/2019,Mujer,45-59,Alicante,Tienda,No
+C03102,16/05/2020,Hombre,18-29,Alicante,App,Si
+C03103,17/02/2024,Mujer,30-44,Malaga,Tienda,Si
+C03104,19/02/2023,No indica,30-44,Alicante,Web,Si
+C03105,09/12/2022,Mujer,30-44,Toledo,Tienda,No
+C03106,17/12/2024,Mujer,18-29,Castellon,App,Si
+C03107,12/07/2024,Mujer,45-59,Madrid,Tienda,No
+C03108,19/09/2024,No indica,18-29,Madrid,Tienda,Si
+C03109,27/05/2024,Mujer,30-44,Madrid,Tienda,Si
+C03110,07/08/2022,No indica,45-59,Valencia,Tienda,No
+C03111,22/11/2021,Hombre,18-29,Madrid,Tienda,Si
+C03112,15/05/2024,No indica,18-29,Valencia,Tienda,Si
+C03113,12/09/2026,Mujer,18-29,Malaga,Web,Si
+C03114,17/02/2026,Mujer,45-59,Toledo,Tienda,Si
+C03115,16/05/2021,No indica,60+,Madrid,App,No
+C03116,04/03/2023,Mujer,45-59,Alicante,Web,No
+C03117,30/07/2025,Mujer,18-29,Valencia,Tienda,Si
+C03118,16/05/2019,Mujer,30-44,Murcia,App,No
+C03119,09/02/2020,Hombre,30-44,Valencia,App,Si
+C03120,07/03/2026,No indica,45-59,Toledo,Tienda,Si
+C03121,17/02/2020,Hombre,60+,Sevilla,Tienda,No
+C03122,24/06/2025,No indica,45-59,Alicante,Tienda,Si
+C03123,10/04/2026,Hombre,30-44,Madrid,Tienda,Si
+C03124,20/12/2025,Mujer,45-59,Cadiz,Web,No
+C03125,20/08/2023,Mujer,60+,Valencia,Web,No
+C03126,15/11/2021,Mujer,45-59,Malaga,App,No
+C03127,12/08/2022,Mujer,30-44,Alicante,App,No
+C03128,02/03/2021,Hombre,60+,Toledo,Web,No
+C03129,15/11/2024,Mujer,45-59,Madrid,App,Si
+C03130,26/05/2024,Mujer,18-29,Madrid,Web,Si
+C03131,11/09/2019,Mujer,60+,Alicante,Tienda,Si
+C03132,10/07/2022,Mujer,45-59,Madrid,Tienda,Si
+C03133,16/04/2020,No indica,45-59,Granada,Tienda,No
+C03134,01/02/2024,No indica,18-29,Alicante,Tienda,No
+C03135,05/04/2025,Hombre,30-44,Malaga,Tienda,Si
+C03136,18/05/2023,Mujer,30-44,Toledo,Tienda,Si
+C03137,07/02/2026,Mujer,30-44,Madrid,Tienda,Si
+C03138,25/03/2025,No indica,30-44,Malaga,Tienda,No
+C03139,28/12/2022,Mujer,45-59,Alicante,Tienda,Si
+C03140,25/04/2020,Mujer,45-59,Granada,Tienda,Si
+C03141,05/09/2025,Hombre,45-59,Castellon,Tienda,Si
+C03142,25/02/2021,Mujer,30-44,Malaga,Tienda,No
+C03143,16/09/2023,Hombre,45-59,Valencia,Web,Si
+C03144,25/06/2023,Mujer,,Madrid,Tienda,Si
+C03145,23/06/2022,Mujer,45-59,Malaga,App,Si
+C03146,26/12/2024,No indica,30-44,Malaga,App,No
+C03147,15/09/2021,No indica,,Granada,Tienda,No
+C03148,08/08/2025,Mujer,30-44,Malaga,Tienda,No
+C03149,01/02/2021,Mujer,,Valencia,Tienda,No
+C03150,28/04/2026,No indica,30-44,Toledo,Web,Si
+C03151,03/02/2023,Mujer,18-29,Cadiz,Tienda,Si
+C03152,10/07/2024,Hombre,30-44,Sevilla,Tienda,Si
+C03153,09/11/2019,Mujer,30-44,Madrid,Tienda,Si
+C03154,29/12/2023,Mujer,60+,Granada,Tienda,Si
+C03155,15/08/2022,Mujer,30-44,Madrid,Tienda,Si
+C03155,15/08/2022,Mujer,30-44,Madrid,Tienda,Si
+C03156,06/09/2025,Mujer,45-59,Sevilla,Tienda,Si
+C03157,11/03/2026,Mujer,45-59,Castellon,Tienda,No
+C03158,11/08/2026,Mujer,60+,Alicante,Web,Si
+C03159,05/04/2026,Mujer,30-44,Madrid,Tienda,No
+C03160,11/07/2022,Mujer,60+,Malaga,Tienda,Si
+C03161,30/04/2026,Mujer,30-44,Sevilla,Tienda,No
+C03162,21/02/2025,Mujer,30-44,Toledo,App,Si
+C03163,07/02/2026,No indica,45-59,Malaga,Tienda,No
+C03164,16/01/2022,No indica,18-29,Alicante,Tienda,Si
+C03165,17/05/2021,Mujer,45-59,Sevilla,Tienda,Si
+C03166,05/10/2020,Hombre,45-59,Madrid,Tienda,Si
+C03167,18/05/2026,Mujer,30-44,Valencia,Tienda,Si
+C03168,01/05/2024,Mujer,30-44,Alicante,Tienda,Si
+C03169,11/10/2022,No indica,45-59,Madrid,Tienda,Si
+C03170,15/04/2026,Mujer,45-59,Madrid,Tienda,No
+C03171,14/06/2020,Hombre,60+,Toledo,Tienda,Si
+C03172,27/02/2019,Mujer,18-29,Murcia,Tienda,Si
+C03173,31/08/2025,Hombre,,Valencia,Tienda,No
+C03174,25/10/2023,Mujer,45-59,Toledo,Tienda,Si
+C03175,22/07/2022,Mujer,30-44,Alicante,Tienda,No
+C03176,17/09/2019,Mujer,60+,Valencia,App,Si
+C03177,28/03/2026,Mujer,45-59,Malaga,Tienda,Si
+C03178,13/10/2020,No indica,45-59,Granada,Tienda,Si
+C03179,17/12/2024,Mujer,45-59,Valencia,Tienda,Si
+C03180,27/05/2024,Mujer,45-59,Murcia,App,No
+C03181,20/11/2019,Hombre,30-44,Murcia,Tienda,Si
+C03182,25/12/2022,Mujer,30-44,Castellon,Web,No
+C03183,19/11/2021,Hombre,30-44,Madrid,App,Si
+C03184,02/09/2021,Mujer,30-44,Malaga,Web,Si
+C03185,08/04/2025,Mujer,18-29,Malaga,Tienda,Si
+C03186,20/02/2025,Hombre,18-29,Granada,App,Si
+C03187,29/09/2021,Mujer,45-59,Sevilla,Tienda,No
+C03188,13/08/2024,Mujer,30-44,Castellon,Tienda,No
+C03189,03/12/2019,Mujer,60+,Alicante,Tienda,Si
+C03190,10/09/2019,Mujer,45-59,Granada,Tienda,Si
+C03191,01/01/2019,Hombre,30-44,Valencia,Tienda,Si
+C03192,20/11/2019,No indica,45-59,Murcia,Web,Si
+C03193,29/03/2024,No indica,45-59,Murcia,Tienda,Si
+C03194,25/05/2026,Mujer,18-29,Malaga,Tienda,No
+C03195,12/05/2019,Hombre,30-44,Murcia,Web,No
+C03196,13/12/2025,Mujer,45-59,Valencia,Tienda,No
+C03197,04/01/2025,No indica,30-44,Alicante,Tienda,Si
+C03198,17/12/2021,Mujer,30-44,Granada,Tienda,Si
+C03199,31/12/2021,Hombre,45-59,Malaga,Tienda,Si
+C03200,15/05/2024,Mujer,60+,Alicante,Tienda,Si
+C03201,04/02/2022,Hombre,30-44,Malaga,Web,Si
+C03202,28/02/2025,Hombre,45-59,Sevilla,Tienda,Si
+C03203,14/12/2024,Mujer,45-59,Cadiz,Tienda,No
+C03204,08/06/2026,Mujer,45-59,Madrid,Tienda,No
+C03205,18/02/2019,Hombre,30-44,Madrid,Tienda,Si
+C03206,09/06/2025,Mujer,,Madrid,Tienda,Si
+C03207,17/01/2024,Mujer,30-44,Murcia,App,No
+C03208,03/01/2019,No indica,18-29,Alicante,Tienda,Si
+C03209,31/05/2025,Hombre,45-59,Granada,App,Si
+C03210,02/08/2019,Mujer,45-59,Cadiz,Web,Si
+C03211,07/12/2023,Mujer,45-59,Murcia,Tienda,Si
+C03212,05/01/2020,Mujer,60+,Valencia,Tienda,No
+C03213,25/05/2024,No indica,18-29,Murcia,Tienda,Si
+C03214,21/05/2021,Hombre,,Cadiz,Tienda,No
+C03215,31/03/2024,Hombre,30-44,Castellon,Web,Si
+C03216,29/01/2026,Hombre,60+,Granada,App,Si
+C03217,12/06/2024,Mujer,30-44,Malaga,Web,Si
+C03218,02/01/2019,Mujer,45-59,Murcia,Tienda,No
+C03219,21/05/2019,Mujer,30-44,Murcia,Tienda,Si
+C03220,16/10/2021,Mujer,,Murcia,Tienda,No
+C03221,06/01/2019,Mujer,60+,Sevilla,Tienda,No
+C03222,27/04/2021,No indica,30-44,Madrid,App,Si
+C03223,11/06/2021,Hombre,30-44,Granada,Tienda,Si
+C03224,23/11/2019,Mujer,30-44,Granada,Tienda,Si
+C03225,01/12/2021,Mujer,30-44,Alicante,Tienda,No
+C03226,25/02/2020,Hombre,,Murcia,Tienda,No
+C03227,18/03/2020,Hombre,60+,Granada,App,Si
+C03228,04/03/2025,Mujer,30-44,Murcia,Tienda,Si
+C03229,28/08/2023,Mujer,30-44,Madrid,Tienda,Si
+C03230,23/01/2026,No indica,18-29,Madrid,Tienda,Si
+C03231,25/01/2023,No indica,30-44,Malaga,App,Si
+C03232,07/11/2021,Hombre,30-44,Madrid,Tienda,Si
+C03233,04/11/2020,Hombre,18-29,Malaga,Tienda,Si
+C03234,16/09/2020,Hombre,45-59,Murcia,Tienda,Si
+C03235,15/01/2021,Hombre,45-59,Madrid,Tienda,No
+C03236,13/07/2025,Hombre,30-44,Malaga,App,Si
+C03237,25/11/2025,Mujer,18-29,Madrid,Tienda,Si
+C03238,10/08/2026,Mujer,30-44,Alicante,App,No
+C03239,21/08/2024,Mujer,45-59,Granada,Tienda,Si
+C03240,14/01/2019,Hombre,45-59,Madrid,Tienda,Si
+C03241,21/10/2025,No indica,30-44,Alicante,App,Si
+C03242,27/11/2024,Mujer,18-29,Murcia,Tienda,No
+C03243,03/12/2025,Mujer,30-44,Alicante,Tienda,Si
+C03244,10/03/2026,Mujer,,Alicante,Tienda,Si
+C03245,06/02/2020,Mujer,30-44,Alicante,Tienda,Si
+C03246,28/10/2023,Mujer,30-44,Madrid,Tienda,No
+C03247,17/09/2025,Mujer,,Alicante,Tienda,No
+C03248,19/01/2023,Mujer,30-44,Malaga,Tienda,No
+C03249,09/09/2022,Mujer,45-59,Madrid,Tienda,Si
+C03250,07/04/2025,No indica,45-59,Madrid,Tienda,No
+C03251,29/06/2025,Mujer,45-59,Madrid,Tienda,Si
+C03252,03/09/2025,Hombre,30-44,Madrid,Tienda,Si
+C03253,25/11/2022,Mujer,30-44,Castellon,Tienda,No
+C03254,25/04/2024,No indica,45-59,Madrid,Tienda,No
+C03255,03/03/2025,Mujer,30-44,Castellon,Tienda,Si
+C03256,14/09/2021,Mujer,30-44,Alicante,Tienda,No
+C03257,04/12/2024,Mujer,,Alicante,Tienda,Si
+C03258,30/08/2024,Hombre,18-29,Malaga,Tienda,No
+C03259,17/09/2021,Mujer,45-59,Sevilla,Tienda,Si
+C03260,17/02/2020,No indica,45-59,Granada,Web,Si
+C03261,11/09/2025,No indica,45-59,Malaga,Tienda,No
+C03262,04/11/2024,No indica,18-29,Murcia,Tienda,Si
+C03263,28/10/2024,Hombre,30-44,Sevilla,App,No
+C03264,25/02/2025,Hombre,45-59,Cadiz,Web,Si
+C03265,17/12/2020,Mujer,30-44,Murcia,Tienda,Si
+C03266,04/11/2025,Mujer,,Malaga,App,No
+C03267,02/03/2024,Hombre,45-59,Murcia,App,Si
+C03268,12/04/2019,Mujer,45-59,Sevilla,Tienda,No
+C03269,03/08/2025,Hombre,60+,Malaga,Tienda,No
+C03270,05/07/2026,Hombre,30-44,Murcia,Tienda,No
+C03271,18/05/2023,No indica,18-29,Castellon,Tienda,Si
+C03272,17/07/2020,Mujer,,Malaga,Tienda,No
+C03273,27/03/2025,No indica,30-44,Madrid,App,No
+C03274,15/11/2020,Mujer,45-59,Murcia,App,Si
+C03275,31/05/2025,Hombre,30-44,Malaga,Tienda,No
+C03276,31/01/2024,Mujer,18-29,Sevilla,Tienda,Si
+C03277,02/06/2021,Mujer,60+,Granada,Tienda,Si
+C03277,02/06/2021,Mujer,60+,Granada,Tienda,Si
+C03278,05/04/2024,Hombre,18-29,Alicante,Tienda,Si
+C03279,19/05/2022,Hombre,45-59,Cadiz,Tienda,Si
+C03280,09/04/2020,Hombre,60+,Madrid,Tienda,No
+C03281,15/07/2024,Hombre,,Sevilla,Web,No
+C03282,15/09/2022,No indica,45-59,Toledo,Tienda,No
+C03283,07/12/2022,Mujer,45-59,Toledo,Tienda,Si
+C03284,16/11/2025,Mujer,60+,Madrid,Tienda,No
+C03285,16/06/2026,Mujer,30-44,Madrid,App,No
+C03286,16/06/2020,No indica,45-59,Toledo,Tienda,No
+C03287,10/05/2020,Mujer,30-44,Granada,Web,Si
+C03288,30/09/2025,Mujer,60+,Alicante,Tienda,Si
+C03289,07/09/2024,Mujer,45-59,Madrid,Tienda,No
+C03290,25/06/2019,Mujer,45-59,Malaga,Tienda,Si
+C03291,03/04/2025,Mujer,30-44,Murcia,Tienda,Si
+C03292,24/03/2022,Mujer,30-44,Valencia,Tienda,Si
+C03293,30/09/2019,Hombre,30-44,Castellon,App,No
+C03294,16/04/2020,Hombre,30-44,Alicante,Tienda,Si
+C03295,30/06/2022,Mujer,18-29,Malaga,Web,No
+C03296,27/07/2024,Hombre,18-29,Valencia,Tienda,Si
+C03297,03/09/2025,Mujer,30-44,Madrid,Tienda,No
+C03298,20/06/2019,Mujer,30-44,Sevilla,App,Si
+C03299,01/09/2019,Mujer,18-29,Alicante,Tienda,Si
+C03300,06/09/2022,Hombre,45-59,Castellon,Web,Si
+C03301,14/11/2021,Mujer,18-29,Malaga,Tienda,Si
+C03302,06/03/2024,Mujer,30-44,Malaga,Tienda,Si
+C03303,01/09/2021,Mujer,45-59,Cadiz,Tienda,No
+C03304,25/09/2021,Mujer,60+,Madrid,Tienda,Si
+C03305,02/07/2026,Hombre,45-59,Sevilla,Tienda,Si
+C03306,21/03/2025,Mujer,45-59,Murcia,Tienda,Si
+C03307,01/01/2019,Mujer,45-59,Toledo,Web,Si
+C03308,16/06/2023,Mujer,18-29,Murcia,Tienda,No
+C03309,13/05/2019,No indica,45-59,Sevilla,Tienda,Si
+C03310,15/03/2020,Mujer,18-29,Alicante,App,Si
+C03311,05/11/2022,Mujer,30-44,Madrid,App,Si
+C03312,30/03/2022,No indica,30-44,Granada,Tienda,No
+C03313,19/04/2024,Mujer,45-59,Sevilla,Tienda,Si
+C03314,11/12/2022,Mujer,30-44,Madrid,Web,Si
+C03315,20/02/2026,No indica,30-44,Alicante,Tienda,No
+C03316,15/05/2025,Mujer,45-59,Toledo,Tienda,Si
+C03317,15/03/2026,Mujer,18-29,Valencia,Web,Si
+C03318,18/12/2022,Hombre,60+,Madrid,Tienda,Si
+C03319,06/10/2022,Hombre,30-44,Madrid,Tienda,Si
+C03320,13/03/2024,Mujer,45-59,Granada,Tienda,Si
+C03321,24/12/2019,Hombre,60+,Malaga,Tienda,Si
+C03322,01/02/2024,Hombre,45-59,Valencia,Tienda,Si
+C03323,14/08/2025,Hombre,45-59,Murcia,Tienda,No
+C03324,07/05/2026,Mujer,45-59,Sevilla,Tienda,No
+C03325,01/05/2026,Hombre,30-44,Alicante,Tienda,Si
+C03326,25/12/2022,Hombre,30-44,Madrid,Tienda,No
+C03327,31/07/2019,Hombre,60+,Alicante,Web,Si
+C03328,13/06/2022,Hombre,60+,Murcia,Tienda,Si
+C03329,27/02/2019,Hombre,30-44,Granada,Tienda,Si
+C03330,16/04/2019,Mujer,45-59,Malaga,Tienda,No
+C03331,18/09/2022,Hombre,18-29,Valencia,Tienda,Si
+C03332,07/01/2025,Mujer,45-59,Madrid,Tienda,Si
+C03333,07/11/2022,Mujer,45-59,Castellon,Tienda,Si
+C03334,18/01/2026,Mujer,30-44,Castellon,App,No
+C03335,09/05/2026,Hombre,,Valencia,Tienda,Si
+C03336,28/02/2019,Mujer,45-59,Malaga,Tienda,Si
+C03337,16/02/2021,No indica,60+,Granada,Tienda,Si
+C03338,15/07/2020,Hombre,18-29,Sevilla,Tienda,Si
+C03339,03/04/2023,Mujer,30-44,Malaga,App,Si
+C03340,29/02/2024,Mujer,30-44,Granada,Tienda,No
+C03341,13/08/2020,Hombre,30-44,Murcia,Web,No
+C03342,30/03/2024,Hombre,30-44,Madrid,Tienda,Si
+C03343,14/05/2025,Mujer,30-44,Malaga,Tienda,Si
+C03344,12/12/2020,No indica,45-59,Sevilla,App,Si
+C03345,28/02/2025,Hombre,45-59,Granada,Web,No
+C03346,28/02/2025,Mujer,30-44,Alicante,Tienda,No
+C03347,18/03/2026,Hombre,18-29,Malaga,Tienda,No
+C03348,12/02/2021,Hombre,30-44,Murcia,Web,Si
+C03349,21/02/2025,No indica,30-44,Alicante,App,Si
+C03350,13/08/2026,No indica,45-59,Murcia,Tienda,Si
+C03351,14/01/2023,No indica,18-29,Cadiz,Tienda,Si
+C03352,14/07/2023,Mujer,45-59,Alicante,Tienda,No
+C03353,10/01/2023,Hombre,45-59,Malaga,Tienda,No
+C03354,01/10/2021,No indica,30-44,Valencia,Tienda,No
+C03355,01/05/2025,Mujer,30-44,Valencia,App,No
+C03356,15/01/2024,Hombre,,Madrid,Tienda,No
+C03357,13/10/2025,Mujer,45-59,Madrid,Tienda,No
+C03358,18/05/2026,Mujer,45-59,Madrid,Tienda,Si
+C03359,09/01/2020,No indica,30-44,Castellon,Tienda,No
+C03360,07/03/2023,Hombre,18-29,Castellon,Tienda,No
+C03361,03/08/2026,Mujer,45-59,Madrid,App,Si
+C03362,04/01/2024,Mujer,30-44,Malaga,Web,Si
+C03363,14/05/2019,Mujer,60+,Madrid,Tienda,No
+C03364,05/12/2022,No indica,30-44,Madrid,Tienda,No
+C03365,20/10/2019,No indica,60+,Madrid,App,No
+C03366,11/07/2026,Hombre,60+,Alicante,Tienda,No
+C03367,28/02/2019,No indica,30-44,Madrid,Tienda,No
+C03368,05/11/2022,No indica,30-44,Malaga,Tienda,Si
+C03369,09/04/2025,Hombre,,Murcia,Tienda,No
+C03370,16/09/2023,Mujer,45-59,Alicante,Tienda,No
+C03371,27/07/2023,Mujer,,Murcia,App,No
+C03372,31/12/2021,No indica,45-59,Alicante,Tienda,Si
+C03373,18/06/2025,Mujer,45-59,Toledo,Web,Si
+C03374,02/05/2024,Hombre,30-44,Madrid,Web,No
+C03375,04/12/2023,Hombre,60+,Alicante,Tienda,Si
+C03376,11/03/2023,Mujer,60+,Sevilla,Tienda,Si
+C03377,09/09/2021,No indica,45-59,Alicante,Tienda,No
+C03378,06/06/2026,Hombre,45-59,Madrid,Web,No
+C03379,29/12/2022,Mujer,45-59,Murcia,Tienda,No
+C03380,18/07/2024,Mujer,45-59,Madrid,Tienda,Si
+C03381,26/12/2021,Hombre,30-44,Toledo,Tienda,Si
+C03382,18/11/2025,Mujer,60+,Malaga,Tienda,Si
+C03383,07/05/2021,Hombre,45-59,Granada,Tienda,No
+C03384,28/05/2021,Mujer,,Sevilla,App,No
+C03385,20/03/2025,Mujer,45-59,Castellon,Tienda,No
+C03386,04/09/2026,Mujer,30-44,Madrid,Tienda,No
+C03387,19/11/2025,Mujer,45-59,Madrid,App,Si
+C03388,23/08/2023,Hombre,60+,Alicante,App,Si
+C03389,13/03/2025,Mujer,45-59,Valencia,Tienda,Si
+C03390,25/03/2024,Hombre,30-44,Valencia,Tienda,No
+C03391,21/08/2025,No indica,60+,Madrid,Tienda,Si
+C03392,28/02/2026,No indica,30-44,Malaga,Tienda,Si
+C03393,20/06/2019,Mujer,30-44,Toledo,Tienda,No
+C03394,30/05/2019,No indica,30-44,Malaga,Tienda,No
+C03395,23/08/2023,No indica,30-44,Madrid,Tienda,Si
+C03396,07/04/2019,Mujer,30-44,Malaga,Tienda,No
+C03397,08/11/2025,Mujer,60+,Madrid,App,Si
+C03398,06/11/2024,Hombre,45-59,Malaga,Tienda,No
+C03399,09/01/2020,Mujer,30-44,Cadiz,App,Si
+C03400,11/05/2024,Mujer,60+,Alicante,Tienda,No
+C03401,27/12/2022,Mujer,18-29,Granada,Tienda,No
+C03402,15/11/2021,No indica,60+,Sevilla,App,Si
+C03403,19/08/2023,Hombre,60+,Madrid,Tienda,Si
+C03404,05/01/2026,Mujer,30-44,Madrid,Tienda,Si
+C03405,18/08/2025,Hombre,30-44,Murcia,Tienda,Si
+C03406,29/01/2024,Hombre,45-59,Toledo,Tienda,No
+C03407,21/07/2025,Mujer,18-29,Madrid,Tienda,No
+C03408,08/09/2019,Mujer,18-29,Alicante,Tienda,Si
+C03409,23/06/2026,Mujer,60+,Madrid,Tienda,No
+C03410,28/07/2025,Mujer,45-59,Murcia,Tienda,No
+C03411,07/09/2022,Hombre,60+,Murcia,Tienda,Si
+C03412,20/01/2022,No indica,30-44,Toledo,Tienda,No
+C03413,10/10/2024,Mujer,45-59,Malaga,Tienda,No
+C03414,20/06/2026,Mujer,45-59,Malaga,Tienda,Si
+C03415,07/12/2020,Mujer,30-44,Valencia,App,No
+C03416,16/03/2019,Hombre,18-29,Murcia,Tienda,No
+C03417,15/12/2020,Mujer,45-59,Sevilla,Web,Si
+C03418,01/09/2026,Mujer,45-59,Sevilla,Tienda,Si
+C03419,30/04/2022,Mujer,30-44,Madrid,Tienda,No
+C03420,17/11/2025,Hombre,18-29,Murcia,Tienda,No
+C03421,02/05/2019,Hombre,60+,Cadiz,Tienda,Si
+C03422,25/02/2024,Hombre,30-44,Toledo,Tienda,No
+C03423,21/01/2025,Hombre,60+,Madrid,Tienda,Si
+C03424,22/10/2022,Mujer,45-59,Valencia,Tienda,No
+C03425,20/04/2024,No indica,60+,Sevilla,Tienda,No
+C03426,09/09/2026,Hombre,18-29,Madrid,Tienda,Si
+C03427,11/05/2019,Hombre,,Malaga,Tienda,Si
+C03428,20/03/2021,No indica,30-44,Malaga,Tienda,Si
+C03428,20/03/2021,No indica,30-44,Malaga,Tienda,Si
+C03429,19/06/2026,Mujer,45-59,Malaga,Tienda,Si
+C03430,11/04/2025,Mujer,45-59,Madrid,Tienda,Si
+C03431,23/01/2023,No indica,45-59,Alicante,Tienda,Si
+C03432,05/07/2024,No indica,18-29,Madrid,Tienda,Si
+C03433,26/08/2024,No indica,45-59,Madrid,Web,No
+C03434,19/07/2023,Hombre,,Valencia,Tienda,Si
+C03435,24/01/2025,Hombre,45-59,Murcia,Web,No
+C03436,17/08/2023,Hombre,18-29,Alicante,Tienda,No
+C03437,20/04/2020,Mujer,45-59,Valencia,Tienda,No
+C03438,06/06/2020,No indica,30-44,Sevilla,App,Si
+C03439,14/02/2026,Mujer,30-44,Madrid,App,No
+C03440,16/05/2023,Mujer,30-44,Madrid,Tienda,Si
+C03441,26/11/2024,No indica,45-59,Malaga,Tienda,Si
+C03442,20/05/2025,Mujer,60+,Madrid,Tienda,Si
+C03443,16/04/2025,Mujer,30-44,Valencia,Web,No
+C03444,10/09/2019,Hombre,30-44,Sevilla,Tienda,Si
+C03445,26/12/2023,Mujer,45-59,Malaga,Tienda,Si
+C03446,09/07/2023,Mujer,45-59,Cadiz,Tienda,No
+C03447,27/11/2024,No indica,45-59,Valencia,Tienda,Si
+C03448,01/11/2022,No indica,45-59,Madrid,Web,No
+C03449,25/02/2024,Mujer,30-44,Granada,Tienda,Si
+C03450,21/07/2026,No indica,45-59,Sevilla,Web,Si
+C03451,30/08/2021,Mujer,18-29,Madrid,Tienda,Si
+C03452,11/09/2025,Mujer,45-59,Sevilla,App,No
+C03453,14/04/2023,Mujer,18-29,Castellon,App,Si
+C03454,20/01/2026,Mujer,30-44,Valencia,Tienda,Si
+C03455,24/04/2024,Mujer,45-59,Madrid,Tienda,No
+C03456,06/09/2022,Hombre,30-44,Madrid,Tienda,No
+C03457,14/10/2019,Hombre,60+,Toledo,Tienda,Si
+C03458,21/03/2021,Hombre,30-44,Malaga,Tienda,Si
+C03459,15/10/2023,Mujer,30-44,Malaga,Tienda,No
+C03460,01/09/2023,Mujer,60+,Madrid,Tienda,Si
+C03461,16/09/2024,No indica,30-44,Sevilla,Tienda,Si
+C03462,21/12/2023,Mujer,60+,Malaga,Tienda,Si
+C03463,24/08/2025,Hombre,18-29,Malaga,Tienda,Si
+C03464,09/05/2020,Mujer,60+,Madrid,App,Si
+C03465,22/02/2024,No indica,30-44,Madrid,App,Si
+C03466,01/08/2026,Mujer,45-59,Castellon,Tienda,Si
+C03467,27/10/2024,Mujer,60+,Cadiz,Tienda,Si
+C03468,22/09/2023,Mujer,45-59,Murcia,Web,Si
+C03469,06/01/2024,Hombre,45-59,Granada,App,Si
+C03470,07/01/2026,Hombre,30-44,Madrid,Tienda,Si
+C03471,29/10/2019,Mujer,18-29,Castellon,Tienda,Si
+C03472,26/06/2019,Hombre,30-44,Malaga,Tienda,Si
+C03473,09/08/2026,Hombre,30-44,Madrid,App,Si
+C03474,31/10/2019,Mujer,45-59,Murcia,App,No
+C03475,19/07/2024,Mujer,30-44,Alicante,Tienda,No
+C03476,06/10/2020,Mujer,18-29,Malaga,Tienda,Si
+C03477,26/08/2020,Mujer,60+,Castellon,Tienda,Si
+C03478,04/06/2019,Hombre,60+,Sevilla,Web,Si
+C03479,19/05/2022,No indica,45-59,Madrid,Tienda,Si
+C03480,05/07/2022,No indica,30-44,Murcia,Web,Si
+C03481,18/06/2025,No indica,60+,Castellon,Tienda,No
+C03482,03/01/2020,Mujer,60+,Alicante,Tienda,Si
+C03483,02/10/2024,Hombre,60+,Madrid,Tienda,Si
+C03484,08/11/2022,Mujer,18-29,Alicante,Tienda,No
+C03485,24/03/2024,Mujer,45-59,Castellon,Tienda,Si
+C03486,30/07/2024,Mujer,30-44,Murcia,Web,Si
+C03487,20/02/2025,Hombre,30-44,Madrid,Tienda,Si
+C03488,17/03/2019,Hombre,60+,Toledo,Tienda,Si
+C03489,15/06/2023,Hombre,45-59,Murcia,Tienda,Si
+C03490,07/05/2025,Mujer,18-29,Madrid,Tienda,Si
+C03491,17/03/2025,Hombre,45-59,Madrid,Web,Si
+C03492,26/01/2022,Hombre,45-59,Toledo,Web,Si
+C03493,19/11/2024,Mujer,30-44,Malaga,Tienda,No
+C03494,03/02/2019,Mujer,45-59,Alicante,Tienda,Si
+C03495,17/07/2019,Mujer,45-59,Malaga,Tienda,Si
+C03496,25/05/2026,Hombre,60+,Sevilla,Web,Si
+C03497,08/11/2021,Mujer,45-59,Cadiz,App,Si
+C03498,08/04/2024,Hombre,45-59,Malaga,Tienda,Si
+C03499,14/05/2021,Hombre,60+,Malaga,Web,No
+C03500,13/04/2026,No indica,45-59,Castellon,Web,No
+C03501,18/02/2025,No indica,45-59,Sevilla,Tienda,Si
+C03502,03/05/2026,Hombre,45-59,Granada,App,Si
+C03503,16/11/2025,Mujer,30-44,Toledo,Tienda,Si
+C03504,26/03/2023,Mujer,,Madrid,Web,No
+C03505,07/01/2019,Hombre,18-29,Murcia,Tienda,Si
+C03506,20/11/2023,Hombre,18-29,Malaga,Tienda,No
+C03507,09/07/2021,Mujer,30-44,Madrid,App,Si
+C03508,12/07/2025,Hombre,45-59,Toledo,App,Si
+C03509,01/12/2019,Mujer,30-44,Cadiz,Tienda,Si
+C03510,01/06/2021,Hombre,30-44,Granada,Tienda,Si
+C03511,21/09/2019,Mujer,,Granada,Tienda,No
+C03512,22/09/2020,Mujer,,Alicante,App,No
+C03513,03/05/2021,Mujer,30-44,Sevilla,Tienda,No
+C03514,27/05/2021,Hombre,18-29,Murcia,Tienda,Si
+C03515,28/10/2024,Mujer,30-44,Madrid,Tienda,Si
+C03516,12/10/2024,Hombre,18-29,Cadiz,Web,Si
+C03517,28/01/2025,No indica,60+,Alicante,Tienda,No
+C03518,05/10/2024,Hombre,60+,Madrid,Tienda,No
+C03519,18/05/2024,Mujer,30-44,Valencia,Tienda,Si
+C03520,10/07/2025,Hombre,18-29,Madrid,App,No
+C03521,06/03/2019,Mujer,30-44,Malaga,Tienda,No
+C03522,25/01/2025,Mujer,45-59,Alicante,App,Si
+C03523,21/03/2026,Mujer,45-59,Malaga,Web,Si
+C03524,04/01/2025,No indica,18-29,Valencia,Web,Si
+C03525,20/08/2026,Hombre,30-44,Valencia,Tienda,Si
+C03526,11/10/2021,Mujer,45-59,Malaga,Tienda,No
+C03527,25/07/2026,Hombre,45-59,Granada,Tienda,Si
+C03528,20/06/2023,Mujer,45-59,Alicante,Web,No
+C03529,15/09/2024,Mujer,30-44,Madrid,Web,No
+C03530,22/03/2019,Mujer,30-44,Madrid,App,No
+C03531,13/03/2020,Hombre,18-29,Malaga,Tienda,Si
+C03532,22/08/2023,Hombre,18-29,Granada,Tienda,Si
+C03533,28/10/2023,Hombre,30-44,Valencia,Tienda,No
+C03534,12/02/2020,Mujer,60+,Sevilla,Tienda,Si
+C03535,12/08/2020,Mujer,30-44,Granada,Tienda,No
+C03535,12/08/2020,Mujer,30-44,Granada,Tienda,No
+C03536,13/03/2026,Hombre,60+,Toledo,Tienda,Si
+C03537,22/01/2019,Mujer,45-59,Granada,Tienda,Si
+C03538,08/02/2026,Hombre,30-44,Alicante,App,Si
+C03539,20/06/2022,Hombre,45-59,Sevilla,Tienda,No
+C03540,29/07/2020,Mujer,45-59,Valencia,App,Si
+C03541,03/12/2025,Hombre,60+,Murcia,Tienda,Si
+C03542,28/08/2026,Hombre,45-59,Cadiz,Tienda,No
+C03543,17/08/2025,Mujer,30-44,Madrid,Tienda,Si
+C03544,09/04/2020,Mujer,30-44,Toledo,Tienda,No
+C03545,30/12/2020,Mujer,45-59,Madrid,Tienda,No
+C03546,25/12/2024,Mujer,30-44,Murcia,Tienda,No
+C03547,30/12/2024,Mujer,,Toledo,App,Si
+C03548,14/11/2024,No indica,30-44,Madrid,Tienda,Si
+C03549,05/02/2026,Hombre,60+,Madrid,Tienda,Si
+C03550,21/04/2021,No indica,45-59,Madrid,Tienda,Si
+C03551,27/11/2025,Hombre,18-29,Granada,Tienda,No
+C03552,24/12/2025,Mujer,45-59,Alicante,Tienda,Si
+C03553,03/12/2023,Hombre,30-44,Alicante,Web,Si
+C03554,11/09/2019,Hombre,45-59,Malaga,Tienda,Si
+C03555,18/06/2022,Hombre,18-29,Toledo,Tienda,No
+C03556,24/02/2024,Mujer,30-44,Murcia,Tienda,Si
+C03557,06/09/2025,Hombre,45-59,Madrid,Tienda,No
+C03558,31/10/2021,Mujer,60+,Madrid,Tienda,Si
+C03559,06/10/2019,No indica,60+,Alicante,Tienda,Si
+C03560,07/05/2020,Mujer,,Madrid,Tienda,No
+C03561,25/08/2020,No indica,45-59,Murcia,Web,Si
+C03562,19/04/2025,Mujer,18-29,Castellon,Tienda,Si
+C03563,03/02/2021,Mujer,45-59,Valencia,Tienda,Si
+C03564,28/10/2021,Mujer,,Toledo,Tienda,No
+C03565,26/04/2026,No indica,45-59,Murcia,Tienda,Si
+C03566,12/03/2025,Mujer,30-44,Valencia,Tienda,Si
+C03567,15/03/2023,Hombre,45-59,Valencia,App,Si
+C03568,09/02/2025,Mujer,60+,Madrid,Tienda,Si
+C03569,17/01/2026,Mujer,45-59,Alicante,Tienda,Si
+C03570,14/02/2025,Mujer,60+,Granada,Tienda,No
+C03571,24/08/2026,Hombre,45-59,Madrid,Tienda,Si
+C03572,02/08/2024,Mujer,18-29,Castellon,Tienda,Si
+C03573,18/02/2022,Mujer,,Madrid,App,Si
+C03574,05/04/2021,Hombre,30-44,Granada,Tienda,Si
+C03575,13/04/2026,Mujer,18-29,Malaga,App,Si
+C03576,24/01/2019,Mujer,18-29,Valencia,Tienda,No
+C03577,17/08/2025,Hombre,30-44,Granada,Tienda,No
+C03578,02/08/2022,No indica,45-59,Toledo,Tienda,Si
+C03579,25/10/2024,Mujer,30-44,Valencia,Tienda,Si
+C03580,06/03/2024,Mujer,45-59,Toledo,Tienda,Si
+C03581,27/04/2021,Mujer,30-44,Granada,Tienda,No
+C03582,17/09/2020,Hombre,60+,Madrid,Web,Si
+C03583,26/02/2025,Mujer,45-59,Malaga,App,Si
+C03584,28/12/2019,No indica,30-44,Castellon,Tienda,No
+C03585,21/11/2019,Mujer,18-29,Sevilla,App,Si
+C03586,22/04/2019,Hombre,18-29,Murcia,Tienda,Si
+C03587,15/06/2019,Mujer,30-44,Castellon,App,Si
+C03588,30/07/2026,Mujer,45-59,Toledo,Tienda,No
+C03589,18/05/2026,Hombre,18-29,Castellon,Tienda,Si
+C03590,15/03/2021,Mujer,45-59,Madrid,Tienda,No
+C03591,16/07/2026,Mujer,,Toledo,Tienda,Si
+C03592,24/12/2022,Hombre,60+,Cadiz,App,Si
+C03593,13/10/2019,Hombre,45-59,Madrid,Tienda,Si
+C03594,24/01/2022,Mujer,45-59,Cadiz,Tienda,No
+C03595,20/07/2023,Mujer,60+,Madrid,Tienda,Si
+C03596,24/04/2026,Mujer,30-44,Madrid,Tienda,No
+C03597,18/03/2024,Mujer,18-29,Madrid,Tienda,Si
+C03598,13/09/2020,Mujer,60+,Castellon,App,No
+C03599,12/09/2026,Hombre,45-59,Alicante,Tienda,Si
+C03600,17/12/2023,Mujer,30-44,Alicante,App,Si
+C03601,14/12/2021,No indica,18-29,Alicante,App,Si
+C03602,22/11/2021,Mujer,30-44,Alicante,Tienda,Si
+C03603,13/05/2019,Hombre,45-59,Sevilla,Tienda,No
+C03604,04/06/2019,Mujer,30-44,Alicante,Tienda,Si
+C03605,21/06/2024,Mujer,,Madrid,Tienda,No
+C03606,01/11/2023,Mujer,45-59,Murcia,App,No
+C03607,27/09/2024,Mujer,18-29,Madrid,Web,Si
+C03608,16/11/2021,Hombre,45-59,Castellon,App,Si
+C03609,13/08/2025,Mujer,45-59,Madrid,Web,Si
+C03610,06/07/2026,No indica,30-44,Cadiz,App,Si
+C03611,23/12/2020,No indica,60+,Madrid,Tienda,No
+C03612,01/02/2025,Mujer,30-44,Murcia,Tienda,No
+C03613,30/09/2020,Hombre,30-44,Madrid,Tienda,No
+C03614,20/04/2022,Mujer,60+,Toledo,Tienda,Si
+C03615,07/04/2022,Mujer,30-44,Granada,Tienda,No
+C03616,17/12/2024,Hombre,45-59,Murcia,Tienda,Si
+C03617,02/12/2019,Hombre,45-59,Madrid,Tienda,Si
+C03618,03/03/2025,Mujer,18-29,Murcia,Tienda,Si
+C03619,22/10/2024,Mujer,30-44,Valencia,Tienda,No
+C03620,16/02/2026,Hombre,60+,Madrid,Tienda,Si
+C03621,30/03/2023,No indica,18-29,Alicante,Tienda,Si
+C03622,30/10/2022,Mujer,18-29,Madrid,Tienda,No
+C03623,09/04/2026,Hombre,30-44,Malaga,Tienda,Si
+C03624,08/04/2019,Mujer,45-59,Valencia,Tienda,Si
+C03625,19/11/2024,Mujer,45-59,Malaga,Tienda,Si
+C03626,03/12/2025,Mujer,30-44,Madrid,Tienda,No
+C03627,14/08/2024,Mujer,45-59,Murcia,Web,No
+C03628,22/08/2021,Mujer,30-44,Granada,Tienda,No
+C03629,12/03/2022,Mujer,60+,Alicante,Tienda,Si
+C03630,16/07/2024,No indica,18-29,Alicante,Web,No
+C03631,26/02/2020,Mujer,45-59,Malaga,Tienda,No
+C03632,28/06/2019,Mujer,30-44,Sevilla,Tienda,Si
+C03633,14/07/2021,Mujer,45-59,Murcia,Tienda,Si
+C03634,20/10/2023,Hombre,30-44,Valencia,Web,No
+C03635,18/11/2022,Mujer,18-29,Granada,Tienda,Si
+C03636,20/01/2019,Mujer,18-29,Murcia,App,Si
+C03637,18/07/2020,No indica,45-59,Murcia,Tienda,Si
+C03638,12/03/2023,Mujer,45-59,Sevilla,Tienda,No
+C03639,05/08/2026,Hombre,45-59,Alicante,Tienda,Si
+C03640,02/08/2019,No indica,30-44,Malaga,Tienda,Si
+C03641,28/08/2023,Hombre,30-44,Castellon,Tienda,Si
+C03642,15/03/2024,Hombre,30-44,Alicante,Tienda,Si
+C03643,21/06/2022,Hombre,,Granada,Tienda,Si
+C03644,19/11/2023,Mujer,18-29,Madrid,Tienda,No
+C03645,13/06/2021,Hombre,45-59,Toledo,Web,No
+C03646,31/08/2019,Hombre,18-29,Madrid,Tienda,No
+C03647,07/05/2021,No indica,30-44,Alicante,Tienda,Si
+C03648,15/07/2023,Mujer,45-59,Madrid,Tienda,Si
+C03649,16/02/2021,No indica,60+,Madrid,App,No
+C03650,29/09/2020,Mujer,45-59,Madrid,App,Si
+C03651,10/06/2019,Hombre,60+,Alicante,Web,Si
+C03652,13/03/2025,Hombre,45-59,Murcia,Tienda,No
+C03653,17/08/2019,No indica,30-44,Alicante,App,Si
+C03654,23/07/2024,No indica,18-29,Castellon,Tienda,Si
+C03655,13/06/2022,Hombre,45-59,Granada,App,Si
+C03656,11/07/2020,Hombre,60+,Madrid,Tienda,Si
+C03657,07/03/2024,No indica,60+,Valencia,Tienda,Si
+C03658,21/07/2022,Hombre,30-44,Madrid,Web,Si
+C03659,15/05/2023,Mujer,30-44,Madrid,Tienda,No
+C03660,14/07/2026,Mujer,45-59,Alicante,Tienda,No
+C03661,30/11/2025,Hombre,60+,Valencia,Tienda,Si
+C03662,19/04/2025,Hombre,45-59,Sevilla,Tienda,No
+C03663,04/09/2019,Mujer,45-59,Alicante,Tienda,Si
+C03664,25/10/2019,Mujer,45-59,Alicante,App,No
+C03665,30/04/2019,No indica,,Madrid,Tienda,Si
+C03666,01/09/2022,Mujer,18-29,Madrid,Tienda,Si
+C03667,26/01/2020,Mujer,18-29,Sevilla,Tienda,Si
+C03668,05/02/2019,Mujer,18-29,Madrid,Web,Si
+C03669,23/11/2019,No indica,45-59,Alicante,Tienda,Si
+C03670,30/08/2026,No indica,18-29,Malaga,Tienda,Si
+C03671,25/09/2024,Mujer,45-59,Cadiz,Tienda,Si
+C03672,20/03/2024,Mujer,45-59,Cadiz,Tienda,Si
+C03673,05/12/2022,Mujer,30-44,Valencia,Tienda,Si
+C03674,24/06/2020,Mujer,18-29,Granada,App,Si
+C03675,09/01/2024,Mujer,45-59,Sevilla,Tienda,No
+C03676,20/10/2025,Hombre,45-59,Toledo,Tienda,No
+C03677,15/12/2020,No indica,30-44,Granada,Tienda,Si
+C03678,18/10/2022,Mujer,30-44,Sevilla,Web,No
+C03679,18/05/2019,Mujer,30-44,Toledo,Web,Si
+C03680,05/12/2025,Hombre,30-44,Murcia,Tienda,Si
+C03681,15/07/2019,Hombre,45-59,Madrid,Web,No
+C03682,10/05/2021,No indica,18-29,Valencia,Tienda,Si
+C03683,24/01/2026,Hombre,18-29,Malaga,Web,Si
+C03684,16/08/2026,Mujer,18-29,Madrid,App,Si
+C03685,03/05/2024,Mujer,45-59,Malaga,Tienda,Si
+C03686,17/07/2026,Mujer,60+,Toledo,Tienda,Si
+C03687,07/06/2020,Mujer,18-29,Granada,Tienda,Si
+C03688,07/10/2019,Hombre,45-59,Madrid,Tienda,No
+C03689,12/08/2021,Mujer,45-59,Toledo,Tienda,Si
+C03690,25/04/2019,Mujer,30-44,Murcia,Web,No
+C03691,20/10/2020,Hombre,45-59,Sevilla,Tienda,Si
+C03692,19/09/2020,No indica,30-44,Cadiz,Tienda,Si
+C03693,14/06/2026,No indica,30-44,Madrid,App,Si
+C03694,16/02/2019,Hombre,18-29,Castellon,Tienda,Si
+C03695,18/02/2026,Hombre,30-44,Malaga,Tienda,Si
+C03696,28/07/2022,No indica,45-59,Madrid,App,Si
+C03697,04/09/2019,Mujer,45-59,Murcia,Tienda,No
+C03698,29/09/2022,No indica,45-59,Malaga,Tienda,No
+C03699,25/12/2025,No indica,45-59,Malaga,Tienda,Si
+C03700,03/04/2024,Mujer,,Alicante,Tienda,No
+C03701,04/02/2024,Mujer,18-29,Granada,Tienda,No
+C03702,06/09/2026,Hombre,45-59,Valencia,Tienda,Si
+C03703,26/11/2025,Hombre,30-44,Alicante,App,Si
+C03704,01/10/2019,No indica,30-44,Castellon,App,Si
+C03705,04/03/2023,Hombre,30-44,Granada,Tienda,Si
+C03706,21/04/2025,Hombre,30-44,Valencia,Tienda,No
+C03707,24/01/2021,Hombre,45-59,Alicante,Web,No
+C03708,20/02/2023,Mujer,18-29,Madrid,App,Si
+C03709,10/03/2021,Mujer,30-44,Madrid,Tienda,No
+C03710,04/08/2025,Hombre,45-59,Malaga,App,No
+C03711,17/04/2024,Hombre,30-44,Sevilla,App,Si
+C03712,25/01/2022,Hombre,45-59,Madrid,Tienda,Si
+C03713,20/07/2024,Hombre,60+,Alicante,Tienda,Si
+C03714,14/03/2021,Mujer,30-44,Madrid,Tienda,No
+C03715,30/11/2025,Hombre,30-44,Madrid,App,No
+C03716,23/11/2025,Hombre,45-59,Alicante,Tienda,Si
+C03717,12/09/2023,Hombre,18-29,Malaga,App,Si
+C03718,27/01/2020,Mujer,,Toledo,Tienda,Si
+C03719,07/03/2022,Mujer,30-44,Murcia,Tienda,Si
+C03720,01/01/2024,Mujer,18-29,Alicante,Tienda,Si
+C03721,26/08/2021,Mujer,18-29,Almeria,App,Si
+C03722,05/04/2024,Mujer,45-59,Madrid,Tienda,No
+C03723,12/11/2025,Hombre,60+,Malaga,Tienda,Si
+C03724,16/01/2024,Mujer,30-44,Madrid,Tienda,Si
+C03725,30/06/2026,Mujer,18-29,Madrid,App,No
+C03726,19/02/2023,Mujer,60+,Alicante,Tienda,Si
+C03727,22/06/2019,Mujer,45-59,Sevilla,Tienda,Si
+C03728,17/05/2022,Mujer,30-44,Alicante,Tienda,Si
+C03729,15/12/2019,No indica,45-59,Toledo,Tienda,Si
+C03730,19/05/2021,Hombre,60+,Madrid,App,No
+C03731,16/05/2024,Hombre,60+,Madrid,App,Si
+C03732,11/02/2022,Hombre,60+,Granada,Tienda,Si
+C03733,13/06/2024,Hombre,60+,Valencia,Tienda,No
+C03734,22/05/2025,Mujer,45-59,Madrid,Tienda,Si
+C03735,16/11/2019,No indica,60+,Castellon,Web,Si
+C03736,22/10/2023,Mujer,30-44,Malaga,Web,No
+C03737,06/11/2024,Hombre,45-59,Toledo,Tienda,No
+C03738,13/09/2020,Hombre,18-29,Alicante,Web,Si
+C03739,21/05/2025,Mujer,,Malaga,Tienda,No
+C03740,19/05/2024,Hombre,45-59,Sevilla,Tienda,Si
+C03741,26/12/2021,Mujer,60+,Madrid,Tienda,No
+C03742,21/10/2019,Mujer,60+,Madrid,Tienda,Si
+C03743,03/07/2019,Hombre,45-59,Alicante,Web,No
+C03744,02/01/2025,Mujer,45-59,Sevilla,Tienda,No
+C03745,02/04/2024,Hombre,45-59,Alicante,App,Si
+C03746,28/03/2022,Mujer,45-59,Alicante,Tienda,Si
+C03747,02/12/2023,No indica,45-59,Madrid,Tienda,Si
+C03748,25/07/2024,Hombre,45-59,Alicante,Tienda,Si
+C03749,26/04/2022,Mujer,,Madrid,Tienda,Si
+C03750,14/05/2021,Hombre,30-44,Toledo,Tienda,Si
+C03751,20/02/2023,Hombre,60+,Sevilla,Tienda,No
+C03752,18/09/2021,Hombre,60+,Malaga,Tienda,No
+C03753,29/04/2024,No indica,45-59,Alicante,App,No
+C03754,25/10/2020,Mujer,60+,Valencia,Tienda,No
+C03755,10/01/2024,Mujer,45-59,Malaga,Tienda,No
+C03756,29/01/2022,Mujer,18-29,Malaga,Tienda,No
+C03757,21/07/2024,Hombre,45-59,Alicante,Web,No
+C03758,17/10/2024,Hombre,18-29,Alicante,App,No
+C03759,05/10/2021,Hombre,30-44,Cadiz,Tienda,No
+C03760,13/07/2025,Hombre,30-44,Alicante,Tienda,Si
+C03761,11/04/2024,Mujer,60+,Madrid,Tienda,Si
+C03762,20/01/2022,Mujer,18-29,Malaga,Tienda,Si
+C03763,15/09/2026,No indica,60+,Granada,App,Si
+C03764,19/05/2024,Mujer,30-44,Alicante,Tienda,Si
+C03765,27/11/2024,Hombre,18-29,Malaga,Tienda,No
+C03766,30/04/2025,Mujer,30-44,Cadiz,Tienda,No
+C03767,07/08/2022,Hombre,30-44,Sevilla,Web,Si
+C03768,04/07/2026,Mujer,30-44,Granada,Tienda,No
+C03769,03/10/2025,Mujer,45-59,Sevilla,Tienda,Si
+C03770,16/10/2024,Mujer,60+,Malaga,Tienda,Si
+C03771,12/04/2024,Mujer,60+,Toledo,Web,No
+C03772,10/04/2025,Mujer,60+,Sevilla,Tienda,Si
+C03773,02/09/2022,Mujer,,Toledo,App,Si
+C03774,23/09/2024,Hombre,30-44,Murcia,Tienda,Si
+C03775,05/01/2022,Hombre,60+,Toledo,Tienda,No
+C03776,12/09/2024,Mujer,,Alicante,Tienda,Si
+C03777,08/01/2026,Mujer,60+,Alicante,Web,No
+C03778,28/08/2023,Mujer,45-59,Madrid,App,No
+C03779,24/04/2026,Mujer,60+,Murcia,Tienda,Si
+C03780,20/10/2022,No indica,30-44,Valencia,Tienda,No
+C03781,30/09/2019,Mujer,30-44,Madrid,Tienda,Si
+C03782,19/06/2022,Mujer,,Valencia,Tienda,Si
+C03783,07/11/2025,Mujer,18-29,Alicante,App,Si
+C03784,29/08/2024,No indica,60+,Madrid,Tienda,Si
+C03785,07/08/2025,No indica,30-44,Murcia,Tienda,Si
+C03786,23/06/2020,Mujer,30-44,Castellon,App,Si
+C03787,01/12/2019,Mujer,18-29,Sevilla,Tienda,Si
+C03788,12/11/2020,No indica,30-44,Sevilla,Tienda,No
+C03789,31/10/2023,Mujer,45-59,Malaga,Tienda,Si
+C03790,21/01/2026,Mujer,60+,Madrid,Tienda,Si
+C03791,16/09/2024,Hombre,45-59,Madrid,Tienda,No
+C03792,10/03/2023,Hombre,30-44,Sevilla,Tienda,No
+C03793,13/06/2024,Mujer,18-29,Madrid,Tienda,Si
+C03794,04/10/2023,Hombre,18-29,Castellon,App,Si
+C03795,08/09/2025,Mujer,60+,Murcia,Web,No
+C03796,16/06/2023,Hombre,60+,Malaga,Tienda,No
+C03797,17/01/2024,Mujer,60+,Malaga,Tienda,Si
+C03798,09/01/2025,Mujer,60+,Malaga,Tienda,No
+C03799,01/07/2026,Hombre,30-44,Murcia,Web,No
+C03800,06/04/2026,Mujer,18-29,Sevilla,App,Si
+C03801,28/08/2024,Mujer,30-44,Madrid,Tienda,No
+C03802,30/10/2023,Mujer,,Malaga,Tienda,Si
+C03803,24/08/2019,Mujer,60+,Granada,Tienda,Si
+C03804,23/06/2025,Mujer,60+,Alicante,App,No
+C03805,21/03/2024,Mujer,30-44,Murcia,Tienda,Si
+C03806,08/03/2020,No indica,60+,Sevilla,Tienda,Si
+C03807,17/06/2025,Hombre,60+,Alicante,Tienda,No
+C03808,08/07/2026,No indica,30-44,Madrid,Tienda,Si
+C03809,06/12/2020,Hombre,18-29,Malaga,Web,Si
+C03810,09/05/2021,Mujer,30-44,Castellon,Tienda,No
+C03811,08/02/2022,Hombre,45-59,Alicante,Web,Si
+C03812,19/12/2019,No indica,30-44,Malaga,Tienda,No
+C03813,25/03/2023,No indica,30-44,Granada,Tienda,Si
+C03814,15/07/2025,Hombre,,Alicante,Tienda,No
+C03814,15/07/2025,Hombre,,Alicante,Tienda,No
+C03815,28/03/2022,No indica,60+,Madrid,Tienda,No
+C03816,08/02/2026,No indica,60+,Madrid,Tienda,Si
+C03817,30/12/2019,Hombre,30-44,Madrid,Tienda,No
+C03818,13/08/2022,No indica,60+,Castellon,Tienda,Si
+C03819,26/03/2026,Mujer,60+,Granada,Tienda,No
+C03820,13/07/2022,Hombre,30-44,Malaga,App,Si
+C03821,19/06/2025,Hombre,30-44,Granada,Tienda,No
+C03822,23/08/2025,Mujer,30-44,Madrid,Tienda,No
+C03823,20/12/2021,No indica,60+,Madrid,Web,Si
+C03824,03/04/2019,Hombre,45-59,Madrid,Tienda,Si
+C03825,13/12/2019,No indica,45-59,Alicante,App,No
+C03826,22/09/2024,Mujer,60+,Valencia,Tienda,No
+C03827,22/02/2025,Mujer,30-44,Murcia,App,No
+C03828,21/05/2021,Mujer,45-59,Alicante,Web,Si
+C03829,01/12/2019,No indica,18-29,Sevilla,App,No
+C03830,24/12/2024,No indica,60+,Castellon,Tienda,Si
+C03831,24/10/2023,Hombre,45-59,Malaga,Tienda,Si
+C03832,18/03/2026,No indica,30-44,Madrid,Web,No
+C03833,17/02/2020,No indica,30-44,Murcia,Tienda,Si
+C03834,25/08/2026,Mujer,18-29,Malaga,Tienda,Si
+C03835,10/11/2025,Hombre,60+,Madrid,Tienda,Si
+C03835,10/11/2025,Hombre,60+,Madrid,Tienda,Si
+C03836,23/01/2024,No indica,18-29,Murcia,Tienda,Si
+C03837,04/07/2026,Mujer,30-44,Alicante,Tienda,No
+C03838,08/07/2026,No indica,45-59,Murcia,Tienda,Si
+C03839,17/10/2021,Hombre,45-59,Murcia,Tienda,Si
+C03840,19/11/2024,Mujer,,Madrid,Tienda,Si
+C03841,02/10/2021,Hombre,18-29,Sevilla,Tienda,Si
+C03842,07/06/2023,Hombre,30-44,Sevilla,App,Si
+C03843,26/07/2019,Hombre,30-44,Alicante,Tienda,Si
+C03844,27/07/2025,Mujer,30-44,Sevilla,App,Si
+C03845,08/12/2021,Mujer,18-29,Toledo,App,No
+C03846,28/04/2022,Hombre,30-44,Alicante,App,Si
+C03847,02/03/2026,Hombre,60+,Sevilla,Tienda,No
+C03848,03/09/2025,No indica,45-59,Madrid,Tienda,Si
+C03849,08/03/2022,Mujer,18-29,Malaga,Tienda,Si
+C03850,15/08/2023,Hombre,45-59,Cadiz,Tienda,Si
+C03851,01/09/2019,Mujer,30-44,Alicante,Web,No
+C03852,21/04/2026,Mujer,60+,Cadiz,Tienda,Si
+C03853,10/06/2026,Mujer,60+,Murcia,App,No
+C03854,19/03/2020,No indica,30-44,Murcia,Web,Si
+C03855,25/08/2021,Hombre,30-44,Granada,App,Si
+C03856,25/09/2019,Mujer,60+,Toledo,Tienda,Si
+C03857,14/09/2020,Mujer,18-29,Alicante,App,No
+C03857,14/09/2020,Mujer,18-29,Alicante,App,No
+C03858,30/05/2026,Mujer,45-59,Madrid,Tienda,Si
+C03859,11/05/2021,Mujer,45-59,Murcia,Tienda,Si
+C03860,15/10/2020,Mujer,60+,Cadiz,Tienda,Si
+C03861,17/09/2024,Mujer,18-29,Alicante,Tienda,No
+C03862,03/10/2025,Mujer,30-44,Malaga,Tienda,No
+C03863,09/08/2022,Hombre,60+,Valencia,Web,Si
+C03864,16/10/2020,Hombre,45-59,Madrid,Tienda,No
+C03865,06/12/2020,Mujer,30-44,Malaga,Web,Si
+C03866,19/09/2019,No indica,60+,Sevilla,Tienda,Si
+C03867,27/02/2021,Mujer,30-44,Madrid,Tienda,No
+C03868,26/10/2025,Hombre,45-59,Murcia,Tienda,No
+C03869,31/08/2021,Mujer,30-44,Castellon,Tienda,Si
+C03870,27/02/2026,Mujer,45-59,Toledo,Tienda,Si
+C03871,20/11/2023,Hombre,45-59,Alicante,Tienda,Si
+C03872,30/05/2022,Hombre,45-59,Malaga,Web,Si
+C03873,23/04/2019,Mujer,30-44,Valencia,Tienda,No
+C03874,01/12/2023,No indica,18-29,Valencia,Tienda,No
+C03875,13/03/2023,Hombre,45-59,Madrid,Tienda,Si
+C03876,22/01/2019,Hombre,30-44,Malaga,Web,No
+C03877,06/01/2022,No indica,30-44,Murcia,Tienda,Si
+C03878,16/02/2025,Mujer,30-44,Valencia,Tienda,No
+C03879,26/04/2024,Mujer,18-29,Granada,Tienda,Si
+C03880,15/12/2025,Mujer,30-44,Granada,Tienda,No
+C03881,05/08/2026,No indica,60+,Almeria,Tienda,No
+C03882,14/05/2026,Mujer,30-44,Almeria,Tienda,No
+C03883,16/05/2026,No indica,18-29,Almeria,Web,Si
+C03884,05/09/2026,Hombre,45-59,Almeria,Tienda,Si
+C03885,17/03/2026,Mujer,45-59,Almeria,App,No
+C03886,11/03/2026,Mujer,60+,Almeria,Tienda,Si
+C03887,13/08/2026,No indica,60+,Almeria,Tienda,Si
+C03888,23/06/2026,Mujer,45-59,Almeria,Tienda,Si
+C03889,07/06/2026,Mujer,60+,Almeria,App,No
+C03890,09/03/2026,No indica,30-44,Almeria,Tienda,Si
+C03891,29/03/2026,Hombre,30-44,Almeria,Tienda,Si
+C03892,28/06/2026,Hombre,30-44,Almeria,Web,Si
+C03893,14/05/2026,Mujer,45-59,Almeria,App,No
+C03894,04/08/2026,Mujer,18-29,Almeria,Tienda,No
+C03895,18/07/2026,No indica,30-44,Almeria,Tienda,No
+C03896,18/06/2026,Hombre,18-29,Almeria,Tienda,Si
+C03897,12/03/2026,Hombre,60+,Almeria,Web,No
+C03898,05/04/2026,Hombre,30-44,Almeria,Tienda,Si
+C03899,22/06/2026,Mujer,,Almeria,App,No
+C03900,25/06/2026,Mujer,45-59,Almeria,App,No
+C03901,07/07/2026,Mujer,18-29,Alicante,Tienda,Si
+C03902,25/05/2026,Hombre,18-29,Almeria,App,Si
+C03903,07/04/2026,Hombre,60+,Almeria,Tienda,No
+C03904,16/07/2026,No indica,18-29,Almeria,Tienda,Si
+C03905,22/05/2026,Mujer,45-59,Almeria,App,Si
+C03906,25/03/2026,Mujer,30-44,Almeria,Tienda,No
+C03907,04/03/2026,No indica,30-44,Almeria,Tienda,Si
+C03908,02/04/2026,No indica,60+,Almeria,Tienda,Si
+C03909,09/04/2026,Mujer,45-59,Almeria,Tienda,Si
+C03910,01/05/2026,Mujer,,Almeria,Tienda,Si
+C03911,15/05/2026,Mujer,30-44,Almeria,App,Si
+C03912,02/04/2026,No indica,45-59,Almeria,App,Si
+C03913,11/05/2026,Hombre,,Almeria,Tienda,Si
+C03914,08/06/2026,Mujer,45-59,Almeria,Tienda,Si
+C03915,01/07/2026,Mujer,60+,Almeria,App,No
+C03916,14/05/2026,Mujer,18-29,Almeria,Tienda,Si
+C03917,12/09/2026,No indica,45-59,Almeria,Tienda,Si
+C03918,27/07/2026,Hombre,30-44,Almeria,App,Si
+C03919,02/08/2026,Mujer,30-44,Almeria,Tienda,Si
+C03920,13/07/2026,Mujer,30-44,Almeria,Tienda,No
+C03921,22/03/2026,Mujer,30-44,Almeria,Tienda,Si
+C03922,31/05/2026,Hombre,45-59,Almeria,App,Si
+C03923,26/07/2026,Mujer,30-44,Toledo,Tienda,Si
+C03924,28/04/2026,Mujer,60+,Almeria,Tienda,Si
+C03925,20/03/2026,No indica,30-44,Almeria,Tienda,No
+C03926,29/04/2026,No indica,45-59,Almeria,Tienda,No
+C03927,08/09/2026,Hombre,30-44,Almeria,Tienda,Si
+C03928,08/08/2026,No indica,45-59,Almeria,Tienda,No
+C03929,17/05/2026,Mujer,30-44,Almeria,Tienda,Si
+C03930,14/03/2026,No indica,45-59,Almeria,Tienda,Si
+C03931,02/03/2026,Hombre,45-59,Almeria,App,No
+C03932,27/04/2026,Mujer,30-44,Almeria,Tienda,No
+C03933,08/06/2026,Hombre,18-29,Almeria,Tienda,Si
+C03934,07/08/2026,No indica,45-59,Almeria,Tienda,No
+C03935,29/03/2026,Mujer,,Almeria,Web,No
+C03936,08/04/2026,Mujer,45-59,Almeria,Tienda,Si
+C03937,28/05/2026,Hombre,60+,Almeria,Tienda,Si
+C03938,06/07/2026,Mujer,45-59,Almeria,Tienda,Si
+C03939,08/09/2026,No indica,,Almeria,Web,No
+C03940,06/07/2026,Mujer,18-29,Almeria,Tienda,Si
+C03941,02/04/2026,Hombre,45-59,Almeria,App,Si
+C03942,05/04/2026,Hombre,30-44,Madrid,Tienda,Si
+C03943,30/08/2026,Mujer,45-59,Toledo,App,Si
+C03944,05/06/2026,Hombre,,Granada,Tienda,No
+C03945,05/04/2026,Hombre,45-59,Almeria,Tienda,Si
+C03946,03/08/2026,Mujer,18-29,Almeria,Tienda,No
+C03947,12/03/2026,Mujer,18-29,Almeria,Tienda,No
+C03948,17/03/2026,Mujer,45-59,Almeria,Tienda,Si
+C03949,30/06/2026,Hombre,45-59,Almeria,Tienda,Si
+C03950,11/05/2026,Mujer,45-59,Almeria,Tienda,No
+C03951,07/03/2026,Mujer,30-44,Almeria,Tienda,No
+C03952,15/06/2026,Hombre,30-44,Almeria,Web,Si
+C03953,12/08/2026,Hombre,18-29,Almeria,Tienda,No
+C03954,23/06/2026,Mujer,45-59,Almeria,Tienda,No
+C03955,25/06/2026,No indica,30-44,Almeria,Tienda,No
+C03956,05/07/2026,Hombre,30-44,Almeria,Web,Si
+C03957,17/07/2026,Mujer,60+,Almeria,App,Si
+C03958,10/07/2026,Hombre,60+,Toledo,Tienda,Si
+C03959,11/06/2026,No indica,18-29,Almeria,Tienda,Si
+C03960,12/07/2026,Mujer,30-44,Almeria,Tienda,Si
+C03961,21/04/2026,Mujer,60+,Almeria,Web,Si
+C03962,19/04/2026,Hombre,45-59,Murcia,Tienda,Si
+C03963,07/04/2026,Mujer,30-44,Almeria,App,Si
+C03964,18/05/2026,No indica,18-29,Almeria,Tienda,No
+C03965,10/05/2026,No indica,18-29,Murcia,Tienda,Si
+C03966,20/05/2026,Mujer,30-44,Almeria,Tienda,No
+C03967,15/07/2026,Hombre,45-59,Almeria,Tienda,Si
+C03968,22/04/2026,No indica,30-44,Almeria,Tienda,Si
+C03969,13/04/2026,No indica,30-44,Madrid,Tienda,No
+C03970,11/03/2026,Mujer,60+,Almeria,Tienda,Si
+C03971,02/03/2026,Hombre,30-44,Almeria,Tienda,Si
+C03972,05/04/2026,Mujer,45-59,Almeria,Tienda,No
+C03973,16/08/2026,Hombre,45-59,Almeria,Web,No
+C03974,21/06/2026,Hombre,45-59,Almeria,Tienda,Si
+C03975,10/07/2026,Hombre,45-59,Almeria,Tienda,Si
+C03976,10/03/2026,Mujer,45-59,Almeria,Web,Si
+C03977,23/03/2026,Mujer,18-29,Almeria,App,Si
+C03978,05/06/2026,Hombre,45-59,Almeria,Tienda,Si
+C03979,21/06/2026,No indica,60+,Almeria,Web,Si
+C03980,07/09/2026,Mujer,30-44,Valencia,Tienda,Si
+C03981,10/03/2026,Mujer,45-59,Almeria,Tienda,No
+C03982,02/09/2026,Mujer,45-59,Almeria,Tienda,Si
+C03983,25/05/2026,Hombre,45-59,Malaga,Tienda,Si
+C03984,16/05/2026,Hombre,30-44,Almeria,Web,Si
+C03985,09/09/2026,No indica,30-44,Madrid,Tienda,Si
+C03986,03/08/2026,Mujer,45-59,Almeria,App,No
+C03987,10/05/2026,No indica,45-59,Almeria,Web,Si
+C03988,29/05/2026,Mujer,30-44,Almeria,Web,No
+C03989,25/08/2026,Hombre,45-59,Almeria,Web,Si
+C03990,03/03/2026,Mujer,,Almeria,Tienda,Si
+C03991,26/06/2026,Mujer,18-29,Almeria,Web,Si
+C03992,20/07/2026,Mujer,45-59,Almeria,App,No
+C03993,18/08/2026,No indica,60+,Almeria,Tienda,Si
+C03994,10/07/2026,Mujer,45-59,Almeria,Web,Si
+C03995,15/07/2026,Mujer,18-29,Almeria,Tienda,Si
+C03996,20/07/2026,Mujer,45-59,Almeria,Tienda,Si
+C03997,21/03/2026,Hombre,18-29,Alicante,Tienda,No
+C03998,25/04/2026,Mujer,18-29,Almeria,Web,Si
+C03999,20/06/2026,Hombre,18-29,Almeria,Tienda,Si
+C04000,11/05/2026,Mujer,30-44,Almeria,Tienda,Si
